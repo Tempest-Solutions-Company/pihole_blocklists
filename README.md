@@ -97,7 +97,7 @@ mega.nz
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-06-23 09:40:12 UTC
+- 📅 **Last Updated**: 2025-06-23 09:50:06 UTC
 - 🎯 **Total Threats Blocked**: 97,450 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
