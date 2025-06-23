@@ -16,13 +16,11 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 # Malware Protection  
 https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt
 
+# Command & control servers, Banking trojan, financial malware
+https://github.com/Tempest-Solutions-Company/pihole_blocklists/blob/main/c2_servers.txt
+
 # Complete Protection (All threats)
 https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt
-```
-
-### Option 2: One-Line Install (All Lists)
-```bash
-curl -sSL https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/install.sh | bash
 ```
 
 ## 📊 Available Blocklists
@@ -97,7 +95,7 @@ mega.nz
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-06-23 09:50:06 UTC
+- 📅 **Last Updated**: 2025-06-23 10:06:54 UTC
 - 🎯 **Total Threats Blocked**: 97,450 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
