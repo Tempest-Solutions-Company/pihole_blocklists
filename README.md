@@ -28,9 +28,9 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 | List | Domains | Description | Recommended For |
 |------|---------|-------------|-----------------|
 | 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 26,466 | Real-time verified phishing domains | **Everyone** |
-| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 2,726 | Malware hosting & distribution sites | **Everyone** |
+| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 2,727 | Malware hosting & distribution sites | **Everyone** |
 | 🎛️ **[c2_servers.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt)** | 13,016 | Command & control servers, Banking trojan & financial malware | **Advanced Users** |
-| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 42,226 | **Complete protection** (all threats) | **Maximum Security** |
+| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 42,227 | **Complete protection** (all threats) | **Maximum Security** |
 
 ## 🔍 Data Sources & Quality
 
@@ -93,10 +93,47 @@ mega.nz
 0 2 * * * pihole -g > /dev/null 2>&1
 ```
 
+## 🕒 Automated Updates
+
+### Setup Automatic Pi-hole Updates
+To ensure your Pi-hole automatically fetches the latest blocklists every 24 hours:
+
+```bash
+# Edit your crontab
+sudo crontab -e
+
+# Add this line to update at 2 AM daily
+0 2 * * * pihole -g > /dev/null 2>&1
+
+# Alternative: Update every 6 hours for maximum freshness
+0 */6 * * * pihole -g > /dev/null 2>&1
+
+# Check if cron job was added successfully
+sudo crontab -l | grep pihole
+```
+
+**What this does:**
+- 🕐 **Automatic updates** at 2 AM daily
+- 📥 **Downloads fresh lists** from our GitHub repository
+- 🔄 **Updates Pi-hole gravity** with new domains
+- 📝 **Logs results** for troubleshooting
+
+**Alternative scheduling options:**
+```bash
+# Every 12 hours (recommended for high-security environments)
+0 */12 * * * pihole -g > /dev/null 2>&1
+
+# Every 6 hours (maximum freshness)
+0 */6 * * * pihole -g > /dev/null 2>&1
+
+# Weekly updates (minimal bandwidth usage)
+0 2 * * 0 pihole -g > /dev/null 2>&1
+```
+
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-06-23 10:06:54 UTC
-- 🎯 **Total Threats Blocked**: 97,450 domains
+- 📅 **Last Updated**: 2025-06-23 10:09:56 UTC
+- 🎯 **Total Threats Blocked**: 97,452 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
 
