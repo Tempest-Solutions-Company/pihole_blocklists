@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-23T09:29:21.737468",
+  "generated_at": "2025-06-23T09:34:18.882073",
   "version": "1.0",
   "lists": {
     "phishing": {
@@ -29,13 +29,6 @@
     }
   },
   "total_unique_domains": 97450,
-  "sources": [
-    "openphish",
-    "urlhaus",
-    "phishtank",
-    "threatfox",
-    "cybercrimetracker"
-  ],
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }
