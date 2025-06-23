@@ -1,4 +1,4 @@
-# Command & Control server domains
+# Banking trojan and C&C server domains from specialized trackers
 # Generated: 2025-06-23 09:21:31 UTC
 # Total domains: 13,016
 # Source: Tempest Solutions ML Domain Collector
@@ -14,7 +14,7 @@
 # Update frequency: Every 24 hours
 #
 # Usage: Add this URL to your Pi-hole blocklists:
-# https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt
+# https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/banking_trojans.txt
 #
 
 004b0bdd1.c11.ixsecure.com

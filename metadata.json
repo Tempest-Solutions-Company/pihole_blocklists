@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-23T09:09:17.025493",
+  "generated_at": "2025-06-23T09:21:31.293705",
   "version": "1.0",
   "lists": {
     "phishing": {
@@ -8,9 +8,14 @@
       "filename": "phishing.txt"
     },
     "malware": {
-      "domain_count": 2725,
-      "file_size_kb": 42.34,
+      "domain_count": 2726,
+      "file_size_kb": 42.36,
       "filename": "malware.txt"
+    },
+    "banking_trojans": {
+      "domain_count": 13016,
+      "file_size_kb": 222.94,
+      "filename": "banking_trojans.txt"
     },
     "c2_servers": {
       "domain_count": 13016,
@@ -18,12 +23,12 @@
       "filename": "c2_servers.txt"
     },
     "all_malicious": {
-      "domain_count": 42225,
-      "file_size_kb": 981.31,
+      "domain_count": 42226,
+      "file_size_kb": 981.33,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 84432,
+  "total_unique_domains": 97450,
   "sources": [
     "openphish",
     "urlhaus",
