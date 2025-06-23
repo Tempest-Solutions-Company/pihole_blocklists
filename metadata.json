@@ -1,29 +1,29 @@
 {
-  "generated_at": "2025-06-23T08:53:33.332712",
+  "generated_at": "2025-06-23T09:09:17.025493",
   "version": "1.0",
   "lists": {
     "phishing": {
       "domain_count": 26466,
-      "file_size_kb": 717.24,
+      "file_size_kb": 717.12,
       "filename": "phishing.txt"
     },
     "malware": {
-      "domain_count": 2720,
-      "file_size_kb": 42.38,
+      "domain_count": 2725,
+      "file_size_kb": 42.34,
       "filename": "malware.txt"
     },
     "c2_servers": {
       "domain_count": 13016,
-      "file_size_kb": 223.02,
+      "file_size_kb": 222.9,
       "filename": "c2_servers.txt"
     },
     "all_malicious": {
-      "domain_count": 42220,
-      "file_size_kb": 981.35,
+      "domain_count": 42225,
+      "file_size_kb": 981.31,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 84422,
+  "total_unique_domains": 84432,
   "sources": [
     "openphish",
     "urlhaus",

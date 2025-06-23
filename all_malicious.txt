@@ -1,15 +1,14 @@
 # All verified malicious domains from all sources
-# Generated: 2025-06-23 08:53:33 UTC
-# Total domains: 42,220
+# Generated: 2025-06-23 09:09:17 UTC
+# Total domains: 42,225
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
-# This list contains verified malicious domains from trusted security sources:
-# - OpenPhish (real-time phishing feed)
-# - URLhaus (malware hosting database) 
-# - PhishTank (community verified phishing)
-# - ThreatFox (abuse.ch IOCs)
-# - CyberCrime Tracker (banking trojans)
+# This list contains verified malicious domains from trusted Business partners:
+# - malware hosting 
+# - verified phishing
+# - IOCs
+# - Banking trojans
 #
 # All domains are pre-verified by security researchers and experts
 # Update frequency: Every 24 hours
@@ -288,6 +287,7 @@
 107.150.0.201
 107.150.0.202
 107.150.0.205
+107.150.0.212
 107.150.0.214
 107.150.0.216
 107.150.0.218
@@ -668,6 +668,7 @@
 14.240.215.193
 14.254.163.155
 14.33.239.247
+14.53.126.50
 14.54.96.182
 140.143.190.142
 140.192.101.212
@@ -735,6 +736,7 @@
 153in.net
 154.0.129.114
 154.0.129.134
+154.126.170.119
 154.126.186.44
 154.126.186.56
 154.68.30.214
@@ -1436,6 +1438,7 @@
 212.57.37.63
 212.70.156.70
 212.73.75.84
+212.85.166.12
 212.85.176.23
 212.93.103.10
 212.98.186.8
@@ -10468,6 +10471,7 @@ contentmentfairnesspesky.com
 contest-plp-france-ppl.info
 contgfox.com
 contieslotpussy.coxslot.com
+continentalgroup.net.in
 continentals.webcindario.com
 continousa.firebaseapp.com
 continousa.web.app

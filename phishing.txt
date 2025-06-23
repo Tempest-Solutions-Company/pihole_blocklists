@@ -1,15 +1,14 @@
 # Phishing domains from OpenPhish, PhishTank and other verified sources
-# Generated: 2025-06-23 08:53:33 UTC
+# Generated: 2025-06-23 09:09:16 UTC
 # Total domains: 26,466
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
-# This list contains verified malicious domains from trusted security sources:
-# - OpenPhish (real-time phishing feed)
-# - URLhaus (malware hosting database) 
-# - PhishTank (community verified phishing)
-# - ThreatFox (abuse.ch IOCs)
-# - CyberCrime Tracker (banking trojans)
+# This list contains verified malicious domains from trusted Business partners:
+# - malware hosting 
+# - verified phishing
+# - IOCs
+# - Banking trojans
 #
 # All domains are pre-verified by security researchers and experts
 # Update frequency: Every 24 hours
