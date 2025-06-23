@@ -54,10 +54,36 @@ curl -sSL https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blo
 
 ## 🛠️ Advanced Configuration
 
+### Family-Safe DNS (Adult Content Filtering)
+For additional family protection beyond malware/phishing, configure Cloudflare for Families as your upstream DNS:
+
+```bash
+# Pi-hole → Settings → DNS → Upstream DNS Servers
+# Replace default DNS with Cloudflare for Families:
+
+Primary:   1.1.1.3
+Secondary: 1.0.0.3
+
+# Or IPv6:
+Primary:   2606:4700:4700::1113
+Secondary: 2606:4700:4700::1003
+```
+
+**What this provides:**
+- 🚫 **Adult content filtering** (automatic)
+- 🛡️ **Malware protection** (built-in)
+- ⚡ **Fast DNS resolution** (Cloudflare speed)
+- 👨‍👩‍👧‍👦 **Family-friendly browsing** (no configuration needed)
+
+**Complete Family Protection Setup:**
+1. **Use our malicious domain blocklists** (security threats)
+2. **Set upstream DNS to 1.1.1.3** (adult content filtering)
+3. **Add ad blocklists of your choice** (advertising)
+
 ### Whitelist Common Services (Optional)
 Some legitimate services may be flagged due to abuse. Add these to your whitelist if needed:
 ```
-# Pi-hole → Settings → DNS → Upstream DNS → Custom whitelist
+# Pi-hole → Settings → DNS → Custom whitelist
 dropbox.com
 drive.google.com
 mega.nz
@@ -71,7 +97,7 @@ mega.nz
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-06-23 09:34:18 UTC
+- 📅 **Last Updated**: 2025-06-23 09:40:12 UTC
 - 🎯 **Total Threats Blocked**: 97,450 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
