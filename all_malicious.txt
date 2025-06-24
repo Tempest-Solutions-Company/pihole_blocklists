@@ -1,17 +1,18 @@
 # All verified malicious domains from all sources
-# Generated: 2025-06-24 15:40:13 UTC
-# Total domains: 43,219
+# Generated: 2025-06-24 15:54:22 UTC
+# Total domains: 43,222
+# Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
-# This list contains verified malicious domains from trusted Business partners:
-# - malware hosting 
-# - verified phishing
-# - IOCs
-# - Banking trojans
+# This list contains verified malicious domains from trusted threat intelligence:
+# - Expert-verified by security researchers
+# - Community consensus required
+# - Zero false positives policy
+# - 12-month historical coverage for maximum protection
 #
-# All domains are pre-verified by security researchers and experts
-# Update frequency: Every 24 hours
+# All domains are pre-verified by security experts
+# Update frequency: Every 24 hours with fresh intelligence
 #
 # Usage: Add this URL to your Pi-hole blocklists:
 # https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt
@@ -741,6 +742,7 @@
 147.50.240.62
 148-135-195-81.cprapid.com
 148.230.169.75
+149.154.158.50
 149.255.10.46
 149.62.200.106
 149.88.73.206
@@ -1199,6 +1201,7 @@
 193.233.175.123
 193.251.62.153
 193.32.162.27
+193.34.77.218
 193.37.69.42
 193.42.38.82
 194.122.191.15
@@ -18967,6 +18970,7 @@ imtoken8.cc
 imusicantibavaresi.de
 in-cloudbeds.com
 in-informaalersuspen.github.io
+in-mum-m11.icewarpcloud.in
 in.run
 in44i.weebly.com
 ina.am

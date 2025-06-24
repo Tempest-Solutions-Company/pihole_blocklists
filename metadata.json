@@ -1,34 +1,34 @@
 {
-  "generated_at": "2025-06-24T15:40:13.698367",
+  "generated_at": "2025-06-24T15:54:22.066672",
   "version": "1.0",
   "lists": {
     "phishing": {
       "domain_count": 27295,
-      "file_size_kb": 737.59,
+      "file_size_kb": 737.74,
       "filename": "phishing.txt"
     },
     "malware": {
-      "domain_count": 2880,
-      "file_size_kb": 44.61,
+      "domain_count": 2883,
+      "file_size_kb": 44.81,
       "filename": "malware.txt"
     },
     "banking_trojans": {
       "domain_count": 13016,
-      "file_size_kb": 222.94,
+      "file_size_kb": 223.08,
       "filename": "banking_trojans.txt"
     },
     "c2_servers": {
       "domain_count": 13016,
-      "file_size_kb": 222.9,
+      "file_size_kb": 223.05,
       "filename": "c2_servers.txt"
     },
     "all_malicious": {
-      "domain_count": 43219,
-      "file_size_kb": 1004.19,
+      "domain_count": 43222,
+      "file_size_kb": 1004.39,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 99426,
+  "total_unique_domains": 99432,
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }

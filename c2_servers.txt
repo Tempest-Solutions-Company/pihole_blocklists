@@ -1,17 +1,18 @@
 # Command & Control server domains
-# Generated: 2025-06-24 15:40:13 UTC
+# Generated: 2025-06-24 15:54:21 UTC
 # Total domains: 13,016
+# Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
-# This list contains verified malicious domains from trusted Business partners:
-# - malware hosting 
-# - verified phishing
-# - IOCs
-# - Banking trojans
+# This list contains verified malicious domains from trusted threat intelligence:
+# - Expert-verified by security researchers
+# - Community consensus required
+# - Zero false positives policy
+# - 12-month historical coverage for maximum protection
 #
-# All domains are pre-verified by security researchers and experts
-# Update frequency: Every 24 hours
+# All domains are pre-verified by security experts
+# Update frequency: Every 24 hours with fresh intelligence
 #
 # Usage: Add this URL to your Pi-hole blocklists:
 # https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt
