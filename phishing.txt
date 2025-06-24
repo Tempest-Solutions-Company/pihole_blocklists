@@ -1,6 +1,6 @@
 # Phishing domains from OpenPhish, PhishTank and other verified sources
-# Generated: 2025-06-24 16:29:06 UTC
-# Total domains: 27,295
+# Generated: 2025-06-24 16:34:56 UTC
+# Total domains: 27,333
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -414,6 +414,7 @@
 4535.weebly.com
 456.sites.google.com
 4569-5690.free.nf
+456ht.lat
 4574345783489233478567834.pages.dev
 468wsfghuusjkl.pages.dev
 47.252.1.250
@@ -1161,11 +1162,22 @@ aefgdhjfdsaqe4gw-qwherjresarfra.teemill.com
 aefnyuali.firebaseapp.com
 aefnyuali.web.app
 aeimbra.weebly.com
+aeon-arcsure.xsftb.cn
 aeon-bank.icu
+aeon-calypid.dkohata.cn
 aeon-co-jp.com
+aeon-fulllet.jsdsepe.cn
+aeon-hostite.xshcg.cn
 aeon-j-c.icu
 aeon-jp.icu
+aeon-minimor.fgxxm.cn
+aeon-night.nkkbx.cn
+aeon-noation.xsdrb.cn
+aeon-ofdom.otiwvxy.cn
+aeon-partism.pfprdvx.cn
 aeon-pheno.fgxqh.cn
+aeon-quirth.muaazuq.cn
+aeon-saltery.xwyoljo.cn
 aepedrosa.com
 aeqart.fr
 aer.onelink.me
@@ -1748,8 +1760,10 @@ allegrolokalnie.p24-v9a01.click
 allegrolokalnie.php-ver08-id1842-cfi1216a-cid99.sbs
 allegrolokalnie.pi-2489124790.cfd
 allegrolokalnie.pi-2489124790.icu
+allegrolokalnie.pi-526394017239.icu
 allegrolokalnie.pi-7162629481622.rest
 allegrolokalnie.pi-9545-dom-i-ogvrod-936671.xyz
+allegrolokalnie.pi-98612568214.icu
 allegrolokalnie.pi-kategorie-ogrod-strona-15.top
 allegrolokalnie.pi-kategorie-ogrodowe-strona-12.top
 allegrolokalnie.pi-oferta3421124.sbs
@@ -4814,6 +4828,7 @@ btcommssuppraliveiuku.weebly.com
 btcommunity5.wixsite.com
 btconectupgradewirelessvoicemail017.weebly.com
 btconectupgradewirelessvoicemail0744.weebly.com
+btconnect-010-2025.webflow.io
 btconnect-103876btconnectmail.weebly.com
 btconnect-voicem.weebly.com
 btconnect-voicemail.weebly.com
@@ -5931,6 +5946,10 @@ cnrsods.godaddysites.com
 cntrolsegitybank.webcindario.com
 cnxu.sumtotal.host
 co-i1.abislamicbanking.com
+co-safety.39ec.com
+co-safety.mns7.com
+co-safety.pjl2.com
+co-safety.qrc1.com
 co-webledger-start.webflow.io
 co09231.tw1.ru
 co1tact.firebaseapp.com
@@ -8575,6 +8594,7 @@ evolutrabenp.web.app
 evri-hub.firebaseapp.com
 evri-hub.web.app
 evri.uk-submit.top
+evricourier-notified.top
 evrimail.officialemailio.xin
 evrimail.online-servicesii.xin
 evrimail.servicecenteradhr.xin
@@ -9328,6 +9348,7 @@ free-5712762.webadorsite.com
 free-c1.com
 free-c2.com
 free-fr-login.replit.app
+free-procedure.com
 free0z.weebly.com
 free5644.weebly.com
 free69745123478.godaddysites.com
@@ -9369,6 +9390,7 @@ fremonsolvebnkinglogln.weebly.com
 frenteciudadanotlaxcala.com
 frequent-deserted-warbler.glitch.me
 frequent-level-736304.framer.app
+frequent-menu-592128.framer.app
 frerw2.weebly.com
 freshfaxmail-1318034737.cos.sa-saopaulo.myqcloud.com
 freshmood-holding.firebaseapp.com
@@ -14914,6 +14936,7 @@ mqzbwlhpjw.duckdns.org
 mr-locker.info
 mr-relais-livraison.com
 mr-ro-bo-t.github.io
+mr.depotages-prios.com
 mr.dispatch-prio.com
 mr.dispatching-prb.com
 mr.groupage-pbs.com
@@ -14934,6 +14957,7 @@ mrelay-france.com
 mrelay-servicefr.com
 mriafhpvzf.duckdns.org
 mrikesant.wixsite.com
+mrl.depotages-prios.com
 mrl.dispatching-prb.com
 mrl.groupages-prio.com
 mrl.pbs-transitaire.com
@@ -15843,6 +15867,8 @@ nomosolar.com
 nomura-jp.kyreport.com
 nomura-sec-jp.iroa3.com
 nomura-sec-jp.s565a.com
+nomuraverify.cirize-jp.icu
+nomuraverify.nomuracircularize-jp.icu
 nonchalant-marsh-leo.glitch.me
 nonsukes.net
 nordilikni.wixsite.com
@@ -20271,6 +20297,7 @@ resolverauthpanel.web.app
 resolveresolutions.pages.dev
 resolversolutions.pages.dev
 resonant-hickory-yogurt.glitch.me
+resourcese.asia
 resourcesrcpsess6029845679008.w3spaces.com
 respena.weebly.com
 respond.forms.app
@@ -22024,6 +22051,14 @@ smbc-cardfive.top
 smbc-cardfive.work
 smbc-cardfou.cloud
 smbc-cardfou.world
+smbc-cardnm.cloud
+smbc-cardnm.club
+smbc-cardnm.help
+smbc-cardnm.icu
+smbc-cardnm.top
+smbc-cardnm.work
+smbc-cardnm.world
+smbc-cardnm.xyz
 smbc-cardone.cloud
 smbc-cardone.top
 smbc-cardone.world
@@ -25454,6 +25489,7 @@ wcsakrjpm.web.app
 wctei.weebly.com
 wctnet4.weebly.com
 wdcm2j.webwave.dev
+wde1.sa.com
 wdggotyui.wixsite.com
 wdmcyjrsjd.duckdns.org
 we-addeed-your-post.github.io
@@ -26099,6 +26135,7 @@ www-nomura.d2g3z.com
 www-nomura.fd48g.com
 www-nomura.izd93.com
 www-nomura.vd11g.com
+www-nomura.wbuq3.com
 www-nomura.wisz7.com
 www-online-dkb-authentification-kundenzone.ref3953.x10.mx
 www.0575fc.com
@@ -26402,6 +26439,7 @@ www.mint-core-fuse.vercel.app
 www.miricanvas.com
 www.mobilyanizinegolden.com
 www.mondialrelayy-locker.com
+www.mongomerybank.com
 www.moranswift11.com
 www.mpscontrollosicurezza.com
 www.mrgadgets.it
