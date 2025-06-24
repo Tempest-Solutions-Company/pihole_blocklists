@@ -1,15 +1,15 @@
 {
-  "generated_at": "2025-06-24T15:17:26.949546",
+  "generated_at": "2025-06-24T15:27:59.995023",
   "version": "1.0",
   "lists": {
     "phishing": {
-      "domain_count": 27052,
-      "file_size_kb": 731.74,
+      "domain_count": 27267,
+      "file_size_kb": 736.77,
       "filename": "phishing.txt"
     },
     "malware": {
-      "domain_count": 2878,
-      "file_size_kb": 44.58,
+      "domain_count": 2879,
+      "file_size_kb": 44.59,
       "filename": "malware.txt"
     },
     "banking_trojans": {
@@ -23,12 +23,12 @@
       "filename": "c2_servers.txt"
     },
     "all_malicious": {
-      "domain_count": 42974,
-      "file_size_kb": 998.3,
+      "domain_count": 43190,
+      "file_size_kb": 1003.35,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 98936,
+  "total_unique_domains": 99368,
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }
