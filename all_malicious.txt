@@ -1,6 +1,6 @@
 # All verified malicious domains from all sources
-# Generated: 2025-06-24 16:22:38 UTC
-# Total domains: 43,241
+# Generated: 2025-06-24 16:27:01 UTC
+# Total domains: 43,244
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -1106,6 +1106,7 @@
 186.138.107.5
 186.154.93.81
 186.159.0.129
+186.159.4.25
 186.211.153.18
 186.211.154.33
 186.3.78.195
@@ -1349,6 +1350,7 @@
 2.184.54.225
 2.187.36.184
 2.249.142.165
+2.36.68.156
 2.54.238.151
 2.54.238.31
 2.54.239.97
@@ -2769,6 +2771,7 @@
 8.134.156.248
 8.134.199.119
 8.134.80.60
+8.137.114.210
 8.137.60.154
 8.137.98.198
 8.138.119.70
