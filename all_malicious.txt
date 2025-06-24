@@ -1,6 +1,6 @@
 # All verified malicious domains from all sources
-# Generated: 2025-06-24 16:16:27 UTC
-# Total domains: 43,234
+# Generated: 2025-06-24 16:22:38 UTC
+# Total domains: 43,241
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -145,6 +145,7 @@
 101.35.95.220
 101.37.236.20
 101.37.34.164
+101.42.13.105
 101.42.239.131
 101.43.2.116
 101.43.49.183
@@ -409,6 +410,7 @@
 113.214.56.238
 113.31.111.76
 113.44.139.80
+113.44.144.145
 113.44.67.52
 113.45.238.149
 113.45.29.125
@@ -619,6 +621,7 @@
 123.56.43.176
 123.57.166.174
 123.57.250.154
+123.60.219.97
 123.60.83.46
 123.ywxww.net
 12345678b.weebly.com
@@ -829,6 +832,7 @@
 164.77.147.186
 165.127.168.184.host.secureserver.net
 165.154.184.75
+165.154.244.73
 165.50.119.145
 165.73.108.6
 166.144.131.188
@@ -1011,6 +1015,7 @@
 182.253.60.194
 182.253.60.197
 182.253.60.198
+182.255.45.244
 182.72.167.124
 182.92.113.13
 182.92.99.95
@@ -2101,6 +2106,7 @@
 45.116.68.70
 45.12.73.161
 45.121.33.19
+45.125.33.150
 45.136.15.39
 45.141.151.174
 45.141.233.66
@@ -24561,6 +24567,7 @@ mozillabgsvc.com
 mozillaupdater.com
 mp3upl.hi2.ro
 mpag.gov.my
+mpcp.kp.gov.pk
 mperutyy.firebaseapp.com
 mperutyy.web.app
 mpgrobalse.firebaseapp.com
