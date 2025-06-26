@@ -46,27 +46,10 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 - ✅ **Community Driven**: Powered by global security community
 
 ### 🔧 **Integration Guide**
+[Installation Guilde](https://github.com/Tempest-Solutions-Company/pihole_blocklists/blob/main/Install.md)
 
-#### Pi-hole Web Interface
-1. Navigate to **Group Management** → **Adlists**
-2. Add desired URLs from the Quick Setup section
-3. Update gravity: `pihole -g`
+For installation and automatic update instructions see the Install.md file or click the link above.
 
-#### Command Line
-```bash
-# Add all lists
-curl -s https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt >> /etc/pihole/adlists.list
-
-# Update Pi-hole
-pihole -g
-```
-
-#### Docker Pi-hole
-Add to your docker-compose.yml or environment variables:
-```yaml
-environment:
-  - ADLISTS=https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt
-```
 
 ### 📊 **Performance Impact**
 
