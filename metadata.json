@@ -1,25 +1,25 @@
 {
-  "generated_at": "2025-06-26T10:00:55.407062",
+  "generated_at": "2025-06-26T10:07:30.719211",
   "version": "1.0",
   "lists": {
     "phishing": {
-      "domain_count": 28937,
-      "file_size_kb": 773.74,
+      "domain_count": 28987,
+      "file_size_kb": 775.6,
       "filename": "phishing.txt"
     },
     "malware": {
-      "domain_count": 3600,
-      "file_size_kb": 57.1,
+      "domain_count": 3615,
+      "file_size_kb": 57.39,
       "filename": "malware.txt"
     },
     "banking_trojans": {
-      "domain_count": 14619,
-      "file_size_kb": 247.89,
+      "domain_count": 14627,
+      "file_size_kb": 248.24,
       "filename": "banking_trojans.txt"
     },
     "c2_servers": {
-      "domain_count": 14607,
-      "file_size_kb": 247.66,
+      "domain_count": 14615,
+      "file_size_kb": 248.02,
       "filename": "c2_servers.txt"
     },
     "apt_threats": {
@@ -28,12 +28,12 @@
       "filename": "apt_threats.txt"
     },
     "all_malicious": {
-      "domain_count": 47329,
-      "file_size_kb": 1080.19,
+      "domain_count": 47402,
+      "file_size_kb": 1082.7,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 109569,
+  "total_unique_domains": 109723,
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }

@@ -1,6 +1,6 @@
 # Banking trojan and C&C server domains from specialized trackers
-# Generated: 2025-06-26 10:00:49 UTC
-# Total domains: 14,619
+# Generated: 2025-06-26 10:07:26 UTC
+# Total domains: 14,627
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -39,6 +39,7 @@
 0xtv.biz
 1.lusyn.xyz
 1.mapdz.ru
+100.0.194.35.bc.googleusercontent.com
 100stuff.site
 1012.165-227-83-163.site
 10121.165-227-83-163.site
@@ -61,6 +62,7 @@
 15cn.ga
 179wg.com
 1800propainter.com
+183.123.235.35.bc.googleusercontent.com
 185-24-53-218.com
 1866809.securefastserver.com
 1926.165-227-83-163.site
@@ -182,6 +184,7 @@
 55566785677.com
 57d3e30e.duckdns.org
 5830f64c8c47.com
+59.227.185.35.bc.googleusercontent.com
 5ineprojects.com
 5infall.zzz.com.ua
 5ji235jysrvwfgmb.onion
@@ -3446,6 +3449,11 @@ ebukagodsy.com
 ebukatopline2017.com
 ebver.co.uk
 ebzoet.gq
+ec2-18-222-159-135.us-east-2.compute.amazonaws.com
+ec2-3-134-252-78.us-east-2.compute.amazonaws.com
+ec2-3-19-79-164.us-east-2.compute.amazonaws.com
+ec2-34-223-60-188.us-west-2.compute.amazonaws.com
+ec2-52-14-194-11.us-east-2.compute.amazonaws.com
 eca90.net76.net
 echojoy.xyz
 echoloot.pro

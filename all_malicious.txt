@@ -1,6 +1,6 @@
 # All verified malicious domains from all sources
-# Generated: 2025-06-26 10:00:51 UTC
-# Total domains: 47,329
+# Generated: 2025-06-26 10:07:27 UTC
+# Total domains: 47,402
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -146,6 +146,7 @@
 1.95.0.62
 1.lusyn.xyz
 1.mapdz.ru
+100.0.194.35.bc.googleusercontent.com
 100.1.53.24
 10000090.myportfolio.com
 1000okrs.com
@@ -589,6 +590,7 @@
 120.157.77.20
 120.24.206.137
 120.25.163.165
+120.27.20.98
 120.27.235.78
 120.28.169.169
 120.28.215.74
@@ -738,6 +740,7 @@
 138.36.239.20
 139.159.155.204
 139.159.157.238
+139.185.52.242
 139.196.237.171
 139.198.15.223
 139.255.40.124
@@ -872,6 +875,7 @@
 159.148.48.50
 159.196.71.244
 159.224.143.43
+159.75.240.74
 15cn.ga
 160.119.133.26
 160.187.0.95
@@ -1092,6 +1096,7 @@
 183.100.12.86
 183.100.159.244
 183.109.132.188
+183.123.235.35.bc.googleusercontent.com
 183.166.57.76
 183.171.8.81
 183.53.109.35
@@ -2122,6 +2127,7 @@
 41.246.164.238
 41.32.249.165
 41.57.125.226
+41.71.51.243
 41.76.195.60
 41.77.74.90
 41nt7d.top
@@ -2280,10 +2286,12 @@
 451fa.faf4851eagaage.lovestoblog.com
 4535.weebly.com
 454545663.com
+456.sites.google.com
 4569-5690.free.nf
 456ht.lat
 4574345783489233478567834.pages.dev
 46.10.125.102
+46.100.50.137
 46.101.211.15
 46.124.120.26
 46.141.62.238
@@ -2473,6 +2481,7 @@
 5.166.231.35
 5.181.28.63
 5.198.242.56
+5.200.72.26
 5.202.172.178
 5.206.224.166
 5.228.153.222
@@ -2506,6 +2515,7 @@
 54.254.193.199
 540-46trfgkj35e35poer53i25wre3egy.weebly.com
 540qkoz4qdqpx-pages-dev.translate.goog
+543.sites.google.com
 5435.rpknowledge.xyz
 545t3r.weebly.com
 546138.cn
@@ -2569,6 +2579,7 @@
 59.154.173.138
 59.175.183.106
 59.19.13.27
+59.227.185.35.bc.googleusercontent.com
 59.59.6.86
 590653170521840006.weebly.com
 5913461.cc
@@ -3311,6 +3322,8 @@
 91.247.124.188
 91.80.145.133
 91.80.167.4
+91.92.187.23
+91.92.188.72
 91.92.46.53
 91.92.82.180
 91.92.94.138
@@ -5921,6 +5934,7 @@ api.web-cam.cloud
 api.wifi-update.biz
 api.xwphd.com
 api.yu3.io
+apify-uploads-prod.s3.us-east-1.amazonaws.com
 apihmg.sistemasubsolar.com.br
 apipoocoin-tk.blogspot.com
 apiswisspass.cluster1.easy-hebergement.net
@@ -6388,6 +6402,7 @@ assassin95.freeiz.com
 assault-fire-free-guns-and-avatars-2016.weebly.com
 assaultfiredomain-ph.weebly.com
 assenhard.firebaseapp.com
+assessmentreview.s3.us-east-2.amazonaws.com
 assessoriadeempres.wixsite.com
 assesstrack.com
 assetes-walllet.weebly.com
@@ -8025,6 +8040,7 @@ barotechf.ml
 barotechf.tk
 barracudasecurity.tk
 barryfitnessgym.com
+barrysploitbucket.s3.us-west-2.amazonaws.com
 bars.fungamesboys.info
 bartaletti.com
 bartonmcgill.co.nz
@@ -9754,6 +9770,7 @@ bubuyayatoolslog.ir
 bubzie404.site88.net
 buchaizav.club
 buchiike.com
+bucket-c7fb76db1f.s3.amazonaws.com
 bucketsec.tk
 buckeyeserviceupdate.weebly.com
 buckmaileye-express.weebly.com
@@ -10404,6 +10421,7 @@ cbjaywqbav.icu
 cbn-ngra.com
 cbn.li
 cbna-validate.weebly.com
+cbns45fddfdsfre.s3.us-east-1.amazonaws.com
 cboy.sytes.net
 cbpheback.com
 cbproject.url.ph
@@ -11381,6 +11399,7 @@ codedbysonu.github.io
 codedforwardings.halimofset.com.tr
 codegnan-destination.pages.dev
 codehorizonschool.online
+codeload.github.com
 codepad.co
 codepaste.io
 coderselite.com.ar
@@ -11618,6 +11637,7 @@ communlcationupdates.weebly.com
 comp-vab.firebaseapp.com
 comp-vab.web.app
 companiasgt.com
+company-ff494405-public-aca9c4cd42e.s3.ca-central-1.amazonaws.com
 company-office.com
 company0rdercheck.weebly.com
 compao.com
@@ -11983,6 +12003,7 @@ courrieibgrh32.weebly.com
 courrielweb3245.weebly.com
 courrielweb4578.weebly.com
 coursefinder.go-study.uz
+coursera-assessments.s3.amazonaws.com
 coursesreview.weebly.com
 couturierpatrick92.wixsite.com
 coverlot.ga
@@ -12072,6 +12093,7 @@ cq38746.tmweb.ru
 cq69676.tmweb.ru
 cq78109.tmweb.ru
 cq95452.tmweb.ru
+cqddswpwncsxrqfcdxffyvvetxjbdc.s3.us-west-1.amazonaws.com
 cqimqfhezi.duckdns.org
 cqioixyp2z2u6f-pages-dev.translate.goog
 cqkqyp.cn
@@ -12673,6 +12695,7 @@ d06668706.wixsite.com
 d0a.1f6.mytemp.website
 d0lphin1337.xyz
 d0qr238hubcc739851og.rushupdevice.co.in
+d15k2d11r6t6rl.cloudfront.net
 d1z5d.blogspot.cl
 d1z5d.blogspot.com
 d22sgould.wixstudio.com
@@ -12684,6 +12707,7 @@ d26z9x.blogspot.de
 d26z9x.blogspot.ru
 d2cisp18.lat
 d2dbb.com
+d2enepeudd67qf.cloudfront.net
 d2ogssay9or4s.com
 d2t9mg04.na1.hubspotlinksstarter.com
 d314xy.csb.app
@@ -12694,6 +12718,7 @@ d39wpm04.eu1.hubspotlinksstarter.com
 d3bbdk04.eu1.hubspotlinksstarter.com
 d3c00.duckdns.org
 d3c0d3dd0cx.000webhostapp.com
+d3cciiowg5l3jx.cloudfront.net
 d3l.wstbaw.com
 d3m.ta4a.info
 d4ht5z04.na1.hubspotlinksstarter.com
@@ -13100,6 +13125,7 @@ de827162.firebaseapp.com
 de827162.web.app
 de9138023.firebaseapp.com
 de9138023.web.app
+deadigital-deabyday20p1-accesslog.s3.amazonaws.com
 deadmailq3.weebly.com
 deadtrainingactioniw.xyz
 deadznzm.live
@@ -14730,6 +14756,11 @@ ebukagodsy.com
 ebukatopline2017.com
 ebver.co.uk
 ebzoet.gq
+ec2-18-222-159-135.us-east-2.compute.amazonaws.com
+ec2-3-134-252-78.us-east-2.compute.amazonaws.com
+ec2-3-19-79-164.us-east-2.compute.amazonaws.com
+ec2-34-223-60-188.us-west-2.compute.amazonaws.com
+ec2-52-14-194-11.us-east-2.compute.amazonaws.com
 eca90.net76.net
 ecaxukrzcn.duckdns.org
 ecg.soundestlink.com
@@ -15323,6 +15354,7 @@ enpc018.weebly.com
 enquete-uphf.firebaseapp.com
 enquete-uphf.web.app
 enraptureevents.com
+enro-s3sciencet-store.s3.us-east-1.amazonaws.com
 ensamservice.weebly.com
 ensdtcpsgn.web.app
 ensparis-saclay-fr.weebly.com
@@ -17103,6 +17135,7 @@ forms.aweber.com
 forms.clickup.com
 forms.gle
 forms.kyano.app
+forms.office.com
 forms.saurashtrauniversity.edu
 forms.sendpulse.com
 forms.visme.co
@@ -19801,6 +19834,7 @@ hojemais.com
 hojokk.com
 hokagehuyaki.space
 hokagehuyaki.xyz
+hokgie.s3-website.us-east-2.amazonaws.com
 hold.costariga.de
 holdenpeter01.wixstudio.com
 holders.sellpass.io
@@ -20291,6 +20325,7 @@ huiytree.weebly.com
 hujkl.info
 hukukiyardimburosu.org
 hukyceqpsy.duckdns.org
+humacep.com
 humachopa.com
 humade.kr
 humbertohah.com
@@ -21042,6 +21077,7 @@ inlinkedup.weebly.com
 inlislite.ipdn.ac.id
 innaflux.com
 inndividual.co.uk
+inne22tull90mse.s3.eu-north-1.amazonaws.com
 inner.website
 innfuns.com
 innoexpo.tech
@@ -21317,6 +21353,7 @@ ircbot.blogdns.net
 ircftp.net
 irclass-org.ml
 irczr470.forms.app
+ire2bing.s3.us-east-1.amazonaws.com
 ireenjames926.wixsite.com
 ireflou32.firebaseapp.com
 ireflou32.web.app
@@ -24160,6 +24197,7 @@ linksudpatsecure.1163e95.wcomhost.com
 linktr.ee
 linkup.top
 linkupaffix.pages.dev
+linkury.s3-us-west-2.amazonaws.com
 linkvilleplayers.org
 linkwebconnect.com
 linkworld.netii.net
@@ -25657,6 +25695,7 @@ mbbtmailnukm.weebly.com
 mbemailt6jar1m.firebaseapp.com
 mbemailt6jar1m.web.app
 mbfd.weebly.com
+mbgtr.s3.us-east-2.amazonaws.com
 mbhbank-netbank-hu.com
 mbhexchange.top
 mbhscoper.wixsite.com
@@ -25743,6 +25782,7 @@ medcnutry.com.br
 medervbnot.firebaseapp.com
 medervbnot.web.app
 medgames.uphero.com
+media.githubusercontent.com
 media12341234.github.io
 mediaboat.in
 mediacix.com
@@ -27057,6 +27097,7 @@ mssallee-my-cheetah-website.site.builderall.net
 mssg.me
 mt-e0a64.firebaseapp.com
 mt-e0a64.web.app
+mt103payfile.s3.us-east-2.amazonaws.com
 mt1serviceonline.firebaseapp.com
 mt1serviceonline.web.app
 mt6inf0.firebaseapp.com
@@ -28027,6 +28068,7 @@ newindstreamweb.weebly.com
 newinfopay.fulba.com
 newinfostops.com
 newiprimusaudapps.weebly.com
+newkste68208.s3.amazonaws.com
 newlifetradings.org
 newlinkposbgg.firebaseapp.com
 newlinkposbgg.web.app
@@ -28118,6 +28160,7 @@ newsandbooks.xyz
 newsbuzz.top
 newsbuzzhub.top
 newsbuzztop.top
+newsc9bba.s3.amazonaws.com
 newsconcur.one
 newsconcur2024.life
 newsconcur2024.world
@@ -29738,6 +29781,7 @@ p307a1.webwave.dev
 p30e93am.forms.app
 p3637.top
 p37r0ffv1ckt.pw
+p4-cywqe4triosp4-m6usgshememtc34m-if-v6exp3-v4.metric.gstatic.com
 p402255-mobac01.osaka.ocn.ne.jp
 p404041-mobac01.osaka.ocn.ne.jp
 p4blogabriel.pw
@@ -30362,6 +30406,7 @@ pgs-wrnng322faef.start.page
 pgs-wrnngrcvry.rf.gd
 ph.fofopub.fun
 ph0en1x.tk
+ph2-cc-pages.s3.ap-southeast-2.amazonaws.com
 phaaeuntoemwelallet.webflow.io
 phahtom.com.xyz-ex1.xyz
 phainitiumwalliet.webflow.io
@@ -34028,6 +34073,7 @@ raveh.ru
 raven.cl
 ravergames.com
 raviral.com
+raw.githubusercontent.com
 rawand.esy.es
 rawatpharmacycollege.com
 rawdagger.top
@@ -34237,6 +34283,7 @@ recover-ry100129649142326123541.start.page
 recover-ryc10018989201.start.page
 recover-rycs10012964918531.start.page
 recover-rycs1001787894499.start.page
+recovercheck.s3.us-west-1.amazonaws.com
 recoversupporttt.start.page
 recovery-acounts-2023.start.page
 recovery-fbmeta.start.page
@@ -34471,6 +34518,7 @@ rememberu3.zzz.com.ua
 remigiorizzo2orr.blogspot.com
 remigiorizzo3orr.blogspot.com
 remise.mesoptionsrelay.com
+remit-notification.s3.us-east-2.amazonaws.com
 remittanceadvisoryhub.pages.dev
 remmenefdrte.elektrim-bremsen.de
 remmitablllles.weebly.com
@@ -35280,8 +35328,11 @@ s20188101.onlinehome-server.info
 s2db432453e.com
 s2w3wc.firebaseapp.com
 s2w3wc.web.app
+s3.amazonaws.com
 s3.amazonaws.work
+s3.eu-central-1.amazonaws.com
 s3.solarcom.ch
+s3.us-east-2.amazonaws.com
 s3nty.xhost.ro
 s3y0dao1.lat
 s42.registerdomain.net.za
@@ -35802,6 +35853,7 @@ sdlkjsldkf.firebaseapp.com
 sdlkjsldkf.web.app
 sdn003kaubun.sch.id
 sdnunurulquranbanyuwangi.sch.id
+sdo1be11f2d-us-west-2.s3.us-west-2.amazonaws.com
 sdstat597tp.world
 sdxfcgjhk.weebly.com
 sdzakfahz.blogspot.com
@@ -35907,6 +35959,7 @@ secure-communitybk.weebly.com
 secure-fav-page-priv.start.page
 secure-info-autopay.dedyn.io
 secure-jp.icu
+secure-ledger-access.s3.us-east-1.amazonaws.com
 secure-ledger-auth--help.webflow.io
 secure-ledgerstrt.webflow.io
 secure-ledgier-outths.webflow.io
@@ -35936,6 +35989,7 @@ secure289.inmotionhosting.com
 secure3-primevideo.com
 secure33n0rwaysavings.weebly.com
 secure361.inmotionhosting.com
+secureaccess-point.s3.us-east-2.amazonaws.com
 secureaunthentificationn.w3spaces.com
 secureaunthentificattion.w3spaces.com
 securebci.webcindario.com
@@ -35945,6 +35999,7 @@ securecomnityveri.boxmode.io
 secured-login.tk
 secured-onedrive-dcuments-june20250.vercel.app
 secured-panel-verification.cf
+secured-pdf.s3.ca-central-1.amazonaws.com
 secured-share-server-gmfsteelgroup-1note.myportfolio.com
 secured-shareserver-gmfsteelgroup-1note.myportfolio.com
 securedapponlineportal.com
@@ -36973,6 +37028,7 @@ sintaccmarketing.com.ar
 sinutinu.com
 sip1distribution.com
 siplsystems.com
+sipok.s3.eu-west-1.amazonaws.com
 siporados15585.blogspot.com
 sippinlean.xyz
 siraco.net
@@ -37243,6 +37299,7 @@ skypegavrels1.ru
 skypeget.info
 skypersystems.ca
 skypersystems.com.pk
+skyprep-filepicker-uploads.s3.amazonaws.com
 skyroot.ru
 skyservicenetwork678.ukit.me
 skyserviv.weebly.com
@@ -38474,6 +38531,7 @@ stool-nzpx-512k.22604c65d04691.workers.dev
 stopping-24-hours.com
 stopwell.org
 storage-set-lee.web.app
+storage-static4f6575d55box.s3.eu-west-1.amazonaws.com
 storage.soowim.co.kr
 store.communitygameworks.com
 store.desingworkcommunity.com
@@ -39153,6 +39211,7 @@ t-onlinehinweis.weebly.com
 t-servis.com
 t-start-trizor-us.webflow.io
 t-tonliner.weebly.com
+t.co
 t.copii.co
 t.ly
 t.m.u.radio.hi2.ro
@@ -39948,6 +40007,7 @@ tgcs123.com
 tgh24.xyz
 tghjgbbvxss.weebly.com
 tgyhujopl.weebly.com
+th.bing.com
 th80p45y4gdhrtjtyjrtrteygtgretgffdgtr67grttggtrget5tfgfgf.weebly.com
 thackery22088.wixsite.com
 thaibathmaking.favcc1.com
@@ -40941,6 +41001,7 @@ ttaaa-103564.weeblysite.com
 ttbkvietnam.com
 ttdt7383822.weebly.com
 ttelstrrra.weebly.com
+tthdfcxd0-odkdch11.s3.eu-north-1.amazonaws.com
 ttq1.liveingame.com
 ttrezorisrtio.webflow.io
 ttte.website
@@ -41011,6 +41072,7 @@ tungyu.cf
 tuni-sunmelk.blogspot.com
 tunmagakunesine.firebaseapp.com
 tunmagakunesine.web.app
+tunnelbase.s3.us-east-2.amazonaws.com
 tunnelsnakes.com
 tuntaotadesk.weebly.com
 tuophiloe.ml
@@ -41346,6 +41408,8 @@ uhfqob.livslprl.es
 uhg6-prod.adobecqms.net
 uhkadewgpe.duckdns.org
 uholidays.lk
+uhu1fecb.s3.amazonaws.com
+uhu97543.s3.amazonaws.com
 uhyuyhfdgfsvndsaesde-asrtdf5rwedhjr6tdsd.teemill.com
 ui7uftv.weebly.com
 uiclogin.weebly.com
@@ -41607,6 +41671,7 @@ updatassesion.weebly.com
 updatdinfos.co
 update-check.dms.to
 update-info.vercel.app
+update-me4-custom-tok-4kz0xtd-depot.s3.ap-northeast-1.amazonaws.com
 update-monremaxremax-quebec.weebly.com
 update-silo.com
 update.aegis.aliyun.com
@@ -41777,6 +41842,7 @@ us.flhsmvxk.cc
 us.flhsmvzk.top
 us.flhsmvzu.top
 us.sunqosln.top
+us01-i-prod-estimating-storage.s3.amazonaws.com
 us14.admin.mailchimp.com
 us14.list-manage.com
 us17.list-manage.com
@@ -42736,6 +42802,7 @@ volnymail.weebly.com
 volnyx.weebly.com
 volshebreekbbrhcia.blogspot.com
 voltagehi.atwebpages.com
+volume-g5p7bhxf-static-org.s3.us-east-1.amazonaws.com
 volunteerfederallsavings.weebly.com
 volunteerworksydney.org.au
 voluptlith.run
@@ -44381,6 +44448,7 @@ www.billpaycustomer.com
 www.binance-ita.com
 www.binance.com.loginsn.cc
 www.binance.info
+www.bing.com
 www.bing.ma
 www.birdhillps.co.kr
 www.bitcrypt.info
@@ -44865,9 +44933,8 @@ www.goldenfuturepower5.com
 www.goldshina.com.ua
 www.googelevi.com
 www.googl-1010-final.com
-www.google.com.bn
-www.google.fr
-www.google.nl
+www.googleadservices.com
+www.googletagmanager.com
 www.gopety.cc
 www.gordonalder.in
 www.gouv-url.com
@@ -45166,6 +45233,7 @@ www.liminle.com
 www.linamejias.com
 www.linkavax.com
 www.linkbux.com
+www.linkedin.com
 www.linkse.cf
 www.litecoinrates.com
 www.litespeedtech.com
@@ -45259,6 +45327,7 @@ www.meridansalmongroups.com
 www.merotex.ro
 www.mesco-group.com
 www.messenager2822025.shop
+www.messenger.com
 www.meta-verify0.click
 www.metamask-simulator.tecshield.io
 www.mexicaanskoken.nl
@@ -45736,6 +45805,7 @@ www.sirimarka.com
 www.sistemapt.it
 www.sisterhoodmint.com
 www.site.feuc.br
+www.sites.google.com
 www.sitesgpt.com
 www.sixfiguredigital.group
 www.sixpacksbnonye.eu
@@ -46106,6 +46176,7 @@ www.youngsystems.net
 www.your-adventure.net
 www.yourercmailer.com
 www.yourog.com
+www.youtube.com
 www.yperlize.net
 www.ysbaojia.com
 www.yuanfangwenhuags.com
@@ -46929,6 +47000,7 @@ z2nr7i.webwave.dev
 z34g38-8080.fc-us-0.pitcher.csb.app
 z3us1.z-ed.info
 z40wt22m.duckdns.org
+z55gxbf0bb.execute-api.us-west-2.amazonaws.com
 z568zimbra.weebly.com
 z70791ae.beget.tech
 z722gfyvd.duckdns.org
@@ -47241,6 +47313,7 @@ zomcnxbilo.com
 zonalatina103.net
 zondusinternational.com
 zone-relivraison.com
+zone2021-live-111-partition.s3.eu-west-1.amazonaws.com
 zonerap.byethost22.com
 zones-transits.com
 zontime.com
