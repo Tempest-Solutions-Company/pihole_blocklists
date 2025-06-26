@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-26T09:54:59.240865",
+  "generated_at": "2025-06-26T10:00:55.407062",
   "version": "1.0",
   "lists": {
     "phishing": {
@@ -28,12 +28,12 @@
       "filename": "apt_threats.txt"
     },
     "all_malicious": {
-      "domain_count": 47328,
-      "file_size_kb": 1080.18,
+      "domain_count": 47329,
+      "file_size_kb": 1080.19,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 109568,
+  "total_unique_domains": 109569,
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }
