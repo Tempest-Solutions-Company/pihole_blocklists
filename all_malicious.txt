@@ -1,6 +1,6 @@
 # All verified malicious domains from all sources
-# Generated: 2025-06-26 09:49:13 UTC
-# Total domains: 47,325
+# Generated: 2025-06-26 09:54:55 UTC
+# Total domains: 47,328
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -874,6 +874,7 @@
 159.224.143.43
 15cn.ga
 160.119.133.26
+160.187.0.95
 160.187.246.150
 160.187.246.32
 160.30.44.120
@@ -2467,6 +2468,7 @@
 4yh4hrffg.weebly.com
 4yttfwd.xyz
 5.149.184.170
+5.160.3.5
 5.166.231.35
 5.181.28.63
 5.198.242.56
@@ -43085,6 +43087,7 @@ wattanuea.com
 wattelec.fr
 wattmeter.win
 watwareesarn.com
+wavecarried.vietnamddns.com
 waves.ink
 wavetrustbank.com
 wawmhdujfb.duckdns.org

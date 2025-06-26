@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-26T09:49:17.211894",
+  "generated_at": "2025-06-26T09:54:59.240865",
   "version": "1.0",
   "lists": {
     "phishing": {
@@ -8,8 +8,8 @@
       "filename": "phishing.txt"
     },
     "malware": {
-      "domain_count": 3598,
-      "file_size_kb": 57.07,
+      "domain_count": 3600,
+      "file_size_kb": 57.1,
       "filename": "malware.txt"
     },
     "banking_trojans": {
@@ -28,12 +28,12 @@
       "filename": "apt_threats.txt"
     },
     "all_malicious": {
-      "domain_count": 47325,
-      "file_size_kb": 1080.13,
+      "domain_count": 47328,
+      "file_size_kb": 1080.18,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 109563,
+  "total_unique_domains": 109568,
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }
