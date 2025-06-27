@@ -12,14 +12,14 @@ Our blocklists are generated from **expert-verified threat intelligence** with:
 
 ## 📋 **Available Blocklists**
 
-| List | Description | Domains | Update Frequency |
-|------|-------------|---------|------------------|
-| `phishing.txt` | Verified phishing sites | ~50,000+ | Daily |
-| `malware.txt` | Malware hosting domains | ~200,000+ | Daily |
-| `banking_trojans.txt` | Banking malware & C&C | ~5,000+ | Daily |
-| `c2_servers.txt` | Command & Control servers | ~15,000+ | Daily |
-| `apt_threats.txt` | Advanced Persistent Threats | ~100,000+ | Daily |
-| `all_malicious.txt` | **All threats combined** | ~366,000+ | Daily |
+| List | Description | Update Frequency |
+|------|-------------|------------------|
+| `phishing.txt` | Verified phishing sites | Daily |
+| `malware.txt` | Malware hosting domains | Daily |
+| `banking_trojans.txt` | Banking malware & C&C | Daily |
+| `c2_servers.txt` | Command & Control servers | Daily |
+| `apt_threats.txt` | Advanced Persistent Threats | Daily |
+| `all_malicious.txt` | **All threats combined** | Daily |
 
 ## 🚀 **Quick Setup (Recommended)**
 
