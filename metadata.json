@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-07-06T21:17:42.522780",
+  "generated_at": "2025-07-07T21:19:26.058096",
   "version": "1.0",
   "lists": {
     "phishing": {
-      "domain_count": 35945,
-      "file_size_kb": 952.0,
+      "domain_count": 36348,
+      "file_size_kb": 963.04,
       "filename": "phishing.txt"
     },
     "malware": {
@@ -28,12 +28,12 @@
       "filename": "apt_threats.txt"
     },
     "all_malicious": {
-      "domain_count": 55839,
-      "file_size_kb": 1281.18,
+      "domain_count": 56242,
+      "file_size_kb": 1292.23,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 126445,
+  "total_unique_domains": 127251,
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }
