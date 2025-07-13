@@ -1,6 +1,6 @@
 # Advanced Persistent Threats, nation-state actors and sophisticated campaigns
-# Generated: 2025-07-13 14:18:21 UTC
-# Total domains: 832
+# Generated: 2025-07-13 14:23:28 UTC
+# Total domains: 830
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -158,7 +158,6 @@ api.web-cam.cloud
 api.xwphd.com
 app-trello.com
 applemacios.com
-apps.gist.githubapp.net
 appstgs.com
 architrata.com
 arizonaclub.me
@@ -367,7 +366,6 @@ gcf-admin-robot.iam.gserviceaccount.com
 gdl-cloud.works
 gdrive-share.online
 gdrvdocs.online
-githubapp.net
 gl-meet2024.com
 global-world-news.net
 gmail.isooncloud.com
