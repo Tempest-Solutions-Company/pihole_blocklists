@@ -87,11 +87,11 @@ MIT License - Free for personal and commercial use
 
 ## Other projects by me:
 
-**Threat Feeds**
+**Threat Feeds** - 
 These are from teh IDS/IPS and firewall logs, mlicious IP addresses that are currently active.
 You can use these feeds to stop attacks on your network using them in your router or firewall.
 
-**Discord Bot**
+**Discord Bot** - 
 Server Companion is all about safety and security within your discord community.
 
 
