@@ -89,7 +89,8 @@ MIT License - Free for personal and commercial use
 
 **Threat Feeds**
 These are from teh IDS/IPS and firewall logs, mlicious IP addresses that are currently active.
-__You can use these feeds to stop attacks on your network using them in your router or firewall__
+You can use these feeds to stop attacks on your network using them in your router or firewall.
+
 **Discord Bot**
 Server Companion is all about safety and security within your discord community.
 
