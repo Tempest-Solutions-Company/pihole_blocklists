@@ -85,14 +85,14 @@ MIT License - Free for personal and commercial use
 
 ### 🏆 **About Tempest Solutions**
 
+## Other projects by me:
 
-Other projects by me:
 **Threat Feeds**
 These are from teh IDS/IPS and firewall logs, mlicious IP addresses that are currently active.
 __You can use these feeds to stop attacks on your network using them in your router or firewall__
 **Discord Bot**
 Server Companion is all about safety and security within your discord community.
----
+
 
 **⚡ Powered by automated threat intelligence collection**  
 **🛡️ Protecting thousands of Pi-hole installations globally**  
