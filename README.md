@@ -85,10 +85,12 @@ MIT License - Free for personal and commercial use
 
 ### 🏆 **About Tempest Solutions**
 
-Professional services providing enterprise-grade threat intelligence to protect organizations.
-**Want to protect your discord community from malicious domains**?
-Try The Server Companion Discord Bot that uses our blocklists to keep your community safe:
-[Server Companion Bot](https://https://server-companion.com/)
+Other projects by me:
+**Threat Feeds**
+These are from teh IDS/IPS and firewall logs, mlicious IP addresses that are currently active.
+__You can use these feeds to stop attacks on your network using them in your router or firewall__
+**Discord Bot**
+Server Companion is all about safety and security within your discord community.
 ---
 
 **⚡ Powered by automated threat intelligence collection**  
