@@ -2,7 +2,7 @@
 
 ## 🛡️ Enterprise-Grade Threat Intelligence for Pi-hole
 
-**Last Updated**: 2025-07-14 21:38:49 UTC
+**Last Updated**: 2025-07-14 21:42:18 UTC
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Update Frequency](https://img.shields.io/badge/Updates-Every%2024h-brightgreen.svg)](https://github.com/Tempest-Solutions-Company/pihole_blocklists)
@@ -13,13 +13,13 @@
 | **Blocklist** | **Domains** | **Description** |
 |---------------|-------------|----------------|
 | **🎣 Phishing** | **39,708** | Verified phishing domains |
-| **🦠 Malware** | **5,645** | Malware hosting domains |
+| **🦠 Malware** | **5,655** | Malware hosting domains |
 | **🏦 Banking Trojans** | **14,647** | Banking trojan C&C servers and botnet infrastructure |
 | **🎛️ C&C Servers** | **14,627** | Command & Control server domains |
 | **🎯 APT Threats** | **840** | Advanced Persistent Threats from expert analysis |
-| **🔒 All Malicious** | **60,844** | Combined list of all verified threats |
+| **🔒 All Malicious** | **60,855** | Combined list of all verified threats |
 
-**Total Protection**: **60,844** verified malicious domains
+**Total Protection**: **60,855** verified malicious domains
 
 ### 🚀 Quick Setup
 
@@ -93,4 +93,4 @@ Try The Server Companion Discord Bot that uses our blocklists to keep your commu
 
 **⚡ Powered by automated threat intelligence collection**  
 **🛡️ Protecting thousands of Pi-hole installations globally**  
-**🔄 Updated 2025-07-14 21:38:49 UTC**
+**🔄 Updated 2025-07-14 21:42:18 UTC**
