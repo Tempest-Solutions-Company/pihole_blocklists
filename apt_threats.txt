@@ -1,6 +1,6 @@
 # Advanced Persistent Threats, nation-state actors and sophisticated campaigns
-# Generated: 2025-07-14 14:25:14 UTC
-# Total domains: 830
+# Generated: 2025-07-14 20:39:32 UTC
+# Total domains: 840
 # Coverage period: 12 months (maximum protection)
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
@@ -190,6 +190,7 @@ bankofamerica.tel
 bankofamerica.us.org
 bashupload.com
 bayantele.xyz
+beamofthemoon.com
 becker624.online
 best85best.online
 bestshopu.online
@@ -426,6 +427,7 @@ katz-stealer.com
 katzstealer.com
 khitrayalisitsa.com
 khoroshayamych.com
+kiddlanka.com
 kingaimediapro.com
 kingaiplus.com
 kingaitext.com
@@ -439,6 +441,7 @@ klingturbo.com
 klingx.ai
 klingxai.com
 koonenmagaziner.click
+kpuszkiev.com
 kraken.livehiringpro.com
 krakenhire.com
 krasnayastena.com
@@ -496,7 +499,10 @@ luxuryfitnesslabs.com
 lynda-tricks.online
 m.bjeb.live
 magnitgroup.com
+mail.beamofthemoon.com
 mail.ccna.organiccrap.com
+mail.kiddlanka.com
+mail.misstallion.com
 mail.secmailbox.us
 mailnotes.online
 mailteso.online
@@ -522,6 +528,7 @@ mhbr.live
 mhousecreative.com
 micsrosoftonline.com
 militrex.wiki
+misstallion.com
 mizuhogroup.us
 mkdmcdn.com
 mngersrv.com
@@ -690,6 +697,7 @@ sapc0ncur24.one
 sapconcur.pro
 sapconcur.top
 savooks.com
+secfileshare.com
 secmailbox.us
 selbe.ar
 sendly-ink.shop
@@ -729,6 +737,8 @@ spring-club.info
 ssl-dns.com
 stadium-fresh.online
 steve-brown.info
+store.beamofthemoon.com
+store.misstallion.com
 storm-wave.online
 stuffgull.top
 subdomainofgmailapp.me
