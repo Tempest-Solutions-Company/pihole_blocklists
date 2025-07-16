@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Threat Analytics - Pi-hole Blocklists | Tempest Solutions Network</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <i class="fas fa-network-wired"></i>
+                <span>Tempest Solutions Network</span>
+            </div>
+            <div class="nav-menu" id="nav-menu">
+                <a href="index.html" class="nav-link">Home</a>
+                <a href="index.html#services" class="nav-link">Services</a>
+                <a href="index.html#about" class="nav-link">About</a>
+                <a href="threats.html" class="nav-link">Threat Intelligence</a>
+                <a href="analytics.html" class="nav-link active">Threat Analytics</a>
+                <a href="terms.html" class="nav-link">Terms</a>
+                <a href="privacy.html" class="nav-link">Privacy</a>
+            </div>
+            <div class="nav-toggle" id="nav-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="threats-page">
+        <div class="container">
+            <div class="threats-header">
+                <h1><i class="fas fa-shield-alt"></i> Threat Analytics & Pi-hole Blocklists</h1>
+                <p class="subtitle">Curated threat intelligence from official sources for network protection</p>
+                <div class="data-freshness">
+                    <i class="fas fa-clock"></i>
+                    <span>Last Updated: <span id="last-update-time">Loading...</span></span>
+                    <span class="update-frequency">• Updates every 24 hours</span>
+                </div>
+            </div>
+
+            <div class="threat-controls">
+                <div class="control-group">
+                    <a href="https://github.com/Tempest-Solutions-Company/pihole_blocklists" target="_blank" class="github-button">
+                        <i class="fab fa-github"></i>
+                        View Blocklists on GitHub
+                    </a>
+                </div>
+            </div>
+
+            <div class="threat-stats">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">
+                            <i class="fas fa-ban"></i>
+                        </div>
+                        <div class="stat-content">
+                            <h3 id="total-domains">0</h3>
+                            <p>Total Blocked Domains</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">
+                            <i class="fas fa-list"></i>
+                        </div>
+                        <div class="stat-content">
+                            <h3 id="blocklist-count">6</h3>
+                            <p>Active Blocklists</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">
+                            <i class="fas fa-exclamation-triangle"></i>
+                        </div>
+                        <div class="stat-content">
+                            <h3 id="top-threat-category">Loading...</h3>
+                            <p>Largest Threat Category</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">
+                            <i class="fas fa-check-circle"></i>
+                        </div>
+                        <div class="stat-content">
+                            <h3>0%</h3>
+                            <p>False Positive Rate</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="blocklist-overview section-container">
+                <div class="section-header">
+                    <h2><i class="fas fa-list-alt"></i> Pi-hole Blocklist Categories</h2>
+                    <p class="section-subtitle">Expert-curated threat intelligence feeds for comprehensive network protection</p>
+                </div>
+                <div id="blocklist-grid" class="blocklist-grid">
+                    <div class="loading-indicator">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <span>Loading blocklist data...</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="advanced-analytics-section section-container">
+                <div class="section-header">
+                    <h2><i class="fas fa-chart-line"></i> Advanced Threat Analytics</h2>
+                    <p class="section-subtitle">Deep insights into threat patterns, coverage, and intelligence effectiveness</p>
+                </div>
+                
+                <div class="analytics-grid">
+                    <div class="analytics-card velocity-card">
+                        <div class="analytics-header">
+                            <h3><i class="fas fa-tachometer-alt"></i> Threat Velocity</h3>
+                            <span class="analytics-badge">Efficiency Metric</span>
+                        </div>
+                        <div id="threat-velocity">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Calculating threat velocity...</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="analytics-card coverage-card">
+                        <div class="analytics-header">
+                            <h3><i class="fas fa-shield-alt"></i> Coverage Analysis</h3>
+                            <span class="analytics-badge">Protection Scope</span>
+                        </div>
+                        <div id="coverage-analysis">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Analyzing coverage...</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="analytics-card risk-card">
+                        <div class="analytics-header">
+                            <h3><i class="fas fa-exclamation-triangle"></i> Risk Assessment</h3>
+                            <span class="analytics-badge">Threat Levels</span>
+                        </div>
+                        <div id="risk-assessment">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Assessing risks...</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="analytics-card trends-card">
+                        <div class="analytics-header">
+                            <h3><i class="fas fa-history"></i> Historical Trends</h3>
+                            <span class="analytics-badge">Timeline Data</span>
+                        </div>
+                        <div id="historical-trends">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Processing historical data...</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="threat-intelligence-section section-container">
+                <div class="section-header">
+                    <h2><i class="fas fa-brain"></i> Threat Intelligence Insights</h2>
+                    <p class="section-subtitle">Expert analysis and actionable intelligence for enhanced security posture</p>
+                </div>
+                
+                <div class="intelligence-grid">
+                    <div class="intelligence-card priority-card">
+                        <div class="intelligence-header">
+                            <h3><i class="fas fa-fire"></i> Priority Threat Indicators</h3>
+                            <span class="intelligence-badge critical">Critical Analysis</span>
+                        </div>
+                        <div id="priority-threats">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Identifying priority threats...</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="intelligence-card evolution-card">
+                        <div class="intelligence-header">
+                            <h3><i class="fas fa-dna"></i> Threat Evolution</h3>
+                            <span class="intelligence-badge trend">Emerging Patterns</span>
+                        </div>
+                        <div id="threat-evolution">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Analyzing threat evolution...</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="intelligence-card effectiveness-card">
+                        <div class="intelligence-header">
+                            <h3><i class="fas fa-bullseye"></i> Detection Effectiveness</h3>
+                            <span class="intelligence-badge success">Quality Metrics</span>
+                        </div>
+                        <div id="detection-effectiveness">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Measuring detection rates...</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="data-sources-section">
+                <h2>Data Sources & Methodology</h2>
+                <div class="info-grid">
+                    <div class="info-card">
+                        <h3><i class="fas fa-database"></i> Threat Categories</h3>
+                        <ul>
+                            <li><strong>Phishing:</strong> Fraudulent domains designed to steal credentials</li>
+                            <li><strong>Malware:</strong> Domains hosting malicious software</li>
+                            <li><strong>Banking Trojans:</strong> Financial malware, C&C servers and botnet infrastructure</li>
+                            <li><strong>C2 Servers:</strong> Command & Control infrastructure</li>
+                            <li><strong>APT Threats:</strong> Advanced Persistent Threat domains</li>
+                            <li><strong>All Malicious:</strong> Comprehensive combined list</li>
+                        </ul>
+                    </div>
+                    <div class="info-card">
+                        <h3><i class="fas fa-cogs"></i> Quality Assurance</h3>
+                        <p>Our blocklists maintain the highest quality standards:</p>
+                        <ul>
+                            <li>Expert-verified by security researchers</li>
+                            <li>Community consensus required</li>
+                            <li>Zero false positives policy</li>
+                            <li>12-month historical coverage</li>
+                            <li>24-hour update frequency</li>
+                        </ul>
+                    </div>
+                    <div class="info-card">
+                        <h3><i class="fas fa-shield-alt"></i> Using Our Blocklists</h3>
+                        <ul>
+                            <li><strong>Pi-hole:</strong> Add URLs directly to your blocklist settings</li>
+                            <li><strong>GitHub:</strong> All lists available as raw text files</li>
+                            <li><strong>Automatic Updates:</strong> Lists refresh every 24 hours</li>
+                            <li><strong>Format:</strong> Standard domain-per-line format</li>
+                        </ul>
+                        <p><strong>Repository:</strong> <a href="https://github.com/Tempest-Solutions-Company/pihole_blocklists" target="_blank">View on GitHub</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="threat-analysis-section">
+                <h2>Current Threat Landscape Analysis</h2>
+                <div class="analysis-content">
+                    <div class="analysis-card">
+                        <h3><i class="fas fa-chart-pie"></i> Threat Distribution</h3>
+                        <div id="threat-distribution">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Analyzing threat distribution...</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="analysis-card">
+                        <h3><i class="fas fa-trend-up"></i> Growth Trends</h3>
+                        <div id="growth-trends">
+                            <div class="loading-indicator">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>Processing growth data...</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="analysis-card recommendations">
+                        <h3><i class="fas fa-lightbulb"></i> Protection Recommendations</h3>
+                        <div class="recommendations-content">
+                            <div class="recommendation-item">
+                                <i class="fas fa-ban"></i>
+                                <div>
+                                    <h4>Use Comprehensive Blocklists</h4>
+                                    <p>Deploy our expert-verified blocklists to protect against the latest threats with zero false positives.</p>
+                                </div>
+                            </div>
+                            <div class="recommendation-item">
+                                <i class="fas fa-sync-alt"></i>
+                                <div>
+                                    <h4>Enable Automatic Updates</h4>
+                                    <p>Configure your Pi-hole to automatically update blocklists every 24 hours for the latest protection.</p>
+                                </div>
+                            </div>
+                            <div class="recommendation-item">
+                                <i class="fas fa-layers"></i>
+                                <div>
+                                    <h4>Layer Your Defenses</h4>
+                                    <p>Combine our blocklists with DNS filtering, firewall rules, and endpoint protection for comprehensive security.</p>
+                                </div>
+                            </div>
+                            <div class="recommendation-item">
+                                <i class="fas fa-chart-line"></i>
+                                <div>
+                                    <h4>Monitor Blocking Statistics</h4>
+                                    <p>Review your Pi-hole query logs to understand threat patterns and adjust protection accordingly.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Tempest Solutions Network</h4>
+                    <p>Empowering local business through technology</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Threat Intelligence</h4>
+                    <ul>
+                        <li><a href="threats.html">Global Heat Map</a></li>
+                        <li><a href="analytics.html">Threat Analytics</a></li>
+                        <li><a href="https://github.com/Tempest-Solutions-Company/threat-feeds" target="_blank">Threat Feeds</a></li>
+                        <li><a href="https://github.com/Tempest-Solutions-Company/pihole_blocklists" target="_blank">Pi-hole Blocklists</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="terms.html">Terms of Service</a></li>
+                        <li><a href="privacy.html">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <ul>
+                        <li><a href="https://tempest-solutions.org.uk" target="_blank">Main Website</a></li>
+                        <li><a href="https://server-companion.com" target="_blank">Server Companion</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span id="current-year">1997</span>-<span id="end-year"></span> Tempest Solutions Network. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="analytics.js"></script>
+</body>
+</html>
