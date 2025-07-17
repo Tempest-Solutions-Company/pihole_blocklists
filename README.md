@@ -132,7 +132,7 @@ sudo crontab -l | grep pihole
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-07-17 12:00:31 UTC
+- 📅 **Last Updated**: 2025-07-17 12:04:46 UTC
 - 🎯 **Total Threats Blocked**: 135,475 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
