@@ -28,9 +28,12 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 | List | Domains | Description | Recommended For |
 |------|---------|-------------|-----------------|
 | 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 41,171 | Real-time verified phishing domains | **Everyone** |
-| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 5,174 | Malware hosting & distribution sites | **Everyone** |
+| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 5,175 | Malware hosting & distribution sites | **Everyone** |
 | 🎛️ **[c2_servers.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt)** | 13,016 | Command & control servers, Banking trojan & financial malware | **Advanced Users** |
-| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 63,110 | **Complete protection** (all threats) | **Maximum Security** |
+| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 63,111 | **Complete protection** (all threats) | **Maximum Security** |
+
+Github Page dashboard: https://tempest-solutions-company.github.io/pihole_blocklists/
+
 
 ## 🔍 Data Sources & Quality
 
@@ -132,8 +135,8 @@ sudo crontab -l | grep pihole
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-07-17 12:12:43 UTC
-- 🎯 **Total Threats Blocked**: 135,487 domains
+- 📅 **Last Updated**: 2025-07-17 12:31:24 UTC
+- 🎯 **Total Threats Blocked**: 135,489 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
 
@@ -170,8 +173,9 @@ We welcome community feedback and contributions:
 
 ## 🔗 Related Projects
 
-- 🤖 **[ML Domain Classifier](https://github.com/Tempest-Solutions-Company/ml-domain-classifier)**: The AI behind these lists
+- 🛡️ **[Threat Feeds](https://tempest-solutions-company.github.io/threat-feeds/)**: 
 - 🛡️ **[Main website](https://tempest-solutions.com)**
+- 🛡️ **[Our Network Website](https://tempest-solutions.network)**
 
 ---
 
