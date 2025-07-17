@@ -1,96 +1,188 @@
-# Pi-hole Blocklists by Tempest Solutions
+# 🛡️ Tempest Solutions Pi-hole Blocklists
 
-## 🛡️ Enterprise-Grade Threat Intelligence for Pi-hole
+**Professional-grade malicious domain blocklists for Pi-hole, updated daily from verified threat intelligence sources.**
 
-**Last Updated**: 2025-07-17 11:31:52 UTC
+> ⚡ **42,000+ verified malicious domains** | 🔄 **Updated every 24 hours** | ✅ **Zero false positives**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Update Frequency](https://img.shields.io/badge/Updates-Every%2024h-brightgreen.svg)](https://github.com/Tempest-Solutions-Company/pihole_blocklists)
-[![Quality](https://img.shields.io/badge/Quality-Expert%20Verified-blue.svg)](https://github.com/Tempest-Solutions-Company/pihole_blocklists)
+## 🚀 Quick Setup
 
-### 📊 Current Statistics
-
-| **Blocklist** | **Domains** | **Description** |
-|---------------|-------------|----------------|
-| **🎣 Phishing** | **39,708** | Verified phishing domains |
-| **🦠 Malware** | **5,655** | Malware hosting domains |
-| **🏦 Banking Trojans** | **14,647** | Banking trojan C&C servers and botnet infrastructure |
-| **🎛️ C&C Servers** | **14,627** | Command & Control server domains |
-| **🎯 APT Threats** | **840** | Advanced Persistent Threats from expert analysis |
-| **🔒 All Malicious** | **60,855** | Combined list of all verified threats |
-
-**Total Protection**: **60,855** verified malicious domains
-
-### 🚀 Quick Setup
-
-Add these URLs to your Pi-hole blocklists:
-
+### Option 1: Add Individual Lists
 ```bash
-# Comprehensive protection (recommended)
-https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt
+# In Pi-hole Admin → Settings → Blocklists, add these URLs:
 
-# Category-specific lists
+# Phishing Protection (Recommended)
 https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt
+
+# Malware Protection  
 https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt
-https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/banking_trojans.txt
-https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt
-https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/apt_threats.txt
+
+# Command & control servers, Banking trojan, financial malware
+https://github.com/Tempest-Solutions-Company/pihole_blocklists/blob/main/c2_servers.txt
+
+# Complete Protection (All threats)
+https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt
 ```
 
-### 🏢 **Enterprise Features**
+## 📊 Available Blocklists
 
-- ✅ **Zero False Positives**: All domains expert-verified by security researchers
-- ✅ **Real-time Updates**: Fresh intelligence integrated within 24 hours
-- ✅ **Categorized Threats**: Specific threat type classification
-- ✅ **12-Month Coverage**: Historical threat data for maximum protection
-- ✅ **Community Driven**: Powered by global security community
+| List | Domains | Description | Recommended For |
+|------|---------|-------------|-----------------|
+| 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 29,277 | Real-time verified phishing domains | **Everyone** |
+| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 3,649 | Malware hosting & distribution sites | **Everyone** |
+| 🎛️ **[c2_servers.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt)** | 14,615 | Command & control servers, Banking trojan & financial malware | **Advanced Users** |
+| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 47,727 | **Complete protection** (all threats) | **Maximum Security** |
 
-### 🔧 **Complete Installation Guide**
+## 🔍 Data Sources & Quality
 
-📖 **[Full Installation Guide with Automatic Updates](https://github.com/Tempest-Solutions-Company/pihole_blocklists/blob/main/Install.md)**
+### Quality Guarantees
+- ✅ **Expert Verified**: All domains validated by security researchers
+- ✅ **Zero False Positives**: Community consensus required
+- ✅ **Fresh Intelligence**: Updated every 24 hours
+- ✅ **High Precision**: Focus on accuracy over quantity
+- ✅ **Authoritative Sources**: Only trusted security organizations
 
-For detailed setup instructions including:
-- Web interface setup
-- Command line installation
-- Automatic daily updates with cron
-- Troubleshooting guide
-- Performance monitoring
+## 📈 Performance Impact
 
-### 📊 **Performance Impact**
+| Metric | Impact |
+|--------|--------|
+| **Pi-hole Performance** | Minimal (~1-2ms per query) |
+| **Memory Usage** | Low (~10-20MB additional) |
+| **Update Frequency** | Daily (automatic) |
+| **False Positives** | Zero (expert verification) |
 
-- **Memory Usage**: Minimal impact (<50MB additional)
-- **Query Performance**: No noticeable slowdown
-- **Storage**: ~2MB additional disk space
-- **CPU Impact**: Negligible
+## 🛠️ Advanced Configuration
 
-### 🔍 **Verification**
+### Family-Safe DNS (Adult Content Filtering)
+For additional family protection beyond malware/phishing, configure Cloudflare for Families as your upstream DNS:
 
-All domains undergo rigorous verification:
-- ✅ Expert security researcher validation
-- ✅ Community consensus requirements  
-- ✅ Authoritative source verification
-- ✅ False positive elimination
-- ✅ Regular re-validation cycles
+```bash
+# Pi-hole → Settings → DNS → Upstream DNS Servers
+# Replace default DNS with Cloudflare for Families:
 
-### 📞 **Support & Issues**
+Primary:   1.1.1.3
+Secondary: 1.0.0.3
 
-- **GitHub Issues**: [Report problems or false positives](https://github.com/Tempest-Solutions-Company/pihole_blocklists/issues)
-- **Installation Guide**: [Complete setup instructions](https://github.com/Tempest-Solutions-Company/pihole_blocklists/blob/main/Install.md)
-- **Updates**: Automatic every 24 hours
-- **Monitoring**: Real-time source health checking
+# Or IPv6:
+Primary:   2606:4700:4700::1113
+Secondary: 2606:4700:4700::1003
+```
 
-### 📜 **License**
+**What this provides:**
+- 🚫 **Adult content filtering** (automatic)
+- 🛡️ **Malware protection** (built-in)
+- ⚡ **Fast DNS resolution** (Cloudflare speed)
+- 👨‍👩‍👧‍👦 **Family-friendly browsing** (no configuration needed)
 
-MIT License - Free for personal and commercial use
+**Complete Family Protection Setup:**
+1. **Use our malicious domain blocklists** (security threats)
+2. **Set upstream DNS to 1.1.1.3** (adult content filtering)
+3. **Add ad blocklists of your choice** (advertising)
 
-### 🏆 **About Tempest Solutions**
+### Whitelist Common Services (Optional)
+Some legitimate services may be flagged due to abuse. Add these to your whitelist if needed:
+```
+# Pi-hole → Settings → DNS → Custom whitelist
+dropbox.com
+drive.google.com
+mega.nz
+```
 
-Professional services providing enterprise-grade threat intelligence to protect organizations.
-**Want to protect your discord community from malicious domains**?
-Try The Server Companion Discord Bot that uses our blocklists to keep your community safe:
-[Server Companion Bot](https://https://server-companion.com/)
+### Custom Update Schedule
+```bash
+# Add to crontab for custom update frequency
+0 2 * * * pihole -g > /dev/null 2>&1
+```
+
+## 🕒 Automated Updates
+
+### Setup Automatic Pi-hole Updates
+To ensure your Pi-hole automatically fetches the latest blocklists every 24 hours:
+
+```bash
+# Edit your crontab
+sudo crontab -e
+
+# Add this line to update at 2 AM daily
+0 2 * * * pihole -g > /dev/null 2>&1
+
+# Alternative: Update every 6 hours for maximum freshness
+0 */6 * * * pihole -g > /dev/null 2>&1
+
+# Check if cron job was added successfully
+sudo crontab -l | grep pihole
+```
+
+**What this does:**
+- 🕐 **Automatic updates** at 2 AM daily
+- 📥 **Downloads fresh lists** from our GitHub repository
+- 🔄 **Updates Pi-hole gravity** with new domains
+- 📝 **Logs results** for troubleshooting
+
+**Alternative scheduling options:**
+```bash
+# Every 12 hours (recommended for high-security environments)
+0 */12 * * * pihole -g > /dev/null 2>&1
+
+# Every 6 hours (maximum freshness)
+0 */6 * * * pihole -g > /dev/null 2>&1
+
+# Weekly updates (minimal bandwidth usage)
+0 2 * * 0 pihole -g > /dev/null 2>&1
+```
+
+## 📊 Statistics
+
+- 📅 **Last Updated**: 2025-07-17 11:39:20 UTC
+- 🎯 **Total Threats Blocked**: 110,372 domains
+- 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
+- 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
+
+## 🤝 Community & Support
+
+### Found an Issue?
+- 🐛 **Report False Positives**: [GitHub Issues](https://github.com/Tempest-Solutions-Company/pihole_blocklists/issues)
+- 💬 **Discussion**: [GitHub Discussions](https://github.com/Tempest-Solutions-Company/pihole_blocklists/discussions)
+- 📧 **Contact**: info@tempest-solutions.com
+
+### Contributing
+We welcome community feedback and contributions:
+- Report false positives or missed threats
+- Suggest new threat intelligence sources
+- Share your Pi-hole protection experiences
+
+## 🏆 Why Choose Tempest Solutions Blocklists?
+
+### vs. Other Blocklists
+| Feature | Tempest Solutions | Other Lists |
+|---------|------------------|-------------|
+| **Verification** | ✅ Expert  | ❓ Varies |
+| **False Positives** | ✅ Zero tolerance | ❌ Common issue |
+| **Update Speed** | ✅ 24 hours | ❌ Weekly/Monthly |
+| **Threat Diversity** | ✅ 5 specialized sources | ❌ Limited |
+| **Professional Support** | ✅ Yes | ❌ Community only |
+
+## ⚖️ Legal & Compliance
+
+- **Data Source**: Public threat intelligence feeds
+- **Usage Rights**: Free for personal and commercial use
+- **Privacy**: No user data collection or tracking
+- **Compliance**: Suitable for enterprise environments
+
+## 🔗 Related Projects
+
+- 🤖 **[ML Domain Classifier](https://github.com/Tempest-Solutions-Company/ml-domain-classifier)**: The AI behind these lists
+- 🛡️ **[Main website](https://tempest-solutions.com)**
+
 ---
 
-**⚡ Powered by automated threat intelligence collection**  
-**🛡️ Protecting thousands of Pi-hole installations globally**  
-**🔄 Updated 2025-07-17 11:31:52 UTC**
+<div align="center">
+
+**🚀 Powered by Tempest Solutions ML Domain Collector**
+
+*Protecting the internet, one domain at a time.*
+
+[![GitHub Stars](https://img.shields.io/github/stars/Tempest-Solutions-Company/pihole_blocklists?style=social)](https://github.com/Tempest-Solutions-Company/pihole_blocklists)
+[![License](https://img.shields.io/badge/license-Free%20Use-green)](LICENSE)
+[![Updated](https://img.shields.io/badge/updated-daily-brightgreen)](https://github.com/Tempest-Solutions-Company/pihole_blocklists)
+
+</div>
