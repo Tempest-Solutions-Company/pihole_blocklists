@@ -2,7 +2,7 @@
 
 ## 🛡️ Enterprise-Grade Threat Intelligence for Pi-hole
 
-**Last Updated**: 2025-07-16 22:37:44 UTC
+**Last Updated**: 2025-07-17 11:05:31 UTC
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Update Frequency](https://img.shields.io/badge/Updates-Every%2024h-brightgreen.svg)](https://github.com/Tempest-Solutions-Company/pihole_blocklists)
@@ -93,4 +93,4 @@ Try The Server Companion Discord Bot that uses our blocklists to keep your commu
 
 **⚡ Powered by automated threat intelligence collection**  
 **🛡️ Protecting thousands of Pi-hole installations globally**  
-**🔄 Updated 2025-07-16 22:37:44 UTC**
+**🔄 Updated 2025-07-17 11:05:31 UTC**
