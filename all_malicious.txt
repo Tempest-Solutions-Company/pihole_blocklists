@@ -1,6 +1,6 @@
 # All verified malicious domains from all sources
-# Generated: 2025-07-18 12:35:33 UTC
-# Total domains: 63,954
+# Generated: 2025-07-18 12:38:33 UTC
+# Total domains: 63,955
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
@@ -1032,6 +1032,7 @@
 117.245.12.45
 117.247.101.63
 117.247.191.106
+117.248.253.105
 117.248.27.145
 117.248.27.242
 117.25.137.34
