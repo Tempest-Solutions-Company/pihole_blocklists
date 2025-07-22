@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-07-21T12:56:19.015865",
+  "generated_at": "2025-07-22T12:57:59.923270",
   "version": "1.0",
   "lists": {
     "phishing": {
-      "domain_count": 42984,
-      "file_size_kb": 1127.73,
+      "domain_count": 43374,
+      "file_size_kb": 1137.66,
       "filename": "phishing.txt"
     },
     "malware": {
@@ -23,12 +23,12 @@
       "filename": "c2_servers.txt"
     },
     "all_malicious": {
-      "domain_count": 65082,
-      "file_size_kb": 1492.6,
+      "domain_count": 65472,
+      "file_size_kb": 1502.53,
       "filename": "all_malicious.txt"
     }
   },
-  "total_unique_domains": 139422,
+  "total_unique_domains": 140202,
   "update_frequency": "Every 24 hours",
   "quality": "Expert verified, zero false positives"
 }
