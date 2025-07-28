@@ -27,13 +27,23 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 
 | List | Domains | Description | Recommended For |
 |------|---------|-------------|-----------------|
-| 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 40,226 | Real-time verified phishing domains | **Everyone** |
-| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 4,810 | Malware hosting & distribution sites | **Everyone** |
+| 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 40,279 | Real-time verified phishing domains | **Everyone** |
+| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 4,781 | Malware hosting & distribution sites | **Everyone** |
 | 🎛️ **[c2_servers.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt)** | 13,016 | Command & control servers, Banking trojan & financial malware | **Advanced Users** |
-| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 60,519 | **Complete protection** (all threats) | **Maximum Security** |
+| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 60,540 | **Complete protection** (all threats) | **Maximum Security** |
 
 Github Page dashboard: https://tempest-solutions-company.github.io/pihole_blocklists/
 
+
+### 💖 Support Ethical Threat Intelligence
+
+If our **blocklists** or **[threat feeds](https://tempest-solutions-company.github.io/threat-feeds/)** help secure your network, consider buying us a coffee.  
+Even **£1/$1** helps offset infrastructure costs and keeps everything updated and open every day.
+
+[![Support us on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31HZAUU)  
+> Transparent. Non-commercial. Community-powered cybersecurity.
+
+---
 
 ## 🔍 Data Sources & Quality
 
@@ -135,8 +145,8 @@ sudo crontab -l | grep pihole
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-07-27 13:06:34 UTC
-- 🎯 **Total Threats Blocked**: 131,587 domains
+- 📅 **Last Updated**: 2025-07-28 09:17:41 UTC
+- 🎯 **Total Threats Blocked**: 131,632 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
 
