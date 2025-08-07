@@ -27,10 +27,10 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 
 | List | Domains | Description | Recommended For |
 |------|---------|-------------|-----------------|
-| 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 43,510 | Real-time verified phishing domains | **Everyone** |
-| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 5,167 | Malware hosting & distribution sites | **Everyone** |
+| 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 42,922 | Real-time verified phishing domains | **Everyone** |
+| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 4,833 | Malware hosting & distribution sites | **Everyone** |
 | 🎛️ **[c2_servers.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt)** | 13,016 | Command & control servers, Banking trojan & financial malware | **Advanced Users** |
-| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 64,234 | **Complete protection** (all threats) | **Maximum Security** |
+| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 63,259 | **Complete protection** (all threats) | **Maximum Security** |
 
 Github Page dashboard: https://tempest-solutions-company.github.io/pihole_blocklists/
 
@@ -145,8 +145,8 @@ sudo crontab -l | grep pihole
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-08-06 09:48:19 UTC
-- 🎯 **Total Threats Blocked**: 138,943 domains
+- 📅 **Last Updated**: 2025-08-07 09:49:59 UTC
+- 🎯 **Total Threats Blocked**: 137,046 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
 
