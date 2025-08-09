@@ -28,9 +28,9 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 | List | Domains | Description | Recommended For |
 |------|---------|-------------|-----------------|
 | 🎣 **[phishing.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/phishing.txt)** | 44,640 | Real-time verified phishing domains | **Everyone** |
-| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 4,857 | Malware hosting & distribution sites | **Everyone** |
+| 🦠 **[malware.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/malware.txt)** | 4,856 | Malware hosting & distribution sites | **Everyone** |
 | 🎛️ **[c2_servers.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/c2_servers.txt)** | 13,016 | Command & control servers, Banking trojan & financial malware | **Advanced Users** |
-| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 64,921 | **Complete protection** (all threats) | **Maximum Security** |
+| 🔒 **[all_malicious.txt](https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/all_malicious.txt)** | 64,920 | **Complete protection** (all threats) | **Maximum Security** |
 
 Github Page dashboard: https://tempest-solutions-company.github.io/pihole_blocklists/
 
@@ -145,8 +145,8 @@ sudo crontab -l | grep pihole
 
 ## 📊 Statistics
 
-- 📅 **Last Updated**: 2025-08-08 21:05:53 UTC
-- 🎯 **Total Threats Blocked**: 140,450 domains
+- 📅 **Last Updated**: 2025-08-09 21:07:37 UTC
+- 🎯 **Total Threats Blocked**: 140,448 domains
 - 🔄 **Update Frequency**: Every 24 hours at 02:00 UTC
 - 🌍 **Global Coverage**: Protecting thousands of Pi-hole installations
 
