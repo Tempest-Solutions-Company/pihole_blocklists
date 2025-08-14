@@ -1,6 +1,6 @@
 # Phishing domains from OpenPhish, PhishTank and other verified sources
-# Generated: 2025-08-14 10:37:10 UTC
-# Total domains: 45,415
+# Generated: 2025-08-14 10:40:12 UTC
+# Total domains: 45,414
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
@@ -1948,7 +1948,6 @@ accounts-update-019b9b.webflow.io
 accounts.bmwweb.ac
 accounts.bmwweb.biz
 accounts.bmwweb.me
-accounts.google.com
 accounts.google.com.l.launchgift.cards
 accounts.marketwebb.me
 accounts.marketwebb.mobi

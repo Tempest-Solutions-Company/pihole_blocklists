@@ -1,6 +1,6 @@
 # All verified malicious domains from all sources
-# Generated: 2025-08-14 10:37:14 UTC
-# Total domains: 63,646
+# Generated: 2025-08-14 10:40:16 UTC
+# Total domains: 63,649
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
@@ -340,6 +340,7 @@
 103.227.118.71
 103.230.153.181
 103.235.33.186
+103.235.66.238
 103.236.133.81
 103.236.135.177
 103.237.174.30
@@ -3952,6 +3953,7 @@
 42.234.232.136
 42.235.100.178
 42.235.153.69
+42.235.169.92
 42.235.178.201
 42.235.185.176
 42.235.188.168
@@ -6623,7 +6625,6 @@ accounts-update-019b9b.webflow.io
 accounts.bmwweb.ac
 accounts.bmwweb.biz
 accounts.bmwweb.me
-accounts.google.com
 accounts.google.com.l.launchgift.cards
 accounts.marketwebb.me
 accounts.marketwebb.mobi
@@ -40442,6 +40443,7 @@ panel.pnpzzz.ru
 panel.trivia-neuroventas.com
 panel222.info
 panel7h.oxfrontal.com
+panelactivo.freewww.info
 panelanj.com
 panelaragon.es
 panelgame.tk
@@ -48417,6 +48419,7 @@ service-update-online-hf78hv.boxmode.io
 service-us.ml
 service-validation-unit.pages.dev
 service-vancity.com
+service-web-san-polo.longmusic.com
 service-zqdzn.daftpage.com
 service.my-cloud-mail.com
 service01vocal.ukit.me
