@@ -1,6 +1,6 @@
 # Phishing domains from OpenPhish, PhishTank and other verified sources
-# Generated: 2025-08-14 10:40:12 UTC
-# Total domains: 45,414
+# Generated: 2025-08-14 10:51:36 UTC
+# Total domains: 45,416
 # Source: Tempest Solutions ML Domain Collector
 # GitHub: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 # 
@@ -42894,6 +42894,7 @@ www.gocasttv.com
 www.goin.ekii-maxa.brwj.cn
 www.goldenmindsaca.com
 www.goodweyy.vizvaz.com
+www.google.com
 www.google.com.bn
 www.google.fr
 www.google.hr
@@ -43204,6 +43205,7 @@ www.ligamat.com.br
 www.linamejias.com
 www.linkavax.com
 www.linkbux.com
+www.linkedin.com
 www.liteblue.me
 www.litespeedtech.com
 www.live-data-bridge.vercel.app
