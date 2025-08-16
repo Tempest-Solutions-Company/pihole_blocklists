@@ -2,17 +2,17 @@
 
 Automatically generated blocklists for Pi-hole from multiple threat intelligence sources.
 
-**Last Updated:** 2025-08-16 11:05:23 UTC
+**Last Updated:** 2025-08-16 11:23:21 UTC
 
 ## Available Lists
 
 | List | Description | Domains | Download |
 |------|-------------|---------|----------|
 | Phishing | Phishing domains and URLs | 456,821 | [Download](phishing.txt) |
-| Malware | Malware hosting & distribution sites | 0 | [Download](malware.txt) |
-| C2 Servers | Command & control servers | 13,297 | [Download](c2_servers.txt) |
-| Banking Trojan | Banking trojan & financial malware | 0 | [Download](banking_trojan.txt) |
-| All Malicious | All threats combined | 470,080 | [Download](all_malicious.txt) |
+| Malware | Malware hosting & distribution sites | 2,390 | [Download](malware.txt) |
+| C2 Servers | Command & control servers | 13,334 | [Download](c2_servers.txt) |
+| Banking Trojan | Banking trojan & financial malware | 7 | [Download](banking_trojan.txt) |
+| All Malicious | All threats combined | 472,479 | [Download](all_malicious.txt) |
 ## False Positive Prevention
 
 Multiple layers of false positive prevention:
