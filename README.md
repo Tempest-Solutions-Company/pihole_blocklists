@@ -2,7 +2,9 @@
 
 Automatically generated blocklists for Pi-hole from multiple threat intelligence sources.
 
-**Tempest Solutions** is committed to making the internet safe for all. See our networking website at [https://tempest-solutions.network](https://tempest-solutions.network) for more details. Github Pages Dashboard: [https://tempest-solutions-company.github.io/pihole_blocklists/](https://tempest-solutions-company.github.io/pihole_blocklists/)
+**Tempest Solutions** is committed to making the internet safe for all. See our networking website at [https://tempest-solutions.network](https://tempest-solutions.network) for more details. 
+
+**Github Pages Dashboard**: [https://tempest-solutions-company.github.io/pihole_blocklists/](https://tempest-solutions-company.github.io/pihole_blocklists/)
 
 ## 💝 Support the Project
 
@@ -10,7 +12,7 @@ If these blocklists help protect your network, consider supporting the developer
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31HZAUU)
 
-**Last Updated:** 2025-08-16 13:15:21 UTC
+**Last Updated:** 2025-08-16 13:17:56 UTC
 
 ## 📊 Performance Statistics
 
