@@ -8,7 +8,7 @@ If these blocklists help protect your network, consider supporting the developer
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31HZAUU)
 
-**Last Updated:** 2025-08-16 11:46:12 UTC
+**Last Updated:** 2025-08-16 11:50:20 UTC
 
 ## 📊 Performance Statistics
 
@@ -45,55 +45,40 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 
 ## ⚙️ Advanced Installation with Auto-Update
 
-For automatic daily updates, add this cron job to update your Pi-hole every 24 hours:
+For automatic daily updates, simply add a cron job to update your Pi-hole every 24 hours:
 
-### Step 1: Create Update Script
-
-Create `/opt/pihole-update.sh`:
-
-```bash
-#!/bin/bash
-# Pi-hole Blocklist Auto-Update Script
-# Updates blocklists and restarts Pi-hole every 24 hours
-
-LOG_FILE="/var/log/pihole-blocklist-update.log"
-PIHOLE_DIR="/etc/pihole"
-
-echo "$(date): Starting Pi-hole blocklist update" >> $LOG_FILE
-
-# Backup current blocklists
-cp $PIHOLE_DIR/adlists.list $PIHOLE_DIR/adlists.list.backup.$(date +%Y%m%d)
-
-# Update gravity (this pulls latest blocklists)
-pihole -g >> $LOG_FILE 2>&1
-
-# Restart Pi-hole services
-pihole restartdns >> $LOG_FILE 2>&1
-
-echo "$(date): Pi-hole blocklist update completed" >> $LOG_FILE
-```
-
-### Step 2: Make Script Executable
-
-```bash
-sudo chmod +x /opt/pihole-update.sh
-```
-
-### Step 3: Add Cron Job
+### Step 1: Add Cron Job
 
 Add to root crontab (`sudo crontab -e`):
 
 ```bash
 # Update Pi-hole blocklists daily at 3 AM
-0 3 * * * /opt/pihole-update.sh
+0 3 * * * pihole -up
 ```
 
-### Step 4: Monitor Updates
+### Step 2: Monitor Updates (Optional)
 
-Check update logs:
+To log the updates, you can redirect output:
 
 ```bash
-tail -f /var/log/pihole-blocklist-update.log
+# Update Pi-hole blocklists daily at 3 AM with logging
+0 3 * * * pihole -up >> /var/log/pihole-update.log 2>&1
+```
+
+### Step 3: Check Update Logs (Optional)
+
+View the update history:
+
+```bash
+tail -f /var/log/pihole-update.log
+```
+
+### Alternative: Weekly Updates
+
+For weekly updates every Sunday at 3 AM:
+
+```bash
+0 3 * * 0 pihole -up
 ```
 
 ## Sources
