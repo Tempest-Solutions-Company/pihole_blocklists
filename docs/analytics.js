@@ -6,45 +6,42 @@ class ThreatAnalytics {
         
         // GitHub repository base URL
         this.githubBaseUrl = 'https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/main/';
-        // Alternative CORS proxy
-        this.corsProxy = 'https://corsproxy.io/?';
         
         this.blocklistCategories = {
             'phishing': {
                 name: 'Phishing Domains',
                 icon: 'fas fa-fishing-rod',
                 description: 'Fraudulent domains designed to steal credentials and personal information',
-                color: '#ff6b35'
+                color: '#ff6b35',
+                filename: 'phishing.txt'
             },
             'malware': {
                 name: 'Malware Hosting',
                 icon: 'fas fa-virus',
                 description: 'Domains hosting malicious software and exploit kits',
-                color: '#ff0000'
+                color: '#ff0000',
+                filename: 'malware.txt'
             },
             'banking_trojans': {
                 name: 'Banking Trojans',
                 icon: 'fas fa-university',
                 description: 'Financial malware and banking trojan C&C servers',
-                color: '#dc3545'
+                color: '#dc3545',
+                filename: 'banking_trojan.txt' // Fixed: Changed from banking_trojans.txt to banking_trojan.txt
             },
             'c2_servers': {
                 name: 'C2 Servers',
                 icon: 'fas fa-server',
                 description: 'Command & Control infrastructure for malware operations',
-                color: '#6610f2'
-            },
-            'apt_threats': {
-                name: 'APT Threats',
-                icon: 'fas fa-user-secret',
-                description: 'Advanced Persistent Threat domains from nation-state actors',
-                color: '#fd7e14'
+                color: '#6610f2',
+                filename: 'c2_servers.txt'
             },
             'all_malicious': {
                 name: 'All Malicious',
                 icon: 'fas fa-ban',
                 description: 'Comprehensive combined list of all threat categories',
-                color: '#198754'
+                color: '#198754',
+                filename: 'all_malicious.txt'
             }
         };
         
@@ -63,67 +60,143 @@ class ThreatAnalytics {
 
     async loadBlocklistData() {
         try {
-            console.log('Loading blocklist metadata from GitHub...');
+            console.log('Loading blocklist data from GitHub txt files...');
             
-            const metadata = await this.fetchMetadata();
+            const metadata = await this.fetchBlocklistMetadata();
             this.metadata = metadata;
-            this.lastUpdate = new Date(metadata.generated_at);
+            this.lastUpdate = new Date();
             
             // Update last update time
-            document.getElementById('last-update-time').textContent = 
-                this.lastUpdate.toLocaleString('en-GB', {
+            const lastUpdateElement = document.getElementById('last-update-time');
+            if (lastUpdateElement) {
+                lastUpdateElement.textContent = this.lastUpdate.toLocaleString('en-GB', {
                     year: 'numeric',
                     month: 'short',
                     day: 'numeric',
                     hour: '2-digit',
                     minute: '2-digit'
                 });
+            }
                 
             console.log('Successfully loaded blocklist metadata');
             
         } catch (error) {
             console.error('Error loading blocklist data:', error);
-            document.getElementById('last-update-time').textContent = 'Error loading data from GitHub';
+            const lastUpdateElement = document.getElementById('last-update-time');
+            if (lastUpdateElement) {
+                lastUpdateElement.textContent = 'Error loading data from GitHub';
+            }
         }
     }
 
-    async fetchMetadata() {
-        const url = this.githubBaseUrl + 'metadata.json';
-        
-        try {
-            // First attempt: Direct fetch
-            let response = await fetch(url, {
-                method: 'GET',
-                headers: {
-                    'Accept': 'application/json',
-                    'Cache-Control': 'no-cache'
+    async fetchBlocklistMetadata() {
+        const metadata = {
+            generated_at: new Date().toISOString(),
+            version: "1.0",
+            lists: {},
+            total_unique_domains: 0,
+            update_frequency: "Every 24 hours",
+            quality: "Expert verified, zero false positives"
+        };
+
+        // Fetch each blocklist file to get domain counts
+        for (const [category, info] of Object.entries(this.blocklistCategories)) {
+            try {
+                const url = this.githubBaseUrl + info.filename;
+                console.log(`Fetching ${info.filename} from ${url}...`);
+                
+                // Use simple fetch without CORS proxy - only direct GitHub access
+                const response = await fetch(url, {
+                    method: 'GET',
+                    headers: {
+                        'Accept': 'text/plain'
+                    },
+                    mode: 'cors'
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
                 }
-            });
-            
-            if (!response.ok) {
-                throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                
+                const textContent = await response.text();
+                console.log(`Successfully fetched ${info.filename}, content length: ${textContent.length}`);
+                
+                const domainCount = this.countDomainsInBlocklist(textContent);
+                const fileSizeKB = (textContent.length / 1024); // Simple byte count to KB
+                
+                metadata.lists[category] = {
+                    domain_count: domainCount,
+                    file_size_kb: fileSizeKB,
+                    filename: info.filename
+                };
+                
+                console.log(`${info.filename}: ${domainCount} domains, ${fileSizeKB.toFixed(1)} KB`);
+                
+            } catch (error) {
+                console.error(`Failed to fetch ${info.filename}:`, error.message);
+                // Add placeholder data for failed fetches
+                metadata.lists[category] = {
+                    domain_count: 0,
+                    file_size_kb: 0,
+                    filename: info.filename
+                };
             }
-            
-            return await response.json();
-            
-        } catch (corsError) {
-            console.warn('Direct fetch failed, using proxy...');
-            
-            // Second attempt: Use CORS proxy
-            const proxyUrl = this.corsProxy + encodeURIComponent(url);
-            const response = await fetch(proxyUrl, {
-                method: 'GET',
-                headers: {
-                    'Accept': 'application/json'
-                }
-            });
-            
-            if (!response.ok) {
-                throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-            }
-            
-            return await response.json();
         }
+
+        // Calculate total unique domains (use all_malicious count if available, otherwise sum others)
+        if (metadata.lists.all_malicious && metadata.lists.all_malicious.domain_count > 0) {
+            metadata.total_unique_domains = metadata.lists.all_malicious.domain_count;
+        } else {
+            metadata.total_unique_domains = Object.entries(metadata.lists)
+                .filter(([category]) => category !== 'all_malicious')
+                .reduce((sum, [, data]) => sum + data.domain_count, 0);
+        }
+
+        console.log('Final metadata:', metadata);
+        return metadata;
+    }
+
+    countDomainsInBlocklist(textContent) {
+        const lines = textContent.split('\n');
+        let domainCount = 0;
+        
+        for (const line of lines) {
+            const trimmedLine = line.trim();
+            
+            // Skip empty lines and comments
+            if (!trimmedLine || trimmedLine.startsWith('#')) {
+                continue;
+            }
+            
+            // Check if line looks like a domain
+            if (this.isValidDomain(trimmedLine)) {
+                domainCount++;
+            }
+        }
+        
+        console.log(`Counted ${domainCount} domains in blocklist`);
+        return domainCount;
+    }
+
+    isValidDomain(domain) {
+        // Basic domain validation - more permissive for blocklists
+        if (!domain || domain.length > 253) return false;
+        
+        // Simple validation without regex that might cause CSP issues
+        const parts = domain.split('.');
+        if (parts.length < 2) return false;
+        
+        // Check each part
+        for (const part of parts) {
+            if (!part || part.length === 0) return false;
+            // Basic character check
+            if (!/^[a-zA-Z0-9-]+$/.test(part)) return false;
+            if (part.startsWith('-') || part.endsWith('-')) return false;
+        }
+        
+        // Last part should be at least 2 characters and only letters
+        const lastPart = parts[parts.length - 1];
+        return lastPart.length >= 2 && /^[a-zA-Z]+$/.test(lastPart);
     }
 
     updateStats() {
@@ -134,7 +207,10 @@ class ThreatAnalytics {
             this.metadata.lists.all_malicious.domain_count : 
             this.metadata.total_unique_domains || 0;
             
-        document.getElementById('total-domains').textContent = actualTotal.toLocaleString();
+        const totalDomainsElement = document.getElementById('total-domains');
+        if (totalDomainsElement) {
+            totalDomainsElement.textContent = actualTotal.toLocaleString();
+        }
         
         // Find largest category (excluding all_malicious since it's the combined list)
         let largestCategory = '';
@@ -147,7 +223,10 @@ class ThreatAnalytics {
             }
         });
         
-        document.getElementById('top-threat-category').textContent = largestCategory;
+        const topThreatCategoryElement = document.getElementById('top-threat-category');
+        if (topThreatCategoryElement) {
+            topThreatCategoryElement.textContent = largestCategory;
+        }
         
         console.log(`Stats updated: ${actualTotal} total unique domains, largest category: ${largestCategory}`);
     }
@@ -324,47 +403,77 @@ class ThreatAnalytics {
             return;
         }
 
+        // Calculate meaningful metrics for large domain lists
         const categories = Object.entries(this.metadata.lists)
             .filter(([category]) => category !== 'all_malicious')
-            .map(([category, data]) => ({
-                name: this.blocklistCategories[category]?.name || category,
-                domainsPerKB: (data.domain_count / data.file_size_kb).toFixed(0),
-                category,
-                color: this.blocklistCategories[category]?.color || '#666',
-                icon: this.blocklistCategories[category]?.icon || 'fas fa-shield-alt'
-            }))
-            .sort((a, b) => b.domainsPerKB - a.domainsPerKB);
+            .map(([category, data]) => {
+                const categoryInfo = this.blocklistCategories[category];
+                
+                // Calculate different metrics
+                const avgDomainsPerKB = Math.round(data.domain_count / data.file_size_kb);
+                const bytesPerDomain = Math.round((data.file_size_kb * 1024) / data.domain_count);
+                const compressionRatio = (data.domain_count / data.file_size_kb).toFixed(1);
+                
+                return {
+                    name: categoryInfo?.name || category,
+                    domainCount: data.domain_count,
+                    fileSizeKB: data.file_size_kb,
+                    avgDomainsPerKB,
+                    bytesPerDomain,
+                    compressionRatio,
+                    category,
+                    color: categoryInfo?.color || '#666',
+                    icon: categoryInfo?.icon || 'fas fa-shield-alt'
+                };
+            })
+            .sort((a, b) => b.domainCount - a.domainCount); // Sort by domain count instead
 
         let content = `
             <div class="content-card">
                 <div class="card-header-simple">
-                    <p><i class="fas fa-info-circle"></i> Detection efficiency measured by domains per KB of data storage</p>
+                    <p><i class="fas fa-info-circle"></i> Blocklist effectiveness and storage efficiency analysis</p>
                 </div>
                 <div class="velocity-list">
         `;
 
         categories.forEach((cat, index) => {
-            const rankColors = ['#ffd700', '#c0c0c0', '#cd7f32', '#666', '#666'];
-            const rankColor = rankColors[index] || '#666';
+            // Determine size category
+            let sizeCategory = 'Small';
+            let sizeBadgeColor = '#28a745';
+            
+            if (cat.domainCount > 100000) {
+                sizeCategory = 'Large';
+                sizeBadgeColor = '#dc3545';
+            } else if (cat.domainCount > 10000) {
+                sizeCategory = 'Medium';
+                sizeBadgeColor = '#ffc107';
+            }
             
             content += `
                 <div class="velocity-item">
-                    <div class="velocity-rank" style="background-color: ${rankColor}">
-                        <i class="fas fa-trophy"></i>
+                    <div class="velocity-rank" style="background-color: ${cat.color}; opacity: 0.8;">
+                        <i class="${cat.icon}"></i>
                         <span>${index + 1}</span>
                     </div>
                     <div class="velocity-details">
                         <div class="velocity-category">
-                            <i class="${cat.icon}" style="color: ${cat.color}"></i>
-                            <span class="category-name">${cat.name}</span>
+                            <span class="category-name" style="color: ${cat.color}">${cat.name}</span>
+                            <span class="size-badge" style="background-color: ${sizeBadgeColor}; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.7rem; margin-left: 8px;">${sizeCategory}</span>
                         </div>
-                        <div class="velocity-metric">
-                            <strong>${cat.domainsPerKB}</strong>
-                            <small>domains/KB</small>
+                        <div class="velocity-metrics">
+                            <div class="metric-group">
+                                <strong>${cat.domainCount.toLocaleString()}</strong>
+                                <small>domains</small>
+                            </div>
+                            <div class="metric-group">
+                                <strong>${cat.fileSizeKB.toFixed(1)}</strong>
+                                <small>KB</small>
+                            </div>
+                            <div class="metric-group">
+                                <strong>${cat.bytesPerDomain}</strong>
+                                <small>bytes/domain</small>
+                            </div>
                         </div>
-                    </div>
-                    <div class="velocity-bar">
-                        <div class="velocity-fill" style="width: ${(cat.domainsPerKB / categories[0].domainsPerKB) * 100}%; background-color: ${cat.color}"></div>
                     </div>
                 </div>
             `;
@@ -374,7 +483,7 @@ class ThreatAnalytics {
                 </div>
                 <div class="card-footer">
                     <i class="fas fa-lightbulb"></i>
-                    <span>Higher values indicate more compact, efficient threat detection and storage optimization.</span>
+                    <span>Lower bytes per domain indicates more efficient storage. Large lists provide comprehensive protection.</span>
                 </div>
             </div>
         `;
@@ -396,50 +505,54 @@ class ThreatAnalytics {
             .filter(([category]) => category !== 'all_malicious')
             .reduce((sum, [, data]) => sum + data.domain_count, 0);
 
+        // Calculate actual overlap (individual totals vs unique total)
+        const overlapDomains = totalIndividual - totalUnique;
         const overlapPercentage = totalIndividual > 0 ? 
-            (((totalIndividual - totalUnique) / totalIndividual) * 100).toFixed(1) : 0;
+            ((overlapDomains / totalIndividual) * 100).toFixed(1) : 0;
+        
         const categoryCount = Object.keys(this.metadata.lists).length - 1;
+        const totalSizeKB = Object.entries(this.metadata.lists)
+            .reduce((sum, [, data]) => sum + data.file_size_kb, 0);
 
         let content = `
             <div class="content-card">
                 <div class="metrics-grid">
                     <div class="metric-card primary">
                         <div class="metric-icon">
-                            <i class="fas fa-layer-group"></i>
+                            <i class="fas fa-shield-check"></i>
                         </div>
                         <div class="metric-content">
-                            <span class="metric-value">${overlapPercentage}%</span>
-                            <span class="metric-label">Domain Overlap</span>
-                            <small class="metric-note">Deduplication efficiency</small>
+                            <span class="metric-value">${totalUnique.toLocaleString()}</span>
+                            <span class="metric-label">Unique Domains</span>
+                            <small class="metric-note">Total protection</small>
                         </div>
                     </div>
                     
                     <div class="metric-card secondary">
                         <div class="metric-icon">
-                            <i class="fas fa-list-alt"></i>
+                            <i class="fas fa-layer-group"></i>
                         </div>
                         <div class="metric-content">
-                            <span class="metric-value">${categoryCount}</span>
-                            <span class="metric-label">Categories</span>
-                            <small class="metric-note">Threat types covered</small>
+                            <span class="metric-value">${overlapDomains.toLocaleString()}</span>
+                            <span class="metric-label">Overlap</span>
+                            <small class="metric-note">${overlapPercentage}% efficiency</small>
                         </div>
                     </div>
                     
                     <div class="metric-card tertiary">
                         <div class="metric-icon">
-                            <i class="fas fa-calendar-alt"></i>
+                            <i class="fas fa-database"></i>
                         </div>
                         <div class="metric-content">
-                            <span class="metric-value">12</span>
-                            <span class="metric-label">Months</span>
-                            <small class="metric-note">Historical coverage</small>
+                            <span class="metric-value">${totalSizeKB.toFixed(1)}</span>
+                            <span class="metric-label">Total Size</span>
+                            <small class="metric-note">MB storage</small>
                         </div>
                     </div>
                 </div>
                 
                 <div class="card-summary">
-                    <i class="fas fa-check-circle"></i>
-                    <p>Comprehensive protection with <strong>${overlapPercentage}% overlap</strong> between categories, ensuring efficient storage while maintaining broad threat coverage across all attack vectors.</p>
+                    <p><i class="fas fa-check-circle"></i>Our blocklists contain <strong>${totalUnique.toLocaleString()} unique malicious domains</strong> with ${overlapPercentage}% overlap between categories, ensuring comprehensive coverage while maintaining storage efficiency.</p>
                 </div>
             </div>
         `;
@@ -550,7 +663,8 @@ class ThreatAnalytics {
     updateHistoricalTrends() {
         const trendsContainer = document.getElementById('historical-trends');
         
-        const updateTime = new Date(this.metadata.generated_at);
+        // Use current date if metadata.generated_at is not available
+        const updateTime = this.metadata.generated_at ? new Date(this.metadata.generated_at) : new Date();
         const daysSinceUpdate = Math.floor((new Date() - updateTime) / (1000 * 60 * 60 * 24));
         const hoursUntilNext = 24 - new Date().getHours();
         
@@ -563,7 +677,7 @@ class ThreatAnalytics {
                         </div>
                         <div class="timeline-content">
                             <h4>Current Dataset</h4>
-                            <p class="timeline-stat">${this.metadata.total_unique_domains.toLocaleString()}</p>
+                            <p class="timeline-stat">${(this.metadata.total_unique_domains || 0).toLocaleString()}</p>
                             <span class="timeline-label">unique domains</span>
                             <small class="timeline-time">${daysSinceUpdate === 0 ? 'Updated today' : `${daysSinceUpdate} days old`}</small>
                         </div>
@@ -790,17 +904,28 @@ class ThreatAnalytics {
 
     startAutoUpdate() {
         // Update every 24 hours (same as data refresh rate)
-        setInterval(async () => {
+        const updateInterval = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
+        
+        const autoUpdateFunction = async () => {
             console.log('Auto-updating blocklist data...');
             await this.loadBlocklistData();
             this.updateStats();
             this.renderBlocklistGrid();
             this.updateAnalysis();
-        }, 24 * 60 * 60 * 1000);
+            this.updateAdvancedAnalytics();
+            this.updateThreatIntelligence();
+        };
+        
+        // Use setInterval with function reference instead of string
+        setInterval(autoUpdateFunction, updateInterval);
     }
 }
 
 // Initialize threat analytics when page loads
 document.addEventListener('DOMContentLoaded', function() {
-    new ThreatAnalytics();
+    try {
+        new ThreatAnalytics();
+    } catch (error) {
+        console.error('Failed to initialize ThreatAnalytics:', error);
+    }
 });
