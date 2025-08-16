@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-16 12:31:47 UTC
-# Total domains: 13337
+# Generated: 2025-08-16 13:15:21 UTC
+# Total domains: 13340
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -840,6 +840,7 @@ amurehotel.mn
 amyginevgeny1.online
 amzertradingltd.com
 amztechnology.com
+an-schema.gl.at.ply.gg
 an-soglasie.com.ua
 anad55.eb2a.com
 anadoluelektrik.com.tr
@@ -2110,6 +2111,7 @@ caribecunb.com
 carikapapa.ml
 carirero.net
 caritas.org.ro
+carljas.duckdns.org
 carloswint.com
 carluccigiardina.org
 carpes.adv.br
@@ -2693,6 +2695,7 @@ crevisoft.net
 crhrocker.hostingsiteforfree.com
 criandoseunegocio.com.br
 crimeshop.biz
+crimey1337-43127.portmap.host
 crinz.usa.cc
 crippoloiutustrope.tk
 crispershf.hc0.me
