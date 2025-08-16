@@ -1,9 +1,9 @@
 # Currently working on a new system, rewritten the whole application
 Currently working on a new system to replace this one so lists may be broken for now.
 
-* 1.6 Million authentic domains inc sub-domains
-* Manual white list for missed authentic domains
-* Deduplication
+* 1.6 Million authentic domains inc sub-domains for the 1st whitelist
+* Manual white list for missed authentic domains for the 2nd whitelist
+* Deduplication of all domains.
 * Sandboxed application to check domains are still active if not they are removed from the lists.
 * Included more sources of currently ACTIVE malicious domains.
 
