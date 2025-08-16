@@ -1,3 +1,15 @@
+# Currently working on a new system, rewritten the whole application
+Currently working on a new system to replace this one so lists may be broken for now.
+
+* 1.6 Million authentic domains inc sub-domains
+* Manual white list for missed authentic domains
+* Deduplication
+* Sandboxed application to check domains are still active if not they are removed from the lists.
+* Included more sources of currently ACTIVE malicious domains.
+
+This system should be online soon, please be patient.
+
+
 # 🛡️ Tempest Solutions Pi-hole Blocklists
 
 **Professional-grade malicious domain blocklists for Pi-hole, updated daily from verified threat intelligence sources.**
