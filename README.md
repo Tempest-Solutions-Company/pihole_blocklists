@@ -2,7 +2,7 @@
 
 Automatically generated blocklists for Pi-hole from multiple threat intelligence sources.
 
-**Last Updated:** 2025-08-16 10:38:57 UTC
+**Last Updated:** 2025-08-16 10:45:09 UTC
 
 ## Available Lists
 
@@ -38,4 +38,3 @@ https://raw.githubusercontent.com/Tempest-Solutions-Company/pihole_blocklists/ma
 
 - **False Positives**: [Report here](https://github.com/Tempest-Solutions-Company/pihole_blocklists/issues)
 - **Updates**: Lists are updated every 24 hours
-- **Contact**: ml-collector@tempest-solutions.com
