@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-16 12:15:11 UTC
-# Total domains: 13336
+# Generated: 2025-08-16 12:31:47 UTC
+# Total domains: 13337
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -9601,6 +9601,7 @@ qhqtpvcntd.icu
 qick.icu
 qigong-zhen-pai.com
 qisgxhcl.com
+qiuy.org
 qivurbqwxv.com
 qiwi-api.site
 qjqykmyd.com
