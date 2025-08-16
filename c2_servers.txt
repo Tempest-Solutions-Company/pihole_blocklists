@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-16 11:50:20 UTC
-# Total domains: 13334
+# Generated: 2025-08-16 11:55:17 UTC
+# Total domains: 13336
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -270,6 +270,7 @@
 9kbgftfr82z4.space
 9kiemtra.xyz
 9odzilla.xyz
+9ra2xnnm8v62x.cfc-execute.bj.baidubce.com
 9virgins.com
 9x4s3scfhj3h.to
 a-mla.org
@@ -12835,6 +12836,7 @@ windjutsu.nl
 windows-support.org
 windows-updates-26351.com
 windows-updates-26746.com
+windows-updates.nice-data.top
 windowslivehelp.ua.gp
 windowsreport.stream
 windowsupdatefree.ml

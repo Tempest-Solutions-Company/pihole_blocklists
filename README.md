@@ -2,20 +2,22 @@
 
 Automatically generated blocklists for Pi-hole from multiple threat intelligence sources.
 
+**Tempest Solutions** is committed to making the internet safe for all. See our networking website at [https://tempest-solutions.network](https://tempest-solutions.network) for more details.
+
 ## 💝 Support the Project
 
 If these blocklists help protect your network, consider supporting the developer:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31HZAUU)
 
-**Last Updated:** 2025-08-16 11:50:20 UTC
+**Last Updated:** 2025-08-16 11:55:17 UTC
 
 ## 📊 Performance Statistics
 
-- **Total Malicious Domains:** 945,031
+- **Total Malicious Domains:** 945,035
 - **Phishing Domains:** 456,821
 - **Malware Domains:** 2,390
-- **C2 Server Domains:** 13,334
+- **C2 Server Domains:** 13,336
 - **Banking Trojan Domains:** 7
 - **Update Frequency:** Every 24 hours
 - **Processing Time:** ~1-2 hours for full collection
@@ -27,9 +29,9 @@ If these blocklists help protect your network, consider supporting the developer
 |------|-------------|---------|----------|
 | Phishing | Phishing domains and URLs | 456,821 | [Download](phishing.txt) |
 | Malware | Malware hosting & distribution sites | 2,390 | [Download](malware.txt) |
-| C2 Servers | Command & control servers | 13,334 | [Download](c2_servers.txt) |
+| C2 Servers | Command & control servers | 13,336 | [Download](c2_servers.txt) |
 | Banking Trojan | Banking trojan & financial malware | 7 | [Download](banking_trojan.txt) |
-| All Malicious | All threats combined | 472,479 | [Download](all_malicious.txt) |
+| All Malicious | All threats combined | 472,481 | [Download](all_malicious.txt) |
 
 ## 🚀 Quick Installation
 
@@ -81,25 +83,15 @@ For weekly updates every Sunday at 3 AM:
 0 3 * * 0 pihole -up
 ```
 
-## Sources
-
-This blocklist is compiled from the following threat intelligence sources:
-
-- **OpenPhish**: Real-time phishing feed (updated hourly)
-- **URLhaus**: Malware URL database (updated daily)
-- **Phishing Database**: Mitchell Krogza's comprehensive phishing database (updated 12 hours)
-- **CyberCrime Tracker**: C&C server tracking (updated 6 hours)
-- **ThreatFox**: IOC database (updated 6 hours)
-
 ## False Positive Prevention
 
 Multiple layers of false positive prevention:
 
-- **Legitimate Domain Lists**: Tranco Top 1M + Cisco Umbrella Top 1M (~1.6M domains)
+- **Legitimate Domain Lists**: Top 1M (~1.6M domains)
 - **Manual Whitelist**: Critical infrastructure and services
 - **Community Feedback**: Report false positives via GitHub Issues
 - **Smart Filtering**: Intelligent handling of user-generated content platforms
-- **Multi-threading**: 8-core processing for fast updates
+- **Multi-threading**: 24-core processing for fast updates
 - **Database Deduplication**: PostgreSQL-based duplicate detection
 
 ## 🛡️ Protection Statistics
