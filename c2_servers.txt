@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-17 11:42:17 UTC
-# Total domains: 13422
+# Generated: 2025-08-17 17:42:41 UTC
+# Total domains: 13438
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1849,6 +1849,7 @@ bpoxnet.com
 bppkbsulsel.com
 bprdptaspen.com
 bpria.com
+bpwk.xyz
 brack.nl
 bracomil.com.br
 bracunis.com
@@ -2066,6 +2067,7 @@ calumyachtservices.com
 calzadoanaconda.com
 camautensili.com
 camere-live.ro
+camerwamper-64923.portmap.host
 camfroger.ro.gp
 camillemarielle.com
 camolikvidacia.ru
@@ -2137,6 +2139,7 @@ carrgill.net
 carrospopulare.com
 carshaltonfestival.com
 carspec.online.cm
+cartatrantap.com
 carter-wallace.com
 carusoweddings.com
 casadoatirador.com.br
@@ -2759,6 +2762,7 @@ cs-shop.com.br
 cs6hgg.pw
 cscebc.ca
 csde.org.cn
+csgeneration-win.com
 csgo-random.net46.net
 csgolegal.com
 csgui.info
@@ -4441,6 +4445,7 @@ ferrti.atspace.com
 festusca.in
 fetihturizm.com
 feuerwehr-feuchtwangen.de
+few-mines.gl.at.ply.gg
 fexi.ru
 fey66.com
 ff-winners.com
@@ -5046,6 +5051,7 @@ gloriadating-b.pro
 gloriajeans-a.pro
 glossexepert.com
 gloyakata.ml
+glutebikes.top
 gmgifts.co.uk
 gmodwizard.com
 gmstat550.com
@@ -6316,6 +6322,7 @@ johnnebifi.com
 johnonlineinc.tk
 johntofhalo.ru
 johnyzo.agilityhoster.com
+joi-b.top
 joik.xyz
 jojohats.co.uk
 joke-krekit.myjino.ru
@@ -9330,6 +9337,7 @@ pnp-th.com
 pnumbrero3.ru
 pny.jasadoa.co.id
 po-dobromu.ru
+po.rcwade.com
 pocoxxmas.gq
 podmena2014.com
 poel.cba.pl
@@ -10140,6 +10148,7 @@ rybnowielkie-dzialki.pl
 ryiew.beget.tech
 rypton1.ry.funpic.de
 rysa.neformalforum.online
+rzr.plex.name
 s-ina.com
 s-steal.kl.com.ua
 s-trust.co
@@ -10423,6 +10432,7 @@ securityaspxvalidation.world
 securitymonitor2012in.com
 securityscheck.com
 securityspecialiastinc.in
+secx.avsecpnl.top
 sedepases.com.br
 seedvsweeds.co.in
 seerahmission.com
@@ -11121,6 +11131,7 @@ statensofre.no
 stateqa.biz
 statewidelegal.com.au
 statibusiness.net
+static.140.144.161.5.clients.your-server.de
 static.187.200.63.178.clients.your-server.de
 static.210.109.130.94.clients.your-server.de
 static.82.150.216.95.clients.your-server.de
@@ -12104,6 +12115,7 @@ tveebsorg.su
 tvergeneration.ru
 tviewer.ga
 tvmii.xyz
+tvstream.click
 twcdgtvl.com
 twdesignacreation.com
 twdvlya.jungleheart.com
@@ -12158,6 +12170,7 @@ u92905m0.beget.tech
 u96191l2.beget.tech
 u99692u5.bget.ru
 u99991hm.beget.tech
+u9b.top
 ua-banki.com
 uaecarmarket.org
 uavlab.am
@@ -12703,6 +12716,7 @@ wahacapitalua.com
 wahidfoam.com
 wahproject.com
 wahuiilopi.club
+waitdriverupdating.sytes.net
 waitingneworder.in.net
 wakesho.co.ke
 waletexas542.biz
@@ -12757,6 +12771,8 @@ wbs.zephirenr.com
 wcbpdfpgwffjs.com
 wcvxbvf.ug
 wcwcommunication.info
+we.helpasist.com
+we.sorvr.com
 we.webdesk.email
 wearestillalive.org
 wearethestorm.com
