@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-18 11:43:52 UTC
-# Total domains: 13465
+# Generated: 2025-08-18 17:44:18 UTC
+# Total domains: 13473
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -67,6 +67,7 @@
 172-104-53-127.ip.linodeusercontent.com
 1800propainter.com
 183.123.235.35.bc.googleusercontent.com
+185-196-10-10.cprapid.com
 185-24-53-218.com
 1866809.securefastserver.com
 18hhhgh3.justdied.com
@@ -386,6 +387,7 @@ accesssinfo.site
 accidentattorneysphiladelphia.com
 accomobasewq.com
 accord.websitewelcome.com
+account-reached.gl.at.ply.gg
 account.protonvpn.store
 accountnumb.com
 accounts-logmein.com
@@ -2677,6 +2679,7 @@ cp2.0pu.ru
 cp30265.tmweb.ru
 cp53072.cloudhosting.lv
 cpadeer.com
+cpanel.northtru.net
 cpanel02.myhostcenter.com
 cpanel30.per.syra.net.au
 cpezfze.com
@@ -5910,6 +5913,7 @@ imsa.com.au
 imsara.dynu.net
 imtheop.redirectme.net
 imuqnrtccpissbmefte.com
+in-www.com
 inbsb.com.br
 inc0de.gq
 inceputn.top
@@ -6054,6 +6058,7 @@ iruta.ru
 irveshopmart.com
 irypcpym.com
 iryston.com
+is-www.com
 isaac-salary.in
 isaak.co.in
 iscaleos.com
@@ -10845,6 +10850,7 @@ slimteaversis.us
 slip.creditoemprestimos.com
 slipcentral.com
 slit-on.ga
+sliv.ogzhenren.com
 sljfeuhwuihs.ru
 slkfbshuoru.com
 sloodam.in
@@ -12016,6 +12022,7 @@ treemover.xyz
 treenon.bid
 trekstagroup.org
 tren-zbs.info
+trendmnicro.qzz.io
 trendyinia.esy.es
 trendz365.com
 trentfast.com
@@ -12241,6 +12248,7 @@ ulaknews.com
 ulanijazlowieccy.pl
 ulgdnhsejsmcottuod.com
 ulk-cg.com
+ulkum.duckdns.org
 ulogroup.ru
 ultarls.com
 ultimaspots.co.uk
