@@ -1,3 +1,8 @@
+## **__Version 1.01__**
+__Training__
+Retrained the ML Malicious Domain finder on banking and finance threats.
+
+
 ## **__Version 1.00__**
 __Changed__
 * Total rewrite of the Blocklist system
