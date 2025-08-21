@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-21 07:55:45 UTC
-# Total domains: 13594
+# Generated: 2025-08-21 09:28:07 UTC
+# Total domains: 13595
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1805,6 +1805,7 @@ books.myscriptcase.com
 boolsec.com
 boom-music.tk
 boomcoins.ml
+boos.caramelmojo.com
 boosting-service.www7.site
 bootaa.anondns.net
 bootasactive.icu
