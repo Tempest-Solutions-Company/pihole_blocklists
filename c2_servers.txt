@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-20 19:49:05 UTC
-# Total domains: 13578
+# Generated: 2025-08-21 01:52:25 UTC
+# Total domains: 13581
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4423,6 +4423,7 @@ father.kenal-cn.com
 fatherokokoinc.com
 fatimasalman.com
 fatoil.ga
+favicon.messager.my
 favourofgod.cf
 faydvrffiuqydeqq.ru
 fazemosdireito.com
@@ -7571,6 +7572,7 @@ mail.hamptonroadseyeassociates-oysterpoint.com
 mail.hotelgrandpapua.com
 mail.intikinanpratama.com
 mail.mattech-llc.com
+mail.messager.my
 mail.yaklasim.com
 mail001.hiuasyolaperakende.com
 mail002.hiuasyolaperakende.net
@@ -10201,6 +10203,7 @@ rsmovie.net
 rspl-sg.com
 rsraterboi.no-ip.biz
 rssexpressservice.com
+rtx.shipensburginvestmentgroup.com
 ru6.orz.us
 rubbymok.gsms.one
 rubyscoeicm.com
