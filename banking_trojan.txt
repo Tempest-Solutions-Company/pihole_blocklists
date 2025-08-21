@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-21 09:52:47 UTC
-# Total domains: 4611
+# Generated: 2025-08-21 23:13:39 UTC
+# Total domains: 4614
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3089,7 +3089,10 @@ mwscg.top
 mx-terrasabvia.com
 my-businesses.in
 my-kiosk.online
+my-sharepoint-inc.com
 my-summer-car.com
+my1cloudlive.com
+my2cloudlive.com
 mybusinessconnect.com.au
 mycardcare.in
 mycopier.com.my

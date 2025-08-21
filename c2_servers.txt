@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-21 09:52:47 UTC
-# Total domains: 13874
+# Generated: 2025-08-21 23:13:39 UTC
+# Total domains: 13904
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -192,6 +192,7 @@
 4llion.com
 4max.xyz
 4me-4you.com
+4mxlrhcab.localto.net
 4netdown.com
 4sen.pl
 4thave.co.uk
@@ -743,6 +744,7 @@ alkratrad.com
 all-texproducts.com
 allaboutehr.com
 allaboutit.hol.es
+allahbotnet.duckdns.org
 allahggdrop.xyz
 allanskov.dk
 allappsdown.com
@@ -971,6 +973,7 @@ apexelectronics-au.com
 apexenguae.com
 apexlogisticscompany.com
 apextherapyservices.ca
+api.shipensburginvestmentgroup.com
 api.signatureofdocs.cfd
 api.wifi-update.biz
 apllusbat.com
@@ -989,6 +992,7 @@ apple-shop.tech
 appleconnect.online
 appleid-lost-iphone.eu
 apples-icloudxteam1.luisblascabrera.com
+applications-designer.gl.at.ply.gg
 appllsads.com
 appointedright.ru
 appollastreet.com
@@ -1212,6 +1216,7 @@ auth-site.site
 auth.messager.my
 auth3.net
 authenticatesyahoostyle.info
+authors-recall.gl.at.ply.gg
 authsw.ir
 auto-fx.fr
 auto-fx.nl
@@ -1264,6 +1269,7 @@ avvalves-com.ml
 awardsign.net
 awba-groups.com
 awokoinsight.com
+awsapi.xyz
 axe-ortho.fr
 axelerode.club
 axelerode.host
@@ -1738,6 +1744,7 @@ blackhawk.net16.net
 blackhill.pp.ua
 blackhole.net23.net
 blacklifestyle.net
+blackmafia.rapidloader.org
 blacknet.1nerdnogeek.com
 blacknet.all-hacks.org
 blacknet.riskpi.xyz
@@ -2572,8 +2579,10 @@ cn56515.tmweb.ru
 cn87692.tmweb.ru
 cnajs.com
 cnboariufeng.com
+cnc.9257.org
 cnc.botnet.agency
 cnc.kalonarkks.tk
+cnc.zinomc.com
 cndomainreg100.net
 cnedriect.com
 cng-europ.com
@@ -2597,6 +2606,7 @@ code-hub.ml
 codedforwardings.halimofset.com.tr
 coderselite.com.ar
 codespirit.linkpc.net
+codingvix.win
 cofancio.com
 coffeeconnoisseursclub.com.au
 cogihold.site
@@ -2985,6 +2995,7 @@ daiichielectronics-ph.com
 daily-apoc.info
 dailysanitations.com
 dajxhcddxoyp.com
+dakk5rnsax46s.cfc-execute.su.baidubce.com
 dakqyppswmvuyncbis.com
 dakta.ru
 dalall.beget.tech
@@ -4511,6 +4522,7 @@ fatimasalman.com
 fatoil.ga
 favicon.messager.my
 favourofgod.cf
+favsouds.duckdns.org
 faydvrffiuqydeqq.ru
 fazemosdireito.com
 fazilonur.com
@@ -4866,6 +4878,7 @@ frezydermusa.com
 frfrfrjrbfkfncifnsnqwnxbcb.com
 frhometextile.com
 fridazai.xyz
+friendly-mercy.gl.at.ply.gg
 friendsgroupsindia.com
 friendshipfoundation.com
 friendsstarintl.com
@@ -5616,6 +5629,7 @@ healthians.care
 healthyfruitandvegetables.com
 healthyweightprofit.com
 heard-white-13.myjino.ru
+heart-hunger.gl.at.ply.gg
 heartcentercorp.com
 heartfactor.us
 heartjohn.com
@@ -5860,6 +5874,7 @@ hs-bc-grps.com
 hsbcbonline.co.uk
 hsbconlineuk.com
 hsgeng.com
+hsnajdjkpas.duckdns.org
 hss.amuchellam.biz
 hsystems.in
 hta.duckdns.org
@@ -6415,6 +6430,7 @@ jdjcpnuhmiimsalkwdf.com
 jdjjegellowd.duckdns.org
 jdmcargoplanners.com
 jdonpdfvw.com
+jdpg1sudz.localto.net
 jdsindonesia.id
 jdstaron.ga
 jeanbas.com
@@ -6769,6 +6785,7 @@ kedeng.com
 keep-my-mailid.net.in
 keepcalmm.tk
 keepingangeraway.com
+keepmasterr.com
 keertan.org
 keftylador.xyz
 kegnvjtiowifoavcb.com
@@ -6965,6 +6982,7 @@ koreanbeautyexpert.com
 korkutgroup.com
 korovka.name
 korrrrrrnnnnqlmdzhnz.edns.biz
+kosdlscbf.duckdns.org
 kosmetycznysklep.pl
 kossmoss.space
 kovachevpress.com
@@ -7933,6 +7951,7 @@ maxo.club
 maxstreiker.altervista.org
 maxthingo.in
 maxxcor.co.za
+may-steering.gl.at.ply.gg
 may31.ml
 maybe-declared.gl.at.ply.gg
 mayilinformers.co.in
@@ -7962,6 +7981,7 @@ mci-consultant.id
 mclhk-net.com
 mcpe64.ru
 md-67.whb.tempwebhost.net
+md-mean.gl.at.ply.gg
 md.9awi.pw
 mdelatropsopc.info
 mdksimon.su
@@ -9261,6 +9281,7 @@ p2kings.ga
 p37r0ffv1ckt.pw
 p4blogabriel.pw
 p4ng0l1n.comlu.com
+p6nnjzgxl.localto.net
 pa-buol.go.id
 paadasala.com.au
 paargolbal.in
@@ -9777,6 +9798,7 @@ praskoviamoskva.ru
 prassqautor.in
 pratisaad.com
 prayers.in.net
+prdelb.sgsrmy.org
 precastsystemsinc.com
 precedeme.com
 precoper.ga
@@ -10074,6 +10096,7 @@ raovat3m.com
 raozat.com
 raparanatauro.pw
 rapastitoparito.space
+rapidloader.org
 rapidsha.com
 rapistoparistos.xyz
 rapogliffer.club
@@ -10201,6 +10224,7 @@ reloadspamzx.fav.cc
 reluxmusic.com
 remabad.com
 remaxhost.com
+remcos.as.vip
 rememberu3.zzz.com.ua
 remontkom.ru
 remote1.cf
@@ -11549,6 +11573,7 @@ stevennewpanel.herobo.com
 stevescabinets.com
 steyxld.top
 stfoto.pro
+stic.shipensburginvestmentgroup.com
 stichtingmain.nl
 stil.golosui.xyz
 stil.ocolus.ru
@@ -11596,6 +11621,7 @@ strasnersuperstoreblog.com
 stratbuks.com
 strategic-marketing.org
 strategies2excel.com
+streamcodex.online
 streamlolz.com
 street-ups.ru
 street.mackeford.com
@@ -12125,6 +12151,7 @@ thepoppyresidences.com
 thepredstill.site
 theprintingagent.ca
 thepstore.online
+therefore-nothing.gl.at.ply.gg
 theremedycenter.com
 therenez.com
 therikonet.info
@@ -12694,6 +12721,7 @@ updatecenter.ru
 updateinstall.xyz
 updateoffice360.top
 updates-windows-10-184623.com
+updates.highendmark.com
 updatiing.co
 upgrademailboxsecurity.org
 upgradetoserver.com
@@ -12991,6 +13019,7 @@ vivadesssssswer.gq
 vivahammer.com
 vivalingard.cf
 vivalingard.ml
+vivepakx.ddns.net
 vividcoms.com
 vividerenaz.com
 vivoclubvillas.com
@@ -13121,6 +13150,7 @@ vzmaze.ml
 w0000t.com
 w1mxn88vzlv.com
 w1sdom.us
+w3hhhhh-44281.portmap.host
 w4tchrs.no-ip.org
 w68426zc.bget.ru
 w91926dc.beget.tech
