@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-22 07:51:47 UTC
-# Total domains: 13921
+# Generated: 2025-08-22 13:57:59 UTC
+# Total domains: 13932
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -88,6 +88,7 @@
 2014.donteezy007.com
 2015letsdoit.in
 2020bill.com
+2025takby.duckdns.org
 209-190-75-10.gq
 21072206.su
 210main.com
@@ -5312,6 +5313,7 @@ googl-1010-final.com
 googleapi.ru
 googlecardboardapp.com
 googleclicks.info
+googlei.zapto.org
 googleisearch.com
 googletime.ac.ug
 gooogle.blackfriday
@@ -5818,6 +5820,7 @@ hooked.myftp.org
 hookedhr.com.au
 hooktronic1.000webhostapp.com
 hope-care.co.uk
+hope-deutschland.gl.at.ply.gg
 hope-found-now.net
 hopelink.com.au
 hopeofamiracle.org
@@ -6306,6 +6309,7 @@ itsspain.com
 itsyoursolution.hebergement-anonyme.com
 itwsaelants.com
 itzimar.xaa.pl
+itzprocabal.ddns.net
 iusajdiru.info
 iut.sx
 iv-auth.org
@@ -6321,6 +6325,7 @@ iwdshywjrvggnqohg.com
 iwebtechexpert.com
 iwillmakeitbigtime.cf
 iwofeh-hunterz.com
+iwp41178-44386.portmap.host
 iwtkdxsmu.com
 iyamahmpa.info
 iyke.darkbastard.com.de
@@ -6495,6 +6500,11 @@ jixexyn.tk
 jizzy.kenal-cn.com
 jizzy.ziraat-helpdesk.com
 jj-tradings.ru
+jj.aass654.com
+jj.jjkk567.com
+jj.nnmm234.com
+jj.vvbb321.com
+jj.xxcc789.com
 jjjaya.zadc.ru
 jjken.be
 jkcadeiras.com.br
@@ -9253,6 +9263,7 @@ ourbeskpo.life
 ourbestidea.website
 ourdailyshopping.com
 ourzim.com
+out.p.socialsalesnaija.com
 outclickstds.com
 outlook.al
 outreach.zone
