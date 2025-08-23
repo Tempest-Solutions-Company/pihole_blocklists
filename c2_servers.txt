@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-23 14:19:17 UTC
-# Total domains: 14058
+# Generated: 2025-08-23 20:25:06 UTC
+# Total domains: 14061
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7138,6 +7138,7 @@ kwqfxbogu.com
 kws2-1.messager.my
 kws2.messager.my
 kws4-1.messager.my
+kws5.messager.my
 kxusdydywsppkdtlxws.com
 kyant4.com
 kyn-sandbox.com
@@ -7563,6 +7564,7 @@ lllkevin.ml
 llohumas.today
 lltagrain.com
 lluche.co
+lm.p.socialsalesnaija.com
 lmage1.com
 lmarcin.x90x.net
 lmdlm.xyz
@@ -8180,6 +8182,7 @@ meziamussucemaqueue.su
 mfbook.in
 mfclub.ws
 mfekm.club
+mflo2t-24280.portmap.host
 mflopj.top
 mfmqatar.com
 mfshop.me
