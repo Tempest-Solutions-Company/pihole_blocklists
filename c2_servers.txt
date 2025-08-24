@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-24 01:25:16 UTC
-# Total domains: 14061
+# Generated: 2025-08-24 02:31:06 UTC
+# Total domains: 14064
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3425,6 +3425,7 @@ dkmallin.com.ng
 dkpdesiqns.com
 dks05.cyou
 dliol.com.ar
+dlp.socialsalesnaija.com
 dlt-schoolbus.net
 dmaris.vn
 dmburi.com
@@ -4659,6 +4660,7 @@ files-get.site
 files-get.space
 files-get.world
 fileshareing.tk
+filin.messager.my
 filipemandl.cv
 filipescu1991.herobo.com
 fillis.gr
@@ -7602,6 +7604,7 @@ log.dogepay.info
 logalex.z.gp
 logboxreport.top
 logboxreports.top
+logdz.messager.my
 logger.comuv.com
 loggerkeys.us
 loggonvelvego.com
