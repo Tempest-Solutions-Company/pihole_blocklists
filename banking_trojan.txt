@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-25 13:58:49 UTC
-# Total domains: 4620
+# Generated: 2025-08-25 15:05:28 UTC
+# Total domains: 4639
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -559,9 +559,11 @@ appinteractivestudio.com
 apple-appcare-service.com
 apple-securityiphone-icloud.com
 appledoreholiday.com
+appmacosx.com
 appmarket.sbs
 appme.store
 appmobile.store
+apposx.com
 apps-desktop-download.com
 apps-desktop-downloads.com
 apps-desktop.com
@@ -575,6 +577,7 @@ apps-pc-download.com
 apps-pc-downloads.com
 apps4u.store
 appscriber.net
+appxmacos.com
 apremy.com
 aprettopizza.world
 aqd114.xyz
@@ -1361,6 +1364,9 @@ crowdynews.com
 crozonia.com
 crudware.com
 crypto-rehab.com
+cryptoinfnews.com
+cryptoinfo-allnews.com
+cryptoinfo-news.com
 cryptopriceoffer.com
 crystalmatchquest.com
 crystalpng.com
@@ -1407,6 +1413,7 @@ d3digital.store
 d4d.shop
 d6oawhtib05h2.top
 d7472ad157.lol
+dactarhome.com
 dafom.dev
 dagenhampark.store
 dagitimgunleri-prb.store
@@ -1552,6 +1559,7 @@ dobit.one
 docelvision.com
 dockmilk.com
 docs-planet.site
+docsresearchgroup.com
 doctormalay.com
 doctortrickles.com
 documentnx.storagedrvi.com
@@ -1691,6 +1699,7 @@ elledarlington.com
 ellie18.com
 elmanysat.com
 elosrah.com
+emailreddit.com
 emcnoa.com
 emdrnow.com
 emersonkelly.com
@@ -1834,6 +1843,7 @@ fightingduck.co.uk
 figpartners.com
 filehilo.com
 filmograph.tv
+financementure.com
 financialdecisions.com.au
 findexp.com
 findlocallocksmiths.com
@@ -2138,6 +2148,7 @@ greenbookvietnam.com
 greenjiasuqi.cn
 greenjiasuqi.com
 greenleaflandscaping.store
+greenpropertycert.com
 grenoble-altitude.com
 greystonehoa.us
 grfail.com
@@ -2638,6 +2649,7 @@ kblwhzftgxcnq.black
 kd2he.com
 kddrysl.info
 kdeweb.com
+keaui.cn
 keeo.com.tr
 kekeoamigo.com
 kelotecnologia.com
@@ -2872,7 +2884,11 @@ m.next
 m8374.net
 maazi.com
 machinimated.com
+macosx-app.com
+macosx-apps.com
+macosxappstore.com
 macroflex.net
+macxapp.com
 madcouchco.com
 madebelow.net
 madisontravelagent.com
@@ -3244,6 +3260,7 @@ obvip3710.com
 octamises.com
 octopusmoney.com
 odenwaldkreis.info
+odyssey-st.com
 oel.tg
 ofc.ai
 ofertasincreibles.shop
@@ -3735,6 +3752,7 @@ satisfactionapp.club
 satishcloud.xyz
 saturn5.biz
 saudavelsempre.store
+saurkanot.com
 saveye.ru
 savills.me
 savortherich.com
@@ -4250,6 +4268,7 @@ tsaonline.com.au
 tsheetbizgroup.ru
 tsjybcd.com
 tter.com
+ttxttx.com
 tube4u.com
 tulach.cc
 tumiscelaneaexpress.com
