@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-27 01:32:16 UTC
-# Total domains: 14465
+# Generated: 2025-08-27 03:37:15 UTC
+# Total domains: 14467
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1422,6 +1422,7 @@ bakimmarketi.com
 baklaysinc.com
 bakrakhada.com
 baksonyem.com
+balamand.net
 balansvoorjezelf.nl
 balerji.cf
 balerji.ga
@@ -10320,6 +10321,7 @@ provorov.cwsurf.de
 prox01.altervista.org
 proximns-bg.com
 proxy.bonch.dev
+proxy.messager.my
 proxypool.info
 proxyshop.kl.com.ua
 prozipdownload.com
