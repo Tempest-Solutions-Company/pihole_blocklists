@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-27 15:47:47 UTC
-# Total domains: 4864
+# Generated: 2025-08-27 21:52:57 UTC
+# Total domains: 4865
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3372,6 +3372,7 @@ newsconcur2024.life
 newsconcur2024.world
 newsconcur24.one
 newsjptv.com
+newvision10.com
 nexbio.academy
 nexdrive.nl
 nextiorhive.com
