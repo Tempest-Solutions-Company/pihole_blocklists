@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-27 13:42:37 UTC
-# Total domains: 4863
+# Generated: 2025-08-27 15:47:47 UTC
+# Total domains: 4864
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2998,6 +2998,7 @@ lifecomfort.store
 lifestyle-options.com
 lifverrel.shop
 ligator.shop
+lightech.store
 lightningblogs.com
 lihaojie.pm
 limaz.co.th
