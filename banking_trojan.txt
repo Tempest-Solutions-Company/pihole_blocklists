@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-28 13:04:47 UTC
-# Total domains: 4925
+# Generated: 2025-08-28 16:09:36 UTC
+# Total domains: 4927
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2548,6 +2548,7 @@ i-m-a-g-e.club
 i.call
 i.host
 i.next
+i111111.zip
 i4apis.top
 i4tools8.com
 i4tools9.com
@@ -4420,6 +4421,7 @@ thepropforge.com
 thereddigital.com
 thermal-sensor.com
 thesadtomato.com
+thesearchforcountdante.com
 thesecondstory.me
 thesensescollection.com
 theshirtsummit.com
