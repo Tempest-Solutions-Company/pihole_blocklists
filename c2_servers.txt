@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-28 16:09:36 UTC
-# Total domains: 14705
+# Generated: 2025-08-28 22:15:25 UTC
+# Total domains: 14709
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3777,6 +3777,7 @@ dropeboxs.in
 drops.li
 drpoconnor.net
 drsmarinegroup.com
+dru.x.fortisheritagebank.com
 drugsrgood.ml
 drunkpikachu.com
 druvan.xyz
@@ -5222,6 +5223,7 @@ g.icab.pk
 g00d8y3.1.vg
 g0dday.cc
 g1000net.com
+g100cf.ddns.net
 g33qb6n.com
 g4gcp.co.uk
 g8.top
@@ -7848,6 +7850,7 @@ linkk.org
 links.heliohost.org
 linkse.cf
 linkworld.netii.net
+linux-seminars.gl.at.ply.gg
 linuxdeals.ru
 lion.web2.0campus.net
 lionltd.pw
@@ -10824,6 +10827,7 @@ reido10.com
 reis.dev.findexaforlag.no
 rejenereiplik.com
 rejuveniceretail.com
+reklama.messager.my
 rekmedia.com.au
 relacer.rajas.com.my
 relayservice.org
