@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-28 03:58:13 UTC
-# Total domains: 4865
+# Generated: 2025-08-28 10:04:36 UTC
+# Total domains: 4925
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -92,6 +92,7 @@
 123.events
 12313deepvalley.info
 123domainworld.guru
+123resuce.com
 126363528808096531185185muid02b81b41c74769b3361a0d47c60b6833msn.com
 12coffees.com
 12stephouse-1949.org
@@ -316,6 +317,7 @@
 809cakesny.com
 8318188vip.com
 87-899.help
+87556.xyz
 876jogogame.com
 888brand.shop
 8coc.com
@@ -347,6 +349,7 @@ aaaeieiiioffftr.cc
 aabsher-sds.com
 aainsured.com
 aapartners.co.uk
+aapte.com
 aasystem.online
 ab-resale.shop
 ab19191.xyz
@@ -438,6 +441,7 @@ agentclientclient.me
 agronkercishta.ai
 agtendelperu.com
 ahantadevnet.org
+ahia.net
 aibrainkorea.com
 aicoinch.com
 aicoincn.com
@@ -765,14 +769,17 @@ bakurov.com
 baldcover.com
 bamerokisa.top
 banco-casino.click
+bancocr.com
 bandeorch.com
 bange.store
 banglasexvideo.com
 bankcarduniversity.com
 bankmeli.news
+banpara.com
 banterspeech.shop
 baofyu.shop
 baoguangbu.com
+baptizein.com
 barcodegenerator.online
 barilsiciliano.it
 barishalctp.com
@@ -806,6 +813,7 @@ beaconplacetuscaloosa.com
 bealsyballcamps.com
 beatlens.store
 beatrizluengooficial.com
+beautifulexplorer.com
 beautifulgreencoffee.com
 beautifullady.site
 beautifullike.com
@@ -879,6 +887,7 @@ bigtimerush.store
 bihsy.com
 bikeshed.store
 bikesoro.com
+billdodge.com
 billhop.com
 bimageelement.id
 bindirect.click
@@ -922,7 +931,9 @@ blockcentersys.net
 blocknowtech.net
 blockprices.io
 blog-ch.com
+blogport.com
 blogseoetc.com
+blogtspot.com
 blondeporn.pw
 bloomberg-t.com
 bluenetworking.net
@@ -973,6 +984,7 @@ braburstingbabes.com
 braby.net
 brachadesigns.com
 braelinvillage.com
+brajindrabookcompany.com
 bralessaerobics.com
 bramblefoods.store
 brandexchange.tv
@@ -1076,6 +1088,7 @@ camwirless.top
 canadianuniform.com
 canghaugiang.vn
 canhovincity-daimo.com
+canli.biz
 canoecubs.com
 cante.store
 caornaments.com
@@ -1353,7 +1366,9 @@ companyname-okta.com
 completecareclinics.org
 compr-app.top
 compressioncare.site
+comptonsupply.com
 computec-zim.com.mx
+computerrshare.com
 comrade.store
 comteste.com
 concrete-foundation-service-ser.site
@@ -1546,6 +1561,7 @@ dccards.store
 dcrobbins.com
 ddmsolutions.co
 ddownload39.club
+ddpolyplast.com
 ddramdisk.store
 de-update.xyz
 deadandco.store
@@ -1776,6 +1792,7 @@ ecourses.store
 ecowhizz.co.za
 eddies.com
 eddoorbefore.space
+edikamin.com
 edmgr.com
 edu-great.com
 eduardosport.com
@@ -1789,6 +1806,7 @@ efx2blogs.com
 eg-monitoring.com
 ejbtax.com
 elalijo.com
+eldefinverde.com
 elder-beerman.com
 elderlylifestyle.com
 electricitymore.xyz
@@ -1855,6 +1873,7 @@ esgsourfsuofgsguro.biz
 esowayeoya.biz
 espprofessionalservices.com
 espritbarbecue-fr.com
+essfollett.com
 essorgurufsogusruo.biz
 estretixdex.com
 eternalhours.site
@@ -1879,6 +1898,7 @@ evtjqfmg.com
 ewgqsjhxpefcbeherkvj.shop
 excognet.com
 exdergi.com
+exec-recruitment.com
 execspeak.com
 exitzero.store
 exmail63.com
@@ -2006,6 +2026,7 @@ flyforeducation.com
 flystonevape.com
 fmejrkgn.biz
 fmioffice.com
+fmwold.net
 fnerhxznytqbzktakgy.shop
 fofrerbag.com
 foggywindowrepair.com
@@ -2038,7 +2059,9 @@ foxacadmy.com
 foxcentral.com
 foxgamer.com
 foxxology.com
+fplenergy.com
 fr-mondialrelay-pro.com
+fragrenceshop.com
 franas.com
 france-terrain.fr
 france-terrains.eu
@@ -2323,6 +2346,7 @@ gulsun.com
 gummyband.com
 guoglechrome.com
 guuglechrome.com
+gwrs.org
 gwynhug.com
 gxmxm.com
 gyvolnac.ru
@@ -2433,6 +2457,7 @@ hnjunshan.com
 hnprofile.com
 hnthold.com
 hnyvv.shop
+hogardeancianospalmarsur.com
 hoholikik.club
 hokkaido-chimney-ginza.com
 holatropy.com
@@ -2463,6 +2488,7 @@ hotadultphoto.net
 hotchellerae.com
 hotel-quiberon.com
 hotellosmirtos.com
+hotlkc.com
 hotoffer.online
 hotstep.store
 hotwettube.com
@@ -2991,6 +3017,7 @@ lhxi2.com
 liaoyuan.online
 libertyelectricalconstruction.com
 libertymada.org
+liderkariyer.com
 liderrus.ru
 lifeadorned.com.au
 lifecarediagnostics.com
@@ -3026,6 +3053,7 @@ localyelpforbusiness.com
 location.host
 location.search
 logisticasmata.com
+logmeinresue.com
 logopoke.com
 logourlscan.io
 lojorgepez.it
@@ -3083,9 +3111,11 @@ madcouchco.com
 madebelow.net
 madisontravelagent.com
 maemworks.com
+maenards.com
 magementfair.com
 magiuropa.com
 magnou.top
+mahavirbandhanionline.com
 mahmud.email
 mailkilter.com
 mailshan.com
@@ -3115,6 +3145,7 @@ mapei.pl
 maramaravilha.com
 marcomkt.com
 marcoorlandi2025.it
+mareideias.com
 margate-zone.info
 marincountyfarmersmarkets.org
 marinersgreen3.com
@@ -3139,6 +3170,7 @@ masterdow.com
 masterunis.net
 masterunix.net
 mastralakkot.live
+matconi.com
 matjrah.online
 mattchampion.co
 mavenradar.com
@@ -3161,6 +3193,7 @@ mederihealth.com
 medglobalcare.online
 media-hub.fun
 medienparadies.com
+medqic.org
 medsure.com.br
 meet-gl.com
 meet-go.click
@@ -3190,6 +3223,7 @@ merary.com
 merlinvista.xyz
 merwiqca.ru
 metarhythm.com
+methanetomarkets.org
 metritono.com
 metrolla.com
 mettcoint.com
@@ -3312,6 +3346,7 @@ mygrammerlab.com
 myhomeservice.pro
 myinsights.online
 mykeytakeaway.com
+mymidlandmortgaga.com
 mynewbee.net
 myrideshares.com
 mysking.info
@@ -3429,6 +3464,7 @@ ntnlsm.com
 nuia023.me
 numadata.net
 nunez-family.com
+nursalikh.com
 nutiensel.com
 nuzum.ws
 nvidia-update.com
@@ -3437,6 +3473,7 @@ nygren.org
 nymade.com
 nyraracino.com
 nyravlt.com
+nyurl.com
 nyzvelew.ru
 nzyutrc.net
 o.call
@@ -3445,6 +3482,7 @@ o.name
 o1x-secure-form.cyou
 o76s3m7l5ogig4u5.onion
 oaey.win
+oamcc.com
 oandb.store
 ob2087.com
 ob5083.com
@@ -3507,6 +3545,7 @@ orenhimtorg.ru
 orgyvids.info
 oropuro.online
 osetrkolomna.ru
+osuperrobo.online
 otechie.com
 otomotifme.com
 ottmillerchevrolet.com
@@ -3532,6 +3571,7 @@ pachisuave.com
 packetdump.xyz
 padelit.io
 paellalife.fun
+pagalworl.com
 paid-rewards.lol
 paid-sperm-donation-1-bu.click
 pakeezafrozenfood.com
@@ -3709,6 +3749,7 @@ prorobotard.com
 prosperpuls.online
 protect.in
 protectedcheckoutroute.com
+protenza-eg.com
 prototype.run
 providedatheyfromyouthe.club
 proxtrend.net
@@ -3800,6 +3841,7 @@ raidergearhub.shop
 ramirorosario.com
 rasarabian.com
 rashihospital.com
+rasoiratnammasala.com
 raspisurveillance.com
 ratledge.biz
 rawasex.com
@@ -3892,6 +3934,7 @@ ronnnn.com
 roofingspecialists.info
 room155.online
 rootoria.store
+roouterlogin.net
 rosemondhills.com
 rosewoodlaminates.com
 roundersonthestrip.com
@@ -3928,6 +3971,7 @@ saeuofgaeiufiaefgiaffgi.ru
 safeegypt.com
 safelnks.com
 sagechamber.com
+saglikocaklari.com
 saichaturvienterprises.com
 sakiwmk.top
 sakret-bausysteme.de
@@ -3939,6 +3983,8 @@ samsungmediahub.net
 sandedition.com
 sandelias.com
 sangsoft.net
+sanketvision.com
+sanstampings.com
 santarigo.top
 santoamaro.jp
 saonaminfo.com
@@ -4047,6 +4093,7 @@ shamrockdowns.com
 shefdomi.com
 shimeitehai.shop
 shipmentguard.io
+shockwharehouse.com
 shootangle.com
 shootingstarsphotographyprops.com
 shop-monarchs.com
@@ -4079,6 +4126,8 @@ singyourlife.club
 sinn-mirai.com
 siperasul.com
 sirishareddy.info
+sisliguzel.com
+sistemaplastic.com
 siteinprod.com.au
 sitioeletronico.com
 sixfinger.ru
@@ -4173,6 +4222,7 @@ springslegacy.org
 sprucetreepress.com
 sqlsentry.net
 squirtlejam.com
+sridharagurudasa.com
 srkcampus.org
 srlaptop.com
 srmoa.co.kr
@@ -4194,6 +4244,7 @@ startcode.co.il
 startupbizaud.net
 startupbusiness24.net
 startuptechnologyw.net
+statefoodsafty.com
 stateinfinity.com
 statemuseumpa.org
 statmy.site
@@ -4228,6 +4279,7 @@ stvwell.online
 styleperspaged.xyz
 sublimelbc.store
 suburbanexterminating.com
+suegypt.com
 suggestutterly.com
 suicidal.ninja
 sumanursinghome.com
@@ -4448,6 +4500,7 @@ tracklan.com
 tradertop.top
 tradingprice.net
 tradr0ger.cloud
+trafficadvance.net
 trailcampower.com
 trailgroupl.net
 tramincoarabia.com
@@ -4494,6 +4547,7 @@ tvsplurge.io
 twisted.mom
 twistscents.com
 twistscents.net
+two-a-design.com
 twtliquidity.pro
 twtownersbonus.shop
 u.call
@@ -4611,6 +4665,7 @@ videoadblocker-pro.net
 videoloe.com
 videonew.online
 videyus.site
+vietbuild.net
 viewing.in
 vigneronindependent.com
 viktorgavrilov.online
@@ -4625,6 +4680,7 @@ virii.es
 vishwakalyaan.com
 visitstcloud.com
 visualbasicscript.com
+vivaanmat.com
 vjexperience.com
 vkectpvftho.com
 vm-tiktok.org
@@ -4657,6 +4713,7 @@ wal-streetjournal.com
 walkden.space
 wall-street-journal.link
 wanderwoman.online
+wanoengineeringsystems.com
 wantnot.net
 wardeli.com
 watch-free-movies.online
@@ -4681,6 +4738,7 @@ webomma.tech
 weboot.info
 websetbusiness.com
 websitelistbuilder.com
+webtimemypeoplenet.com
 webwanderers.org
 wedlore-a.online
 wedlore-c.click
@@ -4798,6 +4856,7 @@ y.call
 yaboja14.com
 yalla-shoot.com
 yaraandcomode.com
+yavuzkaya.org
 ybndlpq.com
 ydfbcv.com
 yellowstone.com.mm
@@ -4830,6 +4889,7 @@ ysulfkey.com
 yuegongzu.net
 yuntibao.com
 yupimsn.com
+yupverse.com
 yurikamome.com
 yuruva.shop
 yuzhouchuanmei.fun
