@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-29 04:21:19 UTC
-# Total domains: 4933
+# Generated: 2025-08-29 10:28:25 UTC
+# Total domains: 4935
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -928,6 +928,7 @@ blancbeauty.store
 blatinoville.com
 bligevale.co.zw
 blixten.se
+block-digital.online
 blockcentersys.net
 blocknowtech.net
 blockprices.io
@@ -1738,6 +1739,7 @@ drink-jolt.com
 drinkplain.net
 drinkthink.us
 drivedanaford.com
+driverservices.store
 drivingdirections.online
 drivoroad.store
 drkhokars.com
