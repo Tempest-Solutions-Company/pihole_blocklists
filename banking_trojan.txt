@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-08-29 01:15:34 UTC
-# Total domains: 4931
+# Generated: 2025-08-29 04:21:19 UTC
+# Total domains: 4933
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -278,6 +278,7 @@
 720nn.cc
 729wl.com
 736512.xyz
+743cap1tal.art
 757housefinder.com
 7731sy.com
 777ebuy.net
@@ -1075,6 +1076,7 @@ caioriter.com
 calendario.online
 calibere.store
 calicospiceandherbs.com
+caligramoon.ir
 calledbyjoy.com
 calmbase.org
 camdenlakehoa.com

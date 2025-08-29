@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-29 01:15:34 UTC
-# Total domains: 14709
+# Generated: 2025-08-29 04:21:19 UTC
+# Total domains: 14710
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -119,6 +119,7 @@
 2bw12aba1d2d.com
 2c15b6d719.myjino.ru
 2cc2cc2.ml
+2ch.im.versiononefinance.com
 2gvision.com
 2hyperteks.net
 2id82.com
