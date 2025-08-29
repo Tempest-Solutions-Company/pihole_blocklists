@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-29 16:34:08 UTC
-# Total domains: 14780
+# Generated: 2025-08-29 22:39:22 UTC
+# Total domains: 14791
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -533,6 +533,7 @@ adobesupd.com
 adobeupdater.mcdir.ru
 adobeupdater.ng
 adohem-me.com
+adoniexmar.xyz
 adrack.us
 adresaadresata.xhost.ro
 adresolution.sk
@@ -4153,6 +4154,7 @@ engeforpavimentacao.com.br
 engelsmah0mes.com
 engerrow.gq
 engine-decide.gl.at.ply.gg
+engineering-consensus.gl.at.ply.gg
 engineeringsolutions.com.au
 engineparts.to
 english-glasmark.pl
@@ -4363,6 +4365,7 @@ exjijcjhjlatkplnfol.com
 exmo.co.in
 exmops.ml
 exodus.xhost.ro
+expected-sleeps.gl.at.ply.gg
 expenlid.ga
 expertech.sa
 expertisem.net
@@ -7873,6 +7876,7 @@ limpingmagnitude.top
 lineage2world.pro
 linebysharsa.com
 lines-clothes.gl.at.ply.gg
+lines-jordan.gl.at.ply.gg
 lingaz.com
 lingkaran.com.my
 lingzvl.top
@@ -8411,6 +8415,11 @@ mattech.am
 matteolopiccolophoto.com
 mattlc.com
 mattwyatt.co.uk
+mauasas35safael1.duckdns.org
+mauasas35safael2.duckdns.org
+mauasas35safael3.duckdns.org
+mauasas35safael4.duckdns.org
+mauasas35safael5.duckdns.org
 mauforex.com
 maugli8990.jhfree.net
 maurel.ml
@@ -11543,6 +11552,7 @@ semnas.unidar.ac.id
 semperigroup.com
 semschelwald.nl
 semtestcraiova.ro
+senaildebe.xyz
 send-txt-now.com
 sendblume.mx
 sendergrid.club
@@ -12272,6 +12282,7 @@ static.187.200.63.178.clients.your-server.de
 static.210.109.130.94.clients.your-server.de
 static.82.150.216.95.clients.your-server.de
 static.death-angel.shop
+static.messager.my
 statistseobd.xyz
 stats.company.fruitshop.by
 stats.lead.mysitehosted.com
