@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-08-30 01:39:31 UTC
-# Total domains: 14791
+# Generated: 2025-08-30 04:44:28 UTC
+# Total domains: 14827
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -167,6 +167,7 @@
 365-team.org
 365cash.exchange
 365daysfreiqht.com
+37.101.voltexpressdelivery.com
 37882.www7.site
 3821305pnceos328.xyz
 38robpl95.esy.es
@@ -423,6 +424,7 @@ academia-master.com
 acadtransportes.com.br
 acambaroradio.com
 acaness.com
+acarkkg.top
 acceso.live
 access.skaparade.com
 accessnews.linkpc.net
@@ -570,6 +572,7 @@ aefigafac.uni.me
 aept.es
 aerobicsfit.com
 aeroclubedeuberlandia.com.br
+aerokju.top
 aerosport.tech
 aesseal-my.com
 afamedya.com
@@ -1266,6 +1269,7 @@ atmodrive.top
 atmsistemica.com.br
 atmtest.ezar.ru
 atomicwallet.email
+atomqne.top
 atreyu.net
 atriocrm.com
 atrissi.de
@@ -1296,6 +1300,7 @@ aussieconnect.net
 australian-invoice.eu
 australianjerky.com
 auth-site.site
+auth.inmediavault.com
 auth.messager.my
 auth3.net
 authenticatesyahoostyle.info
@@ -1416,6 +1421,7 @@ b0t.online
 b19jdn167t.in
 b1gnet.comoj.com
 b1wr1337.zzz.com.ua
+b2.messager.my
 b2b-vm6.verticalcommunication.in
 b2blnd.com
 b2bseller.ga
@@ -1444,6 +1450,7 @@ backend.eastkingz.ru
 backgroundyouinternetenabled.org
 backify404.com
 backinmotionmassage.com
+backkrj.top
 backofficemail3.com
 bad-dragoon.flowadvertising.ro
 badboys.net.in
@@ -1867,6 +1874,7 @@ blacknet.all-hacks.org
 blacknet.riskpi.xyz
 blackpirate.site90.com
 blacksmithsoftware.net
+blacksu.top
 blackyywire.ddns.net
 blaize.in
 blast4blaster.com
@@ -2205,6 +2213,7 @@ busstations.eu
 bustaguy.ml
 butcaketforthen.com
 butland.cf
+buttalx.top
 butterflo.ru
 buvusio6.ru
 buy4php.com
@@ -4120,6 +4129,7 @@ emeralbees.com
 emgegsudlal.mn
 emiliano-sala.ga
 emineucakerdogan.com
+eminpxo.top
 emintechoilfield.com
 emioannina.gr
 emirate-net.me
@@ -5680,6 +5690,7 @@ gratefulsoulssa.com
 grathfordindustry.com
 gratona.gq
 gratshlol.hol.es
+gravilh.top
 graviteocup.us
 gravyshop111.000webhostapp.com
 gravyshop228.000webhostapp.com
@@ -5727,6 +5738,7 @@ grindtruex.online
 gripa.hr
 grivnichesvkisejj50.ru
 grizzlybags.ru
+grodpgy.top
 grohotaniratione200.com
 groliereffects.org
 grommm1.jerri1.mcdir.ru
@@ -6545,6 +6557,7 @@ intelifin.com
 intelphoto.iteach.com.ua
 intelz.duckdns.org
 interactiveresumebuilder.com
+interbk.top
 interconstructionsite.pro
 intercrop.co.th
 interfantom.tk
@@ -7592,6 +7605,7 @@ la6e51ed.justinstalledpanel.com
 la8204a3.justinstalledpanel.com
 la92ead5.justinstalledpanel.com
 laa7754f.justinstalledpanel.com
+lab.google-analytcis.com
 lab77a46.justinstalledpanel.com
 label123.1.vg
 labibread.info
@@ -7833,6 +7847,7 @@ li539-248.members.linode.com
 liamderneger.zapto.org
 libbeyy.com
 liberstotusedis.su
+libertydroid-magma.top
 libertygiove.com
 libng.ru
 librairiesapio.be
@@ -8473,6 +8488,7 @@ mdmuold.com
 mdnetrn.com
 mdolk.ru
 me.messager.my
+meadofnb.top
 mebejaa7.ru
 meca.co.in
 mecharnise.ir
@@ -8653,6 +8669,7 @@ mikocin.site
 miladko.com
 milanosss.ru
 militarygradehosting.com
+milliam.top
 million-sanyo.gl.at.ply.gg
 million.skgifts.com
 milonestlevevy.com
@@ -8816,6 +8833,7 @@ monkalef.com
 monocular69-3.euroshop04.eu
 monocular69-4.euroshop04.eu
 monocular71.euroshop04.eu
+monozfx.top
 monrelay-mondial.com
 monsierdroider.wang
 monstabody.com
@@ -9057,7 +9075,10 @@ myvizitkaepta.site88.net
 myxamop.com
 myyouporn.com
 mzaky.com
+n1.google-analytcis.com
 n18b7273u1j.in
+n2.google-analytcis.com
+n3.google-analytcis.com
 n7300.no
 n8n-bot.com
 n9151643.beget.tech
@@ -9430,9 +9451,11 @@ nreum.info
 nrf1living.com
 nrfronglu.com
 ns1.androha.com
+ns1.pakistancode.com
 ns1.zhengwubiaoge.top
 ns1server.co.uk
 ns2.ezhost.in
+ns2.pakistancode.com
 ns2.zhengwubiaoge.top
 ns3.izone.at
 ns511849.ip-192-99-19.net
@@ -9845,6 +9868,7 @@ ozgurdusleranaokulu.com
 ozibiza.com
 ozkardekorasyon.com
 ozo.microintegratedservice.com
+ozoned.top
 ozonyagi.biz
 ozowarac.com
 ozz.su
@@ -10197,6 +10221,7 @@ piska-k.pusku.com
 piszej.xyz
 piszek.com
 pita.3owl.com
+pitbubs.top
 pitchstak.ga
 pitegromab.lat
 pivetamaqfer.com.br
@@ -10285,6 +10310,7 @@ pofuduk.org
 poihyfded.superweb.ws
 point-rewards.com
 pointtravel.com.br
+poisoha.top
 poiuytrewq2.site
 poiuytrewq3.site
 pokemonfans.best
@@ -10716,6 +10742,7 @@ r-sbonline.biz
 r.ee
 r.gigaionjumbie.biz
 r29385w3.beget.tech
+r3.messager.my
 r353r3f5.cn
 r6868931.beget.tech
 r87.online
@@ -10771,6 +10798,7 @@ rapidloader.org
 rapidsha.com
 rapistoparistos.xyz
 rapogliffer.club
+rapsmmv.top
 rapxwo.com
 rar-lab.ru
 raritybntz7z2.besaba.com
@@ -10794,6 +10822,7 @@ ratro.usa.cc
 ratty.mywire.org
 ratuinopurene.pw
 raveh.ru
+ravimwz.top
 raw.vaticanc2.top
 rawand.esy.es
 rawdagger.top
@@ -10825,6 +10854,7 @@ readepagamentodocliente.shop
 readerstoreonline.com
 readydocument-download.icu
 readysteadyretire.co.uk
+realhwo.top
 realitiesavenues.net
 really-disease.gl.at.ply.gg
 realnuggetrolecall.com
@@ -11104,6 +11134,7 @@ roofspade.info
 room402.in
 roomiespark.com
 root.track2.cc
+rootdz.messager.my
 roothost.comoj.com
 rootor.zzz.com.ua
 rootpanel.inthostingpro.com
@@ -11304,6 +11335,7 @@ saliyumakan.club
 sallesp88.zzz.com.ua
 salo228.com
 salonlaquintajardin.com
+saltzmx.top
 salubritate-craiova.ro
 salvationdekey.net
 salvmps.top
@@ -12332,6 +12364,7 @@ stepa.asyx.ru
 stepbystepshillong.com
 stephenkellogg.com
 stephenlazar.com
+stepwxv.top
 stevennewpanel.herobo.com
 stevescabinets.com
 steyxld.top
@@ -12890,6 +12923,7 @@ thaus.ws
 thawaslobem.com
 thayma.it
 the8020.info
+theapte.top
 theassassinscreedrevolution.com
 theautogalery.com
 theblackfun.000webhostapp.com
@@ -14043,6 +14077,7 @@ watch3dfilms.com
 watch3dfilms.info
 watchmovie.life
 waterchem.com.tr
+waterkz.top
 waterlord.besaba.com
 wattmeter.win
 watwareesarn.com
@@ -14216,6 +14251,7 @@ williamsonteas.com
 williamsway2luv.com
 williemeshurkmre.net
 willmoretraders.tk
+willozm.top
 willspaks.su
 willubmyscr.com
 willyjack-us.dog.cp-uk-2.webhostbox.net
