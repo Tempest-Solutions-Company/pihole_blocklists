@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-01 01:23:53 UTC
-# Total domains: 15026
+# Generated: 2025-09-01 05:30:00 UTC
+# Total domains: 15029
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -9102,6 +9102,7 @@ mwgroup.co
 mx.downy.pw
 my-abaya.nl
 my-right.fr
+my.lulugiy2.ru
 my.paneltesla.net
 my40ventures.biz
 myadminspanels.info
@@ -12794,6 +12795,7 @@ systema-1.nichost.ru
 systemcare2020-download.com
 systemsupport.ddns.net
 systic.duckdns.org
+syswolupdatesupp1.com
 szccf361.com
 szevargrows.com
 szonlline.net
@@ -13619,6 +13621,7 @@ ubon.go.th
 ubqgroup.com
 ucakbileti1.com
 uccftl.org
+ucx.lulugiy2.ru
 udachnozamug.com
 udauindm.com
 udhisparty.net
