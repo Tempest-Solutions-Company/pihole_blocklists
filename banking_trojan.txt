@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-02 18:03:18 UTC
-# Total domains: 4996
+# Generated: 2025-09-03 00:09:00 UTC
+# Total domains: 5013
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -430,6 +430,7 @@ aegistax.com
 aenlight.com
 aerobase.store
 aerodromeabase.com
+aes-secure.net
 aesos.xyz
 afcultures.com
 afghanemail.net
@@ -632,6 +633,7 @@ aqd65.xyz
 arabianplusksa.com
 arabiccurchsurrey.com
 arancal.com
+arcashop.org
 archimedescapitalltd.com
 archive1887.com
 ardorauto.ca
@@ -751,6 +753,8 @@ axqlxogpofpa.net
 ayezaksa.com
 ayoidbsku.xyz
 aytobusesre.com
+azuredeploypackages.net
+azureglobalaccelerator.com
 azuycomp.com
 b1wt.com
 b2-impact.es
@@ -1075,6 +1079,7 @@ cabdtniq.com
 cagremub.ru
 caioriter.com
 calendario.online
+calendly.live
 calibere.store
 calicospiceandherbs.com
 caligramoon.ir
@@ -1723,6 +1728,7 @@ downloads-windows-apps.com
 downloastar.com
 downsave.info
 dpds.lol
+dpkgrepo.com
 dpndnc.com
 dpti-oh.com
 dpway.it
@@ -2101,6 +2107,7 @@ ft.call
 ftskco.com
 ftuapps.com
 ftven-preprod.fr
+ftxstock.com
 fuckghost.com
 fuckingherpussy.com
 fuckingsexvideo.com
@@ -2756,6 +2763,7 @@ jaynb.com
 jcduffy.com
 jcpenneyrewards.com
 jdbelle.com
+jdkgradle.com
 jedecidedetre.fr
 jeegtube.com
 jelenakalicanin.com
@@ -2873,6 +2881,7 @@ kekeoamigo.com
 kelotecnologia.com
 kelvinforcouncil.info
 kensfishsd.shop
+keondigital.com
 ketchupgiri.shop
 ketquaplus.top
 ketsvpn.com
@@ -2976,6 +2985,7 @@ lapel-pins-source.com
 larabet100.com
 laradiossl.online
 larkspuratx.com
+latamics.org
 latestsports.online
 lautmanwebservices.com
 lavishboutique.shop
@@ -3058,6 +3068,7 @@ livevideoslots.net
 lizdory.site
 llkjllj.top
 llmjrfc.com
+lmaxtrd.com
 lndk-a1.online
 lndk-a3.online
 lndk-a4.online
@@ -3408,6 +3419,7 @@ namalsk.online
 namfruitvn.site
 nanashopromania.com
 nanophone.store
+nansenpro.com
 napsathletik.com
 narsinga.com
 nasbst.com
@@ -3556,6 +3568,7 @@ oliva.co.id
 omegaproyectos.com
 omi-dev.com
 ominversity.us
+oncehub.co
 onebet.co.ug
 onedirver.com
 onemusic.ph
@@ -3640,6 +3653,7 @@ pasaaportes-citas-srre-gob.com
 patmushta.info
 pauloalves.info
 paulwadeandassociates.com
+paxosfuture.com
 paysignrewardcard.com
 paytech.cc
 pc-app-desktops.com
@@ -3701,6 +3715,7 @@ phomecare.co.uk
 phoonhaut.com
 phxdigitalcapture.com
 phxgolfhomes.com
+picktime.live
 picnicliverpool.online
 pidefollar.com
 pieceofheavenptc.info
@@ -3837,6 +3852,8 @@ pwastore.com
 pwnyy.de
 pwrfume.shop
 pyfao.es
+pypilibrary.com
+pypistorage.com
 q33.space
 qastaff-systemqa-21731637-1695306145623.xyz
 qastaff-systemqa-21808589-yys.xyz
