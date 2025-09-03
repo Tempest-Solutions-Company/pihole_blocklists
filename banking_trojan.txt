@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-03 13:19:28 UTC
-# Total domains: 5015
+# Generated: 2025-09-03 18:24:52 UTC
+# Total domains: 5017
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -346,6 +346,7 @@ a2bparcel.com
 a2kiaymoster12902.com
 a2zfortextile.com
 a7-betlionking.com
+aaaaaaa.aaa
 aaaeieiiioffftr.cc
 aabsher-sds.com
 aainsured.com
@@ -4763,6 +4764,7 @@ villageatbrookmeadow.com
 villeco.com
 vimchaugiang.vn
 vinalineshaugiang.vn
+vipyrsec.com
 viral-news.online
 viralbeauty.id
 virhub.biz
