@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-03 18:24:52 UTC
-# Total domains: 5017
+# Generated: 2025-09-04 00:30:01 UTC
+# Total domains: 5018
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3356,6 +3356,7 @@ msing.cc
 mskisdakw.top
 msmwars.com
 msslnk.com
+mssscardprv.ax
 msteamseyeappstore.com
 mta.online
 mtteksa.com
