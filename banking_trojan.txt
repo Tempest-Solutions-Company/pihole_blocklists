@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-03 01:09:10 UTC
-# Total domains: 5013
+# Generated: 2025-09-03 06:14:30 UTC
+# Total domains: 5015
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -580,6 +580,7 @@ aoabet6915.com
 aoavip387.com
 aonehomecare.org
 aosafrica.co.za
+apdl.cf
 apnifosa.ru
 apotekgriyafarma.com
 app-appstore.cc
@@ -1991,6 +1992,7 @@ fifsource.com
 fightingduck.co.uk
 figpartners.com
 fiik.online
+file.name
 filehilo.com
 filmograph.tv
 financea.site
