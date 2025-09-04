@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-04 13:40:24 UTC
-# Total domains: 5018
+# Generated: 2025-09-04 18:45:25 UTC
+# Total domains: 5019
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1103,6 +1103,7 @@ canoecubs.com
 cante.store
 caornaments.com
 capelo.shop
+capgrpcu.com
 capitalperurrhh.com
 capitolioeventos.com
 capstonequarterstuscaloosa.com
