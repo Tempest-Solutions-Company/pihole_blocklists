@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-04 06:35:21 UTC
-# Total domains: 15640
+# Generated: 2025-09-04 12:40:15 UTC
+# Total domains: 15664
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -561,6 +561,7 @@ adobedownloadupdate.com
 adobelink.me
 adobeshop.site
 adobesupd.com
+adobesystem.duckdns.org
 adobeupdater.mcdir.ru
 adobeupdater.ng
 adohem-me.com
@@ -856,6 +857,7 @@ allstarss.tk
 allstroyka.by
 allterrainadventures.co.uk
 alltoglass.com
+allupdateservices.com
 allworldnewses.com
 almazdental.ru
 almiighty-47767.portmap.host
@@ -2135,6 +2137,7 @@ boykusumabrata.com
 boyntonpropertygroup.com
 boyzkwete.in
 bpcgovyoyo.com
+bpm.w0rkz.com
 bpoxnet.com
 bppkbsulsel.com
 bprdptaspen.com
@@ -2352,6 +2355,7 @@ c0824.top
 c1265.top
 c1302.top
 c1e86f3506cfe05a6738ea6893ff7e.duckdns.org
+c2.sombras.space
 c2.wifi.hypdncy.com
 c2059.top
 c2751.top
@@ -3492,6 +3496,7 @@ dbimbem.axfree.com
 dbslc.xyz
 dc-collection.com
 dc-oc-01.org.ru
+dc.burydyu0.ru
 dc.nufypiy1.ru
 dccosa.com
 dcm2195.com
@@ -3532,6 +3537,7 @@ dec2.0pu.ru
 decatvl.top
 december.zzz.com.ua
 decemberrushing.us
+decena10.duckdns.org
 deciduate-pot.000webhostapp.com
 deciss.ga
 deciss.gq
@@ -3797,6 +3803,8 @@ dkpdesiqns.com
 dks05.cyou
 dl.vuzojiu9.ru
 dliol.com.ar
+dll.vuzojiu9.ru
+dload.chatology.my
 dlp.socialsalesnaija.com
 dlt-schoolbus.net
 dm.cuzolia9.ru
@@ -5223,6 +5231,7 @@ fkyhelp.top
 fl.he.02.node.poi.best
 fl3xyinc.com
 fl3xyinc.top
+flac.fozomya6.ru
 flacca.usa.cc
 flagump.top
 flakehop.ga
@@ -6657,6 +6666,7 @@ icce.cl
 iccs.com.sa
 ice-hsd.com
 ice.andromed.in.ua
+ice.qecufey7.ru
 iceboxer.marcussoil.com
 icej-thailand.com
 icekempresa.com
@@ -7211,6 +7221,7 @@ jensens.site88.net
 jensonsintrenational.com
 jerichoconstructioncompany.com
 jerryguy.usa.cc
+jerrytech2020.duckdns.org
 jertamsak.xyz
 jeryterss.ga
 jesjee.no-ip.org
@@ -7376,6 +7387,7 @@ jsm.mosatiy4.ru
 jsrdpgvmu.com
 jsruigbvsikurhgvb.com
 jstxomkn.com
+jt.gyjyvyy6.ru
 jtp888888.ru
 juanadearco.com.uy
 juanoylosinternos.cl
@@ -7392,6 +7404,7 @@ jul5050quasaf.duckdns.org
 julaly.ml
 juliacrescitelli.com
 juliedclient.org.in
+julio2020.duckdns.org
 julitrade.com
 julrina.000webhostapp.com
 jumangiback.com
@@ -8705,6 +8718,7 @@ makadicuosde.gq
 makafy.com
 makafy.net
 makana.care
+makarovs839.duckdns.org
 makdhe.gq
 makemoneyonlinewithdougzimmer.com
 makepie.cf
@@ -8772,6 +8786,7 @@ mapsresearch.ca
 maqfax.com.br
 mar-keyservices.com
 maratonando.tk
+maravillas12.duckdns.org
 marbelclinic.com
 marbellaaestheticsurgery.es
 marbflop.cf
@@ -8827,6 +8842,7 @@ marvelvod.com
 maryduke.co.uk
 marytraders.in
 marziafr.com
+marzo2020.duckdns.org
 masabe7.com
 masadproject.life
 masco.com.sa
@@ -10517,6 +10533,7 @@ paydayloanskat.com
 paydbills.ru
 paykkinvoice.co.uk
 paylesssignandprinters.ca
+payload.tahirvoip.shop
 paynsurf.co.uk
 paypal-gifts.co
 paypal.juliani.co.ke
@@ -11392,6 +11409,7 @@ ray-den.xyz
 rays-auto-parts.net
 rayvvin.cc
 razer-comms.esy.es
+razer.chatology.my
 rb-nitl.com
 rbartdeguauwfnmuf.com
 rbsfinancials.com
@@ -11870,6 +11888,7 @@ sads.ml
 sadurtmjpsad.pw
 saecargomaritime.com
 saeeaglesgroup.com
+saewh.com
 safaricomfreemb.000webhostapp.com
 safe110413.com
 safehardwareuae.com
@@ -13432,6 +13451,7 @@ teamsheep.cc
 teamtestimonialproadvertising.com
 teamtosh.xyz
 teamuprising.net
+teamvievwerup.duckdns.org
 teaspdj.top
 teatromunicipal.gov.co
 teb.rilefoo8.ru
@@ -13638,6 +13658,7 @@ themilili.0xhost.net
 themmaopen.co.uk
 themoddingbot.altervista.org
 themutualbenefits.com
+then-northeast.gl.at.ply.gg
 thenamephotos.cl
 thenewhuman.xyz
 thenorwayforyou.pl
@@ -14180,6 +14201,7 @@ ufsbrt.online
 ufsbrt.site
 ufudf8fjoidiosoi.co.at.nr
 ug.rilefoo8.ru
+ug.velyzeu3.ru
 ugan.ga
 ugobweb.xyz
 ugpostc.top
@@ -15074,6 +15096,7 @@ wmlsols.com
 wmzbase.ru
 wn6do.top
 wo-technologie.com
+wod.qehucuu5.ru
 wode.cl
 wodrfdxakskqdurgg.com
 woelpuu.com
@@ -15255,6 +15278,7 @@ xinsaer.com
 xircus.ws
 xixero9507.myjino.ru
 xixonua5.ru
+xjk.luxemyy2.ru
 xkchipoapyp.com
 xlightsfaces.com
 xlightshop.com
