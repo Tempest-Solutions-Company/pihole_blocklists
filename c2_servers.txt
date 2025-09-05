@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-05 01:55:33 UTC
-# Total domains: 15709
+# Generated: 2025-09-05 07:08:33 UTC
+# Total domains: 15716
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3285,6 +3285,9 @@ cuzavu.ru
 cv-eksotika.co.id
 cv-setiadharma.com
 cv.bezyweo.ru
+cv.bizahao.ru
+cv.bojyqiy.ru
+cv.jikeqye.ru
 cv.kogudoo.ru
 cv00879.tmweb.ru
 cv06897.tmweb.ru
@@ -10878,6 +10881,7 @@ poel.cba.pl
 poeppelmannn.com
 poertywindow.com
 pofuduk.org
+pogoda.messager.my
 poihyfded.superweb.ws
 point-rewards.com
 pointtravel.com.br
@@ -13326,6 +13330,7 @@ swithz.com
 swizzhub.ml
 swordandair2000.ru
 swrcfjlm.top
+sx.11.duitmasyuk.asia
 sxctrading.com
 sxhuada.com
 sy644.top
@@ -14426,6 +14431,7 @@ uuid.thetrancoe.com
 uuknot.org
 uv-lit.rs
 uv.cadynue6.ru
+uv.ritenoo3.ru
 uvayuov.hussanways.com
 uvptsjqdvxkjsca.com
 uwhfdsndcjdn.tk
@@ -15052,6 +15058,7 @@ whyuneedcrackfakesitehaha.000webhostapp.com
 wiangsa.ac.th
 wickedhamsters.com
 wideawake.cc
+widgets.messager.my
 wieda-mc.com
 wieiland.com
 wienu.com
