@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-05 19:30:19 UTC
-# Total domains: 5019
+# Generated: 2025-09-06 01:39:24 UTC
+# Total domains: 5030
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2698,6 +2698,7 @@ ionoslaba.com
 iperdesk.com
 ipornia.com
 ipsen-med.ch
+iptvadvice.com
 iptvjungle.online
 ipwebcam.info
 iqykwx.top
@@ -2835,6 +2836,9 @@ justoyeco.com
 juventud-luminosidad.site
 jvps.hosting
 jvrimages.com
+jvtv.xyz
+jvtvlive.com
+jvtvlive.xyz
 jwrightphoto.net
 jwtcap.com
 jx-dele.com
@@ -3795,6 +3799,7 @@ prawnbasket.com
 prctvsng.com
 precutppf.store
 prejoinbuzzy.store
+premiumplustv.xyz
 prettyanimals.net
 prewento.com
 primaryhealth.com
@@ -4358,6 +4363,7 @@ stratahq.com.au
 stratimasesstr.com
 streamrestoration.com
 streamtecheng.com
+streamxpert.net
 strtz.site
 sts.com.sa
 ststephenscollege.ca
@@ -4560,6 +4566,8 @@ titanelitetraining.com
 titanhub.co.uk
 titleassistants.com
 titnovacrion.top
+tiyanhost.com
+tiyansoft.com
 tjvrnzar.info
 tkamc.com
 tlcnailbarhoover.com
@@ -4932,7 +4940,10 @@ xn--skp-lma2h.com
 xn--sukabt-m4a.com
 xr94.xyz
 xthnqp.com
+xtreamui.org
 xtreme.hr
+xuione.com
+xuione.one
 xwqkhnc.com
 xwxaru.com
 xxlicious.com
