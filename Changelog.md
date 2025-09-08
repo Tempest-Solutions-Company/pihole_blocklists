@@ -1,3 +1,7 @@
+## **__Version 1.02__**
+Updated the GitHub Pages page with new links.
+
+
 ## **__Version 1.01__**
 __Training__
 Retrained the ML Malicious Domain finder on banking and finance threats.
