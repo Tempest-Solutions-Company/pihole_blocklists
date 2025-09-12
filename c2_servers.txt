@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-12 16:06:56 UTC
-# Total domains: 16699
+# Generated: 2025-09-12 22:40:59 UTC
+# Total domains: 16734
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -65,6 +65,7 @@
 12xxhs.sbs
 13.107.ihireinternationalagency.com
 130.zuole.ml
+1308344827-4bya137jfj.ap-guangzhou.tencentscf.com
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com
 1337pony.hol.es
 1337smvids.xyz
@@ -1029,6 +1030,7 @@ amzertradingltd.com
 amztechnology.com
 an-schema.gl.at.ply.gg
 an-soglasie.com.ua
+an.boku0.ru
 anad55.eb2a.com
 anadoluelektrik.com.tr
 analdevil0.offhst.ru
@@ -1289,6 +1291,7 @@ artyintelligence.com
 artyislandrentals.net
 arvision.com.co
 arziiddos.altervista.org
+as.ty1un.ru
 asappyco.biz
 asasecurityservicesasia.com
 asatech.cf
@@ -2386,6 +2389,7 @@ bubzie404.site88.net
 buchaizav.club
 buchiike.com
 bucketsec.tk
+bucrew.asia
 bucscrup.ru
 budget2017.info
 budparbanjarnegara.com
@@ -4048,6 +4052,7 @@ dnshdakjasdns14213.com
 dnshksd3asdns1421344d.com
 dnspod.pro
 dnys.hi2.ro
+do.boku-0.ru
 do.cawyfie51.ru
 do.feryfoi88.ru
 do.kemem.ga
@@ -5530,6 +5535,7 @@ fl3xyinc.com
 fl3xyinc.top
 flac.fozomya6.ru
 flacca.usa.cc
+fladiw.asia
 flagump.top
 flakehop.ga
 flambiipanel.zz.mu
@@ -6171,6 +6177,7 @@ go-assist.me
 go-refund.com
 go-upload.ru
 go.badejie69.ru
+go.boku-0.ru
 go.clan-base.de
 go.dihijio22.ru
 go.jytoceo30.ru
@@ -6626,6 +6633,7 @@ hdsfosduhufsa.xyz
 hdtvsounds.ru
 hdxy.somipaa9.ru
 he-beta.click
+he.boku-0.ru
 he.harekae65.ru
 header.do
 healthbazar.in
@@ -8175,6 +8183,7 @@ kitvent.com
 kiwi123kiwi.work
 kiytrerf.tk
 kj-engineering.com
+kj.by3iq.ru
 kjdfhg234d.ru
 kjkaxfg.com
 kjlaw.ge
@@ -8375,6 +8384,7 @@ kyant4.com
 kyn-sandbox.com
 kywuzeo4.ru
 kz.thawaslobem.com
+l.bi3ux.ru
 l.dasurie36.ru
 l007fdde.justinstalledpanel.com
 l009fa92.justinstalledpanel.com
@@ -8555,6 +8565,7 @@ lassicaluxe.shop
 last-get.gl.at.ply.gg
 lastlapsantos.info
 lastprisoner.org
+lastsentinelflock.org
 lasvegas.beget.tech
 lateholidaydeals.org.uk
 laterjs.top
@@ -9372,6 +9383,7 @@ mashevserv.com
 mashop.eb2a.com
 masjids.com
 maslechemascarne.com
+masmbv.asia
 masn.xyz
 masqingtestformat.gleeze.com
 masresk.ir
@@ -9452,6 +9464,7 @@ mcpe64.ru
 md-67.whb.tempwebhost.net
 md-mean.gl.at.ply.gg
 md.9awi.pw
+md.cykugeu.ru
 md.rexykye2.ru
 mdelatropsopc.info
 mdksimon.su
@@ -9639,6 +9652,7 @@ microsoftsup.com
 microsoftsupdates.org
 microsolt.ru
 microstresser.com
+microupdater.ignorelist.com
 microzoftt.com
 mida12.com.br
 mideastshippinq.co.uk
@@ -9687,6 +9701,7 @@ minecrafttusa1.myjino.ru
 minecraftzone.com
 minefunc.ml
 minefunsamp.tk
+minepulse.pro
 minergate.sytes.net
 minerkg.myjino.ru
 mineronline.ru
@@ -10291,6 +10306,7 @@ newposter4season.pw
 newpredatorrabotatsuka.site
 newprotiles.com
 news.gruzotaxi.dn.ua
+news.heix-energietechnik.com
 news.intertours.org.rs
 news.quenerabh.net
 newsamplesproduct.com
@@ -10547,6 +10563,7 @@ ntgas.ml
 ntlligent.info
 ntrcgroup.com
 ntservice.cf
+ntv.vumarifa.com
 ntw-vveb.com
 ntwireds.com
 nucnlp.top
@@ -11985,6 +12002,7 @@ qr.nelypuu5.ru
 qra.we4ex.ru
 qreateandtrack.com
 qrnju.dopitter.info
+qsetshi.live
 qtlmbubna.com
 quad-erzgebirge.de
 qualityinet.net
@@ -12008,6 +12026,7 @@ quizzles.club
 qunohei5.ru
 quotox.org.in
 quurieun.top
+qv.bi3ux.ru
 qv.hicymui.ru
 qvpumps.com
 qweijscx.ru
@@ -12269,6 +12288,7 @@ reposition.net.au
 repottenfuc.fun
 representacionesaustral.cl
 repurtinopaelio.space
+repzzm.asia
 requipsol.es
 reschsc.top
 resckoltd.com
@@ -13186,10 +13206,15 @@ shimedzu.eu
 shinaan.com
 shinas.co.in
 ship-be.gl.at.ply.gg
+shiporitoy.sbs
 shirowawa.uphero.com
 shirtsstores.com
+shiteafirs.live
+shiteathre.sbs
+shiteatwop.sbs
 shivsons.info
 shivtiyk.com
+shiwa.sbs
 shiznith.zz.mu
 shiznithserver.co.uk
 shlyapa.website
@@ -14312,6 +14337,7 @@ tdswind.ru
 tdz.fozomya6.ru
 te.gunim5yi8.ru
 te.migyvya2.ru
+teachingbutter.info
 teamathos.free.fr
 teamferrer.net
 teamo010203.ru
@@ -14637,6 +14663,7 @@ tirat1ck-28292.portmap.host
 tirohua7.ru
 tiscalinet.net
 tispenodnos.quest
+titan.tail922ba4.ts.net
 titaniumaftersoft50.net
 titaniumstresser.net
 titansaude.com.br
@@ -15235,6 +15262,7 @@ update43x.myvnc.com
 updatecenter.ru
 updateinstall.xyz
 updateoffice360.top
+updater-internal.mooo.com
 updates-windows-10-184623.com
 updates.highendmark.com
 updatiing.co
@@ -15852,6 +15880,7 @@ wealthstrategyflow.xyz
 wearestillalive.org
 wearethestorm.com
 weather-pluss.com
+weatherforce.info
 weaversbase.com
 web.eng.ubu.ac.th
 web.ktfs4.top
@@ -15873,6 +15902,7 @@ webcrafterscol.com
 webcre8.com
 webdesk.email
 webdevelopments.co.in
+webdisk.umathurman.org
 webfenix.no-ip.org
 webfotoz.com
 webgiz.muz.ifsuldeminas.edu.br
@@ -16089,6 +16119,7 @@ wmlsols.com
 wmzbase.ru
 wn6do.top
 wo-technologie.com
+wo.by3iq.ru
 wod.qehucuu5.ru
 wode.cl
 wodrfdxakskqdurgg.com
@@ -16292,6 +16323,7 @@ xmaxgiftss.com
 xmedia1124.ddns.net
 xmegami.store
 xmjmlxiibhblorc.com
+xml-suggestions.gl.at.ply.gg
 xml.streetsscores.us
 xmode.duckdns.org
 xmpzi.icu
@@ -16398,6 +16430,8 @@ yasage.co.uk
 yasamaugrasi.com
 yaseen-tismantr.com
 yaskifella.esy.es
+yassinea-24570.portmap.host
+yassinea2-47754.portmap.host
 yassra.com
 yatds.com
 yatsane.com
@@ -16667,6 +16701,7 @@ zoshclain.store
 zozo.su
 zozovahbrands.com
 zozylya5565.zzz.com.ua
+zpa.bi3ux.ru
 zpowersbattery.com
 zquirtproom.pw
 zr.velyzeu3.ru
