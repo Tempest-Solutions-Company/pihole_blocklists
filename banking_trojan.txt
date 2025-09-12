@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-08 15:34:30 UTC
-# Total domains: 5106
+# Generated: 2025-09-12 16:06:56 UTC
+# Total domains: 5170
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -754,6 +754,7 @@ averagee.shop
 averichilds.com
 avi-on.site
 aviakass.net
+avinetworks.com
 avivobrickovenpizza.com
 avsoundrtr.com
 avtomats-wulkan.com
@@ -941,6 +942,7 @@ black-sea.net
 black.toys
 blackcreamholes.com
 blackmagikentertainment.com
+blackmonsterterror.com
 blackshine.lk
 blackteenierevenge.com
 blades247.com
@@ -1063,6 +1065,7 @@ bullhornreach.com
 bunjkar.com
 bunnyranchsmokingroom.com
 burgermojo.com
+burtleburtle.net
 businesforhome.com
 businessannually.com
 bustedbydaddy.com
@@ -1591,6 +1594,7 @@ dbmasters.online
 dbprogram.net
 dbuklondon.com
 dccards.store
+dcm-assets.com
 dcrobbins.com
 ddmsolutions.co
 ddownload39.club
@@ -1932,6 +1936,7 @@ eventbright.com
 eventbrite.biz
 everify.com
 evets.jp
+evillab.world
 evin.info
 evnxkqqm.com
 evolutionunlimited.us
@@ -2442,6 +2447,7 @@ hdehomem.com
 hdzfmelf.com
 headlinepost.net
 healthrfrt.shop
+healthwise.org
 healthycluesnews.com
 heavenonearth.shop
 heavywaterboards.com
@@ -2521,6 +2527,7 @@ holli.store
 home-work-in.com
 homeapet.com
 homedepotmro.com
+homegrownnationalpark.org
 homemnerd.com
 homeownersinsurance.insure
 hone88.com
@@ -2634,6 +2641,7 @@ ideish.com
 idfconsortium.info
 idfs.com
 idt911consulting.com
+idtechonline.com
 iebam1.buzz
 iebam2.buzz
 iebam3.buzz
@@ -2680,6 +2688,7 @@ inc.legal
 incircle.com
 incometaxassessments.com
 independent-transport.com
+indextv.org
 indian19.com
 inditedexplanatory.webcam
 indobit.io
@@ -2855,6 +2864,7 @@ joondr.com
 joony.online
 jordan720.com
 joshspice.com
+jossettebrieval.com
 journeotravel.com
 jovanpuyo.com
 jovo.io
@@ -2961,6 +2971,7 @@ kistr.club
 kitekonnect.fr
 kivoicebot.de
 kiwifare.net
+kkandluke.com
 kkmi1.top
 kkmi2.top
 kkmi3.top
@@ -3250,6 +3261,7 @@ markleygm.com
 marktoberfest.beer
 maroon5.store
 marsyang.site
+marvelcore.top
 marvinsappmusic.com
 marx.in
 masabrothas.com
@@ -3780,6 +3792,7 @@ phit.click
 phoenixhardwoodinc.online
 phomecare.co.uk
 phoonhaut.com
+photobox.ie
 phxdigitalcapture.com
 phxgolfhomes.com
 picktime.live
@@ -3933,6 +3946,7 @@ qbot.zip
 qbra7.com
 qckenter.com
 qdpvnjhzcafbl.space
+qello.com
 qg777appg.com
 qhsiuu.online
 qihwuixie.com
@@ -3970,16 +3984,22 @@ quicken-install.com
 quickhookup.site
 quicklegaladvice.space
 quickpcfixer.click
+quickstyle.online
 quicktint.shop
 quilibrium.shop
 quintet.shop
 quistora.store
+quorumcall.online
 quoteloom.online
+qvafkzqojrhbl.online
+qvc-faci.site
 qvspsjpiczfcd.online
 qvvksmeemfgd.com
 qwsdefg.shop
+qxdvgdculrkfo.store
 qxjmhs.com
 qxq80smu.shop
+qyczmtalenlnc.store
 qysmahku.ru
 qzcuate.net
 qznvtb.com
@@ -3990,6 +4010,7 @@ r2m.online
 radioclubvenezolano.org
 radiosoftware.online
 raffela.store
+ragtime.online
 raguhloc.ru
 raheelmalik.info
 raidergearhub.shop
@@ -4031,6 +4052,7 @@ reganter.com
 regen-time.com
 regexper.com
 register-buzzy.store
+rehab.shop
 rehlatalkhaleej.com
 release.id
 relojeriatempus.shop
@@ -4040,6 +4062,7 @@ remonteck.ru
 renovaosevidorshop.shop
 renovocleaning.ca
 rentedpushy.com
+rentforevent.shop
 rentvillcr.homes
 rentvillcr.online
 respect-art.ru
@@ -4098,6 +4121,7 @@ roundstransports.com
 routecheckoutencrypted.com
 routerbfa62c.com
 routers.rip
+royalchopstixirving.site
 royalmeuble.shop
 roybsp.net
 rrlabbook.com
@@ -4111,6 +4135,8 @@ ruggioil.com
 ruksk.com
 rumarchive.com
 runnerspacegifts.com
+runningnaaruto.space
+runonrun.shop
 runt.monster
 rushop.space
 russshirley.com
@@ -4160,6 +4186,7 @@ satishcloud.xyz
 saturn5.biz
 saudavelsempre.store
 saurkanot.com
+saverudata.online
 saveye.ru
 savills.me
 savortherich.com
@@ -4179,12 +4206,14 @@ schmitz.ai
 schofieldpm.com
 schoolofattraction.com
 schoolofattraction.com.au
+schoolperusac.store
 schoolsos.xyz
 schumacherbar.com
 scifimond.com
 sckhealth.org
 scotcash.net
 scottsdalecapital.com
+scribeemr.com
 scripturesksa.com
 scrub-wow.ca
 sdvg-impuls.ru
@@ -4210,6 +4239,7 @@ segmeridian.com
 sehatayurvedic.com
 seirsanduk.com
 selfrealestategroup.com
+selsovet.store
 semandex.com
 sembrandosemillas.us
 semquedagotas.com.br
@@ -4224,7 +4254,9 @@ seohomee.com
 sepgames.online
 sepsiqbo.ru
 septcntr.com
+serenesleepsolutions.store
 sergeishahov.online
+servedtocert.com.au
 service-activity-checkup.site
 serviceupdateaccountinfo.com
 sethkniep.com
@@ -4250,6 +4282,8 @@ sglcarbon.sk
 shaf.in
 shalankaenterprises.com
 shamrockdowns.com
+shawnverson.com
+shayne.fun
 shefdomi.com
 shimeitehai.shop
 shipmentguard.io
@@ -4262,6 +4296,7 @@ shopbargain.store
 shopblvd.us
 shopnadena.com
 shopnamejewelry.com
+shoppyfind.store
 showday.online
 shredessence.com
 shunda321.com
@@ -4271,7 +4306,9 @@ signauxun.com
 signoflife.com
 signzilla.com
 siliconvalleyjazz.com
+silk-road-auckland.shop
 silkinsurance.com
+silksculpt.site
 siloneq.ru
 silvermoon.co.nz
 simmonsbankarena.com
@@ -4357,6 +4394,7 @@ sonymusic.ch
 sonymusic.no
 sonymusic.pt
 sonymusic.ru
+sophostest.com
 sopotkinnie.com
 sorrycross.net
 soultech.sa
@@ -4389,6 +4427,7 @@ srlaptop.com
 srmoa.co.kr
 srsone.click
 sso-company.com
+ssstik.online
 stadiumview.us
 staffordplaza.com
 stage.top
@@ -4403,6 +4442,7 @@ starkscontractlng.com
 starpointtrading.com
 starspangle200.org
 startcode.co.il
+startmarketinglab.site
 startupbizaud.net
 startupbusiness24.net
 startuptechnologyw.net
@@ -4410,10 +4450,12 @@ statefoodsafty.com
 stateinfinity.com
 statemuseumpa.org
 statmy.site
+stay-protect.online
 stbnlkw.com
 steamteamdev.net
 stefvandenheuvel.com
 steprtex.click
+stickmangames.click
 stickmanhook.homes
 stillsleep.com
 stlkkfrva.site
@@ -4454,6 +4496,7 @@ sunnynet.site
 sunsetbeachplace.com
 sunstreet.solar
 superawesomephotoclub.com
+superblife.online
 supercharming.com
 superior-coin.com
 superlove.shop
@@ -4462,6 +4505,7 @@ supernegro.mom
 superseriesscores.com
 supershuttles.co.za
 superstar0601.dev
+supfoundrysettlers.us
 surgebytes.net
 surirapatt.com
 susdf.com
@@ -4525,6 +4569,7 @@ tcg-world.shop
 tci-usa.shop
 tcm-supplyllc.com
 tdoxycbf.icu
+teacheronline.online
 teambeholders.com
 teardropjunction.com
 techapprenticeships.io
@@ -4534,6 +4579,7 @@ techmedia.store
 technologyfuze.com
 technovixion.com
 techs.com
+teecup.shop
 teenieshopus.com
 teethcare.site
 teiehram.org
@@ -4545,6 +4591,7 @@ temopix.com
 tensionmassage.com
 teqaniksa.com
 term-life-insurance.click
+tersura-luminosidad.store
 tescomall.store
 teslalightshows.store
 tesorotucson.com
@@ -4556,14 +4603,18 @@ thalesfu.com
 thdjd5.com
 the-tech.info
 theairlab.co.za
+thearcjournal.online
 thebalconytuscaloosa.com
 thebarkingdogalehouse.com
+thecaticake.online
 thecljexperience.com
 thecrate.us
 theeasternmart.com
+thefatherhoodwing.space
 thefoad.com
 thegamemasters.nl
 thehairplug.shop
+thehealthhealer.store
 thehippiedippi.site
 theindependentlifestyle.com
 thekhancept.com
@@ -4626,10 +4677,12 @@ tiffanycash.com
 tikamoon.online
 tikcok.com
 tiktok-down.com
+tiktok18.world
 tikvok.com
 tikwave.site
 timeandthymeagain.com
 timing-kings.com
+tinxchpn.quest
 tiny-url.me
 tinygirls.ws
 tipclub.com
@@ -4648,6 +4701,7 @@ tmo-assistant.com
 tmtha.com
 tnmurphybeds.com
 toadhead.net
+todoenrio.shop
 tojson.call
 tokatiti.com
 tomolina.top
@@ -4667,7 +4721,9 @@ totalsiteperformance.com
 toyota-online-auctions.co.uk
 tpjhnb.com
 tr-intera01.com
+trackinggenie.store
 tracklan.com
+tracklead.online
 tradertop.top
 tradingprice.net
 tradr0ger.cloud
@@ -4696,6 +4752,7 @@ trina-int.com
 trinastripletax.com
 trioprofit6.online
 triple-network.com
+tripmall.online
 trkitok.com
 troyanh.pw
 truco.online
@@ -4706,6 +4763,7 @@ try-databoss.us
 tsaonline.com.au
 tsheetbizgroup.ru
 tsjybcd.com
+tsukinousagi.shop
 tter.com
 ttxttx.com
 tube4u.com
@@ -4748,6 +4806,7 @@ unitedcerebralpalsy.website
 unitedfamily.org
 unitedfrom.com
 unitnetwork.xyz
+unity1.store
 unlimitedmedia.online
 unougn.com
 unrivaledsports.com
@@ -4777,6 +4836,7 @@ uptowntireandautoservice.com
 urbanridgesupplies.com
 ureedge.net
 urldelivery.com
+urlfy.me
 urusovgroup.ru
 usaglobalnews.com
 usau.site
@@ -4853,7 +4913,9 @@ viral-news.online
 viralbeauty.id
 virhub.biz
 virii.es
+virrel.shop
 vishwakalyaan.com
+visionair.store
 visitstcloud.com
 visualbasicscript.com
 vivaanmat.com
@@ -4907,6 +4969,7 @@ wckndyd.com
 wearsweetbomb.com
 weatherdatahub.org
 weatherub.com
+weavecoms.com
 web-devsol.com
 web-safely.com
 web3fund.io
@@ -4991,6 +5054,7 @@ www-app.cc
 www-app.cyou
 www-app.xyz
 www-appstore.cc
+www-core.top
 www-scarica.cc
 www2.online
 wwwstarstruck.store
