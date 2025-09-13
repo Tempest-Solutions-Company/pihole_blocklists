@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-13 05:19:41 UTC
-# Total domains: 5170
+# Generated: 2025-09-13 12:02:51 UTC
+# Total domains: 5173
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3339,6 +3339,7 @@ mezrkc.com
 mfaregistrationservice.com
 mfleader.com.ar
 mgate.io
+mhcc.vic.gov.au
 mhgroupit.com
 mhrbronow.online
 miabby.com
@@ -4059,6 +4060,7 @@ relojeriatempus.shop
 relysudden.com
 remnantwarrior.org
 remonteck.ru
+renessa.com
 renovaosevidorshop.shop
 renovocleaning.ca
 rentedpushy.com
@@ -5011,6 +5013,7 @@ williamdeanplatinum.com
 willowridge.us
 willowridgehoa.us
 willtown.shop
+wilshireconsumer.com
 wilsonshomeimprovementco.com
 wilsonssiding.com
 wiltel.com
