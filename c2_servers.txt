@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-13 01:41:09 UTC
-# Total domains: 16734
+# Generated: 2025-09-13 05:19:41 UTC
+# Total domains: 16738
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -35,6 +35,7 @@
 0x.x.gg
 0xevil.xyz
 0xtv.biz
+1.fe1it.ru
 1.mapdz.ru
 1.netbots.africa
 1.santaiot.net
@@ -6180,6 +6181,7 @@ go.badejie69.ru
 go.boku-0.ru
 go.clan-base.de
 go.dihijio22.ru
+go.fe1it.ru
 go.jytoceo30.ru
 go.pemi9cai6.ru
 go.sacyzie58.ru
@@ -6578,6 +6580,7 @@ hanuka.biz
 hanzz.biz
 haoldd.com
 haowuxiu.com
+hap.vumarifa.com
 hapemo.nl
 happiestthingsstudio.com
 happy-new.in
@@ -16527,6 +16530,7 @@ yourverifiycation.com
 youtubelinkjadid.blogspot.com
 youtubinstall.website
 yp.rijo6oe1.ru
+ypk.sechub.com.cn
 ypropjjqlnq.com
 ysgnmmjmmj.duckdns.org
 ystems2beyond.tech
