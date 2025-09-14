@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-14 07:49:10 UTC
-# Total domains: 5190
+# Generated: 2025-09-14 14:12:21 UTC
+# Total domains: 5193
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1671,6 +1671,7 @@ digital.de
 digitalageentertainment.org
 digitalambetion.be
 digitalambition.be
+digitalbanking.com
 digitalcommunitytech.com
 digitalcontentresearch.com
 digitalcoorg.com
@@ -1939,6 +1940,7 @@ evaluecrm.com
 eve-come.com
 eventbright.com
 eventbrite.biz
+eventusvermoegensverwaltung.de
 everify.com
 evets.jp
 evillab.world
@@ -2016,6 +2018,7 @@ fengchijiasuqi.cn
 fengchijiasuqi.com
 fengchijsq.cn
 fengchijsq.com
+fenririum.com
 fernandoarredondo.shop
 ferventcoder.com
 festivalofideas.ca
