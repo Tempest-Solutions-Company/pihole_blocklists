@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-13 18:45:00 UTC
-# Total domains: 5173
+# Generated: 2025-09-14 01:20:45 UTC
+# Total domains: 5190
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -217,6 +217,7 @@
 28hkogln3b.online
 2coolflicks.photography
 2fastclub.com
+2fforward.ro
 2interact.info
 2interact.us
 2market.guru
@@ -521,6 +522,7 @@ alnayatrading.com
 aloenterprisesllc.com
 alohatube.xyz
 aloud.com
+alphacam.com
 alpileannn.com
 alqard2u.com
 alra7ma.net
@@ -700,6 +702,7 @@ asian-blog.com
 asiaprofessionals.net
 asistenciamedicaips.com
 askanjali.com
+askasas.top
 askasurgeon.com
 askcarmen.store
 askdrmanny.com
@@ -1106,6 +1109,7 @@ calicospiceandherbs.com
 caligramoon.ir
 calledbyjoy.com
 calmbase.org
+camaraprovinciasantodomingo.do
 camdenlakehoa.com
 camerapro.store
 cameronandsonwelldrilling.com
@@ -1478,6 +1482,7 @@ craftsjz.com
 craftyorwot.com
 crax.store
 crazystir.com
+crcsd.do
 creamwood.net
 create-ink-app.dev
 creative-itee.com
@@ -2018,6 +2023,8 @@ fevekaratedo.org
 ffload.online
 fgta.lol
 fhmwinit.com
+ficohsa.pa
+ficohsa.sv
 fieldscrossing.us
 fieldscrossinghoa.us
 fifabangladesh.site
@@ -2105,6 +2112,7 @@ forthtwo.com
 fortis.host
 fortisvision.com
 forum-bau.online
+forward.ro
 fotobruxo.com
 fotospornos.online
 fourabend.com
@@ -2225,6 +2233,7 @@ getfugo.ru
 getjoins.com
 getldrrgoodgame.com
 getslapburger.com
+getsmartstaffing.com
 getstockprice.com
 getstockprice.info
 getxapp.in
@@ -2474,6 +2483,7 @@ herowner.com
 hertler.org
 hesconsultoria.pt
 hetmarket.info
+hexagongeosystems.com
 hextabledentalcentre.com
 heycavey.com
 heymondaymusic.com
@@ -3013,6 +3023,8 @@ ksicngtw.org
 ksowlapw.com
 ktlyy.click
 ktshop4homes.com
+kuaiyin004.com
+kuaiyin006.com
 kugfulyw.ru
 kupumalam.site
 kuripka.com
@@ -3125,6 +3137,7 @@ lindacolor.com
 lineryna.shop
 linos815.com
 liquorconnection.com.au
+listech.com
 listings360insight.com
 listra-waitlist.uk
 littlekylie.com
@@ -3419,6 +3432,7 @@ moviepolis.ru
 mozy.social
 mrcrizquna.com
 mroindustrialequipments.com
+mscsoftware.com.br
 msftconnectfest.com
 msgportal.online
 msing.cc
@@ -3645,7 +3659,9 @@ omi-dev.com
 ominversity.us
 oncehub.co
 onebet.co.ug
+oneboardcloud.com
 onedirver.com
+onehealthconsultinggroup.org
 onemusic.ph
 oneshopystore.com
 onetabmusic.com
@@ -4469,6 +4485,7 @@ stopclickinglinks.com
 stopnews.online
 storekom.com
 storyplanai.com
+stowatchfire.com
 stpatsnorwich.org
 strainsense.store
 stratahq.com.au
