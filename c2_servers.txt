@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-15 01:25:35 UTC
-# Total domains: 17025
+# Generated: 2025-09-15 02:45:28 UTC
+# Total domains: 17028
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4277,6 +4277,8 @@ dpbgatineau.ca
 dpcmakbookin.space
 dpd.voltexpressdelivery.com
 dphcustompins.com
+dpi.amajed.com
+dpi.schermgebroken.nl
 dpjagan.com
 dplowsgardening.co.uk
 dps.vumarifa.com
@@ -16188,6 +16190,7 @@ webgozar.pw
 webgozar.win
 webhacktools.co.vu
 weblodder.ga
+webmail.146-190-137-132.cprapid.com
 webmail.alsultantravel.com
 webmailapp-0e6cff4089a4.herokuapp.com
 webmailboxquota.com
