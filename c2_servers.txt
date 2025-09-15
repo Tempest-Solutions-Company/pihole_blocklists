@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-15 15:26:40 UTC
-# Total domains: 17135
+# Generated: 2025-09-15 21:45:27 UTC
+# Total domains: 17149
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -308,6 +308,7 @@
 70zv5n4wj.localto.net
 73102.vip
 73jvs.top
+74-48-140-110.nip.io
 75jng75ufnf.ru
 7648419.vip
 76aviacraft.sbs
@@ -588,6 +589,7 @@ admadmin.com
 admaris.ir
 admin-owa.tk
 admin.foa.ae
+admin.jhaexpress.com
 admin.mediachakra.com
 admin15a.com
 admindepartment.ir
@@ -3370,6 +3372,7 @@ corpcougar.in
 corporacionsipan.com
 corporate-surely.gl.at.ply.gg
 corretorainvesteja.com.br
+corsapi.messager.my
 cosanostra.ir
 cosjesgame.su
 cosmeivan.com
@@ -3408,6 +3411,7 @@ cpanel.northtru.net
 cpanel.trailsyamahamotor.com
 cpanel02.myhostcenter.com
 cpanel30.per.syra.net.au
+cpcontacts.146-190-137-132.cprapid.com
 cpezfze.com
 cpf-th.com
 cpuevolution.site.nfoservers.com
@@ -6294,6 +6298,7 @@ glaucoalmeida.com.br
 glaxeopink.net
 glenios.club
 glenjohhstones.pro
+glibbixzorptweezleprang.top
 glibtof.qpon
 glidfy.com
 gllnar.com
@@ -7440,6 +7445,7 @@ indpret.top
 induimperial.com
 indulogstics.com
 indumatiholidays.com
+industrial-vegetation.gl.at.ply.gg
 industrial3d.com
 industrialspares.to
 industries-ii-wine-details.trycloudflare.com
@@ -7508,6 +7514,7 @@ instaboom-hello.site
 instaexploder.com
 instagramm.myjino.ru
 installlgrand1001-53258.portmap.host
+instantaoprime.dynuddns.net
 instipetrol.com
 insuncos.com
 insurance-statistical.gl.at.ply.gg
@@ -7686,6 +7693,7 @@ iua.goxuxuy4.ru
 iuh234.medianewsonline.com
 iusajdiru.info
 iusefatalbtw-50944.portmap.host
+iusefatalbtw-63960.portmap.host
 iut.sx
 iv-auth.org
 iv.qehucuu5.ru
@@ -11284,6 +11292,7 @@ out.p.socialsalesnaija.com
 outclickstds.com
 outfiqh.qpon
 outlook.al
+outlook.microsoft-account-security.com
 outreach.zone
 outskirtinc.uni.me
 ouutin.ru
@@ -12288,6 +12297,7 @@ qoritravelperu.com
 qpo.net16.net
 qqa.preech.top
 qqaloetojedicto.16mb.com
+qqq.qweqq.p-e.kr
 qqqqtt.000webhostapp.com
 qr.nelypuu5.ru
 qra.we4ex.ru
@@ -12557,6 +12567,7 @@ remabad.com
 remaxhost.com
 remcodit.top
 remcos.as.vip
+remdefrem.duckdns.org
 rememberu3.zzz.com.ua
 remixripiolo.con-ip.com
 remontkom.ru
@@ -14262,6 +14273,7 @@ stopping-24-hours.com
 stopwell.org
 storage.givescash.com
 storage.messager.my
+storage.microsoft-account-security.com
 store.cloudsdog.top
 store.metascrape.com
 store101.tk
@@ -16470,6 +16482,7 @@ winqits.com
 winrar.hopto.org
 winscoft.com
 winslmk.qpon
+winsrvc.ddns.net
 wintin-cn.com
 winwincustomerservice.com
 winx.prohosts.org
@@ -16937,6 +16950,7 @@ yuioph.beget.tech
 yumate.co
 yumcsupply.com
 yummyfoodblog.net
+yunded.com
 yungtrump.publicvm.com
 yunniuwr.beer
 yuntong-batt.co
