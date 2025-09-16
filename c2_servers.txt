@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-16 01:45:37 UTC
-# Total domains: 17149
+# Generated: 2025-09-16 04:37:21 UTC
+# Total domains: 17155
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -448,6 +448,7 @@ abbasholland.tk
 abbasuit.top
 abbeys.asia
 abbi.serverpick.trade
+abcd.gamesen.icu
 abcdigitizing.com
 abchome.ml
 abcukk.co.uk
@@ -3780,6 +3781,7 @@ data.michaelorth.eu
 data.net
 data2020.datatechnologies.com.mx
 databaseifreal.zzz.com.ua
+datacalls.azure-api.net
 datacenterqueue.com
 datacity.ro
 datacntrsecured.com
@@ -9901,6 +9903,7 @@ microman2015.ddns.net
 microsads.net
 microsoft-graphics.ddns.net
 microsoft-spencer.gl.at.ply.gg
+microsoft-telemetry.at
 microsoft-telemetry.cc
 microsoft.blg.lt
 microsoft.comule.com
@@ -11516,7 +11519,9 @@ pdf-central.com
 pdf-kiosk.net
 pdf-kiosks.net
 pdf-working.com
+pdf.aztu.edu.az
 pdf.cukurukuk.fun
+pdf.margencymedia.com
 pdfappsuite.com
 pdfbyappsuite.com
 pdffilehub.com
@@ -14088,6 +14093,7 @@ ssj17.com
 sskyokker256.bit.md-89.webhostbox.net
 ssl-informa.com
 ssl-zone.ru
+ssl.gamesen.icu
 ssl6.ovh.net
 sslwmi.top
 ssn-verify.pro

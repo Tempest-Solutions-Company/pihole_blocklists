@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-16 01:45:37 UTC
-# Total domains: 5194
+# Generated: 2025-09-16 04:37:21 UTC
+# Total domains: 5195
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4931,6 +4931,7 @@ villageatbrookmeadow.com
 villeco.com
 vimchaugiang.vn
 vinalineshaugiang.vn
+vinares.net
 vipyrsec.com
 viral-news.online
 viralbeauty.id
