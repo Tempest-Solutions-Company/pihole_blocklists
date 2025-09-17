@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-17 01:53:38 UTC
-# Total domains: 17305
+# Generated: 2025-09-17 06:01:21 UTC
+# Total domains: 17313
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -410,6 +410,7 @@ a0451952.xsph.ru
 a0455475.xsph.ru
 a0458390.xsph.ru
 a0461249.xsph.ru
+a1.k26i.ru
 a109432.mcdir.ru
 a10gamesa10.com
 a15-smo.biz
@@ -3196,6 +3197,7 @@ clubpatinlacavada.com
 clue.darkbastard.com.de
 cm-lagoa.pt
 cm-solutions.info
+cm0.s57o.ru
 cm35758.tmweb.ru
 cm41880.tmweb.ru
 cm53726.tmweb.ru
@@ -3587,6 +3589,7 @@ ctoavto.by
 ctrlcenter.pw
 ctsapa.com
 ctssint.com
+ctu.demoserviciopcmendoza.com.ar
 ctu.poxyway.ru
 ctwonx221.ddns.net
 cu24804.tmweb.ru
@@ -8210,6 +8213,7 @@ k24cwchgd.localto.net
 k2y7bcw.xyz
 k3p.j220.ru
 k3travels.com
+k3x.k26i.ru
 k44sp5efyiar7fm4.onion
 k4zi.no-ip.org
 k6net.esy.es
@@ -12738,6 +12742,8 @@ restoreairpowered.net
 restored.appleuserlock-pagescrty2019ere.fwaavenue.com
 restricted-stresser.info
 resupgrade.3utilities.com
+ret.aztu.edu.az
+ret.demoserviciopcmendoza.com.ar
 reteropitano.pw
 rethinkdb.ml
 retire2malaysia.com
@@ -15900,6 +15906,7 @@ v205557.hosted-by-vdsina.ru
 v205588.hosted-by-vdsina.ru
 v308875.hosted-by-vdsina.ru
 v320560.hosted-by-vdsina.ru
+v5.s57o.ru
 v55575192.wirt22.bhlink.pl
 v9.top
 v90327ux.beget.tech
@@ -17124,6 +17131,7 @@ yz.mexyxei9.ru
 yze.gyjyvyy6.ru
 z.h934.ru
 z.p9v7g.ru
+z.s57o.ru
 z.t4c5d.ru
 z10nx710011-53037.portmap.host
 z1ipa23.zzz.com.ua
