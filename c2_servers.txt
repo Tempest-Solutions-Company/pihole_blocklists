@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-18 01:29:25 UTC
-# Total domains: 17429
+# Generated: 2025-09-18 06:42:02 UTC
+# Total domains: 17456
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -701,6 +701,7 @@ aesseal-my.com
 aexis-medicai.com
 af.b5x1g.ru
 af.g7r7s.ru
+af.r1a4.ru
 afamedya.com
 afas-kr.com
 afatech.eu
@@ -811,6 +812,7 @@ ais-sigue.co
 aiseesoftware.es
 aivazidis.gq
 aj.g0s1f.ru
+aj.t4a4.ru
 aj.w6n2t.ru
 ajahdelta.eu
 ajansyenimedya.com
@@ -825,6 +827,7 @@ ajonwaburnaboy.site88.net
 ajr-insuranceintl.com
 ak.m5k1k.ru
 ak.meelk.com.ua
+ak.r1a4.ru
 ak.tygilyo.ru
 ak3indonesia.com
 akach.info
@@ -1113,6 +1116,7 @@ an-schema.gl.at.ply.gg
 an-soglasie.com.ua
 an.boku0.ru
 an.k5b2q.ru
+an.q6o4.ru
 an.t3m3d.ru
 anad55.eb2a.com
 anadoluelektrik.com.tr
@@ -1221,6 +1225,7 @@ anysad.ru
 anything-newcastle.gl.at.ply.gg
 ao.f8t6m.ru
 ao.n9t6m.ru
+ao.x0a3.ru
 aod-board.cwsurf.de
 aohang9838-2-11.vip
 aoz.su
@@ -1590,6 +1595,7 @@ autoskolazmolik.cz
 autovents.net
 auxinity.000webhostapp.com
 av.p9v7g.ru
+av.r1a4.ru
 av.x8q0h.ru
 av4.website
 av7.online
@@ -1642,6 +1648,7 @@ axiabjj.com
 axiscx.com
 axnewpower.com
 ay.c0h9w.ru
+ay.r1a4.ru
 ay.t4g9w.ru
 ayakkokulari.com
 ayamkremes.id
@@ -1705,6 +1712,7 @@ b7team.com
 b811.top
 b95363d7.beget.tech
 b9c.m074.ru
+ba.c2y8.ru
 ba.d3g7t.ru
 ba.myhehaa4.ru
 ba.n6p5j.ru
@@ -1865,6 +1873,7 @@ bazalttas.com
 bazttlew.shop
 bazzerworldwide.com
 bb.j1g3k.ru
+bb.j2e6.ru
 bb.n5m4t.ru
 bbb2.space
 bbc-news-uk1.space
@@ -1887,6 +1896,7 @@ bcmhub.com
 bct-cawe.net
 bcvkddsencnsu.xyz
 bcxot.xyz
+bd.j2e6.ru
 bd.r3l1x.ru
 bd.t3m3d.ru
 bddmpz1.esy.es
@@ -2053,6 +2063,7 @@ bfvtbull.tk
 bfxuknchdic.duckdns.org
 bg.f8t6m.ru
 bg.t4c5d.ru
+bg.x0a3.ru
 bgamakinasi.net
 bggranite.ca
 bgost.ch
@@ -2616,6 +2627,7 @@ bv.f0z1n.ru
 bv.m7e4.ru
 bvasetro.com
 bvicm.com
+bw.l8o6.ru
 bw.m5k1k.ru
 bwa.mize0ao1.ru
 bwatcher.com
@@ -2625,6 +2637,7 @@ bwgulld.com
 bwiportal.com
 bx.fozomya6.ru
 bx.r2h7m.ru
+bx.t4a4.ru
 bxnopdkka.com
 bxqvcimgcaepkubgi.com
 by-matrakx.myjino.ru
@@ -2643,6 +2656,7 @@ bzr.29rs.ru
 c-design.pro
 c-o.space
 c-tec-support.co.uk
+c.l8o6.ru
 c.now
 c.v1n4n.ru
 c.v6z1q.ru
@@ -2672,6 +2686,7 @@ c90212q0.beget.tech
 c9f44961.ngrok.io
 ca-ssl.com
 ca.n6p5j.ru
+ca.x0a3.ru
 ca1.cwsurf.de
 ca72287.tmweb.ru
 cabelo.med.br
@@ -3741,6 +3756,7 @@ d.7-gb.ru
 d.b3x1p.ru
 d.r274.ru
 d.t4g9w.ru
+d.x0a3.ru
 d0lphin1337.xyz
 d1.h934.ru
 d1.v51o.ru
@@ -5220,6 +5236,7 @@ ezigbo-mmadu.xyz
 ezkool.pilkingtonclearadvantage.com
 ezratyu.gdn
 f-sholding.com
+f.l8o6.ru
 f.p2j4k.ru
 f.r2h7m.ru
 f0182637.xsph.ru
@@ -8268,6 +8285,7 @@ jzvhzmu.duckdns.org
 k-based.ml
 k-michouseofwest.com
 k.97qm.ru
+k.j2e6.ru
 k.r3j5c.ru
 k.r3l1x.ru
 k.s836.ru
@@ -9516,6 +9534,7 @@ lzh.fr
 m-appsuite.com
 m.8-fr.ru
 m.g3w2p.ru
+m.j2e6.ru
 m.k5b2q.ru
 m.kdesu.ru
 m.nugawye78.ru
@@ -11074,6 +11093,7 @@ o-z-o.ru
 o.j1g3k.ru
 o.lauraflower.info
 o.s7z7r.ru
+o.t4a4.ru
 o.zowyzyi62.ru
 o2.messager.my
 o2x9.ml
@@ -12836,6 +12856,7 @@ ret.demoserviciopcmendoza.com.ar
 reteropitano.pw
 rethinkdb.ml
 retire2malaysia.com
+retiregenz.com
 retrofik.ru
 rettgive.org
 reusens.com
@@ -13154,6 +13175,7 @@ s-trust.co
 s-vdw.nl
 s.802d.ru
 s.botsaresafu.com
+s.c2y8.ru
 s.f0z1n.ru
 s.icab.pk
 s.kilut4ou8.ru
@@ -13208,6 +13230,7 @@ saeeaglesgroup.com
 saewh.com
 safaricomfreemb.000webhostapp.com
 safe110413.com
+safecs.iqiyi.qpon
 safehardwareuae.com
 safemann.tk
 saferunater.wang
@@ -13298,6 +13321,7 @@ sandboxed.info
 sandivartgallery.com
 sandstrucks.com
 saner.com.au
+sanercat.com
 sanhao-th.com
 saniceramics.com
 sanitok.com
@@ -17244,6 +17268,7 @@ yysopqde.com
 yz.mexyxei9.ru
 yze.gyjyvyy6.ru
 z.h934.ru
+z.l8o6.ru
 z.p9v7g.ru
 z.s57o.ru
 z.t4c5d.ru
@@ -17378,6 +17403,8 @@ znatnydom.by
 znz.xexykuo2.ru
 zod.fypufea.ru
 zod.wofelee.ru
+zoe.aztu.edu.az
+zoe.demoserviciopcmendoza.com.ar
 zohaibbeauty.com
 zokah.dk
 zolamixizlatix.net

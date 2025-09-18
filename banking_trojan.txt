@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-18 01:29:25 UTC
-# Total domains: 5253
+# Generated: 2025-09-18 06:42:02 UTC
+# Total domains: 5272
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -514,6 +514,7 @@ allmodel-pro.com
 allnightfm.com
 allowclientaxpalagent.me
 alltransparts.com
+allvuesystems-okta.com
 allyinsu.com
 allyouneedis0051.online
 almacendecoches.com
@@ -956,6 +957,7 @@ blackteenierevenge.com
 blades247.com
 blancbeauty.store
 blatinoville.com
+bless-invite.com
 bligevale.co.zw
 blixten.se
 block-digital.online
@@ -1469,6 +1471,9 @@ coriumhub.com
 cornerrus.info
 cornwallplasterers.co.uk
 coromade.com
+corp-hubspot.com
+corporate-microsoft.com
+corporate-okta.com
 corporationshouseamb.com
 cosmetic-0418-ww01.shop
 cosmetictrialofferskit.com
@@ -2245,6 +2250,7 @@ germandeli.store
 gersonmauri.com
 gertefin.com
 gesticulatory.xyz
+get-carrot-zoom.com
 getcroissant.com
 getfnewsolutions.com
 getfnewssolutions.com
@@ -2493,6 +2499,7 @@ hellomangaluru.online
 hellosociety.com
 hellow0rid.net
 helloworid.org
+help-allvuesystems.com
 help-center.store
 helpbuttonsusa.com
 helpfoundationpk.com
@@ -3437,6 +3444,7 @@ mocotracking.club
 moctw.info
 mode-outlet.store
 mode-ruebsamen.de
+modernatx-zoom.com
 moderndesignksa.com
 modernhomesteamre.com
 moffdomains.com
@@ -3455,6 +3463,7 @@ monkeybeta.com
 monstercrab.com
 moreofme.site
 morishim.com
+morningstar-okta.com
 morvath.com
 mos-prom-service.ru
 mosaicconfirm.com
@@ -3577,6 +3586,7 @@ newsconcur.one
 newsconcur2024.life
 newsconcur2024.world
 newsconcur24.one
+newscorp-okta.com
 newsjptv.com
 newvision10.com
 newz20.online
@@ -3685,6 +3695,7 @@ offlce.co
 offshorevsys.com
 offsidex.shop
 oillie.us
+okta-louisvuitton.com
 oktrk.com
 olajaj.online
 olarlaw.com
@@ -3978,6 +3989,7 @@ pulaskipa.org
 pulseasicon.lol
 pumpbct.xyz
 pumpkinrab.com
+pure-okta.com
 pure.shop
 pureaura.shop
 purecure.shop
@@ -4093,6 +4105,7 @@ realnewsz13.store
 realsepnews.com
 realvaluesvc.io
 rebeledportprox.com
+recurly-zoom.com
 red1.store
 reddit-seeklogo.com
 redepo.site
@@ -4342,6 +4355,8 @@ sglcarbon.sk
 shaf.in
 shalankaenterprises.com
 shamrockdowns.com
+sharepoint-comcast.com
+sharepoint-workplaceview.com
 shawnverson.com
 shayne.fun
 shefdomi.com
@@ -4363,6 +4378,7 @@ shunda321.com
 shyppx.com
 sictalks.com
 signauxun.com
+signin-okta.com
 signoflife.com
 signzilla.com
 siliconvalleyjazz.com
@@ -4539,6 +4555,7 @@ streamrestoration.com
 streamtecheng.com
 streamxpert.net
 strtz.site
+sts-vodafone.com
 sts.com.sa
 ststephenscollege.ca
 sttbet24.com
@@ -5112,6 +5129,8 @@ womenlove.online
 wordle.online
 wordsmith.wiki
 workbuzz.com
+workday-hubspot.com
+workday-nike.com
 worklifeecologies.org
 worldcupmusic2018.com
 worlegram.com
