@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-19 02:32:34 UTC
-# Total domains: 17591
+# Generated: 2025-09-19 08:51:30 UTC
+# Total domains: 17632
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -151,6 +151,7 @@
 2maga.site
 2magas.site
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com
+2q.fid1.ru
 2rm7y.top
 2septiembrerem.duckdns.org
 2vlc.l.time4vps.cloud
@@ -188,6 +189,7 @@
 352andro.ru
 3549i4jh495.tk
 357.toh.info
+360news2.icu
 36258560.com
 365-team.org
 365cash.exchange
@@ -251,6 +253,7 @@
 4thave.co.uk
 4ucredit.ru
 4vp.xyz
+4x.gug7.ru
 4xwy6wkduq3z.to
 500aevolam.com
 500web.gr
@@ -388,6 +391,7 @@ a.7-fd.ru
 a.l5228.ru
 a.microsoftsup.com
 a.t2w3v.ru
+a.tem5.ru
 a0.e.voltexpressdelivery.com
 a0173461.xsph.ru
 a0193918.xsph.ru
@@ -438,6 +442,7 @@ a7.nbdsnb2.top
 a7la3alm.org
 a84bl82rni.ru
 a918639t.beget.tech
+a9m.wuk0.ru
 aa.k0v1p.ru
 aa.q1s6c.ru
 aa.x0e8.ru
@@ -593,6 +598,7 @@ ad.administratorr.website
 ad.c0h9w.ru
 ad.icab.pk
 ad.messager.my
+ad.q8e5.ru
 ad.sapeniu2.ru
 ad.t8g2w.ru
 adamblackie12312312-62714.portmap.host
@@ -1316,6 +1322,7 @@ aquaremedialworks.com.au
 aquiagoraalagoas.com.br
 aqyycusxpiyphgqt.com
 ar-son.com
+ar.q8e5.ru
 ar.w6n2t.ru
 ar.x8q0h.ru
 arab21.besaba.com
@@ -1714,6 +1721,7 @@ b.cracking.be
 b.dev.drakeinternationalagency.com
 b.f2g5q.ru
 b.g3w2p.ru
+b.h8y0.ru
 b.limit.cn.com
 b.stop2asrertyasport3.com
 b.t408.ru
@@ -2551,6 +2559,7 @@ brutalserver666.no-ip.biz
 bs-intel.net
 bs.j1g3k.ru
 bs.messager.my
+bs.q8e5.ru
 bsales.cf
 bsc.org.np
 bscdragonboard.com
@@ -3805,6 +3814,7 @@ d0lphin1337.xyz
 d1.h934.ru
 d1.v51o.ru
 d13ad.com
+d2.cup7.ru
 d2575423ur.temp.swtest.ru
 d25965pi.beget.tech
 d2dbb.com
@@ -4344,6 +4354,7 @@ dnraviations.com
 dns.njalla.pl
 dns.njalla.si
 dns.qqq911.dns-cloud.net
+dnscs.xinzyun.cn
 dnshdakjasdns14213.com
 dnshksd3asdns1421344d.com
 dnspod.pro
@@ -4908,6 +4919,7 @@ eltrico.net
 elysium-inc.info
 elysium-inc.pro
 elysium-ltd.pro
+em.w-30-g.ru
 em826392.ru
 em8li.shop
 emaaiil-163.com
@@ -6219,6 +6231,7 @@ g-gratitude.co.th
 g-o-f-y-s-e-l-f.foo
 g-reveal.gl.at.ply.gg
 g.527w.ru
+g.fid1.ru
 g.icab.pk
 g.kilut4ou8.ru
 g.l9a5.ru
@@ -6876,6 +6889,7 @@ gysehiy1.ru
 gyssien.com.cn
 gytovao5.ru
 gyxdoppqvsy.com
+gz.w-30-g.ru
 gzsriena.com
 gzuf777.myftp.org
 h-to-h.mixh.jp
@@ -6886,6 +6900,7 @@ h.pejy1.ru
 h.w2r1k.ru
 h.z-72.ru
 h1.802d.ru
+h1.zik9.ru
 h117045.s03.test-hf.su
 h143466.s22.test-hf.su
 h146438.s21.test-hf.su
@@ -7548,6 +7563,7 @@ ihackcyb3rz.info
 ihechi123.ddns.net
 ihorluhor.site
 ihostdata.net
+ii.w-30-g.ru
 iietrich.cfd
 iii-asiacarqo.com
 iili.in
@@ -8370,6 +8386,7 @@ k2.z-67.ru
 k22dmvbyiextmetahost-24499.portmap.host
 k24cwchgd.localto.net
 k2y7bcw.xyz
+k3.wuk0.ru
 k3p.j220.ru
 k3travels.com
 k3x.k26i.ru
@@ -8862,6 +8879,7 @@ l.n-98.ru
 l.r0z8r.ru
 l.r2h7m.ru
 l.v51o.ru
+l.w-30-g.ru
 l.x-ai.win
 l.zowyzyi62.ru
 l007fdde.justinstalledpanel.com
@@ -9552,6 +9570,7 @@ lst.n50e.ru
 lst.socialsalesnaija.com
 lsvxqptfxfehhprpuj.com
 lt.pylohao.ru
+ltbcare.live
 ltc0al.com
 ltdpdf.com
 ltdpdf.net
@@ -9623,6 +9642,7 @@ m.nugawye78.ru
 m.zo1ah.ru
 m0nst3r.eu
 m1.p-81.ru
+m1f.fid1.ru
 m2mine.com
 m2th3k.top
 m3.g-22.ru
@@ -9631,6 +9651,7 @@ m3ss4g3rtesla.com
 m3u4uarto.cf
 m4l3x.travinishosting.com
 m9.r274.ru
+m9.tem5.ru
 ma3rouf.net84.net
 maatart.eu
 mabmai133.myjino.ru
@@ -10152,6 +10173,7 @@ mhydraulics.net
 mhzl2wy-36319.portmap.host
 mhzlhhhh378-43006.portmap.host
 mhzvwn.xyz
+mi.gug7.ru
 mi.kenal-cn.com
 miacata.duckdns.org
 mianbrothers.com.pk
@@ -10672,6 +10694,7 @@ n.l48i.ru
 n.p2j4k.ru
 n.v1n4n.ru
 n.wofaraa29.ru
+n.wuk0.ru
 n1.google-analytcis.com
 n18b7273u1j.in
 n2.google-analytcis.com
@@ -12223,6 +12246,7 @@ poosonline.net
 pop-kruger.gl.at.ply.gg
 pop.hifeboi3.ru
 popcornking.net
+popcornvolcano.info
 poppingb.com
 poppingx.com
 porchwilliams1234.serveftp.com
@@ -12466,6 +12490,7 @@ pssa.000webhostapp.com
 pstnego.com
 pswrdlk.cf
 pt.gyvivae7.ru
+pt.x-73-r.ru
 ptddbyopodpanxbu.com
 pterobm.top
 ptgem.eu
@@ -12556,6 +12581,7 @@ q.m074.ru
 q.v4h3t.ru
 q0jqva.besaba.com
 q5.f-11.ru
+q7.ror6.ru
 q74722vp.beget.tech
 q9.zpozu.ru
 q93124au.beget.tech
@@ -12601,6 +12627,7 @@ qiuy.org
 qivurbqwxv.com
 qiwi-api.site
 qjqykmyd.com
+qk.tem5.ru
 qke.mexyxei9.ru
 qkinz.tech
 ql.dapusey.ru
@@ -12673,6 +12700,7 @@ r.h-18.ru
 r.k26i.ru
 r.messager.my
 r.p2j4k.ru
+r.q8e5.ru
 r.t3m3d.ru
 r29385w3.beget.tech
 r3.messager.my
@@ -13515,6 +13543,7 @@ scat01.tk
 scb-hk.com
 scepxmo.bet
 schalfer.no-ip.org
+schedule.eliteworkxmarketing.com
 schelliing.com
 schlntek.com
 scholarpdf.com
@@ -14936,12 +14965,14 @@ t-bagnation.com
 t-mk.me
 t.d8w6l.ru
 t.dev.drakeinternationalagency.com
+t.gug7.ru
 t.h8y0.ru
 t.k002.ru
 t.kilut4ou8.ru
 t.m.u.radio.hi2.ro
 t.qute3.ru
 t.r3j5c.ru
+t.zik9.ru
 t00lz.sourceforge.net
 t0m4hawk.comeze.com
 t0ny.info
@@ -15299,6 +15330,7 @@ thenewhuman.xyz
 thenorwayforyou.pl
 theoklis.tk
 theonlygoodman.com
+theoryfood.info
 theoweiss.com.br
 thepeterhadarshow.com
 thepoppyresidences.com
@@ -15805,6 +15837,7 @@ twentysixjune.biz
 twilight.zzz.com.ua
 two.zanax6aa1.ru
 twobads.1.vg
+tx.fid1.ru
 txlcare.top
 ty3.z-67.ru
 tycoonestate.com.au
@@ -15846,6 +15879,7 @@ u1399p291.web0081.zxcs.nl
 u19982p14980.web0119.zxcs.nl
 u19982p14982.web0119.zxcs.nl
 u19982p14983.web0119.zxcs.nl
+u1r.ror6.ru
 u2-dragonlady.tokyo
 u3.x-05.ru
 u32513.netangels.ru
@@ -16509,6 +16543,7 @@ voyagecelery.xyz
 vozdocampoamapa.com.br
 vozecareers.com
 vozmusa.biz
+vp.wuk0.ru
 vpionline.org
 vplserver.duckdns.org
 vpn.rin.host
@@ -16564,6 +16599,7 @@ vz.xevenyu.ru
 vz81757.eurodir.ru
 vzlomvimeworldv3.000webhostapp.com
 vzmaze.ml
+w.cup7.ru
 w.d3l4d.ru
 w.q5z9s.ru
 w.q780.ru
@@ -17067,6 +17103,7 @@ x00xcrw.ru
 x0r.v51o.ru
 x0rzendencrypti0n.su
 x16.life
+x2n.tem5.ru
 x4rr7.96.lt
 x65cr13.com
 x6iye.site
@@ -17230,6 +17267,7 @@ xylox.su
 xyshvidiova.com
 xyz.fapigya6.ru
 y.97jt.ru
+y.h8y0.ru
 y.p9v7g.ru
 y.pejy1.ru
 y.q1s6c.ru
@@ -17402,8 +17440,10 @@ yze.gyjyvyy6.ru
 z.h934.ru
 z.l8o6.ru
 z.p9v7g.ru
+z.ror6.ru
 z.s57o.ru
 z.t4c5d.ru
+z0v.gug7.ru
 z1.97qm.ru
 z10nx710011-53037.portmap.host
 z1ipa23.zzz.com.ua
@@ -17561,6 +17601,7 @@ zpa.bi3ux.ru
 zpowersbattery.com
 zquirtproom.pw
 zr.velyzeu3.ru
+zr.zik9.ru
 zr3.f-11.ru
 zserty.lflink.com
 zsmsbcn.com
