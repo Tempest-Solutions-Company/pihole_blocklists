@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-20 01:53:34 UTC
-# Total domains: 17706
+# Generated: 2025-09-20 05:24:45 UTC
+# Total domains: 17723
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1745,6 +1745,7 @@ b7-golfix.org
 b7team.com
 b811.top
 b95363d7.beget.tech
+b9c.340-k.ru
 b9c.m074.ru
 ba.c2y8.ru
 ba.d3g7t.ru
@@ -3816,6 +3817,7 @@ d.7-gb.ru
 d.b3x1p.ru
 d.r274.ru
 d.t4g9w.ru
+d.tbkh.ru
 d.x-05.ru
 d.x0a3.ru
 d.xyc0.ru
@@ -5719,6 +5721,7 @@ fbr3s.myjino.ru
 fc-ekeren.be
 fcajmvxrd.com
 fck.n50e.ru
+fck.wnkc.ru
 fcx.n50e.ru
 fde4.tk
 fdg44.zzz.com.ua
@@ -5804,6 +5807,7 @@ fifplaya.fi.funpic.de
 fightwithcapitalism.com
 figueqhk.xin
 figure.medai-gruop.com
+fikysandroisder.com
 file-neww-downready.digital
 file.kenal-cn.com
 file4soft.com
@@ -8396,6 +8400,7 @@ jys.qecufey7.ru
 jzvhzmu.duckdns.org
 k-based.ml
 k-michouseofwest.com
+k.391-g.ru
 k.97qm.ru
 k.j2e6.ru
 k.juq0.ru
@@ -9671,6 +9676,7 @@ m0nst3r.eu
 m1.p-81.ru
 m1f.fid1.ru
 m1s.van1.ru
+m2.391-g.ru
 m2.twgr.ru
 m2mine.com
 m2th3k.top
@@ -9679,6 +9685,7 @@ m3nfly.com
 m3ss4g3rtesla.com
 m3u4uarto.cf
 m4l3x.travinishosting.com
+m8.2se.info
 m9.r274.ru
 m9.tem5.ru
 ma3rouf.net84.net
@@ -10720,6 +10727,7 @@ myvizitkaepta.site88.net
 myxamop.com
 myyouporn.com
 mzaky.com
+n.227-m.ru
 n.c2y8.ru
 n.j220.ru
 n.l48i.ru
@@ -11865,6 +11873,7 @@ payscrow.ws
 pazlandimpaineis.com.br
 pbbvkscdfqmx.com
 pbj.cukurukuk.fun
+pc.2se.info
 pc.mo5un.ru
 pcchand.com
 pcdefender.co.vu
@@ -12730,12 +12739,14 @@ qwerty12346.ru
 qx.jozotea.ru
 qx8.mmwf.ru
 qyqima0.xyz
+qz7.391-g.ru
 qz7.g-22.ru
 qz7.twgr.ru
 qzec.club
 r-s.us
 r-sbonlin.co.uk
 r-sbonline.biz
+r.246-b.ru
 r.81dm.ru
 r.ee
 r.gigaionjumbie.biz
@@ -15012,6 +15023,7 @@ szonlline.net
 szwanglou.com
 t-bagnation.com
 t-mk.me
+t.340-k.ru
 t.d8w6l.ru
 t.dev.drakeinternationalagency.com
 t.gug7.ru
@@ -15943,6 +15955,7 @@ u32513.netangels.ru
 u4349620jx.ha003.t.justns.ru
 u4461223c9.ha003.t.justns.ru
 u4642627gu.ha003.t.justns.ru
+u5.tbkh.ru
 u50801ck.beget.tech
 u528972nyk.ha003.t.justns.ru
 u555182sy8.ha003.t.justns.ru
@@ -17098,6 +17111,7 @@ woxmim.com
 wp.10x00.com
 wpaffiliaterocketreview.info
 wpogkco.almostmy.com
+wq9.227-m.ru
 wq9.l48i.ru
 wqdtf54y6eu7i87t.ga
 wqrwrwqr.myarena.ru
@@ -17169,6 +17183,7 @@ x00xcrw.ru
 x0r.v51o.ru
 x0rzendencrypti0n.su
 x16.life
+x2j.2se.info
 x2n.tem5.ru
 x4rr7.96.lt
 x65cr13.com
@@ -17287,6 +17302,8 @@ xpressdeliverys.com
 xprti.xyz
 xpto.ga
 xpulsa.in
+xq0.tbkh.ru
+xq8.340-k.ru
 xq8.juq0.ru
 xqi.rilefoo8.ru
 xqtechllc.com
