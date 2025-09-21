@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-20 18:22:36 UTC
-# Total domains: 5410
+# Generated: 2025-09-21 01:00:24 UTC
+# Total domains: 5489
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -145,6 +145,7 @@
 1c.services
 1den1e.com
 1dewtess4r85d.info
+1drvmscloud-acrbatadbfls.com
 1e90ff.com
 1endmark.financial
 1fhb5pmaoex6w1jwcr5e19r00bx.net
@@ -403,6 +404,7 @@ activebuilding.uk
 activedown.com
 actvjoin.com
 actvsn.com
+actwillis.com
 adagencyprojects.com
 adam-xii-rpl.my.id
 adanpopov.dev
@@ -419,6 +421,7 @@ admissions-universalai.in
 adninjia.com
 adnl.com.mx
 adobe88.com
+adriot.org
 adsco.online
 adsmarketart.com
 adspowerch.com
@@ -568,6 +571,7 @@ analfrik.com
 analytic-s.com
 analytics.analytics
 anamhamza.com
+andersnelab.com
 andmeaningless.com
 andrewlace.com
 aneesahamed.co.uk
@@ -605,6 +609,7 @@ app-desktop.com
 app-desktops-downloads.com
 app-desktops-pc.com
 app-downloads-desktops.com
+app-explorer-dashboard.com
 app-gplay.cc
 app-pc-desktops.com
 app-pc-download.com
@@ -621,6 +626,7 @@ appinteractivestudio.com
 apple-appcare-service.com
 apple-securityiphone-icloud.com
 appledoreholiday.com
+application-document.com
 appmacosx.com
 appmarket.sbs
 appme.store
@@ -744,6 +750,7 @@ aurum-fix-corp.com
 aurus.co.th
 austinmartin.com
 australianuniversities.click
+authenticate-hydromedicional.com
 authrootstl.cab
 autoinsurancesaver.click
 automatywulkan.com
@@ -822,6 +829,7 @@ barrosuon.com
 bart666.com
 bartholomewwinthrop.net
 basic-theory.xyz
+basiceschromeedomezonners.com
 basiconlineincome.com
 basketsalute.com
 batik888mye.com
@@ -901,6 +909,7 @@ bg-call-donation-alpha.goog
 bg-call-donation-canary.goog
 bg-call-donation-dev.goog
 bg-call-donation.goog
+bgailin.net
 bgjsq.com
 bgmedia.site
 bhfhdministre.com
@@ -982,6 +991,8 @@ blumina.store
 bn-ki.ru
 bncllevel.com
 bnwu.lol
+boards-descriptions.com
+boardsmartrecruits.com
 bobbybradley.net
 bobbyweisman.com
 bobeyes.com
@@ -1031,6 +1042,7 @@ brandexchange.tv
 brandhcp.com
 brandlynd.com
 brandnewmedia.us
+bravoservicesnc.com
 brazingonestop.site
 brazino777legal.com
 brazosvalleybailbonds.net
@@ -1084,6 +1096,7 @@ bullhornreach.com
 bunjkar.com
 bunnyranchsmokingroom.com
 burgermojo.com
+burohapopld.com
 burtleburtle.net
 businesforhome.com
 businessannually.com
@@ -1387,6 +1400,7 @@ closertomydreams.com
 cloudlifesolutions.com
 cloudwebstart.net
 cloudworldst.net
+cloufdtf.com
 clublucas.com
 clyde1.com
 clyde2.com
@@ -1579,9 +1593,11 @@ cve-2017-11882.ba
 cvwa.us
 cwpropertyss.com
 cyber-stratops.com
+cyberdnsraven.com
 cyberelectrotech.com
 cyberessentials.live
 cyberessentials.online
+cyberspiderregistry.com
 cybertechnology.digital
 cyntom.com
 czskcwk1.com
@@ -1778,9 +1794,13 @@ dnspao.com
 dnstructure.com
 doartworks.com
 dobit.one
+doc-edelivery.com
+docdrive-remittance.com
+docdrivecloudstorage.com
 docelvision.com
 dockmilk.com
 docs-planet.site
+docsanduploadpreview.com
 docsresearchgroup.com
 doctormalay.com
 doctortrickles.com
@@ -1857,6 +1877,7 @@ drkhokars.com
 drmeldp.com
 droneaud.fr
 dropdeadgorgeous.shop
+dropviewfolder.com
 drostalas.com
 drvidhya.in
 drwhitaker.com
@@ -1925,6 +1946,7 @@ ebrasil.net
 ebwaite.com
 eclkmpbn.com
 ecloudcafe.com
+ecloudrunfiles.com
 ecobuilderz.com
 ecolife23.com
 ecotextileprint.com
@@ -1944,6 +1966,7 @@ eewsinc.com
 efficacyhost.com
 efx2blogs.com
 eg-monitoring.com
+eidnfilecloud.com
 ejbtax.com
 elalijo.com
 eldefinverde.com
@@ -2049,6 +2072,8 @@ excognet.com
 exdergi.com
 exec-recruitment.com
 execspeak.com
+executive-recruitment-dashboard.com
+exerecruitment-dashboard.online
 exitzero.store
 exmail63.com
 exordiumsolutions.com
@@ -2134,7 +2159,11 @@ figpartners.com
 fiik.online
 file.name
 filehilo.com
+fileso365clloudoccs.com
+fileso365clloudoss.com
+filesoo365cloudocxs.com
 filmograph.tv
+filoonlinemaulling.com
 finaeu.com
 finaeu.org
 financea.site
@@ -2329,6 +2358,7 @@ gersonmauri.com
 gertefin.com
 gesticulatory.xyz
 get-carrot-zoom.com
+get-pdf-bcd08-db403b574-0eba0513b-053e6-app.online
 getcroissant.com
 getfnewsolutions.com
 getfnewssolutions.com
@@ -2692,6 +2722,7 @@ hrxxlight.com
 hscxmby.com
 hsgjsgw.com
 hsher.com
+hspincsd.com
 ht.call
 htbonding.com
 htc-shop.online
@@ -2859,6 +2890,7 @@ innovationresearchfocus.org.uk
 innovationsteams.com
 inodly.com
 inphotography.store
+insplredthinking.group
 installationsoftware1.com
 installationupgrade6.com
 institut451.org
@@ -3100,6 +3132,7 @@ keondigital.com
 ketchupgiri.shop
 ketquaplus.top
 ketsvpn.com
+keymedla.com
 keyword-salesforce.com
 kfbbjifre.cn
 kfzhm28pwzrlk02bmjy.com
@@ -3111,6 +3144,7 @@ kidsemporium.com.pk
 kidzguard.co.il
 kilianvpn.com
 kimberlykamara.com
+kindlyrviewdoc.nl
 kingdomsports.online
 kings-alliance.com
 kingstonect.com.au
@@ -3214,6 +3248,7 @@ law2024.info
 law2024.top
 law360.one
 lawmgtbriefings.com
+lawsent.com
 layerschi-us.shop
 lazystax.ru
 lbdigitalmarketing.com
@@ -3290,6 +3325,7 @@ livecrickettvapp.site
 livecrickettvhd.online
 livestore.click
 livevideoslots.net
+livinsie.com
 lizdory.site
 llkjllj.top
 llmjrfc.com
@@ -3351,6 +3387,7 @@ luxurytravelagent.net
 lvkas.dev
 lvlt.net
 lwrdftm.com
+lxkvt.com
 m-cramer.shop
 m-djp-download.com
 m-pajak.cc
@@ -3392,6 +3429,7 @@ malesytisconbox.com
 maltiverse.com
 maluisepaul.com
 mamzouka.net
+man-ex.com
 manaraest.com
 manflle.com
 mangaloreoneschool.com
@@ -3508,7 +3546,12 @@ mianfeijiedian.com
 mic-tests.com
 michaeljohnhome.co.uk
 michalmaayandon.com
+microcloudfiles.com
+microcloudfilesstorage.com
+microcloudfilestorage.com
+microsoft-clouds-onlines.com
 microsoft365mail.com
+microsoftadmiin.com
 microsoftpartnerinvestments.com
 midamericamuseum.org
 midcoastsupplies.com.au
@@ -3708,6 +3751,7 @@ nexbio.academy
 nexdrive.nl
 nextiorhive.com
 nextlaunchpoint.site
+nextproject2025.com
 nextupreads.com
 nfuel.com.sa
 ngaobinhh5.com
@@ -3784,6 +3828,12 @@ o.call
 o.host
 o.name
 o1x-secure-form.cyou
+o365clouddocsstorage.com
+o365cloudfilesdocs.com
+o365cloudfilesstoragedcs.com
+o365efilecloud.com
+o365microsoftsecurecloud.com
+o365securecloudfilesdrive.com
 o76s3m7l5ogig4u5.onion
 oaey.win
 oamcc.com
@@ -3805,6 +3855,9 @@ ofc.ai
 ofertasincreibles.shop
 ofertaza.online
 ofertop.shop
+officefilecloudoc.com
+officefiledrivecloud.com
+officenotedrivecloud.com
 offlce.co
 offshorevsys.com
 offsidex.shop
@@ -3826,8 +3879,10 @@ onemusic.ph
 oneshopystore.com
 onetabmusic.com
 onix126.ru
+onlineboardminutes.com
 onlineceoshelp.com
 onlinedjp.com
+onlinememoffsecured.com
 onlinepajak.cc
 onlybigass.pw
 onlyfanns.online
@@ -3857,6 +3912,7 @@ orblyx.ai
 oreiva.biz
 orenhimtorg.ru
 orgyvids.info
+orionhatch.autos
 oropuro.online
 osetrkolomna.ru
 osuperrobo.online
@@ -4061,6 +4117,7 @@ prctvsng.com
 precutppf.store
 prejoinbuzzy.store
 premiumplustv.xyz
+prestigemetall.com
 prettyanimals.net
 prewento.com
 primaryhealth.com
@@ -4069,6 +4126,8 @@ primerosauxiliosperu.com
 primewealthltd.com
 printpps.com
 printscreen.lol
+priorityclouddrive365files.com
+prioritysdenvers.com
 private-lieferung.de
 proactiv.events
 probizlessons.com
@@ -4153,6 +4212,7 @@ quality-content.online
 quanaochipchip.com
 quant.cloud
 quantcdn.io
+quantexagroup.autos
 quantumarcade.store
 quantumit.online
 quantumpcs.shop
@@ -4250,6 +4310,7 @@ registerktp.com
 registerktp.online
 rehab.shop
 rehlatalkhaleej.com
+reidnfilescloud.com
 release.id
 relojeriatempus.shop
 relysudden.com
@@ -4425,6 +4486,8 @@ sectorlink.net
 sectorlink.org
 sectorlink.us
 sectorlinkdigital.com
+secure-acrbtadbeonlinedocs.com
+securedocumentsmicrocloudsdrivestorage.com
 securely-setup.com
 securewindows.xyz
 securityservices-nwvrtx-bc7-mks-us-6.shop
@@ -4481,6 +4544,10 @@ sglcarbon.sk
 shaf.in
 shalankaenterprises.com
 shamrockdowns.com
+share-onboarding.icu
+shared-document-onboarding.icu
+sharedcloudrive.com
+sharedsyncdriveforwork.com
 sharepoint-comcast.com
 sharepoint-workplaceview.com
 shawnverson.com
@@ -4551,8 +4618,10 @@ slsmbchurch.org
 sluitionsbad.tech
 smart-ap.shop
 smart-app.shop
+smart-pdf-53e6f9-0cd69-df8a0.online
 smartap.shop
 smartapp.shop
+smartboardproposal.com
 smartcareerfinder.com
 smartdevildgit.shop
 smartfamily.pk
@@ -4600,6 +4669,7 @@ sonymusic.ru
 sophostest.com
 sopotkinnie.com
 sorrycross.net
+soskuns.org
 soultech.sa
 soundsgroovyobx.com
 southcarolinatravelagent.com
@@ -4614,10 +4684,12 @@ sparrowwalllet.com
 specgradeled.com
 special-offer.fun
 specteh.site
+speechmorphin.com
 sphere.sk
 spinempire-empire.click
 spod.org.tr
 sponsolink.com
+sponsoredmetasocialtasks.vip
 sportxtienda.shop
 spotxcdn.com
 sppwyil.com
@@ -4630,6 +4702,7 @@ srkcampus.org
 srlaptop.com
 srmoa.co.kr
 srsone.click
+ssecurefilessharedfolders-rudebenediktkernduca.com
 sso-company.com
 ssstik.online
 stadiumview.us
@@ -4959,6 +5032,7 @@ trenipono.com
 treycockrum.co
 trib3s.ch
 trifega.com
+triistrux.com
 triknia.com
 trilliumwoodsfarm.com
 trina-int.com
@@ -4966,6 +5040,7 @@ trinastripletax.com
 trioprofit6.online
 triple-network.com
 tripmall.online
+triumphsic.org
 trkitok.com
 troyanh.pw
 truco.online
@@ -4996,6 +5071,7 @@ twmlwcs.cc
 two-a-design.com
 twtliquidity.pro
 twtownersbonus.shop
+tylxv.com
 u.call
 u.host
 u.name
@@ -5149,6 +5225,7 @@ vncirclek.com
 vndichvucongtructuyen.com
 vnositel-bg.com
 voicemailaccess.net
+voicemailfilerecordingswav.com
 volarentcapitaltd.com
 vopaxafi.com
 vouktransportation.com
@@ -5250,6 +5327,7 @@ window.top
 windows-downloads-app.com
 windows-msg-as.live
 winonavannorman.com
+winredirect.com
 winstonandfriendz.ca
 winstonmartin.com
 wintervibestour.com
@@ -5347,6 +5425,7 @@ yerbana.store
 yescare.co.uk
 yeyudesign.com
 yfayerbilimleri.com
+yfful.com
 yibo1695.com
 yibo8838.com
 yjfsvfyqyhuuqp.shop

@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-20 18:22:36 UTC
-# Total domains: 17792
+# Generated: 2025-09-21 01:00:24 UTC
+# Total domains: 17833
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -114,6 +114,7 @@
 209-190-75-10.gq
 21072206.su
 210main.com
+211.ip.gl.ply.gg
 2152761d.langcdn.top
 2208.165-227-83-163.site
 22263flanco.com
@@ -358,6 +359,7 @@
 8dollar.su
 8e3d.duckdns.org
 8j08o.top
+8msv1-23655.portmap.host
 8scom.link
 8u2.7-gb.ru
 8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com
@@ -432,6 +434,7 @@ a15-smo.biz
 a195501.mcdir.ru
 a1t.myga3.ru
 a1x.81dm.ru
+a2.6b96.ru
 a23.fun
 a2ecommerce.com
 a2kiaymoster1902.com
@@ -902,6 +905,7 @@ albadrpower.com
 albanakatana-48889.portmap.host
 albany.uphero.com
 albergostella.com
+albertau.ca
 albertoforwardings.us
 albion.zzz.com.ua
 albors.ir
@@ -2088,6 +2092,7 @@ betnet.usa.cc
 betoracle.tips
 betprognoz.pro
 betrunk.rocks
+betsyboone.com
 betterplacetomeet.pw
 bettitotuld.com
 bettyempl.us
@@ -2960,6 +2965,7 @@ cdasynergy.net
 cdh.lypelya2.ru
 cdkfactory.com
 cdn.barracudasec.com
+cdn.mailinfo.life
 cdn.messager.my
 cdn.zhuqiy.top
 cdndz.messager.my
@@ -3108,6 +3114,8 @@ chill-me.com
 chilladverting.site
 chillie-cafe-boutique.com
 chilliseudp.tk
+chillorbackup.no-ip.org
+chillornet.no-ip.org
 chimela.darkbastard.com.de
 chimmxyz.org.in
 chimmy.serveminecraft.net
@@ -3256,6 +3264,7 @@ clemglobal.com
 clexphoto300.com
 click-a-top.top
 click-constraints.gl.at.ply.gg
+click-figured.gl.at.ply.gg
 click4pdf.com
 clickadjust.com
 clickconvertio.com
@@ -3825,6 +3834,7 @@ czvum-84-84-38-102.a.free.pinggy.link
 czyszczeniedywanow-legnica.home.pl
 d-nicegirl.com
 d.7-gb.ru
+d.9n75.ru
 d.b3x1p.ru
 d.r274.ru
 d.t4g9w.ru
@@ -4169,6 +4179,7 @@ desco-inc.info
 desconsinc.tk
 descroej.su
 descubretuser.com
+design-represented.gl.at.ply.gg
 design.intcomsync.com
 designerfashionlabels.co.uk
 designertotal.com
@@ -4590,6 +4601,7 @@ dronius267.myjino.ru
 drooby.ddns.net
 droopie76.net
 drop-box.top
+drop-in-observing-2025.ht
 dropboxing.world
 dropeboxs.in
 dropphef.shop
@@ -5033,6 +5045,7 @@ engranesfinos.com
 engrssmovie.comze.com
 enigeria.gov.ng
 enigma-stat.com
+enjoy-silent.gl.at.ply.gg
 enkalabalikdugun.com
 enljbe.top
 ennisritchie.shop
@@ -5088,6 +5101,7 @@ equickquick.com
 equipaje.fr
 equipmesolutions.com
 equivalentstresser.net
+er.k25q.ru
 erafunding.com
 erawap.org
 erberge-open.com
@@ -5228,6 +5242,7 @@ eventdelegationhq.com
 eventshareonline.nl
 eventtolddintaning.com
 ever-current.com
+ever-rx.gl.at.ply.gg
 ever24.kr
 everest--sh.com
 everisgarden.com
@@ -5931,6 +5946,7 @@ fkjdkjreiofkkldskldfklefd.store
 fkkfap.com
 fkns.com.mk
 fkyhelp.top
+fl.h73n.ru
 fl.he.02.node.poi.best
 fl3xyinc.com
 fl3xyinc.top
@@ -6747,6 +6763,7 @@ graceandjoyfamily.cf
 gracebytry.tk
 graced2.info
 graceisall.com
+grad.services
 gradepruve.myjino.ru
 gradstoledepot.com
 grafana.cukurukuk.fun
@@ -7269,6 +7286,7 @@ hmn.voxuzeo8.ru
 hmno.somipaa9.ru
 hmoney.hostei.com
 hmuhvsjjl.com
+hmvr4u61p.localto.net
 hn.kujywii.ru
 hntraining.com
 hnxdccc.com
@@ -7352,6 +7370,7 @@ host-195-2-93-148.hosted-by-vdsina.ru
 host-94-103-82-73.hosted-by-vdsina.ru
 host-94-103-83-38.hosted-by-vdsina.ru
 host-94-103-94-79.hosted-by-vdsina.ru
+host0.tikmaps.com
 host0.tryfancify.com
 host117.xtpanel.org
 host4.thebookcult.com
@@ -7698,6 +7717,7 @@ imsara.dynu.net
 imtheop.redirectme.net
 imuqnrtccpissbmefte.com
 in-www.com
+in.ditchibuprofen.com
 in.qute3.ru
 inbsb.com.br
 inc-glasgow.gl.at.ply.gg
@@ -7712,6 +7732,7 @@ incroqj.top
 inczujv.top
 indalusia.com
 indeego.com.tw
+index.ht
 indexdoll.top
 indialifes.com
 indianagoods.club
@@ -7928,6 +7949,7 @@ isolve-id.com
 isportdata.com
 ispy.pw
 isrs.tf9.ru
+isset.ca
 isswyuiiki.ru
 istanbulnakliyecileri.com
 istrayachting.hr
@@ -7969,6 +7991,7 @@ itsyoursolution.hebergement-anonyme.com
 itwsaelants.com
 itzimar.xaa.pl
 itzprocabal.ddns.net
+iu.g69p.ru
 iua.goxuxuy4.ru
 iubenda.co
 iubenda.irish
@@ -8120,6 +8143,7 @@ jayw8724-39348.portmap.host
 jaywzkd.top
 jazmany.cu.ma
 jb-qroups.com
+jb.k25q.ru
 jbcompany.org
 jbdoor.net
 jbeqyjlvjqbmq.com
@@ -9618,6 +9642,7 @@ loydsonline.co
 lp.sa-baba.co.il
 lpg9pyvf-site.itempurl.com
 lphageek.app
+lq.k25q.ru
 lqnwdnwdw.xyz
 lraielrai.com
 lronman4x4.com
@@ -9714,6 +9739,7 @@ m3ss4g3rtesla.com
 m3u4uarto.cf
 m4l3x.travinishosting.com
 m8.2se.info
+m9.1v47.ru
 m9.r274.ru
 m9.tem5.ru
 ma3rouf.net84.net
@@ -10006,6 +10032,7 @@ masterminder.in
 masvector.com
 mat-update.be
 matbin.com
+materials-plant.gl.at.ply.gg
 matexx-japan.com
 math1st.com
 mathargaehan.com
@@ -10843,6 +10870,7 @@ nday.te.ua
 nderwoods.xyz
 ndiana.vote
 ndlive.help
+ne.h73n.ru
 ne666an.xyz
 nearreality.io
 nearsic.top
@@ -12659,7 +12687,9 @@ pyscalp.com
 pytty.id
 pytty.life
 pytty.lol
+pz8.9n75.ru
 pzy.sewedau.ru
+q.1v47.ru
 q.bi0ic.ru
 q.d1a8.ru
 q.m074.ru
@@ -13170,11 +13200,13 @@ riyanshoppingbags.com
 rj5.ru
 rjdirngskatrtg.com
 rk.pylohao.ru
+rk1.6b96.ru
 rka.firu6ui8.ru
 rka.qisytui.ru
 rkmbba.org
 rl7bh.ru
 rm-energroup.info
+rm.h73n.ru
 rma.nwu.ac.za
 rmdns.servesarcasm.com
 rmofminota.com
@@ -13289,6 +13321,7 @@ rotfas.com
 rotkit.tk
 rouji.7ban.win
 roukwtmdvelyea.com
+round-failing.gl.at.ply.gg
 route13afjswsww.net
 route36grille.com
 routemate.us
@@ -14599,6 +14632,7 @@ sswretg.com
 st-andrewsspa.co.za
 st-secured.com
 st.cofepoi2.ru
+st.h73n.ru
 st.hihijie3.ru
 st.xekifye8.ru
 st1.fav.al
@@ -14941,6 +14975,7 @@ support-office365.date
 support.suter-mthal.ch
 support.wekreate.com
 supportdepartr.biz
+supporting-black-excellence-in-fomd.ht
 supportprotect.pw
 supremedmitry.zzz.com.ua
 supremegenerator.com
@@ -15069,6 +15104,7 @@ szwanglou.com
 t-bagnation.com
 t-mk.me
 t.340-k.ru
+t.6b96.ru
 t.d8w6l.ru
 t.dev.drakeinternationalagency.com
 t.gug7.ru
@@ -16020,6 +16056,7 @@ u99692u5.bget.ru
 u99991hm.beget.tech
 u9b.top
 ua-banki.com
+uabgive.ca
 uaecarmarket.org
 uartzxenialpingrun.christmas
 uavlab.am
@@ -16609,6 +16646,7 @@ vlmadisson.tk
 vloeren-venlo.nl
 vlojr.pw
 vm.cyzukae.ru
+vm0875678g52022.online
 vm1063460.had.tf
 vm1148613.hl.had.pm
 vm1195891.kvm.had.wf
@@ -16738,6 +16776,7 @@ w0000t.com
 w1mxn88vzlv.com
 w1sdom.us
 w3hhhhh-44281.portmap.host
+w4.9n75.ru
 w4tchrs.no-ip.org
 w68426zc.bget.ru
 w91926dc.beget.tech
@@ -17365,6 +17404,7 @@ xprti.xyz
 xpto.ga
 xpulsa.in
 xq0.tbkh.ru
+xq7.1v47.ru
 xq8.340-k.ru
 xq8.juq0.ru
 xqi.rilefoo8.ru
@@ -17592,6 +17632,7 @@ yysopqde.com
 yz.mexyxei9.ru
 yze.gyjyvyy6.ru
 z.759-s.ru
+z.g69p.ru
 z.h934.ru
 z.kot9.ru
 z.l8o6.ru
