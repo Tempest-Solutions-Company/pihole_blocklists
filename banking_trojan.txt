@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-22 13:12:46 UTC
-# Total domains: 5489
+# Generated: 2025-09-22 15:27:39 UTC
+# Total domains: 5491
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1008,6 +1008,7 @@ boleroforensics.net
 boligudland.dk
 bondibackpackersnhatrang.com
 bonedrunk.com
+bonoud.com
 boob7.com
 bookedit.online
 bookify.space
@@ -3401,6 +3402,7 @@ machinimated.com
 macosx-app.com
 macosx-apps.com
 macosxappstore.com
+macprograms-pro.com
 macroflex.net
 macromill.online
 macxapp.com

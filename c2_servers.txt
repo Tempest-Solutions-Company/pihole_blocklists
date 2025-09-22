@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-22 13:12:46 UTC
-# Total domains: 18139
+# Generated: 2025-09-22 15:27:39 UTC
+# Total domains: 18179
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1088,6 +1088,7 @@ am.devy3.ru
 am.g6i2.ru
 am.myga3.ru
 am.n5m4t.ru
+am.nwyk.ru
 am.raha1.ru
 amacseurope.com
 amagicalfuture.com
@@ -1763,6 +1764,7 @@ b0t.online
 b19jdn167t.in
 b1gnet.comoj.com
 b1wr1337.zzz.com.ua
+b2.7i7y5.ru
 b2.messager.my
 b2.s-819.ru
 b2b-vm6.verticalcommunication.in
@@ -2260,6 +2262,7 @@ biznetvgator.com
 biznetvigater.com
 biznetvigator.ml
 biztradersintl.xyz
+bj.jzak.ru
 bj.m7e4.ru
 bj.v96g.ru
 bjmwcmpyrghf.com
@@ -2778,6 +2781,7 @@ c4509.top
 c4589.top
 c4821.top
 c5.22jk.ru
+c5.3i6i4.ru
 c5.6k47.ru
 c5.7o3u8.ru
 c5.c-080.ru
@@ -3877,12 +3881,14 @@ czkey1n.com
 czvum-84-84-38-102.a.free.pinggy.link
 czyszczeniedywanow-legnica.home.pl
 d-nicegirl.com
+d.5i4u8.ru
 d.7-gb.ru
 d.99jn.ru
 d.9a9o8.ru
 d.9n75.ru
 d.b3x1p.ru
 d.h-214.ru
+d.k645.ru
 d.r274.ru
 d.t4g9w.ru
 d.tbkh.ru
@@ -7033,6 +7039,7 @@ gzuf777.myftp.org
 h-to-h.mixh.jp
 h.03mr.ru
 h.2p62.ru
+h.5u0i4.ru
 h.6y0u1.ru
 h.b8a2.ru
 h.g3w2p.ru
@@ -8097,6 +8104,7 @@ itwsaelants.com
 itzimar.xaa.pl
 itzprocabal.ddns.net
 iu.g69p.ru
+iu.ht-if.ru
 iua.goxuxuy4.ru
 iubenda.co
 iubenda.irish
@@ -8568,10 +8576,12 @@ k.j2e6.ru
 k.juq0.ru
 k.m-754.ru
 k.mmwf.ru
+k.n791.ru
 k.r3j5c.ru
 k.r3l1x.ru
 k.s836.ru
 k.solatic.ro
+k.ve-27.ru
 k.z-20.ru
 k0n.xyc0.ru
 k2.z-67.ru
@@ -8790,6 +8800,7 @@ khsl.kixyzoo7.ru
 khstrikergames.top
 khwahishpunjabi.com
 ki.n44s.ru
+ki.nd-ox.ru
 kiadi-gasket.com
 kibcorporete.com
 kibossuqar.com
@@ -8973,6 +8984,7 @@ kprocurement.com
 kpsfabxdwbvv.com
 kpskflowz.com
 krack-yt.myjino.ru
+krakas.duckdns.org
 kraken.cc
 kranement.cf
 kranement.ga
@@ -9078,6 +9090,7 @@ kz.d-09-r.ru
 kz.gwut.ru
 kz.thawaslobem.com
 l.22jk.ru
+l.3i6i4.ru
 l.465-w.ru
 l.6k47.ru
 l.7o3u8.ru
@@ -9777,6 +9790,7 @@ lp.sa-baba.co.il
 lpg9pyvf-site.itempurl.com
 lphageek.app
 lq.k25q.ru
+lq.ljat.ru
 lqnwdnwdw.xyz
 lraielrai.com
 lronman4x4.com
@@ -11384,14 +11398,23 @@ nreum.info
 nrf1living.com
 nrfronglu.com
 ns1.androha.com
+ns1.boccfc.top
+ns1.cryptwechat.com
+ns1.duoo.cc
+ns1.jszwfw.com.cn
 ns1.microoosoft.com
 ns1.pakistancode.com
 ns1.zhengwubiaoge.top
 ns1server.co.uk
+ns2.boccfc.top
+ns2.cryptwechat.com
+ns2.duoo.cc
 ns2.ezhost.in
+ns2.jszwfw.com.cn
 ns2.microoosoft.com
 ns2.pakistancode.com
 ns2.zhengwubiaoge.top
+ns3.duoo.cc
 ns3.izone.at
 ns511849.ip-192-99-19.net
 nsandionline.com
@@ -11525,6 +11548,7 @@ octdepend.info
 october10.su
 octopus.black
 octvt.xyz
+od.jzak.ru
 odegashift.net
 odhiwaters.net
 odibi.biz
@@ -11926,6 +11950,7 @@ p-studio.ro
 p.526r.ru
 p.aresital.com
 p.goklobtogether.net
+p.ljat.ru
 p.m7e4.ru
 p.t2w3v.ru
 p.t4c5d.ru
@@ -12237,6 +12262,7 @@ pewny.sat-dv.ru
 pezinok.cf
 pezwsv.top
 pf-pv.xyz
+pf.ljat.ru
 pf.vozunaa0.ru
 pf8.ru
 pfanaerstill.com
@@ -12413,6 +12439,7 @@ pluzhnikov.com
 plymouthcoaches.co.uk
 pm.gjat.ru
 pm4wv.dx.am
+pm7.5i4u8.ru
 pm7.pyp3.ru
 pma.fin.ex2life.cf
 pma.finansist.xyz
@@ -12869,6 +12896,7 @@ q.1v47.ru
 q.bi0ic.ru
 q.d1a8.ru
 q.m074.ru
+q.mwop.ru
 q.n9t6m.ru
 q.v4h3t.ru
 q0jqva.besaba.com
@@ -12909,6 +12937,7 @@ qf.byq3.ru
 qf7ck3kj3nps4n3n.onion
 qfoulraymhyds.com
 qg.jibiw8aa5.ru
+qg.mjef.ru
 qg.tyjysoe0.ru
 qhlhsaytjeaorx.com
 qhost.ro
@@ -12994,6 +13023,7 @@ qwert123.comli.com
 qwerty12346.ru
 qx.jozotea.ru
 qx8.mmwf.ru
+qy6.5u0i4.ru
 qyqima0.xyz
 qz.w30g.ru
 qz7.391-g.ru
@@ -13543,6 +13573,7 @@ rpc2.gdn
 rpmnierals.com
 rq.fo1od.ru
 rq.mufabui4.ru
+rq8.7i7y5.ru
 rqx10504bc.temp.swtest.ru
 rr01h.top
 rrbaterias.com.br
@@ -13923,6 +13954,7 @@ scruxhb.top
 scsazonevi2012.co.zm
 sctms.tld56.cn
 sculcib.qpon
+sd.mjef.ru
 sdbuhsadh.myjino.ru
 sdcf.oaklandne.com
 sdcgl0bal.net
@@ -14321,6 +14353,7 @@ shyda6317.club
 shyh-tw.com
 shzlive.top
 si.kidizue6.ru
+si.ljat.ru
 si.no-ip.biz
 siamjaguar.com
 siamzime.com
@@ -15167,6 +15200,7 @@ suncomhosting.com
 sunfastinc.com
 sunflymetall.com
 sunflyrnetal.com
+sungito.ydns.eu
 sungwon7.co
 sunitest.com
 sunlcha.com
@@ -15197,6 +15231,7 @@ supertuxkart-evolution.com
 supleather.biz
 suplusbless.com
 supmine.pro
+supp.desktop.wales
 suppercoupeioav.com
 supplyexpert.ca
 supplyglassess.com
@@ -16271,6 +16306,7 @@ u0929560.cp.regruhosting.ru
 u1.03mr.ru
 u1.2p62.ru
 u1.333-f.ru
+u1.5u0i4.ru
 u1.6y0u1.ru
 u1.pyp3.ru
 u1399p291.web0081.zxcs.nl
@@ -16377,6 +16413,7 @@ ultrafil.net
 ultrainstinct.ru
 ulusoyun.tk
 uluulupetcafe.sg
+um.mjef.ru
 umadais.pw
 umbragequartz.pro
 umbxd15896.su
@@ -17040,6 +17077,7 @@ w0000t.com
 w1mxn88vzlv.com
 w1sdom.us
 w3hhhhh-44281.portmap.host
+w4.5i4u8.ru
 w4.99jn.ru
 w4.9a9o8.ru
 w4.9n75.ru
@@ -17708,6 +17746,7 @@ xrt4tr.com
 xshy.luwotaa1.ru
 xsjm6334-001-site1.etempurl.com
 xsopflgg.bounceme.net
+xt.jzak.ru
 xtaxytoyx.com
 xtracker.club
 xtreme-digital-network.info
@@ -17933,6 +17972,7 @@ yz.mexyxei9.ru
 yze.gyjyvyy6.ru
 z.10tw.ru
 z.759-s.ru
+z.7i7y5.ru
 z.8h66.ru
 z.b-395.ru
 z.g69p.ru
