@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-09-24 13:05:21 UTC
-# Total domains: 5639
+# Generated: 2025-09-24 19:17:18 UTC
+# Total domains: 5642
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -425,6 +425,7 @@ admissions-universalai.in
 adninjia.com
 adnl.com.mx
 adobe88.com
+adoniexmar.xyz
 adriot.org
 adsco.online
 adsemail.com
@@ -2142,6 +2143,7 @@ fachejyp.ru
 facileprono.fr
 facton.net
 fadimatic.online
+fadingannk.xyz
 fagolamasa.top
 failai.online
 failsalon.com
@@ -4622,6 +4624,7 @@ selsovet.store
 semandex.com
 sembrandosemillas.us
 semquedagotas.com.br
+senaildebe.xyz
 sendinc.net
 sendle.pro
 sensiocare.se
