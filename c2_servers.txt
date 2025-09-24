@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-24 01:49:09 UTC
-# Total domains: 18463
+# Generated: 2025-09-24 05:59:48 UTC
+# Total domains: 18476
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6449,6 +6449,7 @@ g299.top
 g33qb6n.com
 g4.hu-50.ru
 g4.q642.ru
+g4.r852o.ru
 g4gcp.co.uk
 g5.f969.ru
 g8.top
@@ -8246,6 +8247,7 @@ j-turismopg.pro
 j.29rs.ru
 j.c8i0.ru
 j.jod6.ru
+j.nq-52.ru
 j.p-81.ru
 j.w6n2t.ru
 j1.0pu.ru
@@ -8668,11 +8670,13 @@ k.391-g.ru
 k.6n47.ru
 k.97qm.ru
 k.9i1e6.ru
+k.cdn-748.ru
 k.j2e6.ru
 k.juq0.ru
 k.m-754.ru
 k.mmwf.ru
 k.n791.ru
+k.q210u.ru
 k.r3j5c.ru
 k.r3l1x.ru
 k.s836.ru
@@ -10002,6 +10006,7 @@ m3nfly.com
 m3ss4g3rtesla.com
 m3u4uarto.cf
 m4l3x.travinishosting.com
+m5.nq-52.ru
 m7.cdn-175.ru
 m7.cdn-659.ru
 m7.k987.ru
@@ -12591,6 +12596,7 @@ plymouthcoaches.co.uk
 pm.gjat.ru
 pm4wv.dx.am
 pm7.5i4u8.ru
+pm7.cdn-325.ru
 pm7.hu-50.ru
 pm7.pyp3.ru
 pm7.q642.ru
@@ -13199,7 +13205,9 @@ qz.w30g.ru
 qz7.391-g.ru
 qz7.g-22.ru
 qz7.twgr.ru
+qz9.cdn-748.ru
 qz9.m-754.ru
+qz9.q210u.ru
 qzec.club
 r-s.us
 r-sbonlin.co.uk
@@ -15583,6 +15591,7 @@ t00lz.sourceforge.net
 t0m4hawk.comeze.com
 t0ny.info
 t1.cdn-175.ru
+t1.cdn-748.ru
 t1.p556i.ru
 t11vincenzauuzw.com
 t1koma.com
@@ -16522,12 +16531,14 @@ u1.333-f.ru
 u1.5u0i4.ru
 u1.6y0u1.ru
 u1.cdn-123.ru
+u1.cdn-325.ru
 u1.dy-77.ru
 u1.hu-50.ru
 u1.k807.ru
 u1.pyp3.ru
 u1.q463a.ru
 u1.q642.ru
+u1.r852o.ru
 u1399p291.web0081.zxcs.nl
 u19982p14980.web0119.zxcs.nl
 u19982p14982.web0119.zxcs.nl
@@ -16865,9 +16876,11 @@ v178903.hosted-by-vdsina.ru
 v2.23df.ru
 v2.6s95.ru
 v2.cdn-568.ru
+v2.cdn-748.ru
 v2.m-754.ru
 v2.me-71.ru
 v2.n278o.ru
+v2.q210u.ru
 v2.q277.ru
 v200598.hosted-by-vdsina.ru
 v201750.hosted-by-vdsina.ru
