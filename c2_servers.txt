@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-24 05:59:48 UTC
-# Total domains: 18476
+# Generated: 2025-09-24 12:05:10 UTC
+# Total domains: 18529
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -119,6 +119,7 @@
 211.ip.gl.ply.gg
 2152761d.langcdn.top
 2208.165-227-83-163.site
+2209sep25.duckdns.org
 22263flanco.com
 222andro.net
 223.ip.gl.ply.gg
@@ -620,6 +621,7 @@ ad-nalitica.com
 ad.administratorr.website
 ad.c0h9w.ru
 ad.icab.pk
+ad.kokq.ru
 ad.messager.my
 ad.q8e5.ru
 ad.sapeniu2.ru
@@ -1094,6 +1096,7 @@ alwifaq.ly
 alyacht.com
 alysonmf.us
 am.devy3.ru
+am.dumx.ru
 am.g6i2.ru
 am.myga3.ru
 am.n5m4t.ru
@@ -1427,6 +1430,7 @@ arraeyg.top
 arrelormittal.com
 arrowtools.ru
 ars-crypter.livehost.fr
+ars1t.cfd
 arsetca.lat
 arsgdcxdfgh.space
 arshaastore.pro
@@ -1697,6 +1701,7 @@ avtoprokat.com.ua
 avtrailx.net
 avvalves-com.ml
 aw.g6i2.ru
+aw.lalz.ru
 aw.r2h7m.ru
 aw.s7z7r.ru
 awardsign.net
@@ -1772,6 +1777,7 @@ b.stop2asrertyasport3.com
 b.t408.ru
 b.thegjurertyasport18.com
 b.uandmearertyasport1.com
+b.wd-79.ru
 b.wnkc.ru
 b0t.online
 b19jdn167t.in
@@ -1997,6 +2003,7 @@ bdonlineshop.com
 bdr.ubibancaa.fun
 bdsphatphat.com
 bdzdfsdf.cf
+be.4f7m3.ru
 be.devy-3.ru
 be.vxof.ru
 beak.nu
@@ -2177,6 +2184,7 @@ bhf-host.ml
 bhnegocios.com.br
 bhuwant.com.np
 bi.f0z1n.ru
+bi.lalz.ru
 bi.w9a5.ru
 bibaiboba.beget.tech
 bibente.com
@@ -2508,6 +2516,7 @@ bouncer.bot.nu
 bouncuid.shop
 boundertime.ru
 bountymarine.net
+boustrn.su
 bouvoyages.net
 bouxwe.ml
 bouyeit.asia
@@ -3401,6 +3410,7 @@ clubpatinlacavada.com
 clue.darkbastard.com.de
 cm-lagoa.pt
 cm-solutions.info
+cm.1i5i.ru
 cm0.759-s.ru
 cm0.s57o.ru
 cm35758.tmweb.ru
@@ -3489,6 +3499,7 @@ collins-walker.co.uk
 colmenaresllafkelen.cl
 colnhubplus.com
 cologic.be
+colombiaeslibre9889.dynuddns.com
 colonialacresresort.com
 coloresmedia.com
 colorlux.ro
@@ -3952,6 +3963,7 @@ d2ogssay9or4s.com
 d3c00.duckdns.org
 d3c0d3dd0cx.000webhostapp.com
 d3m.ta4a.info
+d4.3o5i.ru
 d4t.com.mx
 d911670w.beget.tech
 d96612l5.beget.tech
@@ -4067,6 +4079,7 @@ dasdasidjasjdkasdttt.com
 dasenttwen.co.uk
 dashboard.pwrd.me
 dashcapventures.com
+dasilva.ydns.eu
 daspors.com
 dasrilkosdirosado.com
 data-startssllink.com
@@ -4192,6 +4205,7 @@ declogz2014.asia
 declpfp.top
 decoagua.com
 deconsultinc.uni.me
+decrexd.pics
 dectexla.ru
 decuioz.qpon
 dedbtgnilfqq.com
@@ -4503,6 +4517,7 @@ do.boku-0.ru
 do.cawyfie51.ru
 do.devy-3.ru
 do.feryfoi88.ru
+do.gyfc.ru
 do.kemem.ga
 do.lage2.ru
 do.pejy1.ru
@@ -5395,6 +5410,7 @@ ewfplkgb.cf
 ewg.jujosuu4.ru
 ewges38c.beget.tech
 ewssol.top
+ex.nyfk.ru
 ex.t65p.ru
 ex2life.cf
 examgist.com
@@ -5451,6 +5467,7 @@ ext.aztu.edu.az
 ext.demoserviciopcmendoza.com.ar
 extarran.com
 extasy.miriellographico.com
+extemzd.pics
 exterminatorsnearby.us
 external.eliteworkxmarketing.com
 extgenfargo.xyz
@@ -5776,6 +5793,7 @@ f1r3d.biz
 f2wa.com
 f46e602.sytes.net
 f92155ve.beget.tech
+fa.nyps.ru
 faan.31tigersqn.be
 fabbo-hotel.nl
 faberiy0.ru
@@ -6062,6 +6080,7 @@ fiu-eu.org
 fivehundred.work
 fix-project.com
 fix2.altervista.org
+fixatmu.pics
 fixclomyfodp.cloud
 fixerrors-mail.cf
 fixerrors-mail.ga
@@ -7291,6 +7310,7 @@ he-beta.click
 he.boku-0.ru
 he.devy-3.ru
 he.harekae65.ru
+he.jolm.ru
 he.lage-2.ru
 he.nugawye78.ru
 he.visa-8.ru
@@ -7390,6 +7410,7 @@ hi-j.com
 hi.dihijio22.ru
 hi.jytoceo30.ru
 hi.mybro.biz
+hi.nyfc.ru
 hi.sacyzie58.ru
 hiccup.com.ar
 hideme9r.beget.tech
@@ -7478,6 +7499,7 @@ hn.kujywii.ru
 hntraining.com
 hnxdccc.com
 ho.11.duitmasyuk.asia
+ho.nyfc.ru
 ho7rcj6wucosa5bu.onion
 hoanghachai.com
 hoangkim.ga
@@ -7794,6 +7816,7 @@ iexplorer.redirectme.net
 if-compared.gl.at.ply.gg
 if.boku-0.ru
 if.gify1.ru
+if.jolm.ru
 if.lage-2.ru
 ifbi.netau.net
 ifemonums.hostoi.com
@@ -8787,6 +8810,7 @@ katamo1.myjino.ru
 kathbowling.ru
 katherinajetter.com
 katherineanderic2026.com
+kausjdhfasdf.com
 kavavak.cat
 kavil.com.tr
 kay.greyhatservices.com
@@ -10022,6 +10046,7 @@ m9.9i1e6.ru
 m9.r274.ru
 m9.tem5.ru
 ma.f-42-s.ru
+ma.nyfk.ru
 ma3rouf.net84.net
 maatart.eu
 mabmai133.myjino.ru
@@ -10347,6 +10372,7 @@ maxxcor.co.za
 may-steering.gl.at.ply.gg
 may31.ml
 maybe-declared.gl.at.ply.gg
+mayikt.xyz
 mayilinformers.co.in
 maylnk.ml
 maymayminhlochungyen.com
@@ -11084,6 +11110,7 @@ myyouporn.com
 mz.n-44-s.ru
 mzaky.com
 n.227-m.ru
+n.3o5i.ru
 n.c2y8.ru
 n.cdn-357.ru
 n.dy-53.ru
@@ -11102,6 +11129,7 @@ n0.cdn-886.ru
 n1.google-analytcis.com
 n18b7273u1j.in
 n2.google-analytcis.com
+n2.wd-79.ru
 n26a4ekqvqxd5fsq3k6bau7lrlikiczgnuny5v3vtgef4fw5gq24deyd.onion
 n3.google-analytcis.com
 n7.fag5.ru
@@ -11128,6 +11156,7 @@ name.xcution.pw
 name242215315.000webhostapp.com
 names-accident.gl.at.ply.gg
 names-petite.gl.at.ply.gg
+names-thrown.gl.at.ply.gg
 namnommae.com
 nan.zzz.com.ua
 nana29.com
@@ -11755,6 +11784,7 @@ oj.f05t.ru
 ojme.net
 ojsat.or.th
 ojukwujobs.com
+ok.lalz.ru
 ok12345.serveminecraft.net
 okclick2.ac.ug
 okey.haoldd.com
@@ -12081,6 +12111,7 @@ owngpt.com
 owonikoko.su
 owonla.com
 owoonmymind.co.uk
+ox.kocq.ru
 oxfrontal.com
 oxshdtstanru.top
 oyishu.com
@@ -12121,6 +12152,7 @@ p7.l134.ru
 p7s5272.xyz
 p9.juq0.ru
 pa-buol.go.id
+pa.nyfk.ru
 pa1.aztu.edu.az
 paadasala.com.au
 paargolbal.in
@@ -12461,11 +12493,13 @@ photoshopcs5tutorials.com
 photosjournalism.com
 phpmyadmin.westinsinsurance.com
 phronelight.com
+phrupmv.su
 pht.altervista.org
 phucisnh.com
 phulocnhat2005.duckdns.org
 physiotherapyusa.org
 physscq.top
+pi.nyfk.ru
 pi0wp.top
 pianofun.edu.vn
 picaqhesd.com
@@ -13369,6 +13403,7 @@ rdsviewer.com
 rdxcvejik.com
 re-pos.in
 re-vic.gl.at.ply.gg
+re.nyfk.ru
 re.qacacoe3.ru
 re.xxos.ru
 rea.co.ke
@@ -14428,6 +14463,7 @@ sgb-sy.com
 sghi.vekoloe8.ru
 sgnaturn.com
 sgt445.com
+sh.nyps.ru
 sh.wqix.ru
 sh1000816.had.su
 sh1007969.had.su
@@ -14682,6 +14718,7 @@ skilldrivinget.com
 skin-literary.gl.at.ply.gg
 skitvhg.top
 sklasse-b.in.ua
+skldfjgsldkmfgsdfg.com
 skmeun.com
 skmineinc.tk
 skmomohltd.com
@@ -14829,6 +14866,7 @@ so.cawyfie51.ru
 so.ciqe8.ru
 so.feryfoi88.ru
 so.ixy9.ru
+so.kocq.ru
 so.lyehk.com
 so.myda4.ru
 so.pykokiu43.ru
@@ -14966,6 +15004,7 @@ southburlingtonfitness.com
 southeasterncontractingco.com
 southern201-28469.portmap.host
 southernse.com
+southgangfree.ooguy.com
 soxsox1.twilightparadox.com
 soyabhn.asia
 soyasticks.club
@@ -15583,6 +15622,7 @@ t.h8y0.ru
 t.k002.ru
 t.kilut4ou8.ru
 t.m.u.radio.hi2.ro
+t.nq-52.ru
 t.qute3.ru
 t.r3j5c.ru
 t.twgr.ru
@@ -15593,6 +15633,7 @@ t0ny.info
 t1.cdn-175.ru
 t1.cdn-748.ru
 t1.p556i.ru
+t1.q210u.ru
 t11vincenzauuzw.com
 t1koma.com
 t1nkem.com
@@ -16012,11 +16053,13 @@ through-nearest.gl.at.ply.gg
 throughout-regarding.gl.at.ply.gg
 thrrthtrhrh.site50.net
 tht.vumarifa.com
+thujaii.pics
 thunlen.com
 thursday-mere.gl.at.ply.gg
 thyssenkrrupp.com
 thzsmrjqqzpaz2mz.onion
 ti-film.com
+ti.nyps.ru
 tianythread.com
 tiaraleenclub.com
 tibr.nut.cc
@@ -16091,6 +16134,7 @@ tlantida-sh.cloud
 tlauren.com
 tld56.cn
 tlprivatecollection.com
+tls.psigestioncomercial.com.ar
 tls.sharesoffices.com
 tma.penodoa.ru
 tmaster.com.ua
@@ -16611,6 +16655,7 @@ ug.velyzeu3.ru
 ugan.ga
 ugobweb.xyz
 ugpostc.top
+uh.nyps.ru
 uhma.shop
 uhv.kufapoi3.ru
 uinlive-time.com
@@ -16724,6 +16769,7 @@ up.dasurie36.ru
 up.drivers-bp.com
 up.fucirai75.ru
 up.jiky7.ru
+up.kocq.ru
 up.myda4.ru
 up.qenogia7.ru
 up.raha1.ru
@@ -16787,6 +16833,7 @@ urungiydirme.com
 us.bavyzeo47.ru
 us.gesybue11.ru
 us.gytogii12.ru
+us.kokq.ru
 us.qilaliy87.ru
 us.quladao75.ru
 us230.top
@@ -17431,6 +17478,7 @@ wd.z-99-l.ru
 we.bhelp.top
 we.devy3.ru
 we.helpasist.com
+we.kokq.ru
 we.myda4.ru
 we.raha1.ru
 we.sorvr.com
@@ -18009,6 +18057,7 @@ xq9.0e0y6.ru
 xqi.rilefoo8.ru
 xqtechllc.com
 xr8edstresser.com
+xr9.nq-52.ru
 xram.onlinewebshop.net
 xray.messager.my
 xrc.myhehaa4.ru
@@ -18080,6 +18129,7 @@ y9028868.beget.tech
 y90311s2.beget.tech
 y93554zp.bget.ru
 y938428j.beget.tech
+ya.nyfc.ru
 ya4m7.ru
 yadcu-eg.com
 yakata.ga
@@ -18119,6 +18169,7 @@ yco.nufypiy1.ru
 ydbao6.cyou
 ydbao8.cyou
 ydviihefckogxwqhrla.com
+ye.kokq.ru
 ye6cvdg.top
 year.cewyzui61.ru
 yearsfa.top
@@ -18172,6 +18223,7 @@ yn.fa6eq.ru
 yn.qisytui.ru
 ynnwhiuoxqyjxrfqa.com
 ynrlive.top
+yo.nyfc.ru
 yoffc.com
 yogalifestylist.com
 yogicmanagement.com
@@ -18284,6 +18336,7 @@ z3.q463a.ru
 z3us1.z-ed.info
 z7.7-gb.ru
 z7.mmwf.ru
+z7.wd-79.ru
 z70791ae.beget.tech
 z92074ju.beget.tech
 z96269eg.beget.tech
