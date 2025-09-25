@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-24 19:17:18 UTC
-# Total domains: 18602
+# Generated: 2025-09-25 01:37:46 UTC
+# Total domains: 18624
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -961,6 +961,7 @@ alexboolooobinna.info
 alexiscorp.com
 alexman.nichost.ru
 alexprivate.tinhost.ru
+alexsv2.duckdns.org
 aleyywv.top
 alfacloudx.ru
 alfamexgdl.com
@@ -1918,6 +1919,7 @@ baresatx.com
 barfly.com.ua
 barguty.com
 barleyxghb.com
+baronby.pics
 barotechf.cf
 barotechf.ga
 barotechf.gq
@@ -4162,6 +4164,7 @@ dcgast3.duckdns.org
 dcgast9.duckdns.org
 dcgazt.duckdns.org
 dcgretts.duckdns.org
+dcgrettz.duckdns.org
 dcgrezzt.duckdns.org
 dcm2195.com
 dcoctubre15.duckdns.org
@@ -4866,6 +4869,7 @@ e.s3i1.ru
 e.t8g2w.ru
 e.z-67.ru
 e1.cdn-626.ru
+e1.cr-65.ru
 e1.ja-02.ru
 e1.s951.ru
 e1.v354y.ru
@@ -7845,6 +7849,7 @@ iesque.com
 ieuchanesz.co.uk
 iexplorer.redirectme.net
 if-compared.gl.at.ply.gg
+if.9f4s4.ru
 if.boku-0.ru
 if.gify1.ru
 if.jolm.ru
@@ -10458,6 +10463,7 @@ mdksimon.su
 mdmuold.com
 mdnetrn.com
 mdolk.ru
+me.9f4s4.ru
 me.buno8.ru
 me.feryfoi88.ru
 me.fo1od.ru
@@ -10519,6 +10525,7 @@ meismusiclimited.co.nz
 meiwong.net
 mejeq.xyz
 mekusmo.biz
+melambn.pics
 melatidanes.com
 melleniumval.xyz
 mellive.top
@@ -11068,6 +11075,7 @@ mw.kokq.ru
 mwebdesign.asia
 mwgroup.co
 mwq-47258.portmap.host
+mwq-52537.portmap.host
 mwqgwqcbllxhchd.com
 mx.downy.pw
 mx.puva6ey2.ru
@@ -11489,6 +11497,7 @@ nitenokliert.co.uk
 nitikaphorma.co
 nitrolasty.gdn
 nizamhospital.com
+njcolombia8590.duckdns.org
 njqlive.top
 nk-slaven-belupo.hr
 nkakzit.net
@@ -13206,6 +13215,7 @@ qk2.08jm.ru
 qk2.4m99.ru
 qk2.cdn-175.ru
 qk2.cdn-626.ru
+qk2.cr-65.ru
 qk2.ja-02.ru
 qk2.p556i.ru
 qk2.s951.ru
@@ -13301,6 +13311,7 @@ r.4m99.ru
 r.5y4a.ru
 r.81dm.ru
 r.cdn-626.ru
+r.cr-65.ru
 r.ee
 r.gigaionjumbie.biz
 r.gwut.ru
@@ -13606,6 +13617,7 @@ responsible-owners.gl.at.ply.gg
 responsible.zirked.com
 ressources-it.fr
 rest-mlyn.com.ua
+rest-tub.gl.at.ply.gg
 restaurant-do.gl.at.ply.gg
 restaurants-colonial.gl.at.ply.gg
 restedstream.com
@@ -14103,6 +14115,7 @@ samundarmarine.com
 samwellgs.com
 samyfiy2.ru
 samzidan.xyz
+san-acceptance.gl.at.ply.gg
 san4.kl.com.ua
 sanalika.bedavahost.biz
 sanapetiope.com
@@ -14241,6 +14254,7 @@ sctms.tld56.cn
 sculcib.qpon
 sd.mjef.ru
 sd.nyfk.ru
+sdasdsaasdas-62497.portmap.host
 sdbuhsadh.myjino.ru
 sdcf.oaklandne.com
 sdcgl0bal.net
@@ -14527,6 +14541,7 @@ sh1213709.a.had.su
 shaddyfiles.ru
 shadesquirrel.info
 shadow2515.duckdns.org
+shadow2sas-22639.portmap.host
 shadowstresser.com
 shadoww.co.in
 shadyx.net
@@ -14918,6 +14933,7 @@ snowagainfearfreezesagainagainitfeelslikeiceisinmyhands.space
 snowman720.com
 snowpower.xyz
 snsgroup.com
+so.6h1p7.ru
 so.cawyfie51.ru
 so.ciqe8.ru
 so.feryfoi88.ru
@@ -15091,6 +15107,7 @@ spartanr.5gbfree.com
 spcdipslays.com
 spcllt.com
 spearsrnfq.net
+special-practice.gl.at.ply.gg
 specific-dolls.gl.at.ply.gg
 specificrandomness.com
 specsnarts.gr
@@ -15120,6 +15137,7 @@ spjute.se
 spnetrokona.com
 spnsmtpchtr.com
 spoilsdecelerators.biz
+sponsored-background.gl.at.ply.gg
 spordcp.top
 sporic-kr.com
 sportextravel.com
@@ -16657,6 +16675,7 @@ u4642627gu.ha003.t.justns.ru
 u5.08jm.ru
 u5.4m99.ru
 u5.cdn-626.ru
+u5.cr-65.ru
 u5.ja-02.ru
 u5.tbkh.ru
 u5.v354y.ru
@@ -16824,6 +16843,7 @@ uo.bwag.ru
 uoctajwdjlqltbf.com
 uomomo.tmweb.ru
 uoslayyah.com
+up.6h1p7.ru
 up.ciqe8.ru
 up.dasurie36.ru
 up.drivers-bp.com
@@ -17136,6 +17156,7 @@ versx.net
 vertex-tw.com.tw
 verusx.ga
 very.ruvmp.ru
+verybestfuckingpersonieseeninmylifetrulystupidmanwhoaorundon.ydns.eu
 verynicejourencywithbetterbabygirloftheb.duckdns.org
 verysome.ml
 veryspec.live
@@ -17763,6 +17784,7 @@ windowsupdate.loseyourip.com
 windowsupdatefree.ml
 windowsupdates.asd32.online
 windowsupdates.systeminternal.r87.online
+windowsupdateserver.ddnsgeek.com
 windowsupdating.ru
 windsorsmith-au.com
 wine-shop.tk
