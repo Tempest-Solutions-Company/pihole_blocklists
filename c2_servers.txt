@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-25 15:09:10 UTC
-# Total domains: 18696
+# Generated: 2025-09-25 22:00:41 UTC
+# Total domains: 18813
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -28,6 +28,7 @@
 054-235-2465.com
 0632.club
 075229cm.nyash.es
+0adolfhitlerwashere.zapto.org
 0d4y.0fees.us
 0day4today.com
 0e.8-fr.ru
@@ -94,11 +95,14 @@
 1926.165-227-83-163.site
 195482902.ga
 1akerovich1.myjino.ru
+1alternative.zapto.org
 1e1ff22.live
+1ellisburton.zapto.org
 1filesharing.ga
 1kislakberendezes.hu
 1lidoo.ml
 1m.526r.ru
+1magicalmage.zapto.org
 1musd.comule.com
 1natojobservice.ru
 1net.co.uk
@@ -141,11 +145,13 @@
 293756-co10171.tmweb.ru
 296058-petrov9744.tmweb.ru
 29ieo.com.cn
+2alternative.zapto.org
 2becomputers.com
 2bw12aba1d2d.com
 2c15b6d719.myjino.ru
 2cc2cc2.ml
 2ch.im.versiononefinance.com
+2ellisburton.zapto.org
 2gvision.com
 2hyperteks.net
 2id82.com
@@ -154,6 +160,7 @@
 2m.s836.ru
 2maga.site
 2magas.site
+2magicalmage.zapto.org
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com
 2q.fid1.ru
 2rm7y.top
@@ -203,12 +210,15 @@
 3821305pnceos328.xyz
 38robpl95.esy.es
 3addictions.com.au
+3alternative.zapto.org
 3bots.xyz
 3c5a1f6ffbb7de3ec610c661e8131ea2.tk
 3d-gold.com.hk
+3ellisburton.zapto.org
 3glytldqdo.xyz
 3kinds.net
 3linkhg.hostoi.com
+3magicalmage.zapto.org
 3nity.xyz
 3qwajq5p5pfsi3sw.onion
 3sao.top
@@ -239,7 +249,9 @@
 47eringov.ru
 4802jkshdp.duckdns.org
 48o.qute3.ru
+4alternative.zapto.org
 4aqsbhe9vh44.cfc-execute.bj.baidubce.com
+4ellisburton.zapto.org
 4f1kja.com
 4h.97jt.ru
 4itok.kl.com.ua
@@ -248,6 +260,7 @@
 4kdownload.pro
 4llion.com
 4m.v-9542.ru
+4magicalmage.zapto.org
 4max.xyz
 4me-4you.com
 4mxlrhcab.localto.net
@@ -274,9 +287,12 @@
 57d3e30e.duckdns.org
 5830f64c8c47.com
 59.227.185.35.bc.googleusercontent.com
+5alternative.zapto.org
+5ellisburton.zapto.org
 5ineprojects.com
 5infall.zzz.com.ua
 5ji235jysrvwfgmb.onion
+5magicalmage.zapto.org
 5n.97qm.ru
 5thelementq8.com
 5umaga.site
@@ -315,8 +331,11 @@
 68927.prohoster.biz
 69315.cc
 69xloy.com
+6alternative.zapto.org
 6connesso.com
+6ellisburton.zapto.org
 6fy7tg8y96f87tr.xyz
+6magicalmage.zapto.org
 6montecitoblvd.com
 6mv1eyr328y6due83u3js6whtzuxfyhw.su
 6pak.xyz
@@ -337,7 +356,10 @@
 782345698752364.site
 786autobodyrepai.co.za
 789456123.space
+7alternative.zapto.org
+7ellisburton.zapto.org
 7m.van1.ru
+7magicalmage.zapto.org
 7p.top
 7travel.online
 7z.l5228.ru
@@ -359,10 +381,13 @@
 888andro.net
 88movies.online
 8989898989.000webhostapp.com
+8alternative.zapto.org
 8company.info
 8dollar.su
 8e3d.duckdns.org
+8ellisburton.zapto.org
 8j08o.top
+8magicalmage.zapto.org
 8msv1-23655.portmap.host
 8scom.link
 8u2.7-gb.ru
@@ -510,6 +535,7 @@ abcd.gamesen.icu
 abcdigitizing.com
 abchome.ml
 abcukk.co.uk
+abdenour007.zapto.org
 abehsain.com
 abercrombie.net.co
 abgs.co.il
@@ -525,6 +551,7 @@ ablelifepurp.ydns.eu
 abletrade.usa.cc
 ablu.pro
 aboniaamckdr.com
+aboooooooooooooos.zapto.org
 aboukangaz.com
 aboutworld.info
 abpukmj0.beget.tech
@@ -689,6 +716,7 @@ adobesystem.duckdns.org
 adobeupdater.mcdir.ru
 adobeupdater.ng
 adohem-me.com
+adolfhitlerwashere.zapto.org
 adoniexmar.xyz
 adrack.us
 adresaadresata.xhost.ro
@@ -864,6 +892,7 @@ aj.t4a4.ru
 aj.w6n2t.ru
 ajahdelta.eu
 ajansyenimedya.com
+ajayrajan80.zapto.org
 ajczgt.ignorelist.com
 aje.clicktwicehosting.com
 ajesticserver.xyz
@@ -899,6 +928,7 @@ aklinecomputers.in
 akmos.com.br
 akonikponik.eu
 akres.rossokhin.siteme.org
+akrqmfiestq.zapto.org
 aksc.free.fr
 aksharasrismartschool.com
 akusetrett.co.uk
@@ -1080,6 +1110,7 @@ altaria.in
 altaseerenterprises.com
 altasenergy.com
 alteerprodus.com
+alternative.zapto.org
 alternativescrucial.org
 altervistaf.com
 altipilates.com
@@ -1213,6 +1244,7 @@ android-power.space
 androman1.ddns.net
 ands.services
 andver19.zzz.com.ua
+andyneroner.zapto.org
 andyrog.net
 andywhite25.com
 anene.info
@@ -1798,6 +1830,7 @@ b2.7i7y5.ru
 b2.bw-06.ru
 b2.cdn-659.ru
 b2.cdn-886.ru
+b2.e-410.ru
 b2.f342i.ru
 b2.k987.ru
 b2.messager.my
@@ -2271,6 +2304,7 @@ biotapharmas.com
 biotic.ro
 bipcharlotte.com
 birajisant.in
+birazsiradan.zapto.org
 birchcompany.in
 bird-park.info
 bird.kidsworldgames.info
@@ -2319,6 +2353,7 @@ bjxqd.com
 bk-ratings.ru
 bk.w3h8j.ru
 bk.x0e8.ru
+bkr33zysucksdick.zapto.org
 bkstrdljs.com
 bkwriting.com
 bl.f8t6m.ru
@@ -2540,6 +2575,7 @@ bouyeit.asia
 box-dealer.gl.at.ply.gg
 box.kiwisandblasting.com
 boxandpad.com.cn
+boxoffice.forumreelz.com
 boxtop.ml
 boy-ana.gl.at.ply.gg
 boyaliiplik.com
@@ -3211,6 +3247,7 @@ chidochi.in
 chidodo.gq
 chiefsec.wpc.gov.lk
 chienti.net
+chihebchipo.zapto.org
 chikafriend.site90.net
 childrentally.org
 childrnafrica.com
@@ -3971,6 +4008,7 @@ d.t4g9w.ru
 d.tbkh.ru
 d.x-05.ru
 d.x0a3.ru
+d.x331e.ru
 d.xe-96.ru
 d.xyc0.ru
 d0lphin1337.xyz
@@ -4178,6 +4216,7 @@ dcgazt.duckdns.org
 dcgretts.duckdns.org
 dcgrettz.duckdns.org
 dcgrezzt.duckdns.org
+dckis.duckdns.org
 dcm2195.com
 dcoctubre15.duckdns.org
 dcoctubre9.duckdns.org
@@ -4488,6 +4527,7 @@ distributionguitar.xyz
 diuwdx.top
 divamgo.top
 divdal2.no-ip.org
+divelhacker.zapto.org
 divella.biz
 diversifiedgeneralcontracting.com
 divine.pk
@@ -5121,6 +5161,7 @@ elisoxctez.info
 elkhfoierhgfoeirhgf.info
 ellgreensportseducation.info
 ellieisla.live
+ellisburton.zapto.org
 ellogreentechproducts.click
 elnstek.com
 eloquentcs.com
@@ -5259,6 +5300,8 @@ eotoatotlasldkd.com
 eowxgliaujppfl7m.onion.link
 ep.v96g.ru
 epcvl.com.br
+epicpbgloba.zapto.org
+epicpbglobal.zapto.org
 epidmov.top
 epitherd.ru
 epointbd.xyz
@@ -5831,6 +5874,7 @@ f100h.com
 f1r3d.biz
 f2wa.com
 f3.5i0a.ru
+f3xbuildingfunforum.zapto.org
 f46e602.sytes.net
 f92155ve.beget.tech
 fa.nyps.ru
@@ -6350,6 +6394,7 @@ freeonlinechat.3owl.com
 freerui.webuda.com
 freespending.info
 freetheme.co
+freevpnguard.zapto.org
 freewhcm.top
 freexfree2025.ydns.eu
 freightagents.net
@@ -7022,6 +7067,7 @@ gravyshop111.000webhostapp.com
 gravyshop228.000webhostapp.com
 gravyshops.000webhostapp.com
 graygqk.top
+grayhatgroupontop.zapto.org
 greater-strategy.gl.at.ply.gg
 greaterhightz.com
 greatfriendsteam.tech
@@ -7188,6 +7234,7 @@ h.03mr.ru
 h.2p62.ru
 h.5e6a.ru
 h.5u0i4.ru
+h.6q8v0.ru
 h.6y0u1.ru
 h.b8a2.ru
 h.cdn-123.ru
@@ -7199,6 +7246,7 @@ h.pejy1.ru
 h.q463a.ru
 h.w2r1k.ru
 h.z-72.ru
+h.z687a.ru
 h1.06hm.ru
 h1.6n47.ru
 h1.802d.ru
@@ -7235,14 +7283,17 @@ hackattaksuceuse.biz
 hackboot.url.ph
 hacker-metline.no-ip.org
 hacker3456.zzz.com.ua
+hackerbabel.zapto.org
 hackersallin.esy.es
 hackeryoutube.zzz.com.ua
 hacking-lab.ru
 hackmarket.ru
+hackuracyv2.zapto.org
 hackz.esy.es
 had-palmer.gl.at.ply.gg
 hadeca.esy.es
 hadfanawass.com
+hafedabdall.zapto.org
 hag505.com
 haggwwb.top
 haijiangfriut.com
@@ -7252,6 +7303,7 @@ hairyzd.top
 hajimahmoud.com
 hakanbas.com
 hakanla.com
+hakerbolbol.zapto.org
 hakkaribet.duckdns.org
 haklbank.com
 halacostminer.000webhostapp.com
@@ -7280,6 +7332,7 @@ hampseru.cloud
 hamryrechalka.com
 hamsterman.pw
 hamyaresanat.com
+hamzakraiyem.zapto.org
 hanaindulgence.com
 hancockconsulting.com
 hand.gofumoo29.ru
@@ -7309,6 +7362,7 @@ happyshipyard.org
 haqcdkwtukdegysigtv.com
 hardbase.1x.de
 hardcomng.com
+hardenberger.zapto.org
 hardigononne.com
 hardwarebl0g.1x.de
 hardwoodhosting.biz
@@ -8050,6 +8104,7 @@ infos2020com.fr
 infosales.duckdns.org
 infosousahost.com
 infotopnews.net
+infoupdator.zapto.org
 infres.in
 infuego.ru
 ingfengyun.net
@@ -8057,6 +8112,7 @@ inginida.hol.es
 inglescancun.garnetmovil.com
 ingrado.ch
 inhousebarristers.co.uk
+inicabedennot.zapto.org
 ininox.com
 iniosmiaw.pw
 injprivateserver.ru
@@ -8138,6 +8194,7 @@ io.gw.hypersend.my
 io7617121.gq
 ioconzus.com
 iolinoddlinkopen.christmas
+ionia74.xyz
 iosappdevelopmentindia.com
 iosif-brodskiy.su
 iotmiraibotnet.duckdns.org
@@ -8154,6 +8211,7 @@ ip80.ip-51-195-81.eu
 ipb.upel.edu.ve
 ipblasta.com
 ipchanged.com
+ipeasyassim.zapto.org
 iphone.offers-special.com
 iphoneservicecenter.co.uk
 iphoneservisci.com
@@ -8359,6 +8417,7 @@ j400822.myjino.ru
 j4ckd4w.ugu.pl
 j4gn7dcux.localto.net
 j6g3fzp.5k5.ru
+j6j6ijhrwuj.zapto.org
 j705691.myjino.ru
 j7jd72e-001-site1.ftempurl.com
 j902757.myjino.ru
@@ -8422,6 +8481,7 @@ javacentralupdatecenter.ru
 javadijudo.com
 javadoddle.com
 javascriptbasics.com
+javastudios.zapto.org
 javelinkay.club
 jawedfumigation.com
 jayavarmaninc.com
@@ -8501,6 +8561,7 @@ jhapjgvatltxunklfwk.com
 jhfjfiwjdnfnfwwa.ga
 jhk.kufapoi3.ru
 jhl.com.pe
+jholycf100.ddns.com.br
 jhpipaa.com
 jhuynfrkijucdxiu.club
 jiahangshida.com.cn
@@ -8756,6 +8817,7 @@ k.391-g.ru
 k.6n47.ru
 k.97qm.ru
 k.9i1e6.ru
+k.c646a.ru
 k.cdn-748.ru
 k.j2e6.ru
 k.juq0.ru
@@ -9523,6 +9585,7 @@ lawsifc.top
 lawson-media.net
 lawuwenub.co.nf
 laximdiamond.com
+laxreal10.duckdns.org
 layclub-win.xyz
 layerinformatics.com
 laykaruthunga.com
@@ -9644,6 +9707,7 @@ lenghtwildpowerlevelrace.click
 lenhpqy.top
 lenjerie-eleganta.ro
 lenkvanleersum.nl
+lensdriver-us.com
 lentis.flu.cc
 leon10.5gbfree.com
 leonardoilgenio.it
@@ -9958,6 +10022,7 @@ lordoflord.org
 lordsavemeplsoooo1.tk
 lordsi.com
 lordwire.hostei.com
+lorenzo12321mn5.zapto.org
 loritoexpresss.dynuddns.com
 lorraineconk.us
 los4maperosdelaxavi.info
@@ -10035,6 +10100,7 @@ luenhinpearl.com
 luffino.beget.tech
 lugaribeiro.com.br
 luis.darkbastard.com.de
+luizonsistemas.zapto.org
 lukaku4.gq
 lukwany.superweb.ws
 luminoject.website
@@ -10109,6 +10175,7 @@ m7.9s4g2.ru
 m7.bw-06.ru
 m7.cdn-175.ru
 m7.cdn-659.ru
+m7.e-815.ru
 m7.k987.ru
 m7.mo-49.ru
 m7.p556i.ru
@@ -10179,6 +10246,7 @@ magelord.com
 magento.6ixwebsoft.com
 magic3.ml
 magic4.ml
+magicalmage.zapto.org
 magicborn.me
 magicsystem.info
 magii.club
@@ -10732,6 +10800,7 @@ mind.fsdragonballs.com
 mindexposed.space
 mindhlo.qpon
 mindslaver.com
+mindyourstep.zapto.org
 mine.kommanditgesel.icu
 minecraft-alex.ru
 minecraft-ok.ru
@@ -10866,6 +10935,7 @@ moguti.site
 moguto.site
 mogutse.site
 mohamedghareeb.com
+mohammad3badi.zapto.org
 mohantoursandtravels.com
 moiparks.in
 moitube.net63.net
@@ -11146,11 +11216,13 @@ mygreencity.in
 mygsl.ru
 myguyapp.com
 myhost19.no-ip.biz
+myhostwin64.zapto.org
 myhouse.my.ohost.de
 myinsidertraveltips.com
 myinstalls.info
 myinteldom.space
 myipcheck121.pro
+mykeylogger.zapto.org
 mykutea4.ru
 mylokipanel.cf
 mylokipanel.ml
@@ -11303,6 +11375,7 @@ nebogame.bl.ee
 necan.gov.np
 necromant1k96.netau.net
 necror.de
+necrotoxin2.zapto.org
 nectixboost.org
 nectixboost.xyz
 nederveencosmetics.nl
@@ -11660,6 +11733,7 @@ ns1.androha.com
 ns1.boccfc.top
 ns1.cryptwechat.com
 ns1.duoo.cc
+ns1.huntressstudios.org
 ns1.jszwfw.com.cn
 ns1.microoosoft.com
 ns1.pakistancode.com
@@ -11669,6 +11743,7 @@ ns2.boccfc.top
 ns2.cryptwechat.com
 ns2.duoo.cc
 ns2.ezhost.in
+ns2.huntressstudios.org
 ns2.jszwfw.com.cn
 ns2.microoosoft.com
 ns2.pakistancode.com
@@ -12634,6 +12709,7 @@ piquedhotelclubcom.net
 pir.aztu.edu.az
 pir.demoserviciopcmendoza.com.ar
 piramideengenharia.com
+piratagemaroc.zapto.org
 piratedreed22.info
 piro-crystals.pw
 pis.aztu.edu.az
@@ -12760,6 +12836,7 @@ pofuduk.org
 pogoda.messager.my
 poihyfded.superweb.ws
 point-rewards.com
+pointblank100.zapto.org
 pointtravel.com.br
 poisoha.top
 poisono.asia
@@ -13028,6 +13105,7 @@ prognozameteo.hi2.ro
 programiiiix.freeiz.com
 programs-realty.gl.at.ply.gg
 progruppen.com.br
+projects.alternativesynergies.com
 projects.globaltronics.net
 projectstoday.biz
 projetojr.com.br
@@ -13178,6 +13256,7 @@ pyscalp.com
 pytty.id
 pytty.life
 pytty.lol
+pz7.x331e.ru
 pz8.1z2p9.ru
 pz8.99jn.ru
 pz8.9a9o8.ru
@@ -13251,6 +13330,7 @@ qivurbqwxv.com
 qiwi-api.site
 qjqykmyd.com
 qk.tem5.ru
+qk1.e-815.ru
 qk2.08jm.ru
 qk2.4m99.ru
 qk2.cdn-175.ru
@@ -13271,10 +13351,12 @@ qm.kokq.ru
 qm.sojokiy.ru
 qm9.03mr.ru
 qm9.2p62.ru
+qm9.6q8v0.ru
 qm9.6y0u1.ru
 qm9.cdn-123.ru
 qm9.dy-77.ru
 qm9.k807.ru
+qm9.z687a.ru
 qmbmbyqkltqfbbtxxc.com
 qn.xapomyo.ru
 qnuhelp.top
@@ -13406,10 +13488,12 @@ rafexkominy.pl
 rag.su
 ragasgki.gq
 ragjohn.com
+ragnarokmetal.zapto.org
 rahal.aboulfeth.com
 railmirt.isasecret.com
 rain.failczar.com
 rainbowsongdome.net
+raja000hack.zapto.org
 rajas.cf
 rajas.com.my
 rajasthankiran.com
@@ -13445,6 +13529,7 @@ rapogliffer.club
 rapsmmv.top
 rapxwo.com
 rar-lab.ru
+raremaster77.zapto.org
 raritybntz7z2.besaba.com
 rarityin.hol.es
 rarog.oz-n.ru
@@ -13679,6 +13764,7 @@ rethinkdb.ml
 retire2malaysia.com
 retiregenz.com
 retrofik.ru
+retrosniping.zapto.org
 rettgive.org
 reusens.com
 revdupmarketing.com
@@ -13770,6 +13856,7 @@ rk.pylohao.ru
 rk1.42wd.ru
 rk1.6b96.ru
 rk1.6u3o9.ru
+rk8.d597o.ru
 rk8.q-083.ru
 rka.firu6ui8.ru
 rka.qisytui.ru
@@ -14141,6 +14228,7 @@ samanthadekker.nl
 samb0a.com
 sameetc.tk
 samiba.ddns.net
+samismsmsami.zapto.org
 samnapkach.com
 samoaoana.co.in
 samorat.com
@@ -14338,6 +14426,7 @@ seasonlogz.co.in
 seattleschools.co
 seaviewbatroun.com
 seaviewresidence.com
+sebiria1234.zapto.org
 sec.b.granivit.hu
 sec.b.xifuhalim.com
 sec.xudofiu02.ru
@@ -14894,6 +14983,7 @@ slimiyt.us
 slimpityio3.us
 slimteaversis.us
 slip.creditoemprestimos.com
+slip345.xyz
 slipcentral.com
 slipxzx.bet
 slit-on.ga
@@ -14970,6 +15060,7 @@ snfers-56365.portmap.host
 snh.xibovyu5.ru
 sniffer-tank.comli.com
 snipca.usa.cc
+sniperoujda.zapto.org
 snnmnkxdhflwgthqismb.com
 sno.pubarey.ru
 snoopdmoney2018.sytes.net
@@ -15028,6 +15119,7 @@ softtouchcollars.com
 software.mcdir.ru
 software1.esy.es
 softwaredappis.ml
+softwaredev.zapto.org
 softwareserviceupdater1.com
 softwareserviceupdater2.com
 softwareupdate.ga
@@ -15074,6 +15166,7 @@ solx.duckdns.org
 solzzz.top
 somafe.dz
 somani.ddns.net
+some-cleveland.gl.at.ply.gg
 somebitorg.com
 somebodyhardwareaccelerated.biz
 somefed.top
@@ -15150,6 +15243,7 @@ spankyl33.com
 sparge-parole.hi2.ro
 sparkickwears.ga
 sparrow-cap-manufacturer.com
+sparrowjagwar.zapto.org
 sparrowwilla.biz
 sparrrow.in
 spartanr.5gbfree.com
@@ -15203,6 +15297,7 @@ spt.boosoo.cn
 spt.proksen.com
 spy72-45493.portmap.io
 spynet123.no-ip.info
+spynetkeylogger.zapto.org
 sq.d-09-r.ru
 sq.mizx.ru
 sqcorporation-40357.portmap.host
@@ -15586,6 +15681,7 @@ sunshinebo.com
 suntds.ru
 suomuj.top
 super-italic.gl.at.ply.gg
+superblyseax.zapto.org
 supercraft.info
 superdad777bet.com
 supergeorgia.ge
@@ -15743,6 +15839,7 @@ t.42wd.ru
 t.6b96.ru
 t.6n2q7.ru
 t.6u3o9.ru
+t.d597o.ru
 t.d8w6l.ru
 t.dev.drakeinternationalagency.com
 t.gug7.ru
@@ -16121,6 +16218,7 @@ themessagemission.org
 themilili.0xhost.net
 themmaopen.co.uk
 themoddingbot.altervista.org
+themrbadboy.zapto.org
 themutualbenefits.com
 then-northeast.gl.at.ply.gg
 then.wofaraa29.ru
@@ -16165,6 +16263,7 @@ thietbikiemdinh.com.vn
 things-uses.gl.at.ply.gg
 thinkrf.com
 third-placing.gl.at.ply.gg
+thisisnot24letters.zapto.org
 thislord15.myjino.ru
 thoitrangaodacaocap.com
 thomas-compromise.gl.at.ply.gg
@@ -16369,6 +16468,7 @@ toptopcop.info
 topwebappdevelopmentcompanies.com
 torinverwa.ru
 torlago.com
+torrentpier.zapto.org
 tosh.com.au
 toshcompany.teamtosh.xyz
 tosin.org.in
@@ -16457,6 +16557,7 @@ tragee.000webhostapp.com
 trainisshit.shop
 trakd.ws
 trannlu.top
+trannybisexul.zapto.org
 trannynet.adgods.uk
 tranpip.com
 trans-tech.ro
@@ -16496,6 +16597,7 @@ treemmesrl-eu.com
 treemover.xyz
 treenon.bid
 trekstagroup.org
+trelev.live
 tren-zbs.info
 trendmnicro.qzz.io
 trendyinia.esy.es
@@ -16504,6 +16606,7 @@ trentfast.com
 tresdaw.xyz
 treshbux.ru
 treskainc.com
+treten.live
 tretthing.site
 trevorlee.com.ng
 trfordsworking.in
@@ -16577,6 +16680,7 @@ tsreuba.net
 tsrv3.ru
 tsthkphil.net23.net
 tsukraboot.in
+tsunayoshisky.zapto.org
 tsvigunrat.besaba.com
 tswgqcseq.com
 tt.onmypc.org
@@ -16708,6 +16812,7 @@ u1.03mr.ru
 u1.2p62.ru
 u1.333-f.ru
 u1.5u0i4.ru
+u1.6q8v0.ru
 u1.6y0u1.ru
 u1.cdn-123.ru
 u1.cdn-325.ru
@@ -16718,6 +16823,7 @@ u1.pyp3.ru
 u1.q463a.ru
 u1.q642.ru
 u1.r852o.ru
+u1.z687a.ru
 u1399p291.web0081.zxcs.nl
 u19982p14980.web0119.zxcs.nl
 u19982p14982.web0119.zxcs.nl
@@ -16927,6 +17033,7 @@ update.chromeconnect.digital
 update.saintfrancoisath.be
 update43x.myvnc.com
 updatecenter.ru
+updatechecker0.zapto.org
 updateinstall.xyz
 updateoffice360.top
 updater-internal.mooo.com
@@ -17020,6 +17127,7 @@ utasarmsinc.ru
 utch-lessons-utrecht.xyz
 utiara88slot.net
 utihslote.cfd
+utoboolusho2.zapto.org
 utomation-tools-78123.bond
 uuid.thetrancoe.com
 uuknot.org
@@ -17062,6 +17170,7 @@ v1.q780.ru
 v178903.hosted-by-vdsina.ru
 v2.23df.ru
 v2.6s95.ru
+v2.c646a.ru
 v2.cdn-568.ru
 v2.cdn-748.ru
 v2.m-754.ru
@@ -17531,6 +17640,7 @@ w4.99jn.ru
 w4.9a9o8.ru
 w4.9n75.ru
 w4.h-214.ru
+w4.x331e.ru
 w4tchrs.no-ip.org
 w68426zc.bget.ru
 w91926dc.beget.tech
@@ -17844,6 +17954,7 @@ windows-updates.nice-data.top
 windowshost.click
 windowslivehelp.ua.gp
 windowsreport.stream
+windowssp22.zapto.org
 windowsupdate.loseyourip.com
 windowsupdatefree.ml
 windowsupdates.asd32.online
@@ -18052,6 +18163,7 @@ x.cdn-175.ru
 x.cdn-659.ru
 x.d8w6l.ru
 x.dailyradio.su
+x.e-815.ru
 x.k987.ru
 x.l-5228.ru
 x.mo-49.ru
@@ -18198,6 +18310,7 @@ xpressdeliverys.com
 xprti.xyz
 xpto.ga
 xpulsa.in
+xpussyassshitfuckx.zapto.org
 xq.lalz.ru
 xq0.6k47.ru
 xq0.7o3u8.ru
@@ -18307,6 +18420,7 @@ yanitymm.com.tr
 yantzu.com
 yapanyapi.com
 yaroslavdimitriev.000webhostapp.com
+yarwoahimujno.zapto.org
 yasage.co.uk
 yasamaugrasi.com
 yaseen-tismantr.com
@@ -18397,6 +18511,7 @@ yotams.website
 you-gaps.gl.at.ply.gg
 youbeboom.info
 youbeboom.pw
+youdontneedtoknow.zapto.org
 youiso.com
 youla-dlvr.site
 youmortalsknownothingofmagic.pw
@@ -18470,6 +18585,7 @@ z.7i7y5.ru
 z.8h66.ru
 z.b-395.ru
 z.cdn-886.ru
+z.e-410.ru
 z.f342i.ru
 z.g69p.ru
 z.h934.ru
@@ -18568,6 +18684,7 @@ zenobox.eu
 zenshinonline.ru
 zentrixdatasolutions.com
 zenval.ai
+zenytio.com
 zer0day.co
 zero-hub.com
 zeromb.website
