@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-26 06:10:26 UTC
-# Total domains: 18824
+# Generated: 2025-09-26 13:14:57 UTC
+# Total domains: 18873
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -32,6 +32,7 @@
 0d4y.0fees.us
 0day4today.com
 0e.8-fr.ru
+0f.padj.ru
 0k.29rs.ru
 0llhs.sbs
 0ooo.xyz
@@ -99,6 +100,7 @@
 1e1ff22.live
 1ellisburton.zapto.org
 1filesharing.ga
+1i.myzj.ru
 1kislakberendezes.hu
 1lidoo.ml
 1m.526r.ru
@@ -228,6 +230,7 @@
 3y28z.top
 3z.7-fd.ru
 3zoz.duckdns.org
+4.derl.ru
 400forestwood.info
 401.fav.al
 402.fav.al
@@ -363,6 +366,7 @@
 7p.top
 7travel.online
 7z.l5228.ru
+8.mijk.ru
 80.173.153.160.host.secureserver.net
 800flower.cyou
 812331-cb01023.tmweb.ru
@@ -383,6 +387,7 @@
 8989898989.000webhostapp.com
 8alternative.zapto.org
 8company.info
+8d.derl.ru
 8dollar.su
 8e3d.duckdns.org
 8ellisburton.zapto.org
@@ -393,6 +398,7 @@
 8u2.7-gb.ru
 8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com
 9.9.jami.bio
+9.pymz.ru
 9.v9542.ru
 9009351534.myjino.ru
 90551.prohoster.biz
@@ -402,6 +408,7 @@
 93cc.vip
 956.ceo
 989jsdbty.duckdns.org
+99.derl.ru
 9991321442.myjino.ru
 999andro.net
 999phone.su
@@ -498,6 +505,7 @@ aa9.me-71.ru
 aa9.n278o.ru
 aa9.q277.ru
 aaatechh.com
+aaaxxx6.hopto.org
 aacapitalsecurity.co.uk
 aadcdn.airday.beer
 aaictlogistics.com
@@ -2893,6 +2901,7 @@ c90212q0.beget.tech
 c9a.vem4.ru
 c9f44961.ngrok.io
 ca-ssl.com
+ca.mijk.ru
 ca.n6p5j.ru
 ca.x0a3.ru
 ca1.cwsurf.de
@@ -3496,6 +3505,7 @@ cnc.504.su
 cnc.9257.org
 cnc.botnet.agency
 cnc.bottingstation.info
+cnc.feds.gay
 cnc.kalonarkks.tk
 cnc.zinomc.com
 cnc2.bottingstation.info
@@ -4003,16 +4013,21 @@ d.99jn.ru
 d.9a9o8.ru
 d.9n75.ru
 d.b3x1p.ru
+d.e-134.ru
 d.h-214.ru
 d.k645.ru
+d.pymz.ru
 d.r274.ru
 d.t4g9w.ru
 d.tbkh.ru
 d.x-05.ru
 d.x0a3.ru
 d.x331e.ru
+d.x874a.ru
 d.xe-96.ru
 d.xyc0.ru
+d0.alexandraparasca.com
+d0.aztu.edu.az
 d0lphin1337.xyz
 d1.465-w.ru
 d1.h934.ru
@@ -4556,6 +4571,7 @@ dkmallin.com.ng
 dkpdesiqns.com
 dks05.cyou
 dl.bxof.ru
+dl.mijk.ru
 dl.vuzojiu9.ru
 dliol.com.ar
 dlkorrtundbuov.com
@@ -5227,6 +5243,7 @@ emmex.duckdns.org
 empireacoustical.com
 empiresmp.com
 empirestate.ga
+employment-memorabilia.gl.at.ply.gg
 empressbridge.com
 emtelakproperties.com
 emwdrbwapescxix.com
@@ -6276,6 +6293,7 @@ fongyeh.com.tw
 fontdrvhost.xyz
 foodexpress.com.bd
 foojblh.top
+football-confident.gl.at.ply.gg
 footlooking.kl.com.ua
 fop.sumukye2.ru
 foranalysticsonly.com
@@ -7245,6 +7263,7 @@ h.g3w2p.ru
 h.info
 h.k807.ru
 h.pejy1.ru
+h.pymz.ru
 h.q463a.ru
 h.w2r1k.ru
 h.z-72.ru
@@ -7542,6 +7561,7 @@ highwaytolline.sbs
 higomanga.info
 hihi.blazingnetwork.pro
 hikmahmuliautama.co.id
+hikylover.st
 hillpot.ml
 hillsboraviation.pw
 hilonguea.com
@@ -7582,6 +7602,7 @@ hjasfhajf.click
 hjsahdjalsudioaso.ru
 hjsdbfbvtysfc.pw
 hjspom.com
+hk.pymh.ru
 hkc.support
 hkdjuilkwwq2t.com
 hkenngr.com
@@ -7880,6 +7901,7 @@ icaescr.com
 icals.ru
 icanguri.com
 icbcasia.info
+icc.konebras.com.br
 iccconsultant.all.co.uk
 icce.cl
 iccs.com.sa
@@ -8185,6 +8207,7 @@ introduction-africa.gl.at.ply.gg
 introduction-hello.gl.at.ply.gg
 intropilivyi.com
 invalid666.zzz.com.ua
+inversat.cc
 investasiku.or.id
 investment-calendar.gl.at.ply.gg
 investplannerhub.xyz
@@ -9363,6 +9386,7 @@ l.bi3ux.ru
 l.by-64.ru
 l.c267.ru
 l.cdn-779.ru
+l.cheapgylsale.com
 l.dasurie36.ru
 l.gt-70.ru
 l.h924i.ru
@@ -10071,6 +10095,7 @@ lpg9pyvf-site.itempurl.com
 lphageek.app
 lq.k25q.ru
 lq.ljat.ru
+lq.pymh.ru
 lqnwdnwdw.xyz
 lraielrai.com
 lronman4x4.com
@@ -10155,6 +10180,7 @@ m.nugawye78.ru
 m.wnkc.ru
 m.zo1ah.ru
 m0.kd-50.ru
+m0.nybh.ru
 m0nst3r.eu
 m1.p-81.ru
 m1f.fid1.ru
@@ -11177,6 +11203,7 @@ mvd-porno-block.pw
 mvd-porno-block.xyz
 mvh-ag.de
 mvh-maschinenbau.de
+mvps-remote.duckdns.org
 mvtaudrockn.com
 mvv34z.top
 mw.kokq.ru
@@ -11287,6 +11314,7 @@ n.w30g.ru
 n.wofaraa29.ru
 n.wuk0.ru
 n.xxos.ru
+n.z413y.ru
 n0.cdn-886.ru
 n1.google-analytcis.com
 n18b7273u1j.in
@@ -11796,6 +11824,7 @@ nutqauytva3azxd.com
 nuu.qacacoe3.ru
 nuvolsolution.com
 nux4z03klipwn173jfudv.de
+nuz8o8.88933.vip
 nv.v-96-g.ru
 nviodigiitaalmail.shop
 nviodigitalbox.shop
@@ -12006,6 +12035,7 @@ omeradar.top
 omertaza.beer
 omesup.net
 omfg123.zapto.org
+omfg131313.dynuddns.com
 omfort-domivka.shop
 omgjackpot.tv
 omikkyltd.com
@@ -13267,6 +13297,7 @@ pz8.1z2p9.ru
 pz8.99jn.ru
 pz8.9a9o8.ru
 pz8.9n75.ru
+pz8.e-134.ru
 pzy.sewedau.ru
 q.1v47.ru
 q.3o5i.ru
@@ -14667,6 +14698,8 @@ sfave8ojurshe5.duckdns.org
 sfbotvinnik.icu
 sff.sed-i.org
 sfr-support.org
+sfr.aztu.edu.az
+sfr.konebras.com.br
 sfsdfpizdatrtu.space
 sg-fujitsu.com
 sgb-sy.com
@@ -14717,6 +14750,7 @@ sharfik.club
 sharing-details.ml
 sharjahaquarium.com
 sharjoff.000webhostapp.com
+shark-software.ru
 shark-watewer.com
 sharkeagle.com
 sharonbooks.ru
@@ -15691,6 +15725,7 @@ super-italic.gl.at.ply.gg
 superblyseax.zapto.org
 supercraft.info
 superdad777bet.com
+superfinancemax.com
 supergeorgia.ge
 superlatinradio.com
 superlogs.id1945.com
@@ -15865,6 +15900,7 @@ t0m4hawk.comeze.com
 t0ny.info
 t1.cdn-175.ru
 t1.cdn-748.ru
+t1.o-554.ru
 t1.p556i.ru
 t1.q210u.ru
 t11vincenzauuzw.com
@@ -16376,6 +16412,7 @@ tld56.cn
 tlprivatecollection.com
 tls.psigestioncomercial.com.ar
 tls.sharesoffices.com
+tm7.z413y.ru
 tma.penodoa.ru
 tmaster.com.ua
 tme.hicymui.ru
@@ -16510,6 +16547,7 @@ tp.sewumoa.ru
 tpended.xyz
 tpr.hati3ea0.ru
 tq.6i4u.ru
+tq.derl.ru
 tq1.bw-06.ru
 tq1.cdn-659.ru
 tq1.k987.ru
@@ -16799,6 +16837,7 @@ u-knlt.com
 u.1i5i.ru
 u.b704.ru
 u.eastmoon.pl
+u.pymh.ru
 u.r0z8r.ru
 u.s9i1.ru
 u.v-9542.ru
@@ -17278,6 +17317,7 @@ vcv.no-ip.biz
 vd-global.vip
 vd.kygupyy.ru
 vd.nyps.ru
+vd.padj.ru
 vds315.kl.com.ua
 ve.1i5i.ru
 ve.htif.ru
@@ -17627,12 +17667,14 @@ vyjilua3.ru
 vystah.com
 vysyyvyvm.myjino.ru
 vytiwhwdomibkisctq.com
+vz.derl.ru
 vz.xevenyu.ru
 vz81757.eurodir.ru
 vzlomvimeworldv3.000webhostapp.com
 vzmaze.ml
 w.cup7.ru
 w.d3l4d.ru
+w.myzj.ru
 w.q5z9s.ru
 w.q780.ru
 w.s3i1.ru
@@ -17648,6 +17690,7 @@ w4.5i4u8.ru
 w4.99jn.ru
 w4.9a9o8.ru
 w4.9n75.ru
+w4.e-134.ru
 w4.h-214.ru
 w4.x331e.ru
 w4tchrs.no-ip.org
@@ -17703,6 +17746,7 @@ warrantify.com
 warriorinjapan.hostjava.net
 warryotrisjmsolvlmsf.website
 waryyip.top
+was-rand.gl.at.ply.gg
 wasare.tk
 washerv.ru
 waskeur.eb2a.com
@@ -17877,6 +17921,7 @@ wevolyo4.ru
 wew.shipensburginvestmentgroup.com
 wewaha.mcdir.ru
 wewqeqw.webege.com
+wf.pymz.ru
 wfgrma5m.beget.tech
 wg.f42s.ru
 wg.gevicii.ru
@@ -18170,6 +18215,7 @@ x.6i4u.ru
 x.bw-06.ru
 x.cdn-175.ru
 x.cdn-659.ru
+x.cheapgylsale.com
 x.d8w6l.ru
 x.dailyradio.su
 x.e-815.ru
@@ -18177,6 +18223,7 @@ x.k987.ru
 x.l-5228.ru
 x.mo-49.ru
 x.p556i.ru
+x.pymz.ru
 x.r219i.ru
 x.s-819.ru
 x.stasismyfuture.com
@@ -18198,6 +18245,7 @@ x65cr13.com
 x6iye.site
 x7pro.top
 x7x.xyz
+x8.z413y.ru
 x8d.byq3.ru
 x90542jr.bget.ru
 x92522i5.beget.tech
@@ -18393,6 +18441,7 @@ y.cdn-325.ru
 y.h8y0.ru
 y.hu-50.ru
 y.kocq.ru
+y.mijk.ru
 y.p9v7g.ru
 y.pejy1.ru
 y.pyp3.ru
