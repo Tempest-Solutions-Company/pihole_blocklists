@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-26 19:54:27 UTC
-# Total domains: 18922
+# Generated: 2025-09-27 03:02:32 UTC
+# Total domains: 18928
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1853,6 +1853,7 @@ b2.f342i.ru
 b2.k987.ru
 b2.messager.my
 b2.mo-49.ru
+b2.o-279.ru
 b2.r219i.ru
 b2.s-819.ru
 b2b-vm6.verticalcommunication.in
@@ -2902,6 +2903,7 @@ c5.h924i.ru
 c5.i-574.ru
 c5421.top
 c6.0y2i.ru
+c7.a-156.ru
 c7.cdn-357.ru
 c7.dy-53.ru
 c7.k625e.ru
@@ -10236,6 +10238,7 @@ m7.cdn-659.ru
 m7.e-815.ru
 m7.k987.ru
 m7.mo-49.ru
+m7.o-279.ru
 m7.p556i.ru
 m7.r219i.ru
 m8.2se.info
@@ -11327,6 +11330,7 @@ mz.n-44-s.ru
 mzaky.com
 n.227-m.ru
 n.3o5i.ru
+n.a-156.ru
 n.c2y8.ru
 n.cdn-357.ru
 n.dy-53.ru
@@ -16592,6 +16596,7 @@ tq1.bw-06.ru
 tq1.cdn-659.ru
 tq1.k987.ru
 tq1.mo-49.ru
+tq1.o-279.ru
 tq1.r219i.ru
 tq1.s-819.ru
 tqpoint.com
@@ -18181,6 +18186,7 @@ wp.10x00.com
 wpaffiliaterocketreview.info
 wpogkco.almostmy.com
 wq9.227-m.ru
+wq9.a-156.ru
 wq9.cdn-357.ru
 wq9.dy-53.ru
 wq9.k625e.ru
