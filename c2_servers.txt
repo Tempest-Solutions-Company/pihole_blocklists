@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-27 16:52:45 UTC
-# Total domains: 19020
+# Generated: 2025-09-28 00:01:17 UTC
+# Total domains: 19048
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -941,6 +941,7 @@ ajr-insuranceintl.com
 ak.g7r7s.ru
 ak.m5k1k.ru
 ak.meelk.com.ua
+ak.qekz.ru
 ak.r1a4.ru
 ak.tygilyo.ru
 ak3indonesia.com
@@ -1169,6 +1170,7 @@ alwifaq.ly
 alyacht.com
 alysonmf.us
 am.devy3.ru
+am.dgzy1.ru
 am.dumx.ru
 am.g6i2.ru
 am.myga3.ru
@@ -1635,6 +1637,7 @@ asyjuly5858.duckdns.org
 asyncawaitzone.com
 asyre.net
 at.b8a2.ru
+at.hmvu4.ru
 at.v7h3.ru
 at3bk.hostkda.com
 ata-rh.com.br
@@ -2873,6 +2876,7 @@ bwgulld.com
 bwiportal.com
 bwnkdjlesbf.com
 bx.fozomya6.ru
+bx.qekz.ru
 bx.r2h7m.ru
 bx.t4a4.ru
 bxnopdkka.com
@@ -3671,6 +3675,7 @@ condiv5.ddns.net
 condomchoice.co.uk
 condyal.top
 confa89128.click
+conference-plate.gl.at.ply.gg
 confiancaenergia.com.br
 confirm2.pw
 confirm3.pw
@@ -4059,6 +4064,7 @@ d.9a9o8.ru
 d.9n75.ru
 d.b3x1p.ru
 d.e-134.ru
+d.e-72t.ru
 d.h-214.ru
 d.k645.ru
 d.pymz.ru
@@ -5395,6 +5401,7 @@ equipaje.fr
 equipmesolutions.com
 equivalentstresser.net
 er.k25q.ru
+er.qekz.ru
 erafunding.com
 erawap.org
 erberge-open.com
@@ -6631,6 +6638,7 @@ g.qej9.ru
 g.t4g9w.ru
 g.u-885.ru
 g.x8q0h.ru
+g.xabz.ru
 g00d8y3.1.vg
 g0dday.cc
 g1.5e6a.ru
@@ -6638,6 +6646,7 @@ g1000net.com
 g100cf.ddns.net
 g299.top
 g33qb6n.com
+g4.a-144.ru
 g4.hu-50.ru
 g4.q642.ru
 g4.r852o.ru
@@ -8250,6 +8259,7 @@ instantaoprime.dynuddns.net
 instipetrol.com
 instruments-dev.gl.at.ply.gg
 insuncos.com
+insurance-scuba.gl.at.ply.gg
 insurance-statistical.gl.at.ply.gg
 insurance-uae.net
 insurancecamarillo.com
@@ -8716,11 +8726,13 @@ jmhyoffice.com
 jmodz.com
 jmompc.com
 jmxmetal-com.cf
+jn.qekz.ru
 jncjcb.com
 jne7ovfut.localto.net
 jnoon.site
 jnzyhvhlord.myjino.ru
 jo.qe3yn.ru
+jo.qekz.ru
 joannpittman.com
 joanread.ru
 joaservice.com
@@ -8916,6 +8928,7 @@ k.391-g.ru
 k.6n47.ru
 k.97qm.ru
 k.9i1e6.ru
+k.a-311.ru
 k.c646a.ru
 k.cdn-748.ru
 k.j2e6.ru
@@ -8929,6 +8942,7 @@ k.r3j5c.ru
 k.r3l1x.ru
 k.s836.ru
 k.solatic.ro
+k.u-97w.ru
 k.ve-27.ru
 k.z-20.ru
 k0n.xyc0.ru
@@ -8943,6 +8957,7 @@ k3travels.com
 k3x.246-b.ru
 k3x.k26i.ru
 k3x.s-537.ru
+k4.a-144.ru
 k44sp5efyiar7fm4.onion
 k4zi.no-ip.org
 k6net.esy.es
@@ -9207,6 +9222,7 @@ kingroygold.in
 kings.jesseworld.eu
 kingskillz.ru
 kingsman.zzz.com.ua
+kingstare-54289.portmap.host
 kingtools.no-ip.biz
 kingwolrdtyre.com
 kino-kafe.ru
@@ -12932,6 +12948,7 @@ plymouthcoaches.co.uk
 pm.gjat.ru
 pm4wv.dx.am
 pm7.5i4u8.ru
+pm7.a-144.ru
 pm7.cdn-325.ru
 pm7.hu-50.ru
 pm7.pyp3.ru
@@ -13498,6 +13515,7 @@ qm9.6y0u1.ru
 qm9.cdn-123.ru
 qm9.dy-77.ru
 qm9.k807.ru
+qm9.u-251.ru
 qm9.z687a.ru
 qmbmbyqkltqfbbtxxc.com
 qn.xapomyo.ru
@@ -13565,10 +13583,12 @@ qz7.391-g.ru
 qz7.g-22.ru
 qz7.twgr.ru
 qz9.9s4g2.ru
+qz9.a-311.ru
 qz9.cdn-748.ru
 qz9.m-754.ru
 qz9.o-554.ru
 qz9.q210u.ru
+qz9.u-97w.ru
 qzec.club
 r-s.us
 r-sbonlin.co.uk
@@ -16015,12 +16035,14 @@ t.zik9.ru
 t00lz.sourceforge.net
 t0m4hawk.comeze.com
 t0ny.info
+t1.a-311.ru
 t1.cdn-175.ru
 t1.cdn-748.ru
 t1.i-215.ru
 t1.o-554.ru
 t1.p556i.ru
 t1.q210u.ru
+t1.u-97w.ru
 t11vincenzauuzw.com
 t1koma.com
 t1nkem.com
@@ -16995,6 +17017,7 @@ u1.pyp3.ru
 u1.q463a.ru
 u1.q642.ru
 u1.r852o.ru
+u1.u-251.ru
 u1.z687a.ru
 u1399p291.web0081.zxcs.nl
 u19982p14980.web0119.zxcs.nl
@@ -17346,6 +17369,7 @@ v1.q780.ru
 v178903.hosted-by-vdsina.ru
 v2.23df.ru
 v2.6s95.ru
+v2.a-311.ru
 v2.c646a.ru
 v2.cdn-568.ru
 v2.cdn-748.ru
@@ -17356,6 +17380,7 @@ v2.n278o.ru
 v2.o-554.ru
 v2.q210u.ru
 v2.q277.ru
+v2.u-97w.ru
 v200598.hosted-by-vdsina.ru
 v201750.hosted-by-vdsina.ru
 v204306.hosted-by-vdsina.ru
@@ -17823,6 +17848,7 @@ w4.99jn.ru
 w4.9a9o8.ru
 w4.9n75.ru
 w4.e-134.ru
+w4.e-72t.ru
 w4.h-214.ru
 w4.x331e.ru
 w4tchrs.no-ip.org
@@ -18579,6 +18605,7 @@ xyz.fapigya6.ru
 y.0y2i.ru
 y.333-f.ru
 y.97jt.ru
+y.a-144.ru
 y.cdn-325.ru
 y.h8y0.ru
 y.hu-50.ru
@@ -18816,6 +18843,7 @@ z3.cdn-123.ru
 z3.dy-77.ru
 z3.k807.ru
 z3.q463a.ru
+z3.u-251.ru
 z3us1.z-ed.info
 z7.7-gb.ru
 z7.mmwf.ru
