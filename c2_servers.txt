@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-27 03:02:32 UTC
-# Total domains: 18928
+# Generated: 2025-09-27 09:27:23 UTC
+# Total domains: 18964
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8,6 +8,7 @@
 # Report false positives at: https://github.com/Tempest-Solutions-Company/pihole_blocklists/issues
 #
 
+0.nybk.ru
 0011010.1.vg
 004b0bdd1.c11.ixsecure.com
 00704ae865ee.ngrok.app
@@ -35,6 +36,7 @@
 0f.padj.ru
 0k.29rs.ru
 0llhs.sbs
+0m.jagc.ru
 0ooo.xyz
 0uk.net
 0vivowater.com
@@ -115,6 +117,7 @@
 1sosq.top
 1tnsf.top
 1vwud.top
+2.kunb.ru
 2.stasprlt.beget.tech
 2014.donteezy007.com
 2015letsdoit.in
@@ -172,6 +175,7 @@
 2vlc.l.time4vps.cloud
 2w1.527w.ru
 2yxp0.top
+3.tiqk.ru
 302mh.com
 30311.xyz
 304af9c5bac4.ngrok-free.app
@@ -221,6 +225,7 @@
 3d-gold.com.hk
 3ellisburton.zapto.org
 3glytldqdo.xyz
+3i.kunb.ru
 3kinds.net
 3linkhg.hostoi.com
 3magicalmage.zapto.org
@@ -258,6 +263,7 @@
 4alternative.zapto.org
 4aqsbhe9vh44.cfc-execute.bj.baidubce.com
 4ellisburton.zapto.org
+4f.tiqk.ru
 4f1kja.com
 4h.97jt.ru
 4itok.kl.com.ua
@@ -303,7 +309,9 @@
 5magicalmage.zapto.org
 5n.97qm.ru
 5thelementq8.com
+5u.tiqk.ru
 5umaga.site
+6.nytk.ru
 6.zzz.com.ua
 6237871.vip
 62e993f98a75.ngrok-free.app
@@ -348,7 +356,9 @@
 6mv1eyr328y6due83u3js6whtzuxfyhw.su
 6pak.xyz
 6pjddrtt7.com
+6v.jagc.ru
 6y47zwfgojuzn6tn.onion
+7.nytk.ru
 70.4.voltexpressdelivery.com
 70zv5n4wj.localto.net
 73102.vip
@@ -364,6 +374,7 @@
 782345698752364.site
 786autobodyrepai.co.za
 789456123.space
+79.nytk.ru
 7alternative.zapto.org
 7ellisburton.zapto.org
 7m.van1.ru
@@ -391,6 +402,7 @@
 888andro.net
 88movies.online
 8989898989.000webhostapp.com
+8a.tiqk.ru
 8alternative.zapto.org
 8company.info
 8d.derl.ru
@@ -512,6 +524,7 @@ aa9.i-661.ru
 aa9.me-71.ru
 aa9.n278o.ru
 aa9.q277.ru
+aa9.u-885.ru
 aaatechh.com
 aaaxxx6.hopto.org
 aacapitalsecurity.co.uk
@@ -1774,6 +1787,7 @@ ax.r3l1x.ru
 ax.s3i1.ru
 ax.v4h3t.ru
 ax.v96g.ru
+ax.xyqd.ru
 axe-ortho.fr
 axelerode.club
 axelerode.host
@@ -1861,6 +1875,7 @@ b2blnd.com
 b2bseller.ga
 b2x.com
 b3.qeh5.ru
+b3.wuhp.ru
 b4nksecur1tyserv1ce.com
 b5.0u7y.ru
 b7-golfix.org
@@ -2870,6 +2885,7 @@ c.now
 c.pav3.ru
 c.v1n4n.ru
 c.v6z1q.ru
+c.xyqd.ru
 c0513.top
 c0571.top
 c0679.top
@@ -3425,6 +3441,7 @@ cleansphere.link
 cleanwheel.net
 cleanwindow.top
 clear-sign-e69444a8e4ea.herokuapp.com
+clearate.cloud
 clearpictures.top
 clearpictures2.top
 cleistg.shop
@@ -4467,6 +4484,7 @@ dhst.qapyfyi0.ru
 dhurmatsain.base.pk
 dhvs3e7t-001-site1.ftempurl.com
 di-1.icu
+di.xyqd.ru
 diabetespal.ps
 diablesdelleida.cat
 diablothreecracked.in
@@ -5348,6 +5366,7 @@ epvpcash.net16.net
 epwbonwkmcvjunodvf.com
 epwnqeghafyocr.com
 eq.g-69-p.ru
+eq.jagc.ru
 eqixija.gigavet.org
 eqtweb.com
 equator-motorsport.ml
@@ -6381,6 +6400,7 @@ fqnvtmqass.ru
 fqnvtmqsywublocpheas.com
 fqphotographie.com
 fr.d42n.ru
+fr.wuhp.ru
 fractux.top
 fragmanonline.net
 fragmentationclicked.net
@@ -6590,6 +6610,7 @@ g.n278o.ru
 g.pejy1.ru
 g.qej9.ru
 g.t4g9w.ru
+g.u-885.ru
 g.x8q0h.ru
 g00d8y3.1.vg
 g0dday.cc
@@ -6870,6 +6891,7 @@ givemeinfo.de.gp
 givemethename.co.uk
 giversoffice.net
 givlonest.org
+gj.tiqk.ru
 gjiayimeiya.com
 gjnjaevyntcjkdemqa.com
 gl.goxuxuy4.ru
@@ -8021,6 +8043,7 @@ ijitm.com
 ijtre.com
 ijwjkcdpbueqq.com
 ijxgwfuxvgoks.com
+ik.nytk.ru
 ikaschyn.beget.tech
 ike.kenal-cn.com
 ike.medai-gruop.com
@@ -8419,6 +8442,7 @@ iwillmakeitbigtime.cf
 iwofeh-hunterz.com
 iwp41178-44386.portmap.host
 iwtkdxsmu.com
+ix.wuhp.ru
 iyabet.xyz
 iyamahmpa.info
 iyke.darkbastard.com.de
@@ -8900,6 +8924,7 @@ k7.cdn-568.ru
 k7.i-661.ru
 k7.kd-50.ru
 k7.me-71.ru
+k7.u-885.ru
 k8.1i5i.ru
 k8uh0-bfc.duckdns.org
 k9.3u1y.ru
@@ -10243,6 +10268,7 @@ m7.p556i.ru
 m7.r219i.ru
 m8.2se.info
 m8.b-395.ru
+m8.i-215.ru
 m9.08jj.ru
 m9.1v47.ru
 m9.5y4a.ru
@@ -10644,6 +10670,7 @@ mecublisxlux.us
 medai-gruop.com
 medellin7777.duckdns.org
 medgames.uphero.com
+media-kg.gl.at.ply.gg
 mediaboat.in
 mediacomholdings.com
 mediaeyenews.com
@@ -11786,6 +11813,7 @@ nowmeapp.com
 noxymiy3.ru
 noziv.no-ip.org
 nozs.nl
+np.xyqd.ru
 np92000.altervista.org
 npm.safonov.eu
 npromo.world
@@ -11890,6 +11918,7 @@ o-tci.xyz
 o-z-o.ru
 o.j1g3k.ru
 o.lauraflower.info
+o.nybk.ru
 o.s7z7r.ru
 o.t4a4.ru
 o.zowyzyi62.ru
@@ -13346,6 +13375,7 @@ q.ny-54.ru
 q.v4h3t.ru
 q0jqva.besaba.com
 q2.jod6.ru
+q3n.i-215.ru
 q5.f-11.ru
 q7.6i4u.ru
 q7.ror6.ru
@@ -14190,6 +14220,7 @@ s.icab.pk
 s.kilut4ou8.ru
 s.loveyou.xcution.pw
 s.n9t6m.ru
+s.xyqd.ru
 s0.z100.vip
 s0wo2a82mz217.zzz.com.ua
 s1.ddf.al
@@ -15942,6 +15973,7 @@ t0m4hawk.comeze.com
 t0ny.info
 t1.cdn-175.ru
 t1.cdn-748.ru
+t1.i-215.ru
 t1.o-554.ru
 t1.p556i.ru
 t1.q210u.ru
@@ -16888,6 +16920,7 @@ u.s9i1.ru
 u.v-9542.ru
 u.vjef.ru
 u.w6n2t.ru
+u0.jagc.ru
 u0000171.cp.regruhosting.ru
 u0418693.cp.regruhosting.ru
 u0431828.cp.regruhosting.ru
@@ -17744,6 +17777,7 @@ w4.e-134.ru
 w4.h-214.ru
 w4.x331e.ru
 w4tchrs.no-ip.org
+w6.nytk.ru
 w68426zc.bget.ru
 w91926dc.beget.tech
 w977575l.beget.tech
@@ -18503,6 +18537,7 @@ y.q642.ru
 y.vxof.ru
 y.zowyzyi62.ru
 y0s.hap7.ru
+y2.jagc.ru
 y3.pihp.ru
 y488.top
 y4peace.org
@@ -18894,6 +18929,7 @@ zr.velyzeu3.ru
 zr.zik9.ru
 zr3.f-11.ru
 zs.kocq.ru
+zs.kunb.ru
 zserty.lflink.com
 zsmsbcn.com
 zsqwwxcgtyu.cf
