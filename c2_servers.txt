@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-28 01:01:27 UTC
-# Total domains: 19048
+# Generated: 2025-09-28 07:41:21 UTC
+# Total domains: 19059
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -522,6 +522,7 @@ aa9.23df.ru
 aa9.6s95.ru
 aa9.cdn-568.ru
 aa9.cdn-779.ru
+aa9.e-99n.ru
 aa9.gt-70.ru
 aa9.h924i.ru
 aa9.i-574.ru
@@ -2932,6 +2933,7 @@ c5.a-344.ru
 c5.c-080.ru
 c5.cdn-779.ru
 c5.daja.pw
+c5.e-99n.ru
 c5.gt-70.ru
 c5.h924i.ru
 c5.i-574.ru
@@ -6624,6 +6626,7 @@ g.3u1y.ru
 g.527w.ru
 g.6i4u.ru
 g.6s95.ru
+g.a-91p.ru
 g.cdn-568.ru
 g.fid1.ru
 g.i-661.ru
@@ -6988,6 +6991,7 @@ go.clan-base.de
 go.devy-3.ru
 go.dihijio22.ru
 go.fe1it.ru
+go.hmvu4.ru
 go.jytoceo30.ru
 go.lage-2.ru
 go.pemi9cai6.ru
@@ -7347,6 +7351,7 @@ h1.6n47.ru
 h1.802d.ru
 h1.byq3.ru
 h1.e-134.ru
+h1.e-72t.ru
 h1.zik9.ru
 h117045.s03.test-hf.su
 h143466.s22.test-hf.su
@@ -7519,6 +7524,7 @@ he.jolm.ru
 he.lage-2.ru
 he.nugawye78.ru
 he.visa-8.ru
+he.xmho3.ru
 header.do
 healthbazar.in
 healthhub.net.au
@@ -9481,6 +9487,7 @@ l.c267.ru
 l.cdn-779.ru
 l.cheapgylsale.com
 l.dasurie36.ru
+l.e-99n.ru
 l.gt-70.ru
 l.h924i.ru
 l.i-574.ru
@@ -10706,6 +10713,7 @@ me.messager.my
 me.muqu5.ru
 me.pobinei39.ru
 me.pykokiu43.ru
+me.xkqi8.ru
 me.xudofiu02.ru
 me1.qute3.ru
 meadofnb.top
@@ -11324,6 +11332,7 @@ my-right.fr
 my.f-05-t.ru
 my.lulugiy2.ru
 my.paneltesla.net
+my.xkqi8.ru
 my40ventures.biz
 myadminspanels.info
 myamiii.com
@@ -13416,6 +13425,7 @@ pz8.99jn.ru
 pz8.9a9o8.ru
 pz8.9n75.ru
 pz8.e-134.ru
+pz8.e-72t.ru
 pzy.sewedau.ru
 q.1v47.ru
 q.3o5i.ru
@@ -18541,6 +18551,7 @@ xq0.7o3u8.ru
 xq0.9t6p5.ru
 xq0.a-344.ru
 xq0.cdn-779.ru
+xq0.e-99n.ru
 xq0.gt-70.ru
 xq0.h924i.ru
 xq0.i-574.ru
