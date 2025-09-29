@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-29 01:43:42 UTC
-# Total domains: 19181
+# Generated: 2025-09-29 05:21:20 UTC
+# Total domains: 19189
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6681,6 +6681,7 @@ g100cf.ddns.net
 g299.top
 g33qb6n.com
 g4.a-144.ru
+g4.e-09q.ru
 g4.hu-50.ru
 g4.q642.ru
 g4.r852o.ru
@@ -8977,6 +8978,7 @@ k.9i1e6.ru
 k.a-311.ru
 k.c646a.ru
 k.cdn-748.ru
+k.e-35w.ru
 k.j2e6.ru
 k.juq0.ru
 k.m-754.ru
@@ -8988,6 +8990,7 @@ k.r3j5c.ru
 k.r3l1x.ru
 k.s836.ru
 k.solatic.ro
+k.t-20y.ru
 k.u-97w.ru
 k.ve-27.ru
 k.z-20.ru
@@ -13023,6 +13026,7 @@ pm4wv.dx.am
 pm7.5i4u8.ru
 pm7.a-144.ru
 pm7.cdn-325.ru
+pm7.e-09q.ru
 pm7.hu-50.ru
 pm7.pyp3.ru
 pm7.q642.ru
@@ -13674,6 +13678,7 @@ qz7.twgr.ru
 qz9.9s4g2.ru
 qz9.a-311.ru
 qz9.cdn-748.ru
+qz9.e-35w.ru
 qz9.m-754.ru
 qz9.o-554.ru
 qz9.q210u.ru
@@ -16139,6 +16144,7 @@ t0ny.info
 t1.a-311.ru
 t1.cdn-175.ru
 t1.cdn-748.ru
+t1.e-35w.ru
 t1.i-215.ru
 t1.o-554.ru
 t1.p556i.ru
@@ -17484,6 +17490,7 @@ v2.bpva0.ru
 v2.c646a.ru
 v2.cdn-568.ru
 v2.cdn-748.ru
+v2.e-35w.ru
 v2.i-661.ru
 v2.m-754.ru
 v2.me-71.ru
@@ -17491,6 +17498,7 @@ v2.n278o.ru
 v2.o-554.ru
 v2.q210u.ru
 v2.q277.ru
+v2.t-20y.ru
 v2.u-97w.ru
 v200598.hosted-by-vdsina.ru
 v201750.hosted-by-vdsina.ru
