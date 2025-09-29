@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-29 05:21:20 UTC
-# Total domains: 19189
+# Generated: 2025-09-29 12:20:47 UTC
+# Total domains: 19242
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -463,6 +463,7 @@ a.l5228.ru
 a.microsoftsup.com
 a.t2w3v.ru
 a.tem5.ru
+a.tfpe6.ru
 a0.e.voltexpressdelivery.com
 a0173461.xsph.ru
 a0193918.xsph.ru
@@ -521,6 +522,7 @@ a918639t.beget.tech
 a9m.wuk0.ru
 aa.k0v1p.ru
 aa.q1s6c.ru
+aa.tfpe6.ru
 aa.v96g.ru
 aa.x0e8.ru
 aa1.l134.ru
@@ -529,6 +531,7 @@ aa9.6s95.ru
 aa9.a-91p.ru
 aa9.cdn-568.ru
 aa9.cdn-779.ru
+aa9.d-61o.ru
 aa9.e-99n.ru
 aa9.gt-70.ru
 aa9.h924i.ru
@@ -562,6 +565,7 @@ ab.lysyrei3.ru
 ab.pihuvio6.ru
 ab.q6o4.ru
 ab.qawimii0.ru
+ab.tfpe6.ru
 ab.w3h8j.ru
 ab.xekifye8.ru
 ab2.z-20.ru
@@ -699,6 +703,7 @@ ad.messager.my
 ad.q8e5.ru
 ad.sapeniu2.ru
 ad.t8g2w.ru
+ad.tfpe6.ru
 adamblackie12312312-62714.portmap.host
 adamdk12-53145.portmap.host
 adamlikes.com
@@ -799,6 +804,7 @@ ae-stitchpg.bet
 ae.g7r7s.ru
 ae.j1g3k.ru
 ae.k9u1.ru
+ae.tsqe2.ru
 aeanglass.com
 aec.co.ir
 aefalcon.com
@@ -851,6 +857,7 @@ ag.d1a8.ru
 ag.dgod.ru
 ag.f-05-t.ru
 ag.q5z9s.ru
+ag.tsqe2.ru
 agannochka228.siteme.org
 agapehomecare.net
 agbasky.com
@@ -887,6 +894,7 @@ agulino.com
 agulino.ru
 agunabla.top
 aguziyoc.beget.tech
+ah.tsqe2.ru
 ah.w2r1k.ru
 ah.w3h8j.ru
 ah.w9a5.ru
@@ -907,6 +915,7 @@ ai.gw.hypersend.my
 ai.k0v1p.ru
 ai.lendermac.com
 ai.s9i1.ru
+ai.tsqe2.ru
 ai.w2r1k.ru
 aicomtrading.in
 aicsma.org
@@ -992,6 +1001,7 @@ al.c0h9w.ru
 al.f8t6m.ru
 al.l9a5.ru
 al.luxemyy2.ru
+al.tsqe2.ru
 al3elm-noor.com
 alababababa.cloud
 alabaisse.com
@@ -1187,6 +1197,7 @@ am.myga3.ru
 am.n5m4t.ru
 am.nwyk.ru
 am.raha1.ru
+am.tvti0.ru
 amacseurope.com
 amagicalfuture.com
 amagindianaeze.tk
@@ -1455,6 +1466,7 @@ aquiagoraalagoas.com.br
 aqyycusxpiyphgqt.com
 ar-son.com
 ar.q8e5.ru
+ar.tvti0.ru
 ar.w6n2t.ru
 ar.x8q0h.ru
 arab21.besaba.com
@@ -1802,6 +1814,7 @@ aw.g6i2.ru
 aw.lalz.ru
 aw.r2h7m.ru
 aw.s7z7r.ru
+aw.txso1.ru
 awardsign.net
 awba-groups.com
 awglive.top
@@ -1810,6 +1823,7 @@ awsapi.xyz
 awxy.vekoloe8.ru
 ax.r3l1x.ru
 ax.s3i1.ru
+ax.txso1.ru
 ax.v4h3t.ru
 ax.v96g.ru
 ax.xyqd.ru
@@ -1826,6 +1840,7 @@ ay.c0h9w.ru
 ay.kocq.ru
 ay.r1a4.ru
 ay.t4g9w.ru
+ay.txso1.ru
 ayakkokulari.com
 ayamkremes.id
 ayamng.com
@@ -1919,6 +1934,7 @@ ba.c2y8.ru
 ba.d3g7t.ru
 ba.myhehaa4.ru
 ba.n6p5j.ru
+ba.txso1.ru
 baathman1111.net
 babaseoa.com
 babatundesieqwarteg.com
@@ -2299,6 +2315,7 @@ bhnegocios.com.br
 bhuwant.com.np
 bi.f0z1n.ru
 bi.lalz.ru
+bi.vwjy7.ru
 bi.w9a5.ru
 bibaiboba.beget.tech
 bibente.com
@@ -2528,6 +2545,7 @@ bo.gunim5yi8.ru
 bo.h8y0.ru
 bo.k25q.ru
 bo.v4h3t.ru
+bo.vwjy7.ru
 bo1324522.com
 boaideiaentretenimento.com.br
 boaivietnam.com
@@ -2953,6 +2971,7 @@ c5.9t6p5.ru
 c5.a-344.ru
 c5.c-080.ru
 c5.cdn-779.ru
+c5.d-61o.ru
 c5.daja.pw
 c5.e-99n.ru
 c5.gt-70.ru
@@ -3552,6 +3571,7 @@ clue.darkbastard.com.de
 cm-lagoa.pt
 cm-solutions.info
 cm.1i5i.ru
+cm.bvqu-7.ru
 cm0.759-s.ru
 cm0.s57o.ru
 cm35758.tmweb.ru
@@ -4052,6 +4072,7 @@ cy66944.tmweb.ru
 cy92566.tmweb.ru
 cyanogl.top
 cyb3rw0lf.xyz
+cyber-hawk.live
 cyber-loki.gq
 cyber-power.net16.net
 cyberdevapp.website
@@ -4098,6 +4119,7 @@ d.pymz.ru
 d.r274.ru
 d.t4g9w.ru
 d.tbkh.ru
+d.w-57e.ru
 d.x-05.ru
 d.x0a3.ru
 d.x331e.ru
@@ -4126,6 +4148,7 @@ d7.0y2i.ru
 d911670w.beget.tech
 d96612l5.beget.tech
 d98527ix.beget.tech
+da.vwjy7.ru
 da30.jp
 daa-hu.com
 daaworkingfine.no-ip.org
@@ -4510,6 +4533,8 @@ dexterousgroup.com
 dexterslab.webege.com
 dextrader.all.co.uk
 dexymaxy.org
+df.americanmusclecars.eu
+df.liberatorpremiercompany.com
 df.pizdafyqib.ru
 dfbgvswrtegf.com
 dfcw.info
@@ -4698,6 +4723,7 @@ do.lage2.ru
 do.pejy1.ru
 do.pykokiu43.ru
 do.v7h3.ru
+do.wzhy1.ru
 do.xudofiu02.ru
 dobaserdo.com
 doblefotos.zonster.com
@@ -5119,6 +5145,7 @@ ecosoftdigital.com
 ecostore.co.il
 ecuries-augias.com
 ed.dgod.ru
+ed.wzhy1.ru
 edanurjezi.com
 eddw.ru
 eddy-elderventures.com
@@ -5162,6 +5189,7 @@ eeyee.shop
 ef.cadynue6.ru
 ef.qawimii0.ru
 ef.ritenoo3.ru
+ef.wzhy1.ru
 ef.zicedoo8.ru
 effective-appointment.gl.at.ply.gg
 efficienci.ml
@@ -5678,6 +5706,8 @@ eyesonvaughan.ca
 eylonesports.xyz
 eyota.com.sg
 eyupogluhafriyat.com
+ez.americanmusclecars.eu
+ez.liberatorpremiercompany.com
 eze-bizz.info
 eze22.herobo.com
 ezegeboiz.su
@@ -6165,7 +6195,9 @@ few-mines.gl.at.ply.gg
 fexi.ru
 fey66.com
 ff-winners.com
+ff.americanmusclecars.eu
 ff.gwut.ru
+ff.liberatorpremiercompany.com
 ffbbii.rajas.com.my
 ffclive.com
 ffdjiuvufw.com
@@ -6673,6 +6705,7 @@ g.t4g9w.ru
 g.u-885.ru
 g.x8q0h.ru
 g.xabz.ru
+g.z-48y.ru
 g00d8y3.1.vg
 g0dday.cc
 g1.5e6a.ru
@@ -7386,6 +7419,7 @@ h1.802d.ru
 h1.byq3.ru
 h1.e-134.ru
 h1.e-72t.ru
+h1.w-57e.ru
 h1.zik9.ru
 h117045.s03.test-hf.su
 h143466.s22.test-hf.su
@@ -7527,6 +7561,7 @@ havemercy.mooo.com
 havephun.org
 havij.uk
 hawaiiholidayhq.com
+hawifo-43198.portmap.host
 hawkeyeinvestigationsllc.com
 hawkfilm.com
 hawkresultbox.net
@@ -9533,6 +9568,7 @@ l.by-64.ru
 l.c267.ru
 l.cdn-779.ru
 l.cheapgylsale.com
+l.d-61o.ru
 l.dasurie36.ru
 l.e-99n.ru
 l.gt-70.ru
@@ -10939,6 +10975,7 @@ micheal766.info
 michelle777.ru
 michioil.org
 mickysales.com
+micoestan.es
 micol.date
 miconestaffing.us
 micozup.ru
@@ -12593,6 +12630,7 @@ panama.clicken1.com
 panamatravelandleisure.com
 panamera.site
 panasonics.org
+pancakewap.co.com
 pancred.qpon
 pandemoniumsp.ml
 pandolin.ru
@@ -12892,6 +12930,8 @@ phucisnh.com
 phulocnhat2005.duckdns.org
 physiotherapyusa.org
 physscq.top
+pi.alexandraparasca.com
+pi.liberatorpremiercompany.com
 pi.nyfk.ru
 pi0wp.top
 pianofun.edu.vn
@@ -13499,6 +13539,7 @@ pz8.9a9o8.ru
 pz8.9n75.ru
 pz8.e-134.ru
 pz8.e-72t.ru
+pz8.w-57e.ru
 pzy.sewedau.ru
 q.1v47.ru
 q.3o5i.ru
@@ -13682,6 +13723,7 @@ qz9.e-35w.ru
 qz9.m-754.ru
 qz9.o-554.ru
 qz9.q210u.ru
+qz9.t-20y.ru
 qz9.u-97w.ru
 qzec.club
 r-s.us
@@ -13722,6 +13764,7 @@ r2.o-096.ru
 r2.t940.ru
 r29385w3.beget.tech
 r3.1i5i.ru
+r3.bvqu-7.ru
 r3.messager.my
 r353r3f5.cn
 r3v.v9542.ru
@@ -15091,6 +15134,7 @@ sieqwartegtotolet.com
 sierracontrol.club
 sierradrift.net46.net
 sightgivers.org
+sigmaratohio-52009.portmap.host
 signcentral-7df32454744c.herokuapp.com
 signcentral-vault-33ce0aff08dc.herokuapp.com
 signfact.ml
@@ -16149,6 +16193,7 @@ t1.i-215.ru
 t1.o-554.ru
 t1.p556i.ru
 t1.q210u.ru
+t1.t-20y.ru
 t1.u-97w.ru
 t11vincenzauuzw.com
 t1koma.com
@@ -17093,6 +17138,7 @@ tzay.realtor
 u-knlt.com
 u.1i5i.ru
 u.b704.ru
+u.bvqu-7.ru
 u.eastmoon.pl
 u.pymh.ru
 u.r0z8r.ru
@@ -17971,6 +18017,7 @@ w4.9n75.ru
 w4.e-134.ru
 w4.e-72t.ru
 w4.h-214.ru
+w4.w-57e.ru
 w4.x331e.ru
 w4tchrs.no-ip.org
 w6.nytk.ru
@@ -18654,6 +18701,8 @@ xoqywoa2.ru
 xosjcq.twilightparadox.com
 xowgbwpurkrbdaoweh.com
 xoyopa.top
+xp.americanmusclecars.eu
+xp.liberatorpremiercompany.com
 xp.sjef.ru
 xperiencehostwindows.ydns.eu
 xpertitsol.com
@@ -18670,6 +18719,7 @@ xq0.7o3u8.ru
 xq0.9t6p5.ru
 xq0.a-344.ru
 xq0.cdn-779.ru
+xq0.d-61o.ru
 xq0.e-99n.ru
 xq0.gt-70.ru
 xq0.h924i.ru
@@ -18692,6 +18742,8 @@ xrdj6.click
 xrp.dasurie36.ru
 xrstresser.net
 xrt4tr.com
+xs.alexandraparasca.com
+xs.liberatorpremiercompany.com
 xshy.luwotaa1.ru
 xsjm6334-001-site1.etempurl.com
 xsopflgg.bounceme.net
@@ -18758,6 +18810,7 @@ y3.pihp.ru
 y488.top
 y4peace.org
 y7.1i5i.ru
+y7.bvqu-7.ru
 y7.t408.ru
 y77avcek.beget.tech
 y7online.com
