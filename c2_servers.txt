@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-09-30 19:24:37 UTC
-# Total domains: 19568
+# Generated: 2025-10-01 01:31:44 UTC
+# Total domains: 19596
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -553,7 +553,9 @@ aa9.me-71.ru
 aa9.mu-16.ru
 aa9.n278o.ru
 aa9.q277.ru
+aa9.r99ae.ru
 aa9.u-885.ru
+aa9.x12uy.ru
 aa9.z-48y.ru
 aaatechh.com
 aaaxxx6.hopto.org
@@ -1930,6 +1932,7 @@ b.wd-79.ru
 b.wehv.ru
 b.wnkc.ru
 b0t.online
+b1.zi-87.ru
 b19jdn167t.in
 b1gnet.comoj.com
 b1wr1337.zzz.com.ua
@@ -1939,6 +1942,7 @@ b2.cdn-659.ru
 b2.cdn-886.ru
 b2.e-410.ru
 b2.e-783.ru
+b2.f14ey.ru
 b2.f342i.ru
 b2.k987.ru
 b2.messager.my
@@ -2992,6 +2996,7 @@ c1265.top
 c1302.top
 c1e86f3506cfe05a6738ea6893ff7e.duckdns.org
 c1m.bpva-0.ru
+c2.chuliusec1.xyz
 c2.kdesu.ru
 c2.sombras.space
 c2.wifi.hypdncy.com
@@ -5112,6 +5117,7 @@ e1.a-342.ru
 e1.a-67x.ru
 e1.cdn-626.ru
 e1.cr-65.ru
+e1.j86ei.ru
 e1.ja-02.ru
 e1.lobd.ru
 e1.m-57i.ru
@@ -6799,6 +6805,7 @@ g.pejy1.ru
 g.qej9.ru
 g.t4g9w.ru
 g.u-885.ru
+g.x12uy.ru
 g.x8q0h.ru
 g.xabz.ru
 g.z-48y.ru
@@ -6815,6 +6822,7 @@ g4.hu-50.ru
 g4.q642.ru
 g4.r852o.ru
 g4.v-03e.ru
+g4.zi-87.ru
 g4gcp.co.uk
 g5.f969.ru
 g8.top
@@ -9139,6 +9147,7 @@ k.a-311.ru
 k.c646a.ru
 k.cdn-748.ru
 k.e-35w.ru
+k.j-70o.ru
 k.j2e6.ru
 k.jo-59.ru
 k.juq0.ru
@@ -9146,6 +9155,7 @@ k.m-754.ru
 k.mmwf.ru
 k.n46uu.ru
 k.n791.ru
+k.nu-96.ru
 k.o-554.ru
 k.q210u.ru
 k.r3j5c.ru
@@ -9173,6 +9183,7 @@ k4.a-144.ru
 k4.e-09q.ru
 k4.ri-04.ru
 k4.v-03e.ru
+k4.zi-87.ru
 k44sp5efyiar7fm4.onion
 k4zi.no-ip.org
 k6net.esy.es
@@ -9183,6 +9194,7 @@ k7.i-661.ru
 k7.kd-50.ru
 k7.me-71.ru
 k7.u-885.ru
+k7.x12uy.ru
 k7.z-48y.ru
 k8.1i5i.ru
 k8.bvqu-7.ru
@@ -10535,12 +10547,14 @@ m3ss4g3rtesla.com
 m3u4uarto.cf
 m4l3x.travinishosting.com
 m5.nq-52.ru
+m6.nu-96.ru
 m7.9s4g2.ru
 m7.bw-06.ru
 m7.cdn-175.ru
 m7.cdn-659.ru
 m7.e-783.ru
 m7.e-815.ru
+m7.f14ey.ru
 m7.hlgy7.ru
 m7.k987.ru
 m7.mo-49.ru
@@ -13271,6 +13285,7 @@ pm7.hu-50.ru
 pm7.pyp3.ru
 pm7.q642.ru
 pm7.v-03e.ru
+pm7.zi-87.ru
 pma.fin.ex2life.cf
 pma.finansist.xyz
 pmca.kutyaruha-kutyafekhely.hu
@@ -13833,6 +13848,7 @@ qk2.a-67x.ru
 qk2.cdn-175.ru
 qk2.cdn-626.ru
 qk2.cr-65.ru
+qk2.j86ei.ru
 qk2.ja-02.ru
 qk2.m-57i.ru
 qk2.p556i.ru
@@ -13936,9 +13952,11 @@ qz9.9s4g2.ru
 qz9.a-311.ru
 qz9.cdn-748.ru
 qz9.e-35w.ru
+qz9.j-70o.ru
 qz9.jo-59.ru
 qz9.m-754.ru
 qz9.n46uu.ru
+qz9.nu-96.ru
 qz9.o-554.ru
 qz9.q210u.ru
 qz9.t-20y.ru
@@ -13962,6 +13980,7 @@ r.fttu6.ru
 r.gigaionjumbie.biz
 r.gwut.ru
 r.h-18.ru
+r.j86ei.ru
 r.ja-02.ru
 r.k26i.ru
 r.m-57i.ru
@@ -16435,9 +16454,11 @@ t1.cdn-175.ru
 t1.cdn-748.ru
 t1.e-35w.ru
 t1.i-215.ru
+t1.j-70o.ru
 t1.j0a8n.ru
 t1.jo-59.ru
 t1.n46uu.ru
+t1.nu-96.ru
 t1.o-554.ru
 t1.p556i.ru
 t1.q210u.ru
@@ -17105,6 +17126,7 @@ tq.derl.ru
 tq1.bw-06.ru
 tq1.cdn-659.ru
 tq1.e-783.ru
+tq1.f14ey.ru
 tq1.k987.ru
 tq1.mo-49.ru
 tq1.o-279.ru
@@ -17457,6 +17479,7 @@ u5.a-342.ru
 u5.a-67x.ru
 u5.cdn-626.ru
 u5.cr-65.ru
+u5.j86ei.ru
 u5.ja-02.ru
 u5.m-57i.ru
 u5.su-08.ru
@@ -17814,17 +17837,20 @@ v2.cdn-748.ru
 v2.e-35w.ru
 v2.he-22.ru
 v2.i-661.ru
+v2.j-70o.ru
 v2.jo-59.ru
 v2.m-754.ru
 v2.me-71.ru
 v2.n278o.ru
 v2.n46uu.ru
+v2.nu-96.ru
 v2.o-554.ru
 v2.q210u.ru
 v2.q277.ru
 v2.t-20y.ru
 v2.u-97w.ru
 v2.w-70a.ru
+v2.x12uy.ru
 v2.z-48y.ru
 v200598.hosted-by-vdsina.ru
 v201750.hosted-by-vdsina.ru
@@ -17869,6 +17895,7 @@ validatoronmee.ru
 validservice.cc
 valiyamainfosys.in
 vall84.com
+valorschoolsupplies.com
 valseal.ca
 valsolar.fr
 valtoboy.info
@@ -18876,6 +18903,7 @@ x1.5y4a.ru
 x1.cgty8.ru
 x16.life
 x2.5e6a.ru
+x2.vototao9.ru
 x2j.2se.info
 x2m.ctze0.ru
 x2n.tem5.ru
