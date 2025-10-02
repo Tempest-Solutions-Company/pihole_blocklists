@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-02 14:07:56 UTC
-# Total domains: 19992
+# Generated: 2025-10-02 20:13:43 UTC
+# Total domains: 20024
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -80,6 +80,7 @@
 13.107.ihireinternationalagency.com
 130.zuole.ml
 1308344827-4bya137jfj.ap-guangzhou.tencentscf.com
+1310084117-cdzk9xw7xy.ap-beijing.tencentscf.com
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com
 1337pony.hol.es
 1337smvids.xyz
@@ -3082,6 +3083,7 @@ c7.a-156.ru
 c7.a-91n.ru
 c7.cdn-357.ru
 c7.dy-53.ru
+c7.i-88b.ru
 c7.k625e.ru
 c7.l-64a.ru
 c7.m3j8e.ru
@@ -3401,6 +3403,8 @@ change-america.gl.at.ply.gg
 changjiu2.com
 chanjrandalo.com
 channel-expectations.gl.at.ply.gg
+chaos.bitcialtrone.com
+chaos.web.thegoodfeeder.xyz
 chapita.info
 char2.fav.al
 chargement.esy.es
@@ -4297,6 +4301,7 @@ daily-apoc.info
 dailysanitations.com
 daimao.dpdns.org
 dajxhcddxoyp.com
+dakiloifhsnuukka.com
 dakk5rnsax46s.cfc-execute.su.baidubce.com
 dakqyppswmvuyncbis.com
 daksak.com
@@ -4596,6 +4601,7 @@ derder.net46.net
 derekmega.com
 derekmotionpictures.com
 dereksing.top
+derfonlyadenmokrsw.com
 derinweb.pl
 derjismutik.info
 derkziel.comoj.com
@@ -5554,6 +5560,7 @@ engine-decide.gl.at.ply.gg
 engineering-consensus.gl.at.ply.gg
 engineeringsolutions.com.au
 engineparts.to
+england-hosting.gl.at.ply.gg
 english-glasmark.pl
 english-trackbacks.gl.at.ply.gg
 englishpro.online
@@ -5630,9 +5637,11 @@ equipmesolutions.com
 equivalentstresser.net
 er.jdho3.ru
 er.k25q.ru
+er.mzvo7.ru
 er.qekz.ru
 er.xrhu7.ru
 erafunding.com
+erahitopupikloss.com
 erawap.org
 erberge-open.com
 erchantiindustry.net
@@ -5676,6 +5685,7 @@ ervicesmesh.pro
 eryunhali.com.tr
 erzurumdahaliyikama.com
 es.montreallimosvip.com
+es.mzvo7.ru
 es.xrhu7.ru
 es02.xyz
 es6-features.org
@@ -5727,6 +5737,7 @@ esum.org.in
 esunteec.com
 esxfrepgcyyvoim.com
 et-simpson-judgehq.top
+et.mzvo7.ru
 et.xrhu7.ru
 etc.ashcarsales.co.za
 etchelpgovtw.top
@@ -5808,12 +5819,14 @@ evp.qasidonline.com
 evraishere.net46.net
 evrocommerce.biz
 evxeki2.xyz
+ew.mzvo7.ru
 ewelry-39148.bond
 ewfplkgb.cf
 ewg.jujosuu4.ru
 ewges38c.beget.tech
 ewssol.top
 ex.jdho3.ru
+ex.mzvo7.ru
 ex.nyfk.ru
 ex.t65p.ru
 ex.xrly8.ru
@@ -6206,6 +6219,7 @@ f3.5i0a.ru
 f3xbuildingfunforum.zapto.org
 f46e602.sytes.net
 f92155ve.beget.tech
+fa.nqju5.ru
 fa.nyps.ru
 fa.xrly8.ru
 faan.31tigersqn.be
@@ -6277,6 +6291,7 @@ fasdv.duckdns.org
 fashfunds.ml
 fashioncargo.pt
 fashionstune.com
+fasiokiurtuiolkads.com
 fasmelchi.com
 faspub.asia
 fastcan.store
@@ -6923,6 +6938,7 @@ g100cf.ddns.net
 g299.top
 g33qb6n.com
 g4.a-144.ru
+g4.a-90g.ru
 g4.e-09q.ru
 g4.hu-50.ru
 g4.k0m7y.ru
@@ -7632,6 +7648,7 @@ h.dy-77.ru
 h.e-91m.ru
 h.g3w2p.ru
 h.h-35i.ru
+h.i-78b.ru
 h.info
 h.j287y.ru
 h.k807.ru
@@ -7986,6 +8003,7 @@ hiradgjof.is
 hiro-ishino.com.au
 hirox81444-21878.portmap.host
 hirtwillle.xyz
+hisikolarionfire.com
 historian-o365.click
 historiasdocorpo.net
 hit-calculation.gl.at.ply.gg
@@ -8927,6 +8945,7 @@ jambzkb.qpon
 jamdesigns.co.uk
 jamescullen.info
 jamespanel2018.tk
+jamesriver-ins.com
 jameturman.us
 jamike.cosmointernational.net
 jamu.com.vn
@@ -9338,7 +9357,9 @@ k3x.246-b.ru
 k3x.k26i.ru
 k3x.s-537.ru
 k4.a-144.ru
+k4.a-90g.ru
 k4.e-09q.ru
+k4.i-78b.ru
 k4.k0m7y.ru
 k4.l6r7e.ru
 k4.n-80o.ru
@@ -9369,6 +9390,7 @@ k8.n4i2m.ru
 k8.q4e3n.ru
 k8uh0-bfc.duckdns.org
 k9.3u1y.ru
+k9.i-76t.ru
 k9.j8k2a.ru
 k9.q-49o.ru
 k9.wy-72.ru
@@ -11894,6 +11916,7 @@ n.c2y8.ru
 n.cdn-357.ru
 n.dy-53.ru
 n.gbta9.ru
+n.i-88b.ru
 n.j220.ru
 n.jolm.ru
 n.k625e.ru
@@ -13032,6 +13055,7 @@ pablopanuroere.pw
 pablowork.net84.net
 pacificshipping.org
 paciorekradom.pl
+packetley.com
 paclficinsight.com
 pacshora.net
 paddymaddy.ddnsfree.com
@@ -13517,6 +13541,7 @@ pm.gjat.ru
 pm4wv.dx.am
 pm7.5i4u8.ru
 pm7.a-144.ru
+pm7.a-90g.ru
 pm7.cdn-325.ru
 pm7.e-09q.ru
 pm7.h-76a.ru
@@ -14132,6 +14157,7 @@ qm9.cdn-123.ru
 qm9.dy-77.ru
 qm9.e-91m.ru
 qm9.h-35i.ru
+qm9.i-78b.ru
 qm9.k807.ru
 qm9.l6r7e.ru
 qm9.n-80o.ru
@@ -14271,6 +14297,7 @@ r1q.kot9.ru
 r2.a-91n.ru
 r2.cdn-357.ru
 r2.dy-53.ru
+r2.i-88b.ru
 r2.l-64a.ru
 r2.m3j8e.ru
 r2.o-096.ru
@@ -17776,6 +17803,7 @@ u1.e-91m.ru
 u1.fttu6.ru
 u1.h-35i.ru
 u1.hu-50.ru
+u1.i-78b.ru
 u1.j287y.ru
 u1.k807.ru
 u1.l6r7e.ru
@@ -19140,6 +19168,7 @@ wq9.a-156.ru
 wq9.a-91n.ru
 wq9.cdn-357.ru
 wq9.dy-53.ru
+wq9.i-88b.ru
 wq9.k625e.ru
 wq9.l-64a.ru
 wq9.l48i.ru
@@ -19506,6 +19535,7 @@ y.0y2i.ru
 y.333-f.ru
 y.97jt.ru
 y.a-144.ru
+y.a-90g.ru
 y.cdn-325.ru
 y.e-09q.ru
 y.fttu6.ru
@@ -19764,6 +19794,7 @@ z3.cdn-123.ru
 z3.dy-77.ru
 z3.e-91m.ru
 z3.h-35i.ru
+z3.i-78b.ru
 z3.k807.ru
 z3.l6r7e.ru
 z3.n-80o.ru
@@ -19824,6 +19855,7 @@ zcasf.xyz
 zclouds.icu
 zcuke.com
 zczxczx-37792.portmap.host
+zd.i-88b.ru
 zd.m3j8e.ru
 zd.qe-10.ru
 zd.w20s.ru
