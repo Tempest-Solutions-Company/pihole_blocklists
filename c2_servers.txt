@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-01 19:50:22 UTC
-# Total domains: 19756
+# Generated: 2025-10-02 01:55:55 UTC
+# Total domains: 19776
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1943,6 +1943,7 @@ b.wd-79.ru
 b.wehv.ru
 b.wnkc.ru
 b0t.online
+b1.h-76a.ru
 b1.zi-87.ru
 b19jdn167t.in
 b1gnet.comoj.com
@@ -1955,6 +1956,7 @@ b2.e-410.ru
 b2.e-783.ru
 b2.f14ey.ru
 b2.f342i.ru
+b2.j8k2a.ru
 b2.k987.ru
 b2.messager.my
 b2.mo-49.ru
@@ -5154,6 +5156,7 @@ e1.cdn-626.ru
 e1.cr-65.ru
 e1.j86ei.ru
 e1.ja-02.ru
+e1.l8w6u.ru
 e1.lobd.ru
 e1.m-57i.ru
 e1.s951.ru
@@ -9214,6 +9217,7 @@ k.a-311.ru
 k.c646a.ru
 k.cdn-748.ru
 k.e-35w.ru
+k.f-57e.ru
 k.j-70o.ru
 k.j2e6.ru
 k.jo-59.ru
@@ -9250,6 +9254,7 @@ k3x.k26i.ru
 k3x.s-537.ru
 k4.a-144.ru
 k4.e-09q.ru
+k4.n-80o.ru
 k4.ri-04.ru
 k4.t99oo.ru
 k4.v-03e.ru
@@ -9259,6 +9264,7 @@ k4zi.no-ip.org
 k5aiodybloxdasom.com
 k6net.esy.es
 k7.a-91p.ru
+k7.b3n4o.ru
 k7.cdn-568.ru
 k7.g-28e.ru
 k7.he-22.ru
@@ -10755,6 +10761,7 @@ mail.hotelgrandpapua.com
 mail.intikinanpratama.com
 mail.mattech-llc.com
 mail.messager.my
+mail.valorschoolsupplies.com
 mail.wholesalecharitysupply.com
 mail.yaklasim.com
 mail001.hiuasyolaperakende.com
@@ -11788,6 +11795,7 @@ n.z-11e.ru
 n.z413y.ru
 n.z88ae.ru
 n0.cdn-886.ru
+n0.l8w6u.ru
 n0.su-08.ru
 n0.w-52a.ru
 n1.google-analytcis.com
@@ -13375,6 +13383,7 @@ pm7.5i4u8.ru
 pm7.a-144.ru
 pm7.cdn-325.ru
 pm7.e-09q.ru
+pm7.h-76a.ru
 pm7.hu-50.ru
 pm7.pyp3.ru
 pm7.q642.ru
@@ -13948,6 +13957,7 @@ qk2.cdn-626.ru
 qk2.cr-65.ru
 qk2.j86ei.ru
 qk2.ja-02.ru
+qk2.l8w6u.ru
 qk2.m-57i.ru
 qk2.p556i.ru
 qk2.s951.ru
@@ -13974,6 +13984,7 @@ qm9.dy-77.ru
 qm9.e-91m.ru
 qm9.h-35i.ru
 qm9.k807.ru
+qm9.n-80o.ru
 qm9.ri-04.ru
 qm9.u-251.ru
 qm9.x38ii.ru
@@ -14053,6 +14064,7 @@ qz9.9s4g2.ru
 qz9.a-311.ru
 qz9.cdn-748.ru
 qz9.e-35w.ru
+qz9.f-57e.ru
 qz9.j-70o.ru
 qz9.jo-59.ru
 qz9.l99oy.ru
@@ -14086,6 +14098,7 @@ r.h-18.ru
 r.j86ei.ru
 r.ja-02.ru
 r.k26i.ru
+r.l8w6u.ru
 r.m-57i.ru
 r.messager.my
 r.p2j4k.ru
@@ -14112,6 +14125,7 @@ r2.t940.ru
 r2.z-11e.ru
 r29385w3.beget.tech
 r3.1i5i.ru
+r3.b3n4o.ru
 r3.bvqu-7.ru
 r3.g-28e.ru
 r3.he-22.ru
@@ -16571,6 +16585,7 @@ t1.a-311.ru
 t1.cdn-175.ru
 t1.cdn-748.ru
 t1.e-35w.ru
+t1.f-57e.ru
 t1.i-215.ru
 t1.j-70o.ru
 t1.j0a8n.ru
@@ -17609,6 +17624,7 @@ u5.cdn-626.ru
 u5.cr-65.ru
 u5.j86ei.ru
 u5.ja-02.ru
+u5.l8w6u.ru
 u5.m-57i.ru
 u5.su-08.ru
 u5.tbkh.ru
@@ -17965,6 +17981,7 @@ v2.c646a.ru
 v2.cdn-568.ru
 v2.cdn-748.ru
 v2.e-35w.ru
+v2.f-57e.ru
 v2.g-28e.ru
 v2.he-22.ru
 v2.i-661.ru
@@ -19026,6 +19043,7 @@ x.dailyradio.su
 x.e-783.ru
 x.e-815.ru
 x.gzva1.ru
+x.j8k2a.ru
 x.k987.ru
 x.l-5228.ru
 x.mo-49.ru
@@ -19285,6 +19303,7 @@ y.a-144.ru
 y.cdn-325.ru
 y.e-09q.ru
 y.fttu6.ru
+y.h-76a.ru
 y.h8y0.ru
 y.hu-50.ru
 y.kocq.ru
@@ -19539,6 +19558,7 @@ z3.dy-77.ru
 z3.e-91m.ru
 z3.h-35i.ru
 z3.k807.ru
+z3.n-80o.ru
 z3.q463a.ru
 z3.ri-04.ru
 z3.u-251.ru
