@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-03 01:13:54 UTC
-# Total domains: 20024
+# Generated: 2025-10-03 02:20:00 UTC
+# Total domains: 20046
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -541,6 +541,7 @@ aa.k0v1p.ru
 aa.k5d1y.ru
 aa.o-92h.ru
 aa.q1s6c.ru
+aa.qgf-5-e.ru
 aa.tfpe6.ru
 aa.v96g.ru
 aa.x0e8.ru
@@ -1961,6 +1962,7 @@ b.wd-79.ru
 b.wehv.ru
 b.wnkc.ru
 b0t.online
+b1.a-90g.ru
 b1.h-76a.ru
 b1.k0m7y.ru
 b1.zi-87.ru
@@ -4233,6 +4235,7 @@ d.9n75.ru
 d.b3x1p.ru
 d.d-54y.ru
 d.d03ui.ru
+d.dvn-4-i.ru
 d.e-134.ru
 d.e-72t.ru
 d.fa-99.ru
@@ -5616,6 +5619,7 @@ epicpbgloba.zapto.org
 epicpbglobal.zapto.org
 epidmov.top
 epitherd.ru
+epitomv.pics
 epointbd.xyz
 epperfums.com
 epsyium.com
@@ -7668,6 +7672,7 @@ h1.6n47.ru
 h1.802d.ru
 h1.byq3.ru
 h1.d03ui.ru
+h1.dvn-4-i.ru
 h1.e-134.ru
 h1.e-72t.ru
 h1.fa-99.ru
@@ -8045,6 +8050,7 @@ hlionggroup.com
 hlnnc.kl.com.ua
 hm.0y2i.ru
 hm.a-84l.ru
+hm.cpc-8-u.ru
 hm.j-70o.ru
 hm.jo-59.ru
 hm.q6t4u.ru
@@ -9318,6 +9324,7 @@ k.a-311.ru
 k.a-84l.ru
 k.c646a.ru
 k.cdn-748.ru
+k.cpc-8-u.ru
 k.e-35w.ru
 k.f-57e.ru
 k.j-70o.ru
@@ -9339,6 +9346,7 @@ k.r3l1x.ru
 k.s836.ru
 k.solatic.ro
 k.t-20y.ru
+k.u-66r.ru
 k.u-97w.ru
 k.ve-27.ru
 k.w-70a.ru
@@ -10763,6 +10771,7 @@ m5.nq-52.ru
 m6.f-57e.ru
 m6.j1z2u.ru
 m6.nu-96.ru
+m6.u-66r.ru
 m7.9s4g2.ru
 m7.bw-06.ru
 m7.cdn-175.ru
@@ -12508,6 +12517,7 @@ o.hwke4.ru
 o.j1g3k.ru
 o.lauraflower.info
 o.nybk.ru
+o.qgf-5-e.ru
 o.s7z7r.ru
 o.t4a4.ru
 o.zowyzyi62.ru
@@ -12869,6 +12879,7 @@ orientsdelivery.xyz
 original-fan.gl.at.ply.gg
 originfiness.favcc1.com
 orinacg.top
+oriolep.pics
 ork-law-9s10s5.live
 orklift-jobs-78023.bond
 orl-alger.com
@@ -14030,6 +14041,7 @@ pz8.1z2p9.ru
 pz8.99jn.ru
 pz8.9a9o8.ru
 pz8.9n75.ru
+pz8.dvn-4-i.ru
 pz8.e-134.ru
 pz8.e-72t.ru
 pz8.fa-99.ru
@@ -14240,6 +14252,7 @@ qz9.9s4g2.ru
 qz9.a-311.ru
 qz9.a-84l.ru
 qz9.cdn-748.ru
+qz9.cpc-8-u.ru
 qz9.e-35w.ru
 qz9.f-57e.ru
 qz9.j-70o.ru
@@ -14253,6 +14266,7 @@ qz9.o-554.ru
 qz9.q210u.ru
 qz9.q6t4u.ru
 qz9.t-20y.ru
+qz9.u-66r.ru
 qz9.u-97w.ru
 qz9.w-70a.ru
 qzec.club
@@ -14624,6 +14638,7 @@ rethinkdb.ml
 retire2malaysia.com
 retiregenz.com
 retrofik.ru
+retrosa.pics
 retrosniping.zapto.org
 rettgive.org
 reusens.com
@@ -14680,6 +14695,7 @@ ridinyo9.ru
 rigek.com
 rigenter.com
 righromonhen.ru
+rightea.pics
 rigpiv1.biz
 rigpriv.com
 rihuwuo.ru
@@ -14858,6 +14874,7 @@ rowv.us
 roxo.cc
 roymelody.net
 rozm12345678-28404.portmap.host
+rp.jullianacalhau.com.br
 rpc2.gdn
 rpmnierals.com
 rq.fo1od.ru
@@ -16784,6 +16801,7 @@ t1.a-311.ru
 t1.a-84l.ru
 t1.cdn-175.ru
 t1.cdn-748.ru
+t1.cpc-8-u.ru
 t1.e-35w.ru
 t1.f-57e.ru
 t1.i-215.ru
@@ -16799,6 +16817,7 @@ t1.p556i.ru
 t1.q210u.ru
 t1.q6t4u.ru
 t1.t-20y.ru
+t1.u-66r.ru
 t1.u-97w.ru
 t1.w-70a.ru
 t11vincenzauuzw.com
@@ -18194,6 +18213,7 @@ v2.bpva0.ru
 v2.c646a.ru
 v2.cdn-568.ru
 v2.cdn-748.ru
+v2.cpc-8-u.ru
 v2.e-35w.ru
 v2.e-52p.ru
 v2.f-57e.ru
@@ -18214,6 +18234,7 @@ v2.q210u.ru
 v2.q277.ru
 v2.q6t4u.ru
 v2.t-20y.ru
+v2.u-66r.ru
 v2.u-97w.ru
 v2.w-70a.ru
 v2.x12uy.ru
@@ -18699,6 +18720,7 @@ w4.9a9o8.ru
 w4.9n75.ru
 w4.d-54y.ru
 w4.d03ui.ru
+w4.dvn-4-i.ru
 w4.e-134.ru
 w4.e-72t.ru
 w4.fa-99.ru
