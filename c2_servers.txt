@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-04 02:45:24 UTC
-# Total domains: 20393
+# Generated: 2025-10-04 08:51:56 UTC
+# Total domains: 20409
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -558,6 +558,7 @@ aa.fa-99.ru
 aa.hwke4.ru
 aa.k0v1p.ru
 aa.k5d1y.ru
+aa.m-89a.ru
 aa.o-92h.ru
 aa.q1s6c.ru
 aa.qgf-5-e.ru
@@ -1760,6 +1761,7 @@ async01.ddns.net
 asyncawaitzone.com
 asyre.net
 at.b8a2.ru
+at.cns-3-u.ru
 at.hmvu4.ru
 at.khhu8.ru
 at.v7h3.ru
@@ -1916,6 +1918,7 @@ avtechsystems.co.ke
 avtoprokat.com.ua
 avtrailx.net
 avvalves-com.ml
+aw.cns-3-u.ru
 aw.g6i2.ru
 aw.khhu8.ru
 aw.lalz.ru
@@ -3141,6 +3144,7 @@ c5.h924i.ru
 c5.i-574.ru
 c5.mu-16.ru
 c5.p-55u.ru
+c5.p-62i.ru
 c5.q8g1y.ru
 c5.r99ae.ru
 c5.y-45s.ru
@@ -3990,6 +3994,7 @@ coralex.io
 corbelsep.com
 cordilleraescalera.com
 cordondating.xyz
+core.r6ms.pw
 corecommunityservices.tech
 corelis.group
 corinyo.shop
@@ -4313,6 +4318,7 @@ d.fa-99.ru
 d.h-214.ru
 d.k5d1y.ru
 d.k645.ru
+d.m-89a.ru
 d.o-92h.ru
 d.pymz.ru
 d.r274.ru
@@ -4721,6 +4727,7 @@ deveinsun.com
 devel.asurans.com
 develop.nxtintel.com
 developersblacknet.ru
+development-unsigned.gl.at.ply.gg
 devhaevents.us
 devhdfcbank.com
 deviceful-errors.000webhostapp.com
@@ -7799,6 +7806,7 @@ h1.e-134.ru
 h1.e-72t.ru
 h1.fa-99.ru
 h1.k5d1y.ru
+h1.m-89a.ru
 h1.o-92h.ru
 h1.w-57e.ru
 h1.zik9.ru
@@ -8184,6 +8192,7 @@ hlionggroup.com
 hlnnc.kl.com.ua
 hm.0y2i.ru
 hm.a-84l.ru
+hm.c-01e.ru
 hm.cpc-8-u.ru
 hm.j-70o.ru
 hm.jo-59.ru
@@ -10092,6 +10101,7 @@ l.k9u1.ru
 l.mu-16.ru
 l.n-98.ru
 l.p-55u.ru
+l.p-62i.ru
 l.q8g1y.ru
 l.r0z8r.ru
 l.r2h7m.ru
@@ -10442,6 +10452,7 @@ lemon.mcdir.ru
 lemonadiom.ru
 lenet.usa.cc
 lenghtwildpowerlevelrace.click
+length-coverage.gl.at.ply.gg
 lenhpqy.top
 lenjerie-eleganta.ro
 lenkvanleersum.nl
@@ -14287,6 +14298,7 @@ pz8.e-134.ru
 pz8.e-72t.ru
 pz8.fa-99.ru
 pz8.k5d1y.ru
+pz8.m-89a.ru
 pz8.o-92h.ru
 pz8.w-57e.ru
 pzy.sewedau.ru
@@ -16485,6 +16497,7 @@ sporic-kr.com
 sportextravel.com
 sportfitzeeland.nl
 sportnyhet.sumway.dev
+sports-thumbnails.gl.at.ply.gg
 sportsboost.net
 sportsgroup-hk.com
 spqlobal.info
@@ -17412,6 +17425,7 @@ tetrachoice.com
 tetraservcie.in
 tetrwoo.asia
 tevs.xyz
+texas-illinois.gl.at.ply.gg
 text100digitalhub.com
 textilingwears.com
 tf.hecynya.ru
@@ -18695,6 +18709,7 @@ ventasmisotrolstgo.cl
 venteadkv.com
 venus.web.messager.my
 venushouston.com
+venusmastermind.servehttp.com
 venzaguy1.comxa.com
 venzatechi.online
 ver.sx
@@ -19051,6 +19066,7 @@ w4.e-72t.ru
 w4.fa-99.ru
 w4.h-214.ru
 w4.k5d1y.ru
+w4.m-89a.ru
 w4.o-92h.ru
 w4.w-57e.ru
 w4.x331e.ru
