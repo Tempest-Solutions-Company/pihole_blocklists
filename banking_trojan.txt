@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-04 01:37:58 UTC
-# Total domains: 5672
+# Generated: 2025-10-04 02:45:24 UTC
+# Total domains: 5675
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -441,6 +441,8 @@ adsmarketart.com
 adsmarks.com
 adspowerch.com
 adspowercn.com
+adsservice2.org
+adsservices.uk
 adultedbexley.org
 advanced-ip-scanned.com
 advanced-ip-scanner.cfd
@@ -2624,6 +2626,7 @@ guitarcalculate.com
 gulasage.com
 gulsun.com
 gummyband.com
+guncel-tv-player-lnat.com
 guoglechrome.com
 guuglechrome.com
 gwrs.org

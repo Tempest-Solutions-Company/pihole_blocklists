@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-04 01:37:58 UTC
-# Total domains: 20380
+# Generated: 2025-10-04 02:45:24 UTC
+# Total domains: 20393
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -965,6 +965,7 @@ agulino.ru
 agunabla.top
 aguziyoc.beget.tech
 ah.qjxo4.ru
+ah.qqd-6-e.ru
 ah.tsqe2.ru
 ah.w2r1k.ru
 ah.w3h8j.ru
@@ -985,6 +986,7 @@ ai.d-09-r.ru
 ai.gw.hypersend.my
 ai.k0v1p.ru
 ai.lendermac.com
+ai.qqd-6-e.ru
 ai.s9i1.ru
 ai.tsqe2.ru
 ai.w2r1k.ru
@@ -1074,6 +1076,7 @@ al.c0h9w.ru
 al.f8t6m.ru
 al.l9a5.ru
 al.luxemyy2.ru
+al.qjf-1-o.ru
 al.tsqe2.ru
 al3elm-noor.com
 alababababa.cloud
@@ -1271,6 +1274,7 @@ am.g6i2.ru
 am.myga3.ru
 am.n5m4t.ru
 am.nwyk.ru
+am.qjf-1-o.ru
 am.raha1.ru
 am.tvti0.ru
 amacseurope.com
@@ -9469,6 +9473,7 @@ k.97qm.ru
 k.9i1e6.ru
 k.a-311.ru
 k.a-84l.ru
+k.c-01e.ru
 k.c646a.ru
 k.cdn-748.ru
 k.cpc-8-u.ru
@@ -9497,6 +9502,7 @@ k.u-66r.ru
 k.u-97w.ru
 k.ve-27.ru
 k.w-70a.ru
+k.xzb-6-i.ru
 k.z-20.ru
 k0n.haxyli.ru
 k0n.xyc0.ru
@@ -10938,6 +10944,7 @@ m6.f-57e.ru
 m6.j1z2u.ru
 m6.nu-96.ru
 m6.u-66r.ru
+m6.xzb-6-i.ru
 m7.9s4g2.ru
 m7.bw-06.ru
 m7.cdn-175.ru
@@ -14489,6 +14496,7 @@ qz7.twgr.ru
 qz9.9s4g2.ru
 qz9.a-311.ru
 qz9.a-84l.ru
+qz9.c-01e.ru
 qz9.cdn-748.ru
 qz9.cpc-8-u.ru
 qz9.e-35w.ru
@@ -14507,6 +14515,7 @@ qz9.t-20y.ru
 qz9.u-66r.ru
 qz9.u-97w.ru
 qz9.w-70a.ru
+qz9.xzb-6-i.ru
 qzec.club
 r-s.us
 r-sbonlin.co.uk
@@ -17071,6 +17080,7 @@ t0m4hawk.comeze.com
 t0ny.info
 t1.a-311.ru
 t1.a-84l.ru
+t1.c-01e.ru
 t1.cdn-175.ru
 t1.cdn-748.ru
 t1.cpc-8-u.ru
@@ -17092,6 +17102,7 @@ t1.t-20y.ru
 t1.u-66r.ru
 t1.u-97w.ru
 t1.w-70a.ru
+t1.xzb-6-i.ru
 t11vincenzauuzw.com
 t1koma.com
 t1nkem.com
@@ -18518,6 +18529,7 @@ v2.a-84l.ru
 v2.a-91p.ru
 v2.b3n4o.ru
 v2.bpva0.ru
+v2.c-01e.ru
 v2.c646a.ru
 v2.cdn-568.ru
 v2.cdn-748.ru
@@ -18547,6 +18559,7 @@ v2.u-66r.ru
 v2.u-97w.ru
 v2.w-70a.ru
 v2.x12uy.ru
+v2.xzb-6-i.ru
 v2.z-48y.ru
 v200598.hosted-by-vdsina.ru
 v201750.hosted-by-vdsina.ru
