@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-06 15:49:15 UTC
-# Total domains: 20900
+# Generated: 2025-10-06 21:55:19 UTC
+# Total domains: 20939
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -507,6 +507,7 @@ a.fag5.ru
 a.g601c.ru
 a.hlgy7.ru
 a.hwke4.ru
+a.kyhely.ru
 a.l5228.ru
 a.m046d.ru
 a.mexizo.ru
@@ -1551,9 +1552,11 @@ apexenguae.com
 apexlogisticscompany.com
 apextherapyservices.ca
 api.chimera-hosting.zip
+api.formall.org
 api.rootvk.messager.my
 api.shipensburginvestmentgroup.com
 api.signatureofdocs.cfd
+api.transbankdevelopers.com
 api.updatesreview.com
 api.wifi-update.biz
 api.xn--coudflare-0sb.com
@@ -2095,6 +2098,7 @@ b1.6-b408.ru
 b1.a-90g.ru
 b1.h-76a.ru
 b1.k0m7y.ru
+b1.w-45u.ru
 b1.xkx-0-o.ru
 b1.zi-87.ru
 b177.top
@@ -2923,6 +2927,7 @@ bppkbsulsel.com
 bprdptaspen.com
 bpria.com
 bpwk.xyz
+bq.kyhely.ru
 bq.mexizo.ru
 bq.q5z9s.ru
 bq.s9i1.ru
@@ -4491,6 +4496,7 @@ dabenchy.shop
 daciw98636-36752.portmap.host
 dackdack.online
 daconstructions-ksa.com
+dad9idois-24522.portmap.host
 dada.grantflaskparty.com
 dada.hanztrading.com
 dadaehirim-ventures.biz
@@ -6805,6 +6811,7 @@ fixerrors-mail.tk
 fixidsou.bget.ru
 fixmachiney.eu
 fixs-web.com
+fixstealerthebest.store
 fizzytechs.zz.mu
 fj.wofelee.ru
 fj.xijoxou.ru
@@ -7235,6 +7242,7 @@ g4.q642.ru
 g4.r852o.ru
 g4.t99oo.ru
 g4.v-03e.ru
+g4.w-45u.ru
 g4.xkx-0-o.ru
 g4.zi-87.ru
 g4gcp.co.uk
@@ -7568,6 +7576,7 @@ glohard.ga
 glom-2019.com
 gloodin.com
 glorbterades.in.net
+gloria.freeddns.org
 gloriadating-a.com
 gloriadating-a.pro
 gloriadating-b.pro
@@ -7969,6 +7978,7 @@ h.pymz.ru
 h.q463a.ru
 h.ri-04.ru
 h.u-251.ru
+h.v-36u.ru
 h.vzj-1-o.ru
 h.w2r1k.ru
 h.x38ii.ru
@@ -7988,6 +7998,7 @@ h1.k5d1y.ru
 h1.m-05o.ru
 h1.m-89a.ru
 h1.o-92h.ru
+h1.ryzuka.ru
 h1.w-57e.ru
 h1.wagoda.ru
 h1.zik9.ru
@@ -8406,6 +8417,8 @@ hn.kujywii.ru
 hntraining.com
 hnxdccc.com
 ho.11.duitmasyuk.asia
+ho.andreicerbu.com
+ho.gulfscholarships.com
 ho.jdho3.ru
 ho.nxno7.ru
 ho.nyfc.ru
@@ -9702,6 +9715,7 @@ k.c-01e.ru
 k.c646a.ru
 k.cdn-748.ru
 k.cpc-8-u.ru
+k.d-76u.ru
 k.e-35w.ru
 k.f-57e.ru
 k.h-29i.ru
@@ -9758,7 +9772,9 @@ k4.p-13a.ru
 k4.ri-04.ru
 k4.t99oo.ru
 k4.v-03e.ru
+k4.v-36u.ru
 k4.vzj-1-o.ru
+k4.w-45u.ru
 k4.xkx-0-o.ru
 k4.zi-87.ru
 k44sp5efyiar7fm4.onion
@@ -11249,6 +11265,7 @@ m8.bpva0.ru
 m8.c109s.ru
 m8.i-215.ru
 m8.j0a8n.ru
+m8.kyhely.ru
 m8.mexizo.ru
 m85-net.redirectme.net
 m9.08jj.ru
@@ -12871,6 +12888,7 @@ nonvbv.ru
 noobyot.zzz.com.ua
 noonepa.tk
 nootpositivo.xyz
+noreply1.resgatarcupomipirang.org
 noreplying.selfip.org
 nortds.ru
 northern-unwrap.gl.at.ply.gg
@@ -12933,8 +12951,10 @@ ns1.cryptwechat.com
 ns1.duoo.cc
 ns1.huntressstudios.org
 ns1.jszwfw.com.cn
+ns1.littllee365c.top
 ns1.microoosoft.com
 ns1.pakistancode.com
+ns1.sotawatanabi.trade
 ns1.zhengwubiaoge.top
 ns1server.co.uk
 ns2.boccfc.top
@@ -12943,11 +12963,14 @@ ns2.duoo.cc
 ns2.ezhost.in
 ns2.huntressstudios.org
 ns2.jszwfw.com.cn
+ns2.littllee365c.top
 ns2.microoosoft.com
 ns2.pakistancode.com
+ns2.sotawatanabi.trade
 ns2.zhengwubiaoge.top
 ns3.duoo.cc
 ns3.izone.at
+ns3.sotawatanabi.trade
 ns511849.ip-192-99-19.net
 nsandionline.com
 nsdic.pp.ru
@@ -13779,6 +13802,7 @@ pb.g-69-p.ru
 pbbvkscdfqmx.com
 pbj.cukurukuk.fun
 pc.2se.info
+pc.kyhely.ru
 pc.mexizo.ru
 pc.mo5un.ru
 pc.mynq.ru
@@ -13811,6 +13835,7 @@ pdfonestart.com
 pdfonestarthub.com
 pdforsmartminds.com
 pdfplusconvert.com
+pdfs.vototao9.ru
 pdfscraper.com
 pdfscraper.site
 pdfts.site
@@ -14122,6 +14147,7 @@ pm7.pyp3.ru
 pm7.q642.ru
 pm7.t99oo.ru
 pm7.v-03e.ru
+pm7.w-45u.ru
 pm7.xkx-0-o.ru
 pm7.zi-87.ru
 pma.fin.ex2life.cf
@@ -14570,6 +14596,7 @@ purex.live
 purgen.space
 purinex.co.id
 purplde.asia
+purplehax.com
 purplehose.in
 pursemtb.com
 puruntis.ug
@@ -14777,6 +14804,7 @@ qm9.n-80o.ru
 qm9.p-13a.ru
 qm9.ri-04.ru
 qm9.u-251.ru
+qm9.v-36u.ru
 qm9.vzj-1-o.ru
 qm9.x38ii.ru
 qm9.z687a.ru
@@ -14865,6 +14893,7 @@ qz9.a-84l.ru
 qz9.c-01e.ru
 qz9.cdn-748.ru
 qz9.cpc-8-u.ru
+qz9.d-76u.ru
 qz9.e-35w.ru
 qz9.f-57e.ru
 qz9.h-29i.ru
@@ -14963,6 +14992,7 @@ r5.k002.ru
 r6868931.beget.tech
 r8.xyc0.ru
 r87.online
+r9.kyhely.ru
 r9.mexizo.ru
 r96041kf.beget.tech
 r98196lh.beget.tech
@@ -15659,6 +15689,7 @@ s.icab.pk
 s.kilut4ou8.ru
 s.loveyou.xcution.pw
 s.n9t6m.ru
+s.ryzuka.ru
 s.vamuwe.ru
 s.wagoda.ru
 s.x352x.ru
@@ -16066,6 +16097,7 @@ seijs.site
 seismrzw.top
 sekegyu6.ru
 seldomgate.com
+select-laura.gl.at.ply.gg
 selecta-multimedia.nl
 seler.cc
 selfcmi.asia
@@ -17518,6 +17550,7 @@ t1.w-70a.ru
 t1.xzb-6-i.ru
 t11vincenzauuzw.com
 t1koma.com
+t1n.kyhely.ru
 t1n.mexizo.ru
 t1nkem.com
 t1v.3o5i.ru
@@ -18573,6 +18606,7 @@ u1.q642.ru
 u1.r852o.ru
 u1.ri-04.ru
 u1.u-251.ru
+u1.v-36u.ru
 u1.vzj-1-o.ru
 u1.x38ii.ru
 u1.z687a.ru
@@ -18980,6 +19014,7 @@ v2.c646a.ru
 v2.cdn-568.ru
 v2.cdn-748.ru
 v2.cpc-8-u.ru
+v2.d-76u.ru
 v2.e-35w.ru
 v2.e-52p.ru
 v2.f-57e.ru
@@ -19019,6 +19054,7 @@ v2n.5y4a.ru
 v2n.g601c.ru
 v2n.x3u0s.ru
 v3.802d.ru
+v3.ryzuka.ru
 v3.wagoda.ru
 v308875.hosted-by-vdsina.ru
 v320560.hosted-by-vdsina.ru
@@ -20133,6 +20169,7 @@ x2.5e6a.ru
 x2.nibulu.ru
 x2.vototao9.ru
 x2j.2se.info
+x2j.kyhely.ru
 x2j.mexizo.ru
 x2m.ctze0.ru
 x2n.tem5.ru
@@ -20400,6 +20437,7 @@ y.q1s6c.ru
 y.q642.ru
 y.v-03e.ru
 y.vxof.ru
+y.w-45u.ru
 y.xkx-0-o.ru
 y.zi-87.ru
 y.zowyzyi62.ru
@@ -20665,6 +20703,7 @@ z3.p-13a.ru
 z3.q463a.ru
 z3.ri-04.ru
 z3.u-251.ru
+z3.v-36u.ru
 z3.vzj-1-o.ru
 z3us1.z-ed.info
 z4.hasefa.ru
