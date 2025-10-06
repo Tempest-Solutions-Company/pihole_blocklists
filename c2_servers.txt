@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-06 01:31:36 UTC
-# Total domains: 20696
+# Generated: 2025-10-06 03:38:01 UTC
+# Total domains: 20703
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -584,6 +584,7 @@ aa.fa-99.ru
 aa.hwke4.ru
 aa.k0v1p.ru
 aa.k5d1y.ru
+aa.m-05o.ru
 aa.m-89a.ru
 aa.o-92h.ru
 aa.q1s6c.ru
@@ -4399,6 +4400,7 @@ d.fa-99.ru
 d.h-214.ru
 d.k5d1y.ru
 d.k645.ru
+d.m-05o.ru
 d.m-89a.ru
 d.o-92h.ru
 d.pymz.ru
@@ -7924,6 +7926,7 @@ h1.e-134.ru
 h1.e-72t.ru
 h1.fa-99.ru
 h1.k5d1y.ru
+h1.m-05o.ru
 h1.m-89a.ru
 h1.o-92h.ru
 h1.w-57e.ru
@@ -8319,6 +8322,7 @@ hm.0y2i.ru
 hm.a-84l.ru
 hm.c-01e.ru
 hm.cpc-8-u.ru
+hm.h-29i.ru
 hm.j-70o.ru
 hm.jo-59.ru
 hm.nxno7.ru
@@ -14502,6 +14506,7 @@ pz8.e-134.ru
 pz8.e-72t.ru
 pz8.fa-99.ru
 pz8.k5d1y.ru
+pz8.m-05o.ru
 pz8.m-89a.ru
 pz8.o-92h.ru
 pz8.w-57e.ru
@@ -14731,6 +14736,7 @@ qz9.cdn-748.ru
 qz9.cpc-8-u.ru
 qz9.e-35w.ru
 qz9.f-57e.ru
+qz9.h-29i.ru
 qz9.j-70o.ru
 qz9.j1z2u.ru
 qz9.jo-59.ru
@@ -17341,6 +17347,7 @@ t1.cdn-748.ru
 t1.cpc-8-u.ru
 t1.e-35w.ru
 t1.f-57e.ru
+t1.h-29i.ru
 t1.i-215.ru
 t1.j-70o.ru
 t1.j0a8n.ru
