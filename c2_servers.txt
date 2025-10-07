@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-07 16:15:29 UTC
-# Total domains: 21079
+# Generated: 2025-10-07 22:22:18 UTC
+# Total domains: 21128
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -520,6 +520,7 @@ a.t938q.ru
 a.tem5.ru
 a.tfpe6.ru
 a.tqh2e.ru
+a.w9k6m9.ru
 a.x3u0s.ru
 a.x7f4g2.ru
 a0.e.voltexpressdelivery.com
@@ -1035,6 +1036,7 @@ agulino.com
 agulino.ru
 agunabla.top
 aguziyoc.beget.tech
+ah.cpc8u.ru
 ah.qjxo4.ru
 ah.qqd-6-e.ru
 ah.tsqe2.ru
@@ -1351,6 +1353,7 @@ am.nwyk.ru
 am.qjf-1-o.ru
 am.raha1.ru
 am.tvti0.ru
+am.xkx0o.ru
 amacseurope.com
 amagicalfuture.com
 amagindianaeze.tk
@@ -2086,6 +2089,7 @@ b.bpva-0.ru
 b.bupuva.ru
 b.bvqu7.ru
 b.c109s.ru
+b.c2x0b1.ru
 b.cracking.be
 b.dev.drakeinternationalagency.com
 b.f2g5q.ru
@@ -2364,6 +2368,7 @@ bd.j2e6.ru
 bd.kudaxy.ru
 bd.p2o7l.ru
 bd.r3l1x.ru
+bd.s4m7v4.ru
 bd.t3m3d.ru
 bd.t938q.ru
 bd.w9v5r4.ru
@@ -2848,6 +2853,7 @@ bonnmedia.com.ng
 bonton.by
 bonzevud.com
 bookihnxz.tk
+bookings.escapesdollars.com
 booklop.ga
 books.dsl.ge
 books.myscriptcase.com
@@ -3411,6 +3417,7 @@ caracaswebhost.com
 card-myers.gl.at.ply.gg
 cardingmaster.com
 care-coach.kr
+career-sm.gl.at.ply.gg
 careerpartners.org.au
 careerplacementindia.com
 careers.crestwoodbehavioralhealth.com
@@ -4050,6 +4057,7 @@ con1.jiqubey.ru
 conasevi.gob.sv
 conbjao.qpon
 concehot.cl
+concept.mexicanstays.com
 conceptus.me
 concudv.pics
 concurs-yahoo.hi2.ro
@@ -4189,6 +4197,7 @@ cp30265.tmweb.ru
 cp53072.cloudhosting.lv
 cpadeer.com
 cpanel.destroythebrainonline.com
+cpanel.experiencejiujitsu.com
 cpanel.kickstartyourcakebiz.com
 cpanel.northtru.net
 cpanel.trailsyamahamotor.com
@@ -4694,6 +4703,9 @@ dc-oc-01.org.ru
 dc.burydyu0.ru
 dc.myzj.ru
 dc.nufypiy1.ru
+dc9887.duckdns.org
+dc9977.duckdns.org
+dccomicrat81.duckdns.org
 dccosa.com
 dcd.sumukye2.ru
 dcgast3.duckdns.org
@@ -4706,6 +4718,7 @@ dcgrezzt.duckdns.org
 dckis.duckdns.org
 dckis9.duckdns.org
 dcm2195.com
+dcnewton5552.duckdns.org
 dcoctubre15.duckdns.org
 dcoctubre9.duckdns.org
 dcproduct.ml
@@ -5291,6 +5304,7 @@ drainagesolutions.net.au
 draker.no-ip.org
 drakohack.no-ip.org
 dramaturgia.art.br
+dramendralux.shop
 draven.rip08.free.fr
 draven.ru
 drdoganaykurkcu.com
@@ -6145,6 +6159,7 @@ exchdfh.top
 exclu-meziamus.net23.net
 excol.vip
 excufoc.top
+executive-bath.gl.at.ply.gg
 exelelo.webhop.me
 exeriontech.com
 exfopgg.top
@@ -6753,6 +6768,7 @@ files-get.site
 files-get.space
 files-get.world
 files-transfer.info
+files.cellustrong.com
 files.colin001.top
 files.taxibleapp.com
 fileserveplus.com
@@ -7253,6 +7269,7 @@ g.pejy1.ru
 g.q-5ket.ru
 g.qej9.ru
 g.qoruva.ru
+g.s4m7v4.ru
 g.t4g9w.ru
 g.u-885.ru
 g.w9v5r4.ru
@@ -7998,6 +8015,7 @@ h.5u0i4.ru
 h.6q8v0.ru
 h.6y0u1.ru
 h.b8a2.ru
+h.c-3dax.ru
 h.cdn-123.ru
 h.ctze0.ru
 h.dy-77.ru
@@ -8050,6 +8068,7 @@ h1hundynotesuom.com
 h1n.nibulu.ru
 h2.bpva-0.ru
 h2.bupuva.ru
+h2.c2x0b1.ru
 h2.faqyhi.ru
 h2.haxyli.ru
 h2.n0y8j.ru
@@ -8084,6 +8103,7 @@ h9m.6i4u.ru
 h9m.favezi.ru
 h9m.kudaxy.ru
 h9m.p2o7l.ru
+h9m.s4m7v4.ru
 h9m.t938q.ru
 ha.bi3ux.ru
 ha.jdho3.ru
@@ -8351,6 +8371,7 @@ hhamay.website
 hhcd.somipaa9.ru
 hhjhrretu.cfd
 hi-j.com
+hi.cpc8u.ru
 hi.dihijio22.ru
 hi.jytoceo30.ru
 hi.mybro.biz
@@ -8416,6 +8437,7 @@ hiteronak.icu
 hitiedy.top
 hitlerloco.xtrweb.com
 hitneysolar.com
+hitrol-60505.portmap.host
 hittf.top
 hitwaze.asia
 hivlcjcvux.com
@@ -8906,6 +8928,7 @@ ilpollenza.it
 ils-schedule.com
 image-advantage.gl.at.ply.gg
 images.indianadforum.com
+images.inversionflorida.com
 imagewearcw.com
 imagic-box.com
 imaginecomputing.info
@@ -9815,6 +9838,7 @@ k4.3-c719.ru
 k4.6-b408.ru
 k4.a-144.ru
 k4.a-90g.ru
+k4.c-3dax.ru
 k4.e-09q.ru
 k4.i-78b.ru
 k4.k0m7y.ru
@@ -9827,6 +9851,7 @@ k4.v-03e.ru
 k4.v-36u.ru
 k4.vzj-1-o.ru
 k4.w-45u.ru
+k4.x-6kox.ru
 k4.xkx-0-o.ru
 k4.zi-87.ru
 k44sp5efyiar7fm4.onion
@@ -11329,6 +11354,7 @@ m8.j0a8n.ru
 m8.kyhely.ru
 m8.mexizo.ru
 m8.p3t9b3.ru
+m8.w9k6m9.ru
 m85-net.redirectme.net
 m9.08jj.ru
 m9.1v47.ru
@@ -12542,6 +12568,7 @@ n4.bpva-0.ru
 n4.n0y8j.ru
 n4.w135v.ru
 n5.bupuva.ru
+n5.c2x0b1.ru
 n5.faqyhi.ru
 n5.haxyli.ru
 n7.fag5.ru
@@ -13244,6 +13271,7 @@ ognyancat.fun
 ogoadaeze.org
 ogswanky.asia
 ogw159.top
+oh.cpc8u.ru
 oh.pvzi1.ru
 oh.qecufey7.ru
 oh.xrxo-2.ru
@@ -13267,6 +13295,7 @@ oj.f05t.ru
 ojme.net
 ojsat.or.th
 ojukwujobs.com
+ok.cpc8u.ru
 ok.lalz.ru
 ok.rvni2.ru
 ok12345.serveminecraft.net
@@ -13344,6 +13373,7 @@ ompute.pl
 on-line.2fa-v.io
 on.ciqe8.ru
 on.kilut4ou8.ru
+on.vzj1o.ru
 onandoffagain.com
 onanothertry.ydns.eu
 onapbienap.net
@@ -13759,6 +13789,7 @@ pandolin.ru
 pandou.top
 pandrol.gq
 panel-gc.co.uk
+panel.futurainternationalrealty.com
 panel.gajarweb.eu
 panel.infodatasinc.com
 panel.obsidiatek.fr
@@ -14227,6 +14258,7 @@ pm7.q642.ru
 pm7.t99oo.ru
 pm7.v-03e.ru
 pm7.w-45u.ru
+pm7.x-6kox.ru
 pm7.xkx-0-o.ru
 pm7.zi-87.ru
 pma.fin.ex2life.cf
@@ -14749,6 +14781,7 @@ q.bi0ic.ru
 q.bpva-0.ru
 q.bupuva.ru
 q.bvqu7.ru
+q.c2x0b1.ru
 q.d1a8.ru
 q.faqyhi.ru
 q.gbta9.ru
@@ -14777,6 +14810,7 @@ q7.favezi.ru
 q7.kudaxy.ru
 q7.p2o7l.ru
 q7.ror6.ru
+q7.s4m7v4.ru
 q7.t938q.ru
 q74722vp.beget.tech
 q9.m4d8q9.ru
@@ -14883,6 +14917,7 @@ qm9.2p62.ru
 qm9.3-c719.ru
 qm9.6q8v0.ru
 qm9.6y0u1.ru
+qm9.c-3dax.ru
 qm9.cdn-123.ru
 qm9.dy-77.ru
 qm9.e-91m.ru
@@ -15062,6 +15097,7 @@ r2.o-096.ru
 r2.p-94u.ru
 r2.qe-10.ru
 r2.t940.ru
+r2.z-0xug.ru
 r2.z-11e.ru
 r29385w3.beget.tech
 r3.1i5i.ru
@@ -15329,6 +15365,7 @@ reliablejedi.com
 reliancectg.com
 relianceinstrument.com
 religionguidelines.com
+religionjudge.info
 reloadspamzx.fav.cc
 reluxmusic.com
 rem0925.duckdns.org
@@ -16804,6 +16841,7 @@ so-byte.gl.at.ply.gg
 so.6h1p7.ru
 so.cawyfie51.ru
 so.ciqe8.ru
+so.cpc8u.ru
 so.feryfoi88.ru
 so.ixy9.ru
 so.kocq.ru
@@ -18338,6 +18376,7 @@ tourscentralasian.com
 touvl.top
 towbirds.com
 town-minor.gl.at.ply.gg
+townnoise.xyz
 townsenderel.com
 toxhoster.net
 toyo-at-jp.info
@@ -18354,6 +18393,7 @@ tq.derl.ru
 tq.favezi.ru
 tq.kudaxy.ru
 tq.p2o7l.ru
+tq.s4m7v4.ru
 tq.t938q.ru
 tq.w9v5r4.ru
 tq1.2-j695.ru
@@ -18702,6 +18742,7 @@ u1.333-f.ru
 u1.5u0i4.ru
 u1.6q8v0.ru
 u1.6y0u1.ru
+u1.c-3dax.ru
 u1.cdn-123.ru
 u1.cdn-325.ru
 u1.dy-77.ru
@@ -20154,6 +20195,7 @@ wq9.n-585.ru
 wq9.o-096.ru
 wq9.qe-10.ru
 wq9.t940.ru
+wq9.z-0xug.ru
 wq9.z-11e.ru
 wq9.z88ae.ru
 wqdtf54y6eu7i87t.ga
@@ -20224,6 +20266,7 @@ wymeja52.top
 wyvxmxnkkibgdxhv.com
 wz.bpva-0.ru
 wz.bupuva.ru
+wz.c2x0b1.ru
 wz.faqyhi.ru
 wz.haxyli.ru
 wz.n0y8j.ru
@@ -20275,6 +20318,7 @@ x.q-49o.ru
 x.r-54u.ru
 x.r219i.ru
 x.s-819.ru
+x.s4m7v4.ru
 x.stasismyfuture.com
 x.t3m3d.ru
 x.t938q.ru
@@ -20502,6 +20546,7 @@ xt.americanmusclecars.eu
 xt.bpva-0.ru
 xt.bupuva.ru
 xt.bvqu7.ru
+xt.c2x0b1.ru
 xt.faqyhi.ru
 xt.haxyli.ru
 xt.jzak.ru
@@ -20571,6 +20616,7 @@ y.q642.ru
 y.v-03e.ru
 y.vxof.ru
 y.w-45u.ru
+y.x-6kox.ru
 y.xkx-0-o.ru
 y.zi-87.ru
 y.zowyzyi62.ru
@@ -20817,6 +20863,7 @@ z1.97qm.ru
 z1.favezi.ru
 z1.kudaxy.ru
 z1.p2o7l.ru
+z1.s4m7v4.ru
 z1.t938q.ru
 z1.w9v5r4.ru
 z10nx710011-53037.portmap.host
@@ -20827,6 +20874,7 @@ z2.3e7u.ru
 z2.m4d8q9.ru
 z23.top
 z3.3-c719.ru
+z3.c-3dax.ru
 z3.cdn-123.ru
 z3.dy-77.ru
 z3.e-91m.ru
@@ -20909,6 +20957,7 @@ zd.mbs-3-a.ru
 zd.p-94u.ru
 zd.qe-10.ru
 zd.w20s.ru
+zd.z-0xug.ru
 zd.z-11e.ru
 zdemo.mooo.com
 zdfnews.com
