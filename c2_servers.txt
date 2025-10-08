@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-08 01:23:31 UTC
-# Total domains: 21128
+# Generated: 2025-10-08 04:28:59 UTC
+# Total domains: 21138
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2011,6 +2011,7 @@ aw.lalz.ru
 aw.r2h7m.ru
 aw.s7z7r.ru
 aw.txso1.ru
+aw.xkx0o.ru
 awangmburibiru.sbs
 awardsign.net
 awba-groups.com
@@ -2026,6 +2027,7 @@ ax.s3i1.ru
 ax.txso1.ru
 ax.v4h3t.ru
 ax.v96g.ru
+ax.xkx0o.ru
 ax.xyqd.ru
 axascontapag.click
 axe-ortho.fr
@@ -2044,6 +2046,7 @@ ay.kocq.ru
 ay.r1a4.ru
 ay.t4g9w.ru
 ay.txso1.ru
+ay.xkx0o.ru
 ayakkokulari.com
 ayamkremes.id
 ayamng.com
@@ -2115,6 +2118,7 @@ b1.a-90g.ru
 b1.h-76a.ru
 b1.k0m7y.ru
 b1.w-45u.ru
+b1.x-6kox.ru
 b1.xkx-0-o.ru
 b1.zi-87.ru
 b177.top
@@ -7296,6 +7300,7 @@ g4.r852o.ru
 g4.t99oo.ru
 g4.v-03e.ru
 g4.w-45u.ru
+g4.x-6kox.ru
 g4.xkx-0-o.ru
 g4.zi-87.ru
 g4gcp.co.uk
@@ -8108,6 +8113,7 @@ h9m.t938q.ru
 ha.bi3ux.ru
 ha.jdho3.ru
 ha.nqju5.ru
+ha.xkx0o.ru
 ha.xrly8.ru
 habbci.com
 habbiz.nl
@@ -8490,6 +8496,7 @@ ho.gulfscholarships.com
 ho.jdho3.ru
 ho.nxno7.ru
 ho.nyfc.ru
+ho.xkx0o.ru
 ho.xrxo2.ru
 ho7rcj6wucosa5bu.onion
 hoanghachai.com
@@ -9783,6 +9790,7 @@ k.97qm.ru
 k.9i1e6.ru
 k.a-311.ru
 k.a-84l.ru
+k.b-9lyb.ru
 k.c-01e.ru
 k.c646a.ru
 k.cdn-748.ru
@@ -15016,6 +15024,7 @@ qz9.4-z493.ru
 qz9.9s4g2.ru
 qz9.a-311.ru
 qz9.a-84l.ru
+qz9.b-9lyb.ru
 qz9.c-01e.ru
 qz9.cdn-748.ru
 qz9.cpc-8-u.ru
@@ -19164,6 +19173,7 @@ v2.9-k588.ru
 v2.a-311.ru
 v2.a-84l.ru
 v2.a-91p.ru
+v2.b-9lyb.ru
 v2.b3n4o.ru
 v2.bpva0.ru
 v2.c-01e.ru
