@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-08 13:38:47 UTC
-# Total domains: 21203
+# Generated: 2025-10-08 16:43:43 UTC
+# Total domains: 21246
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -195,6 +195,7 @@
 2magas.site
 2magicalmage.zapto.org
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com
+2pb.mt3o4.ru
 2q.fid1.ru
 2rm7y.top
 2septiembrerem.duckdns.org
@@ -309,6 +310,7 @@
 4kdownload.info
 4kdownload.pro
 4llion.com
+4m.mt3o4.ru
 4m.v-9542.ru
 4magicalmage.zapto.org
 4max.xyz
@@ -401,6 +403,7 @@
 6mv1eyr328y6due83u3js6whtzuxfyhw.su
 6pak.xyz
 6pjddrtt7.com
+6u1.mt3o4.ru
 6v.jagc.ru
 6y47zwfgojuzn6tn.onion
 7.nytk.ru
@@ -638,10 +641,12 @@ aa9.mu-16.ru
 aa9.n278o.ru
 aa9.p-55u.ru
 aa9.p-62i.ru
+aa9.p-99o.ru
 aa9.q-5ket.ru
 aa9.q277.ru
 aa9.q8g1y.ru
 aa9.r99ae.ru
+aa9.t-68e.ru
 aa9.u-885.ru
 aa9.x-57u.ru
 aa9.x12uy.ru
@@ -3071,6 +3076,7 @@ brunvoll.co
 brusfnk.top
 brushon.com.au
 brutalserver666.no-ip.biz
+bryncoed.com
 bs-intel.net
 bs.j1g3k.ru
 bs.messager.my
@@ -3193,6 +3199,7 @@ buythebest.pw
 buzzcourer.com
 bv.f0z1n.ru
 bv.m7e4.ru
+bv0n1d6w.duckdns.org
 bvasetro.com
 bvicm.com
 bw.l8o6.ru
@@ -3800,6 +3807,7 @@ cishu.xhost.ro
 cita.zlayvez.name
 citellcagt.top
 cities-bang.gl.at.ply.gg
+citropt.pics
 citycolor.com.mx
 cityhotel.ge
 cityhotlove.com
@@ -3818,6 +3826,7 @@ cjlconsult.com
 cjlogs2015.comxa.com
 cjloki.tk
 cjponies.ga
+ck.jk3y7.ru
 ck.mize0ao1.ru
 ck1.bnwqdudbwqxxbiqwnjdwnqw.cfd
 ck77092.tmweb.ru
@@ -4533,6 +4542,7 @@ d7.0y2i.ru
 d911670w.beget.tech
 d96612l5.beget.tech
 d98527ix.beget.tech
+da.hqs9i.ru
 da.lkci1.ru
 da.tqh-2-e.ru
 da.vwjy7.ru
@@ -5469,6 +5479,7 @@ dyslexic-picture.000webhostapp.com
 dysplld.top
 dystrophy.ir
 dz.dumx.ru
+dz1p-nn0x.duckdns.org
 dzon.100sm.ru
 e-1.info
 e-byturk.com
@@ -5515,6 +5526,7 @@ e1.su-08.ru
 e1.u-989.ru
 e1.v354y.ru
 e1.w-52a.ru
+e1.x-12o.ru
 e2.97jt.ru
 e2bconsulting.com.my
 e520.net
@@ -5957,6 +5969,7 @@ equipaje.fr
 equipmesolutions.com
 equivalentstresser.net
 er.jdho3.ru
+er.jwm3e.ru
 er.k25q.ru
 er.mzvo7.ru
 er.qekz.ru
@@ -6769,6 +6782,7 @@ fidingonman.com
 fidoqi.ru
 fieldtripz.com
 fifplaya.fi.funpic.de
+fightat.pics
 fightwithcapitalism.com
 figueqhk.xin
 figure.medai-gruop.com
@@ -7292,6 +7306,7 @@ g.q-5ket.ru
 g.qej9.ru
 g.qoruva.ru
 g.s4m7v4.ru
+g.t-68e.ru
 g.t4g9w.ru
 g.u-885.ru
 g.w9v5r4.ru
@@ -8768,6 +8783,7 @@ hypercleaner.su
 hypercosine.ml
 hyperfungames.com
 hyperlog.ga
+hyperrbeat.top
 hyperviseur.net
 hyphap.lat
 hypohuw.top
@@ -9190,6 +9206,8 @@ ipstresser.com
 iq0wh.top
 iqjzvexejtgrbrs.duckdns.org
 ir-condition-56201.bond
+ir.cdn.ahmadarief.com
+ir.cdn.riannarusu.com
 irangoodshop.com
 iranianexpat.com
 iranssp.ir
@@ -9250,6 +9268,7 @@ islands-myanmar.gl.at.ply.gg
 isleni.net
 islnblnsrv.com
 islwebs.com
+ismailh.pics
 ismjiope3jmwagf3.onion
 ismre-jup-ag.com
 iso-consultant.com
@@ -9800,6 +9819,7 @@ jxshxt.com
 jy.lkci-1.ru
 jyjmm.top
 jynx404-53109.portmap.host
+jys.mt3o4.ru
 jys.qecufey7.ru
 jzvhzmu.duckdns.org
 k-based.ml
@@ -9906,6 +9926,7 @@ k7.kd-50.ru
 k7.l-75y.ru
 k7.me-71.ru
 k7.q-5ket.ru
+k7.t-68e.ru
 k7.u-885.ru
 k7.x-57u.ru
 k7.x12uy.ru
@@ -9917,6 +9938,7 @@ k8.m935w.ru
 k8.n4i2m.ru
 k8.n726z.ru
 k8.q4e3n.ru
+k8u.mt3o4.ru
 k8uh0-bfc.duckdns.org
 k9.2-j695.ru
 k9.3u1y.ru
@@ -11328,6 +11350,7 @@ m2.mu-16.ru
 m2.nykeju.ru
 m2.p-55u.ru
 m2.p-62i.ru
+m2.p-99o.ru
 m2.q8g1y.ru
 m2.twgr.ru
 m2.v9r3g1.ru
@@ -11405,9 +11428,11 @@ m9.g601c.ru
 m9.r274.ru
 m9.tem5.ru
 m9.x3u0s.ru
+m9q.mt3o4.ru
 ma.andreicerbu.com
 ma.f-42-s.ru
 ma.gulfscholarships.com
+ma.hqs9i.ru
 ma.nyfk.ru
 ma.phpa3.ru
 ma.tvti-0.ru
@@ -12451,6 +12476,7 @@ mwq-52537.portmap.host
 mwqgwqcbllxhchd.com
 mx.downy.pw
 mx.puva6ey2.ru
+mx.rv2o5.ru
 my-abaya.nl
 my-project.space
 my-right.fr
@@ -12591,6 +12617,7 @@ n0.m-49e.ru
 n0.n-4daw.ru
 n0.su-08.ru
 n0.w-52a.ru
+n0.x-12o.ru
 n1.google-analytcis.com
 n18b7273u1j.in
 n2.google-analytcis.com
@@ -12621,6 +12648,7 @@ n8n-video-demo.keerok.tech
 n9.527w.ru
 n9151643.beget.tech
 n91836wz.beget.tech
+na.hqs9i.ru
 na.prli1.ru
 na.vwjy-7.ru
 naamco.biz
@@ -12688,6 +12716,7 @@ nbfghreqww.ug
 nbphardware.com
 nbv201218m.temp.swtest.ru
 nchainwallet.shop
+nchawa.magizz.com
 ncloud.icu
 nday.te.ua
 nderwoods.xyz
@@ -14949,6 +14978,7 @@ qk2.su-08.ru
 qk2.u-989.ru
 qk2.v354y.ru
 qk2.w-52a.ru
+qk2.x-12o.ru
 qke.mexyxei9.ru
 qkinz.tech
 ql.dapusey.ru
@@ -15127,6 +15157,7 @@ r.t3m3d.ru
 r.u-989.ru
 r.v354y.ru
 r.w-52a.ru
+r.x-12o.ru
 r0.ttx.boosoo.cn
 r0.ttx.proksen.com
 r1.bpva0.ru
@@ -15165,6 +15196,7 @@ r3.n726z.ru
 r3.q-5ket.ru
 r3.q4e3n.ru
 r3.qoruva.ru
+r3.t-68e.ru
 r3.x-57u.ru
 r353r3f5.cn
 r3v.v9542.ru
@@ -16596,6 +16628,7 @@ shy.vudujiu33.ru
 shyda6317.club
 shyh-tw.com
 shzlive.top
+si.hqs9i.ru
 si.kidizue6.ru
 si.ljat.ru
 si.no-ip.biz
@@ -17321,6 +17354,7 @@ stephenkellogg.com
 stephenlazar.com
 stepvss.qpon
 stepwxv.top
+stevedw.pics
 stevennewpanel.herobo.com
 stevescabinets.com
 steyxld.top
@@ -17783,6 +17817,7 @@ t95212tt.beget.tech
 ta.beauty
 ta.fergindo.com
 ta.grjy2.ru
+ta.hqs9i.ru
 ta.qe3yn.ru
 ta.sxqy9.ru
 ta.wzhy-1.ru
@@ -18220,6 +18255,7 @@ thyssenkrrupp.com
 thzsmrjqqzpaz2mz.onion
 ti-film.com
 ti.grjy2.ru
+ti.hqs9i.ru
 ti.nyps.ru
 ti.tfba6.ru
 ti.xvqy-8.ru
@@ -18861,6 +18897,7 @@ u5.tbkh.ru
 u5.u-989.ru
 u5.v354y.ru
 u5.w-52a.ru
+u5.x-12o.ru
 u50801ck.beget.tech
 u528972nyk.ha003.t.justns.ru
 u555182sy8.ha003.t.justns.ru
@@ -19261,6 +19298,7 @@ v2.q210u.ru
 v2.q277.ru
 v2.q6t4u.ru
 v2.t-20y.ru
+v2.t-68e.ru
 v2.u-66r.ru
 v2.u-97w.ru
 v2.w-70a.ru
@@ -19735,6 +19773,7 @@ vviissttaa.uk.to
 vw.xavv.ru
 vware.duckdns.org
 vwsol.help
+vx.jk3y7.ru
 vx.rogosie4.ru
 vxml4.delacon.com.au
 vxnishhisbacl-53480.portmap.host
@@ -20064,6 +20103,7 @@ wi.sxqy-9.ru
 wiaawi.com
 wiangsa.ac.th
 wickedhamsters.com
+widayou.duckdns.org
 wide-fires.gl.at.ply.gg
 wideawake.cc
 widgets.messager.my
@@ -20377,6 +20417,7 @@ x.jwm-3-e.ru
 x.k987.ru
 x.kudaxy.ru
 x.l-5228.ru
+x.l-70y.ru
 x.m4d8q9.ru
 x.mo-49.ru
 x.n-7sol.ru
@@ -21080,6 +21121,7 @@ zgtco.com
 zh-op.ml
 zh.d09r.ru
 zhabademon.net
+zhc.mt3o4.ru
 zhiyarve.3eeweb.com
 zhong-ix.com
 zhuchengsantian.com
@@ -21187,6 +21229,7 @@ zuluworld.ddnsnet.ga
 zunzail.livehost.fr
 zupbyupmlh.duckdns.org
 zurichinsurince.com
+zv.rv2o5.ru
 zv.wqix.ru
 zvenigorodskoe.ru
 zver.tech
