@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-09 01:52:43 UTC
-# Total domains: 5818
+# Generated: 2025-10-09 08:34:00 UTC
+# Total domains: 5819
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4429,6 +4429,7 @@ protostar.space
 prototype.run
 providedatheyfromyouthe.club
 provienergyfilms.site
+proximus-simkaart.com
 proxtrend.net
 proxy.am
 proxyam.one
