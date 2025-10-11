@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-11 01:35:19 UTC
-# Total domains: 22128
+# Generated: 2025-10-11 04:41:03 UTC
+# Total domains: 22172
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -136,6 +136,7 @@
 1filesharing.ga
 1hj.sx-2-u-0.ru
 1i.myzj.ru
+1kd.xb-4-e-7.ru
 1kislakberendezes.hu
 1lidoo.ml
 1m.526r.ru
@@ -547,6 +548,7 @@
 8lj-demandacivel.net
 8magicalmage.zapto.org
 8msv1-23655.portmap.host
+8n5.xb-4-e-7.ru
 8r.kijx.ru
 8scom.link
 8u2.7-gb.ru
@@ -596,6 +598,7 @@ a.3e7u.ru
 a.7-fd.ru
 a.bpva0.ru
 a.cgty8.ru
+a.da2yw.ru
 a.fag5.ru
 a.g601c.ru
 a.hlgy7.ru
@@ -656,6 +659,7 @@ a1.focove.ru
 a1.hasefa.ru
 a1.k26i.ru
 a1.k6u7d.ru
+a1.ni0uz.ru
 a1.p9a0k.ru
 a1.pisora.ru
 a1.y83v.ru
@@ -2242,6 +2246,7 @@ b.c2x0b1.ru
 b.cracking.be
 b.dev.drakeinternationalagency.com
 b.f2g5q.ru
+b.fa6ic.ru
 b.faqyhi.ru
 b.g3w2p.ru
 b.h8y0.ru
@@ -4774,6 +4779,7 @@ d3m.ta4a.info
 d4.3o5i.ru
 d4.gbta9.ru
 d4.m1y8v.ru
+d4.wi7id.ru
 d4.z491l.ru
 d4t.com.mx
 d7.0y2i.ru
@@ -5759,6 +5765,7 @@ e.hap7.ru
 e.hasefa.ru
 e.k6u7d.ru
 e.kilut4ou8.ru
+e.ni0uz.ru
 e.nykeju.ru
 e.p9a0k.ru
 e.q7y4s.ru
@@ -8484,6 +8491,7 @@ h3.gzva1.ru
 h3.h8o4g.ru
 h3.sk
 h3.v9r3g1.ru
+h3.vi8im.ru
 h3.x352x.ru
 h4.n-98.ru
 h4wk.loseyourip.com
@@ -8497,6 +8505,7 @@ h7.b5k6f4.ru
 h7.f926m.ru
 h7.focove.ru
 h7.k6u7d.ru
+h7.ni0uz.ru
 h7.p9a0k.ru
 h7.pisora.ru
 h7.u11q.ru
@@ -9129,6 +9138,8 @@ huxpa.top
 hv.0u7y.ru
 hv.bi0ic.ru
 hv.c109s.ru
+hv.da2yw.ru
+hv.fa6ic.ru
 hv.hlgy7.ru
 hv.j0a8n.ru
 hv.m046d.ru
@@ -9149,6 +9160,7 @@ hx.m1y8v.ru
 hx.nykeju.ru
 hx.q7y4s.ru
 hx.u49n.ru
+hx.wi7id.ru
 hx.z491l.ru
 hxi.xg5e7.ru
 hy-is-linzess-dangerous.cfd
@@ -11838,6 +11850,8 @@ m2.twgr.ru
 m2.u49n.ru
 m2.v9r3g1.ru
 m2.vamuwe.ru
+m2.vi8im.ru
+m2.wi7id.ru
 m2.x352x.ru
 m2.y-45s.ru
 m2.z491l.ru
@@ -11875,6 +11889,7 @@ m7.ae-18.ru
 m7.bw-06.ru
 m7.cdn-175.ru
 m7.cdn-659.ru
+m7.da2yw.ru
 m7.e-783.ru
 m7.e-815.ru
 m7.f14ey.ru
@@ -11903,6 +11918,7 @@ m8.b-395.ru
 m8.bejw.ru
 m8.bpva0.ru
 m8.c109s.ru
+m8.fa6ic.ru
 m8.i-215.ru
 m8.j0a8n.ru
 m8.kyhely.ru
@@ -12498,6 +12514,7 @@ mgimpax.com
 mgmedic.com.br
 mgt.dia.com.tr
 mhb.libityi2.ru
+mho.xb-4-e-7.ru
 mhydraulics.net
 mhzl2wy-36319.portmap.host
 mhzlhhhh378-43006.portmap.host
@@ -12988,6 +13005,7 @@ mwqgwqcbllxhchd.com
 mx.downy.pw
 mx.puva6ey2.ru
 mx.rv2o5.ru
+mxt.xb-4-e-7.ru
 my-abaya.nl
 my-project.space
 my-right.fr
@@ -13114,6 +13132,7 @@ n.t940.ru
 n.v1n4n.ru
 n.w-33e.ru
 n.w30g.ru
+n.wi7id.ru
 n.wofaraa29.ru
 n.wuk0.ru
 n.xabz.ru
@@ -13149,6 +13168,7 @@ n3.f926m.ru
 n3.focove.ru
 n3.google-analytcis.com
 n3.k6u7d.ru
+n3.ni0uz.ru
 n3.p9a0k.ru
 n3.pisora.ru
 n3.qylyxi.ru
@@ -14337,6 +14357,7 @@ p1streetsira-36072.portmap.host
 p2.dstat.digital
 p2kings.ga
 p2n.c109s.ru
+p2n.fa6ic.ru
 p2n.j0a8n.ru
 p37r0ffv1ckt.pw
 p4blogabriel.pw
@@ -14921,6 +14942,7 @@ pmxmc.party
 pn.gzva1.ru
 pn.h8o4g.ru
 pn.n-96-f.ru
+pn.vi8im.ru
 pn.vwof.ru
 pn.x352x.ru
 pne.xe3ax.ru
@@ -15384,6 +15406,7 @@ pv.focove.ru
 pv.hasefa.ru
 pv.k6u7d.ru
 pv.libityi2.ru
+pv.ni0uz.ru
 pv.p9a0k.ru
 pv.pisora.ru
 pv.y83v.ru
@@ -15411,6 +15434,7 @@ pytty.id
 pytty.life
 pytty.lol
 pyurd.top
+pz.da2yw.ru
 pz.hlgy7.ru
 pz.m046d.ru
 pz.n6e8h.ru
@@ -15458,6 +15482,7 @@ q.n9t6m.ru
 q.ny-54.ru
 q.v4h3t.ru
 q.w135v.ru
+q.wi7id.ru
 q.wz-3-a-7.ru
 q.z491l.ru
 q0jqva.besaba.com
@@ -15507,6 +15532,7 @@ qb.gzva1.ru
 qb.h8o4g.ru
 qb.v9r3g1.ru
 qb.vamuwe.ru
+qb.vi8im.ru
 qb.x352x.ru
 qbbroaeamomeoqgsxuc.com
 qboujskql54fd.zapto.org
@@ -15645,6 +15671,7 @@ qra.we4ex.ru
 qreateandtrack.com
 qrnju.dopitter.info
 qs.c109s.ru
+qs.fa6ic.ru
 qs.j0a8n.ru
 qsetshi.live
 qt.0u7y.ru
@@ -16562,6 +16589,7 @@ s.pa.lorenabulei.com
 s.ryzuka.ru
 s.v9r3g1.ru
 s.vamuwe.ru
+s.vi8im.ru
 s.w5j7z0.ru
 s.wagoda.ru
 s.x352x.ru
@@ -18182,6 +18210,7 @@ sucile.ru
 suckadick.website
 suctso.asia
 sudhirghate.com
+sue.xb-4-e-7.ru
 sufficientblessing.com
 sufi1.pw
 sufibusinessclassflights.co.uk
@@ -18424,6 +18453,7 @@ t.6u3o9.ru
 t.cgty8.ru
 t.d597o.ru
 t.d8w6l.ru
+t.da2yw.ru
 t.dev.drakeinternationalagency.com
 t.gug7.ru
 t.h8y0.ru
@@ -18456,6 +18486,7 @@ t1.cpc-8-u.ru
 t1.d-76u.ru
 t1.e-35w.ru
 t1.f-57e.ru
+t1.fa6ic.ru
 t1.fs-8-e-0.ru
 t1.h-29i.ru
 t1.h9u8w.ru
@@ -18497,6 +18528,7 @@ t1v.m1y8v.ru
 t1v.nykeju.ru
 t1v.q7y4s.ru
 t1v.u49n.ru
+t1v.wi7id.ru
 t1v.z491l.ru
 t1z.qeh5.ru
 t2constructiontexas.com
@@ -19070,6 +19102,7 @@ tmtkhcp.com
 tn.bpva0.ru
 tn.e-410.ru
 tn.g601c.ru
+tn.pi9yj.ru
 tn.x3u0s.ru
 tn7.hl-5-a-6.ru
 tnaapparels.com
@@ -19611,6 +19644,7 @@ u19982p14980.web0119.zxcs.nl
 u19982p14982.web0119.zxcs.nl
 u19982p14983.web0119.zxcs.nl
 u1r.ror6.ru
+u1z.lj3u5.ru
 u2-dragonlady.tokyo
 u3.x-05.ru
 u32513.netangels.ru
@@ -19618,6 +19652,7 @@ u4.shop
 u4349620jx.ha003.t.justns.ru
 u4461223c9.ha003.t.justns.ru
 u4642627gu.ha003.t.justns.ru
+u4g.xb-4-e-7.ru
 u5.08jm.ru
 u5.4-j722.ru
 u5.4m99.ru
@@ -20080,6 +20115,7 @@ v205557.hosted-by-vdsina.ru
 v205588.hosted-by-vdsina.ru
 v2n.5y4a.ru
 v2n.g601c.ru
+v2n.pi9yj.ru
 v2n.x3u0s.ru
 v3.802d.ru
 v3.e41m.ru
@@ -21241,6 +21277,7 @@ x.o82g.ru
 x.p2o7l.ru
 x.p3t9b3.ru
 x.p556i.ru
+x.pi9yj.ru
 x.pymz.ru
 x.q-49o.ru
 x.r-54u.ru
@@ -21255,6 +21292,7 @@ x.u11q.ru
 x.u79p.ru
 x.v9r3g1.ru
 x.vamuwe.ru
+x.vi8im.ru
 x.w-78i.ru
 x.wy-72.ru
 x.x0e8.ru
@@ -21294,6 +21332,8 @@ x8n.o05h.ru
 x8n.w9v5r4.ru
 x8n.z1u2z.ru
 x9.c109s.ru
+x9.da2yw.ru
+x9.fa6ic.ru
 x9.hlgy7.ru
 x9.j0a8n.ru
 x9.m046d.ru
@@ -21474,6 +21514,7 @@ xq9.0e0y6.ru
 xq9.b5k6f4.ru
 xq9.f926m.ru
 xq9.k6u7d.ru
+xq9.ni0uz.ru
 xq9.p9a0k.ru
 xq9.pisora.ru
 xq9.y83v.ru
@@ -21825,6 +21866,7 @@ z.ror6.ru
 z.s167.ru
 z.s57o.ru
 z.t4c5d.ru
+z.wi7id.ru
 z.z491l.ru
 z0v.gug7.ru
 z1.6i4u.ru
@@ -21888,6 +21930,7 @@ z9m.gzva1.ru
 z9m.h8o4g.ru
 z9m.v9r3g1.ru
 z9m.vamuwe.ru
+z9m.vi8im.ru
 z9m.x352x.ru
 za.cubaqay.ru
 za.kmbo-6.ru
@@ -22092,6 +22135,7 @@ zt.focove.ru
 zt.k6u7d.ru
 zt.kijx.ru
 zt.n-96-f.ru
+zt.ni0uz.ru
 zt.p9a0k.ru
 zt.y83v.ru
 ztjhuvtmnq.mytasty.net
