@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-11 17:03:47 UTC
-# Total domains: 5819
+# Generated: 2025-10-11 23:27:40 UTC
+# Total domains: 5842
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -87,6 +87,7 @@
 111bigowin.click
 11capital.com
 11k.online
+11vationconsult.com
 11windows.pro
 121.report
 121smart.shop
@@ -616,6 +617,7 @@ annwt.xyz
 anovaos.com
 antalyateknikservis.com
 anteus.com
+anthonyweathersconsult.com
 anthraperrestaurantgroup.com
 antiageingskincream.com
 antirecords.store
@@ -956,6 +958,7 @@ bestwayhomeimprovements.com
 bestwinbe.world
 bestwork.online
 betajbk.com
+betaric.com
 bethanyroseville.org
 betieastern.pk
 betterservice.com
@@ -1136,6 +1139,7 @@ brookeberry1.com
 brooklynndickinson.net
 brothersconstructionandpaintingllc.com
 brouweres.com
+brownepowerconsulting.com
 browniebell.com
 browning-online.shop
 brujos.net
@@ -1304,6 +1308,8 @@ centerhub.pro
 centerkick.com
 centre.ng
 centrichotel.com
+centrionmanagement.com
+centrionmgmt.com
 centuaryfabindia.com
 centurylinktechnology.com
 cepbaza.com
@@ -1884,6 +1890,7 @@ divineaccessories.shop
 divinfosystem.com
 djavadi.net
 djchefbridesrock.com
+djfinances.com
 djhigdon.com
 djp-idn-pajak.cc
 djp-mpajak-idn.cc
@@ -2115,6 +2122,7 @@ elimiapp.com
 elissone.com
 elitebaseballbats.com
 elitehockeystick.com
+elitemindmgmtllc.com
 eliterenovalu.fr
 elitesubmissions.com
 ellaorganicproducts.store
@@ -2733,6 +2741,7 @@ gsrglobal.org
 gsrhrservices.com
 gsscorporationltd.com
 gsshop.de
+gsterlingllc.com
 gtavcrack.com
 gtx.services
 guanfangkuailian.net
@@ -3053,6 +3062,7 @@ iflyswa.com
 iforcircles-3.online
 igetworld.com
 ighgambia.com
+ignitecoreconsulting.com
 igsnz.com
 ihatevoting.com
 iheartusnf6.com
@@ -3218,6 +3228,8 @@ jalalibd.com
 james.gold
 jameskoji.dev
 jamieatkins.org
+jandmconsult.com
+jandmconsults.com
 janetmdesigns.com
 janicewong.online
 japaaesthetics.com
@@ -3277,8 +3289,11 @@ jmdev.cyou
 jobsfirstnyc.org
 jofostore.com
 johnbizou.com
+johnstonahvec.com
 jointopo.com
 jokerjuad.com
+jomuellercons.com
+jomuellerllc.com
 jonefood.com
 jonubian.com
 joondr.com
@@ -3694,6 +3709,7 @@ marcomkt.com
 marcoorlandi2025.it
 mareideias.com
 margate-zone.info
+margravllc.com
 mariganesh.co.in
 marincountyfarmersmarkets.org
 marinersgreen3.com
@@ -4165,6 +4181,7 @@ openssl.com
 opensslservices.com
 opentls.org
 opisthwise.shop
+opspectorconsult.com
 optimax.site
 optimiso.net
 optiwised.com
@@ -4549,6 +4566,7 @@ raspisurveillance.com
 ratledge.biz
 rawasex.com
 raxisb.com
+rblangconsult.com
 rcarecordslabel.com
 rchobby.pk
 rcmguttersystems.com
@@ -4724,6 +4742,7 @@ sarahandsebastian.vip
 sarenza.be
 sarhfyh.com
 sasltd.com
+sassysipsconsult.com
 sat-net.org
 sateliot.space
 satflixx.shop
@@ -4836,6 +4855,7 @@ sgdsti.com
 sglcarbon.sk
 shaf.in
 shalankaenterprises.com
+shamrockconsults.com
 shamrockdowns.com
 share-onboarding.icu
 shared-document-onboarding.icu
@@ -4975,6 +4995,7 @@ sowetobynight.online
 space-ambiance.com
 spacesmanagement.com
 spaijo.es
+sparksflyconsult.com
 sparrowwalllet.com
 spaww.nl
 specgradeled.com
@@ -5153,6 +5174,8 @@ tcm-supplyllc.com
 tdoxycbf.icu
 teacheronline.online
 teambeholders.com
+teamjandm.com
+teamsparksfly.com
 teardropjunction.com
 techapprenticeships.io
 techbush.dev
