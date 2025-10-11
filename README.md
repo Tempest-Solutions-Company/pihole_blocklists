@@ -12,11 +12,11 @@ If these blocklists help protect your network, consider supporting the developer
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31HZAUU)
 
-**Last Updated:** 2025-10-11 10:46:38 UTC
+**Last Updated:** 2025-10-11 13:47:49 UTC
 
 ## 📊 Performance Statistics
 
-- **Phishing Domains:** 476,197
+- **Phishing Domains:** 476,352
 - **Malware Domains:** 11,924
 - **C2 Server Domains:** 22,240
 - **Banking Trojan Domains:** 5,819
@@ -27,11 +27,11 @@ If these blocklists help protect your network, consider supporting the developer
 
 | List | Description | Domains | Download |
 |------|-------------|---------|----------|
-| Phishing | Phishing domains and URLs | 476,197 | [Download](phishing.txt) |
+| Phishing | Phishing domains and URLs | 476,352 | [Download](phishing.txt) |
 | Malware | Malware hosting & distribution sites | 11,924 | [Download](malware.txt) |
 | C2 Servers | Command & control servers | 22,240 | [Download](c2_servers.txt) |
 | Banking Trojan | Banking trojan & financial malware | 5,819 | [Download](banking_trojan.txt) |
-| All Malicious | All threats combined | 512,483 | [Download](all_malicious.txt) |
+| All Malicious | All threats combined | 512,638 | [Download](all_malicious.txt) |
 
 ## 🚀 Quick Installation
 
