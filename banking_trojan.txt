@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-15 13:06:44 UTC
-# Total domains: 5909
+# Generated: 2025-10-15 15:11:22 UTC
+# Total domains: 5911
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -562,6 +562,7 @@ aloenterprisesllc.com
 alohatube.xyz
 aloud.com
 alphacam.com
+alphadogprinting.com
 alphazone.icu
 alpileannn.com
 alqard2u.com
@@ -595,6 +596,7 @@ amerigoglobal.com
 amerra-medical.com
 amgen.fr
 amjcgroup.com
+amormc.com
 amosbarrios.shop
 amosking.com
 amountapple.net
