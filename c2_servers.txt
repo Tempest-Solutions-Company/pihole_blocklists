@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-15 02:47:42 UTC
-# Total domains: 23488
+# Generated: 2025-10-15 09:05:31 UTC
+# Total domains: 23517
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -110,6 +110,7 @@
 11n.nl
 11n.us
 11stnft.click
+1209forward1209.dns.army
 121zzzzz.com
 123457564334556.com
 123andro.net
@@ -149,6 +150,7 @@
 19.nmys-4.ru
 1926.165-227-83-163.site
 195482902.ga
+196dot247dot163dot8.webrat.in
 19s.ckar4.ru
 1ai.xg5e7.ru
 1akerovich1.myjino.ru
@@ -530,6 +532,7 @@
 6.zzz.com.ua
 60.fkur-8.ru
 61.yffl-9.ru
+6119.com.cn
 61g.rv-2-o-5.ru
 6237871.vip
 624.zzax-4.ru
@@ -1166,6 +1169,7 @@ addidas-wear.com
 addisonproblems.com
 additionalrevolutionize.info
 addones-mozilla.com
+address-buffer.gl.at.ply.gg
 adeirmahselviana.com
 adelxks.top
 adem.studio
@@ -1714,6 +1718,7 @@ amandapin.com.br
 amaobi.besaba.com
 amapanel.sbs
 amarre12.dynuddns.net
+amarre26.mysynology.net
 amarre29.kozow.com
 amarrepago25.dynuddns.net
 amarrestotalesconesperenza.com
@@ -1958,6 +1963,7 @@ appb-chrome.com
 appdalilcrm.co
 appedfx.top
 apph.com.sa
+apphost.ydns.eu
 appimpak.com
 appinstall.app
 applabpro.website
@@ -3392,6 +3398,7 @@ boxoffice.forumreelz.com
 boxtop.ml
 boy-ana.gl.at.ply.gg
 boy-crack.gl.at.ply.gg
+boy-nt.gl.at.ply.gg
 boyaliiplik.com
 boykusumabrata.com
 boyntonpropertygroup.com
@@ -3918,6 +3925,7 @@ capaworks.site88.net
 caperacha2.wlannet.net
 capexzo.top
 caphistory.org
+capilonapro.ddns.net
 capital-sd.com
 capitalflowpanel.xyz
 capitalior.ru
@@ -3953,6 +3961,7 @@ carikapapa.ml
 carirero.net
 caritas.org.ro
 carljas.duckdns.org
+carloslopezsas2025.casacam.net
 carloswint.com
 carlozo.top
 carluccigiardina.org
@@ -3975,6 +3984,7 @@ casabali.com.ar
 casadoatirador.com.br
 casaroyai.com
 casasxavier.com.br
+case-sa.gl.at.ply.gg
 casewelldriling.com
 cash-architects.gl.at.ply.gg
 cashbackfb.com
@@ -5120,6 +5130,7 @@ dackdack.online
 daconstructions-ksa.com
 dactarhome.com
 dad9idois-24522.portmap.host
+dad9idois-51319.portmap.host
 dada.grantflaskparty.com
 dada.hanztrading.com
 dadaehirim-ventures.biz
@@ -6346,6 +6357,7 @@ eite.asia
 eiwahdaik.free-eee.info
 eixeq96.beget.tech
 eizzy.haoldd.com
+ej224477.ddns.net
 ejalive.top
 ejksdlsffdsifodcjdos.com
 ejpd.online
@@ -6452,6 +6464,7 @@ emackgranite.com
 email-attatchment-downloader.host
 email-invoice.info
 email-migration.gl.at.ply.gg
+email-server.top
 email.directoryindustry.com
 emailhostings.in
 emaillifecoaching.com.au
@@ -6568,6 +6581,7 @@ entotoe.cfd
 entry.sbs
 enugu042.ru
 envi02-10.duckdns.org
+envio08-10.duckdns.org
 envio08.duckdns.org
 envio1-10.duckdns.org
 envio1009.duckdns.org
@@ -7483,6 +7497,7 @@ fi.a.tp9y.skylinecloud.xyz
 fi.nqju-5.ru
 fidingonman.com
 fidoqi.ru
+field-tracker.gl.at.ply.gg
 fieldtripz.com
 fifalolafasertikonex.com
 fifplaya.fi.funpic.de
@@ -7556,6 +7571,7 @@ fintin.ml
 finz-online.org
 fiobmzv.qpon
 fiodar2003.myjino.ru
+fiologo.ydns.eu
 fionamcauslan.com
 firebladekld.myjino.ru
 fireblazecorrect.duckdns.org
@@ -7899,6 +7915,7 @@ frugaliasdelivery.com
 fruitshop.by
 fruiunp.qpon
 fs.xx-os.ru
+fsafasjasgia.live
 fsbcvhjgfdsf.ug
 fsdf.ga
 fsefsfeg.xyz
@@ -10110,6 +10127,7 @@ invictr.com
 invstbs.ezyro.com
 inweblink.xyz
 inwkpu.top
+io.comecola.digital
 io.gw.hypersend.my
 io7617121.gq
 ioa.xr-7-a-0.ru
@@ -11934,6 +11952,7 @@ leftover.hostoi.com
 leftpvb.top
 lefttorightproductservice.org
 legacyofindonesia.com
+legal-sending.gl.at.ply.gg
 legal-sign-8ec8b9f1edb2.herokuapp.com
 legal-trend.gl.at.ply.gg
 legalpropiedad.cl
@@ -12872,6 +12891,7 @@ marine-struct.net
 marinov.zzz.com.ua
 marinzer-3.com
 mariya-myronenko.com
+mark-der.gl.at.ply.gg
 markampanya.com
 markbradford.org
 market-id-auto.com
@@ -13153,6 +13173,7 @@ merturk.com.tr
 mervecapas.com.tr
 meshsorterio.com
 messic.cf
+messsis.duckdns.org
 meta-biiomed.com
 meta-mim.in
 metakon-zavodru.427.com1.ru
@@ -14802,6 +14823,7 @@ onledyv.top
 online-casino.camp
 online-guard.org
 online-hyper.ir
+online-offices.gl.at.ply.gg
 online3130.000webhostapp.com
 onlinebtc4u.com
 onlinecheck.hussanways.com
@@ -16029,6 +16051,7 @@ privatepp.club
 privatesurb.cn
 privatlux.pw
 privedmidved.net
+prixmatech.com
 prizma.ge
 prizma.net.co
 prloglink.prsa7.top
@@ -16915,6 +16938,7 @@ rc.kj-4-o-0.ru
 rc.tigelie.ru
 rcanecodex.dev
 rchitectseo.net
+rcisgoat.chickenkiller.com
 rcparasky.com
 rd.rv2o5.ru
 rd.vbof.ru
@@ -17060,6 +17084,7 @@ remote1.ga
 remote1.gq
 remote1.tk
 remove-limited-account.islamichost.org
+remproces.casacam.net
 remrer.eu
 renagames.xyz
 renascent.digital
@@ -17099,6 +17124,7 @@ resolution-onto.gl.at.ply.gg
 resolveasy.com
 resources-formerly.gl.at.ply.gg
 resplem.shop
+responsible-cables.gl.at.ply.gg
 responsible-owners.gl.at.ply.gg
 responsible.zirked.com
 ress-room-sky.xyz
@@ -18879,6 +18905,7 @@ srv649721.hstgr.cloud
 srvendone.sytes.net
 srvupd.com
 srzozkwog.localto.net
+ss.cybiz.ggff.net
 ss.pixub.com
 ss.qf0u2.ru
 ssa-update-channel.us
@@ -19096,6 +19123,7 @@ storage.givescash.com
 storage.messager.my
 storage.microsoft-account-security.com
 storage.westinsinsurance.com
+store.alignfrisco.com
 store.cloudsdog.top
 store.metascrape.com
 store101.tk
@@ -23084,6 +23112,7 @@ yt.llim-8.ru
 yt6.ussn-7.ru
 ytkatest.000webhostapp.com
 ytmfynt.com
+yttt-34658.portmap.host
 ytyjiehuon.pro
 yuanfangwenhuags.com
 yudn.shop
