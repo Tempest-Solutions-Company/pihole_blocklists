@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-16 01:18:38 UTC
-# Total domains: 5915
+# Generated: 2025-10-16 03:22:31 UTC
+# Total domains: 5916
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1292,6 +1292,7 @@ carneysandoe.com
 carnivoresbbqsandwichshop.net
 carpen82.com
 carpowertools.com
+casadecampoamazonas.com
 casamanga.xyz
 casamuseoayerbe.co
 cascadiaeye.shop
