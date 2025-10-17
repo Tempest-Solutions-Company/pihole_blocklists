@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-17 03:45:15 UTC
-# Total domains: 23879
+# Generated: 2025-10-17 09:50:34 UTC
+# Total domains: 23903
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2626,6 +2626,7 @@ b5uk.fi7em.online
 b6v.pf-6-o-2.ru
 b7-golfix.org
 b7.fk-9-e-2.ru
+b7qk.sip-9ta.ru
 b7team.com
 b7ye.mcyz4.ru
 b7yg.kynh0.ru
@@ -9092,6 +9093,7 @@ h3.vi8im.ru
 h3.x352x.ru
 h38.sxuj7.ru
 h4.n-98.ru
+h4ptx9.sip-9ta.ru
 h4wk.loseyourip.com
 h4xinc.com
 h5.3e7u.ru
@@ -11073,10 +11075,12 @@ k0n.j9i2c.ru
 k0n.xyc0.ru
 k17.mt-3-o-4.ru
 k1m.5i0a.ru
+k1m7c.sun-7-k.ru
 k2.z-67.ru
 k22dmvbyiextmetahost-24499.portmap.host
 k23scpbns32qywfu.iloveanimals.shop
 k24cwchgd.localto.net
+k2w9e7a.pitsburg-2z.ru
 k2y7bcw.xyz
 k3.9a-hd.ru
 k3.ussn7.ru
@@ -12803,6 +12807,7 @@ m8.v7e1v.ru
 m8.w9k6m9.ru
 m85-net.redirectme.net
 m87.qf0u2.ru
+m8d4.sip-9-ta.ru
 m8qa.pohv3.ru
 m9.08jj.ru
 m9.1v47.ru
@@ -14082,6 +14087,7 @@ n0.x-12o.ru
 n0c.rd-1-a-2.ru
 n1.google-analytcis.com
 n18b7273u1j.in
+n1s8y0w.sip-9ta.ru
 n1sb.kynh0.ru
 n2.google-analytcis.com
 n2.h9u8w.ru
@@ -14590,6 +14596,7 @@ noticedseuh.icu
 nottheskynews.com
 nouris.gr
 nouveau-site-message.livehost.fr
+nova-shadow.com
 novakremokasdogiosan.com
 novellv.qpon
 novelumbsasa.art
@@ -15345,6 +15352,8 @@ p.su6ak.ru
 p.t2w3v.ru
 p.t4c5d.ru
 p.van1.ru
+p.x.compuegypt.net
+p.x.myolt.my.id
 p0.212-q.ru
 p0.2mq4r.ru
 p0.62xm.ru
@@ -15370,11 +15379,13 @@ p2n.c109s.ru
 p2n.fa6ic.ru
 p2n.j0a8n.ru
 p37r0ffv1ckt.pw
+p3hkv8.sip-9-ta.ru
 p3za.fi7em.online
 p4blogabriel.pw
 p4ng0l1n.comlu.com
 p5.stix-2.ru
 p5k.xr6u9.ru
+p5yx.sun-7-k.ru
 p6nnjzgxl.localto.net
 p7.l134.ru
 p7.ykgw2.ru
@@ -16563,6 +16574,7 @@ q.z491l.ru
 q0jqva.besaba.com
 q0rb.zzax4.ru
 q0rd.jobt9.ru
+q0w9e3.sip-9ta.ru
 q1.top
 q1.xb4e7.ru
 q14.sxuj-7.ru
@@ -17004,6 +17016,7 @@ r29385w3.beget.tech
 r2cx.desj1.ru
 r2cy.4-5sq.ru
 r2cz.nmys4.ru
+r2q6vm.sun-7-k.ru
 r2vy.ko0um.online
 r3.1i5i.ru
 r3.6i-xm.ru
@@ -17045,6 +17058,7 @@ r7nc.0-9pr.ru
 r7nd.nyqb0.ru
 r8.xyc0.ru
 r87.online
+r8qv1m.pitsburg-2z.ru
 r9.4fg2n.ru
 r9.d44yy.ru
 r9.kyhely.ru
@@ -17322,6 +17336,7 @@ remation-services-51778.bond
 remaxhost.com
 remcodit.top
 remcos.as.vip
+remcos.net
 remdefrem.duckdns.org
 remember-marks.gl.at.ply.gg
 rememberu3.zzz.com.ua
@@ -20649,6 +20664,7 @@ tq1.rwzqh.ru
 tq1.s-819.ru
 tq1.w-78i.ru
 tq1.wy-72.ru
+tq1ze.sip-9-ta.ru
 tqpoint.com
 tqx.sewedau.ru
 tqz1f4kokbbylgih.iloveanimals.shop
@@ -21595,6 +21611,7 @@ v5.k-342.ru
 v5.qrow6.ru
 v5.s57o.ru
 v55575192.wirt22.bhlink.pl
+v6m2a.sip-9ta.ru
 v6yt.fkur8.ru
 v6yu.7-5xc.ru
 v6yv.moxt5.ru
@@ -22163,6 +22180,7 @@ w4l.xr7a0.ru
 w4tchrs.no-ip.org
 w6.nytk.ru
 w68426zc.bget.ru
+w7c5n2.sip-9-ta.ru
 w8v.bid-5.ru
 w91926dc.beget.tech
 w977575l.beget.tech
@@ -22171,6 +22189,7 @@ w9qk.nmys4.ru
 w9ql.4-5sq.ru
 w9qm.desj1.ru
 w9s.sj-5-o-5.ru
+w9t3z8.sun-7-k.ru
 w9t7k.pits-burg-2-z.ru
 w9x.llim-8.ru
 wa.kujywii.ru
@@ -22819,6 +22838,8 @@ x.d8w6l.ru
 x.dailyradio.su
 x.e-783.ru
 x.e-815.ru
+x.f.glinkeg.com
+x.f.myolt.my.id
 x.favezi.ru
 x.g601c.ru
 x.gzva1.ru
@@ -23581,6 +23602,7 @@ z3.u-251.ru
 z3.v-36u.ru
 z3.vzj-1-o.ru
 z3.w-48u.ru
+z3n7c4.pitsburg-2z.ru
 z3us1.z-ed.info
 z4.hasefa.ru
 z4k.ykgw-2.ru
@@ -23598,6 +23620,7 @@ z7.u49n.ru
 z7.v57eo.ru
 z7.wd-79.ru
 z70791ae.beget.tech
+z7f1q0h.sun-7-k.ru
 z9.qf-0-u-2.ru
 z9.stix2.ru
 z92074ju.beget.tech
@@ -23612,6 +23635,7 @@ z9m.v9r3g1.ru
 z9m.vamuwe.ru
 z9m.vi8im.ru
 z9m.x352x.ru
+z9u4qm1.sip-9-ta.ru
 za.cubaqay.ru
 za.kmbo-6.ru
 za.omovigminet.ru
