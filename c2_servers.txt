@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-17 01:40:38 UTC
-# Total domains: 23845
+# Generated: 2025-10-17 03:45:15 UTC
+# Total domains: 23879
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -128,6 +128,7 @@
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com
 1337pony.hol.es
 1337smvids.xyz
+13586721moon.1a2e6.ru
 13otshelnik.myjino.ru
 14.ae.voltexpressdelivery.com
 14.vqod-2.ru
@@ -2615,6 +2616,7 @@ b3.qeh5.ru
 b3.wuhp.ru
 b4m.cv-3-a-9.ru
 b4nksecur1tyserv1ce.com
+b4yn.mape-3.ru
 b5.0u7y.ru
 b5.lexz.ru
 b5d.rjuq3.ru
@@ -3811,6 +3813,7 @@ c3fs.vorn5.ru
 c3lestial.fun
 c4.b1o.it
 c4.dk2o5.ru
+c40znm.pits-burg-2-z.ru
 c4192.top
 c4509.top
 c4589.top
@@ -3885,6 +3888,7 @@ c8.w5j7z0.ru
 c8.wagoda.ru
 c8cjnri5l9njf13b.iloveanimals.shop
 c8l.kj-4-o-0.ru
+c8y4d.fox-ab.ru
 c9.cfob-5.ru
 c90212q0.beget.tech
 c9a.vem4.ru
@@ -4067,6 +4071,7 @@ cast-den.pw
 castlehillquilters.org.uk
 castmart.ga
 castro4sucess.biz
+cat.1a2e6.ru
 cata06.kozow.com
 catalogobrasil.net
 catchmywav.com
@@ -5185,6 +5190,7 @@ d4.z491l.ru
 d4t.com.mx
 d5.8a-mg.ru
 d7.0y2i.ru
+d7mta.1a2e6.ru
 d7qx.kqag6.ru
 d7qy.0-1gc.ru
 d7qz.qihs8.ru
@@ -6249,6 +6255,7 @@ e51ku379r.shop
 e520.net
 e6.pot-5.ru
 e6fv5zvscmr48b0v.iloveanimals.shop
+e79sx2bnqwew6.cfc-execute.bj.baidubce.com
 e8.qzad-3.ru
 e90677op.beget.tech
 e910005o.beget.tech
@@ -7362,6 +7369,7 @@ f4l.tvil0.ru
 f4zh.zzax4.ru
 f4zi.jobt9.ru
 f4zj.6-3tm.ru
+f5rp.pitsburg-2z.ru
 f6.b-18a.ru
 f6.ce1im.ru
 f6rx.ko0um.online
@@ -8204,6 +8212,7 @@ g1000net.com
 g100cf.ddns.net
 g1s.obvp-2.ru
 g299.top
+g2p4n8.1a2e6.ru
 g3.lq8e1.ru
 g33qb6n.com
 g4.0y-pm.ru
@@ -8225,6 +8234,7 @@ g4.w-45u.ru
 g4.x-6kox.ru
 g4.xkx-0-o.ru
 g4.zi-87.ru
+g46dfgdf65h.8y7o4.ru
 g4gcp.co.uk
 g5.blyp9.ru
 g5.f969.ru
@@ -9070,6 +9080,7 @@ h2.w135v.ru
 h2dp.7-5xc.ru
 h2ds.moxt5.ru
 h2oarchitecture.com.au
+h2qf.pits-burg-2-z.ru
 h3.4cv6c.ru
 h3.bowibo.ru
 h3.d5y6x.ru
@@ -9457,6 +9468,7 @@ hihi.blazingnetwork.pro
 hikmahmuliautama.co.id
 hikylover.st
 hill.ndoq-0.ru
+hill.vbep-3.ru
 hillpot.ml
 hillsboraviation.pw
 hilonguea.com
@@ -10070,6 +10082,7 @@ imagewearcw.com
 imagic-box.com
 imaginecomputing.info
 imanprojects.com
+imap.dmg-tech.com
 imbaxqxq.org
 imbon.ru
 imc-cr.us
@@ -11726,6 +11739,7 @@ kz.d-09-r.ru
 kz.gwut.ru
 kz.thawaslobem.com
 kz3m.hpap6.ru
+kz6t3.mape-3.ru
 kz8m.te7ap.online
 l.1y-zt.ru
 l.22jk.ru
@@ -12659,6 +12673,7 @@ m1.hl-5-a-6.ru
 m1.p-81.ru
 m1f.fid1.ru
 m1n.3e7u.ru
+m1qv9p.mape-3.ru
 m1s.van1.ru
 m1yl.hpap6.ru
 m2.1y-zt.ru
@@ -12767,6 +12782,7 @@ m7.r219i.ru
 m7.rwzqh.ru
 m7.w-78i.ru
 m7.wy-72.ru
+m7yq2p.pits-burg-2-z.ru
 m8.2se.info
 m8.4fg2n.ru
 m8.4xq2k.ru
@@ -14103,6 +14119,7 @@ n5.faqyhi.ru
 n5.g26ia.ru
 n5.haxyli.ru
 n5.j9i2c.ru
+n5h2.fox-ab.ru
 n6r.ibzr-2.ru
 n6u.wsit4.ru
 n7.fag5.ru
@@ -14613,6 +14630,7 @@ ns1.androha.com
 ns1.boccfc.top
 ns1.cryptwechat.com
 ns1.duoo.cc
+ns1.gygiuh.online
 ns1.huntressstudios.org
 ns1.jszwfw.com.cn
 ns1.littllee365c.top
@@ -15360,6 +15378,7 @@ p5k.xr6u9.ru
 p6nnjzgxl.localto.net
 p7.l134.ru
 p7.ykgw2.ru
+p7e2x.mape-3.ru
 p7km.plig5.ru
 p7s5272.xyz
 p8km.7-5wd.ru
@@ -16558,6 +16577,7 @@ q3.dk9a6.ru
 q3.sheh0.ru
 q36203ee73j7h4iw.iloveanimals.shop
 q3b.mg-1-u-5.ru
+q3kz.1a2e6.ru
 q3n.i-215.ru
 q4.1jd3t.ru
 q4.5e7i0.ru
@@ -16802,6 +16822,7 @@ quartz.wqix-5.ru
 quattromexico.com
 quavevd.asia
 quecik.com
+quee54949646642n.8y7o4.ru
 queenshippartners.com
 queuedbyn.cyou
 quick-portion.gl.at.ply.gg
@@ -17179,6 +17200,7 @@ rds.dmg-tech.com
 rds2020.space
 rdsforum.ro
 rdsviewer.com
+rdweb.dmg-tech.com
 rdxcvejik.com
 re-goat.gl.at.ply.gg
 re-pos.in
@@ -17418,6 +17440,7 @@ ri6hw.click
 rianid.ir
 riascos.org
 rice.1a2e6.ru
+rice.vbep-3.ru
 ricflair-net.cf
 rich.jibiw8aa5.ru
 richardkmet.sk
@@ -17483,6 +17506,7 @@ rk8.d597o.ru
 rk8.q-083.ru
 rka.firu6ui8.ru
 rka.qisytui.ru
+rka7q.fox-ab.ru
 rkada4608.buzz
 rkmbba.org
 rl7bh.ru
@@ -17507,6 +17531,7 @@ rnully.info
 rnurship.com
 rnxlvwchep.com
 ro.nzki-7.ru
+ro4646623165ck.ndoq-0.ru
 road12street12.ru
 roadrunnerexpress.co
 roadsofromania.francu.com
@@ -19823,6 +19848,7 @@ t1.zk5e7.ru
 t1.zv1a0.ru
 t11vincenzauuzw.com
 t1koma.com
+t1mze9.fox-ab.ru
 t1n.4fg2n.ru
 t1n.d44yy.ru
 t1n.kyhely.ru
@@ -19864,6 +19890,7 @@ t5vo.kqag6.ru
 t5vp.0-1gc.ru
 t5vq.qihs8.ru
 t6.81dm.ru
+t6e1x9a.pits-burg-2-z.ru
 t7.ctze0.ru
 t7.hasefa.ru
 t7.z-72.ru
@@ -20718,6 +20745,7 @@ treasurebook1.co.uk
 treasurefan.club
 treavi.top
 tree-assistance.gl.at.ply.gg
+tree.4y3e4.ru
 tree.bvuf-2.ru
 treemmesrl-eu.com
 treemover.xyz
@@ -21063,6 +21091,7 @@ u7.cfob-5.ru
 u750894og7.ha004.t.justns.ru
 u75728.test-handyhost.ru
 u7j.wir-2.ru
+u7wq0c9.1a2e6.ru
 u7xgk.top
 u9.sxuj-7.ru
 u92618hp.beget.tech
@@ -22142,6 +22171,7 @@ w9qk.nmys4.ru
 w9ql.4-5sq.ru
 w9qm.desj1.ru
 w9s.sj-5-o-5.ru
+w9t7k.pits-burg-2-z.ru
 w9x.llim-8.ru
 wa.kujywii.ru
 wa.poxyway.ru
@@ -22642,6 +22672,7 @@ wpaffiliaterocketreview.info
 wpogkco.almostmy.com
 wpy.bh-3-i-6.ru
 wq.qh-1-a-5.ru
+wq3b0k7.fox-ab.ru
 wq9.0o-js.ru
 wq9.227-m.ru
 wq9.7-j230.ru
@@ -22912,6 +22943,7 @@ xaviersintschool.in
 xayawoeprqvgkjlxxwcy.com
 xb.nyps.ru
 xb.xxos.ru
+xb19f.1a2e6.ru
 xbet-ajpr.top
 xblackeyex.000webhostapp.com
 xbm.amajed.com
@@ -23201,6 +23233,7 @@ y.zi-87.ru
 y.zowyzyi62.ru
 y0.fj-2-e-0.ru
 y0.ussn-7.ru
+y0mkq.pitsburg-2z.ru
 y0s.hap7.ru
 y0we.bvum6.ru
 y0wf.0-9pr.ru
@@ -23495,6 +23528,7 @@ z.t4c5d.ru
 z.wi7id.ru
 z.z491l.ru
 z0h.wdax1.ru
+z0rfu3s.mape-3.ru
 z0v.gug7.ru
 z1.1jd3t.ru
 z1.4a8u6.ru
