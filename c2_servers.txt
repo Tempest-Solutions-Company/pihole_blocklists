@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-18 01:06:55 UTC
-# Total domains: 24027
+# Generated: 2025-10-18 04:11:14 UTC
+# Total domains: 24073
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -19,6 +19,7 @@
 0131.ga
 013nat.net
 02616secureserver.com
+028.11u812580.ru
 028xmz.com
 02a.mg-1-u-5.ru
 02level.tk
@@ -34,8 +35,10 @@
 04j.zv-1-a-0.ru
 0537sms.cn
 054-235-2465.com
+05a9.08u073852.ru
 05q0h4x0-5500.euw.devtunnels.ms
 0632.club
+06342.99y401874.ru
 067679.xyz
 07.cv3a9.ru
 075229cm.nyash.es
@@ -89,6 +92,7 @@
 10.9.jami.bio
 10.a3.bijakbuatduit.com
 100.0.194.35.bc.googleusercontent.com
+100587.11u812580.ru
 100stuff.site
 1012.165-227-83-163.site
 10121.165-227-83-163.site
@@ -113,6 +117,8 @@
 11n.us
 11stnft.click
 12.895628.xyz
+1205.60e533569.ru
+120984.99y401874.ru
 1209forward1209.dns.army
 121zzzzz.com
 123457564334556.com
@@ -224,6 +230,7 @@
 2152761d.langcdn.top
 2208.165-227-83-163.site
 2209sep25.duckdns.org
+2215.08u073852.ru
 22263flanco.com
 222andro.net
 223.ip.gl.ply.gg
@@ -296,6 +303,7 @@
 2yxp0.top
 2zi.ss-9-y-4.ru
 3.tiqk.ru
+3007812.08u073852.ru
 302mh.com
 30311.xyz
 304af9c5bac4.ngrok-free.app
@@ -328,6 +336,8 @@
 343637-cg89835.tmweb.ru
 345688776.com
 346211-cw53847.tmweb.ru
+34972.11u812580.ru
+3499013.99y401874.ru
 34a.vip
 34jkldfs.no-ip.biz
 35-23-4532-34.com
@@ -418,10 +428,12 @@
 428.ckyq-9.ru
 43.tvil0.ru
 430development.com
+431.11u812580.ru
 43mouvie.co
 4455667778.com
 445566889900.com
 45-76-47-204.plesk.page
+45019.60e533569.ru
 454545663.com
 45b.rv-2-o-5.ru
 46.qh1a5.ru
@@ -431,6 +443,7 @@
 47b.sj5o5.ru
 47eringov.ru
 4802jkshdp.duckdns.org
+482.99y401874.ru
 48o.qute3.ru
 49i.ussn-7.ru
 4a.cfob-5.ru
@@ -498,12 +511,14 @@
 55501.top
 55566785677.com
 555host.ddns.net
+55728.99y401874.ru
 56.fkur-8.ru
 568yn.top
 56cha.top
 57.jk-3-y-7.ru
 57.tvil0.ru
 57d3e30e.duckdns.org
+581004.11u812580.ru
 5830f64c8c47.com
 5867.pet
 59.227.185.35.bc.googleusercontent.com
@@ -549,6 +564,7 @@
 6.nytk.ru
 6.zzz.com.ua
 60.fkur-8.ru
+60012.08u073852.ru
 61.yffl-9.ru
 6119.com.cn
 61g.rv-2-o-5.ru
@@ -631,21 +647,25 @@
 70.xbiq2.ru
 70zv5n4wj.localto.net
 712.cv-3-a-9.ru
+719.99y401874.ru
 72k.hpap-6.ru
 73102.vip
 73jvs.top
 73uhd7893hn23cvshdscw.con-ip.com
 74-48-140-110.nip.io
+740.08u073852.ru
 74yanadh.duckdns.org
 75.bw-6-u-0.ru
 75.fkur-8.ru
 75jng75ufnf.ru
 7648419.vip
+7652190.11u812580.ru
 76aviacraft.sbs
 76z-z.info
 77-matraca777.win
 77.blyp-9.ru
 773.bb-3-y-5.ru
+777.60e533569.ru
 777zxcvb.com
 782345698752364.site
 786autobodyrepai.co.za
@@ -720,6 +740,7 @@
 881vn.com
 888andra.net
 888andro.net
+889.08u073852.ru
 88movies.online
 89.yffl-9.ru
 890.gc0o9.ru
@@ -762,9 +783,12 @@
 90.gc0o9.ru
 90001.pro
 9009351534.myjino.ru
+9023.11u812580.ru
+9031.99y401874.ru
 90551.prohoster.biz
 907.nmys-4.ru
 90t.rd-1-a-2.ru
+918274.08u073852.ru
 91ruitue.com
 927.ynbr-8.ru
 9290106034.myjino.ru
@@ -2199,6 +2223,7 @@ asfb.kixyzoo7.ru
 asfjklsfjlk.pw
 asformations.fr
 asgasg.duckdns.org
+ash.web-d-n-45.ru
 ashdkjnvf.kl.com.ua
 ashevillesmica.com
 ashigaruwallet.rs
@@ -2472,6 +2497,7 @@ ax75.vorn5.ru
 axascontapag.click
 axctofwar.correola-com.top
 axe-ortho.fr
+axe.run-c-you.ru
 axelerode.club
 axelerode.host
 axelerode.online
@@ -4083,6 +4109,7 @@ casadoatirador.com.br
 casaroyai.com
 casasxavier.com.br
 case-sa.gl.at.ply.gg
+case.pot5.ru
 casewelldriling.com
 cash-architects.gl.at.ply.gg
 cashbackfb.com
@@ -4278,6 +4305,7 @@ chaseunlocked.com
 chasiin.com
 chat-messenger.site
 chat-world.site
+chat.koq0.ru
 chat.pgcountyliving.com
 chat.uzai.com
 chat.warlab.info
@@ -4813,6 +4841,7 @@ coolnewhairstyles.com
 coop-digi.de
 cooperativa.casa
 coorpfree.duckdns.org
+cop.joy-2-way.ru
 copagelol.com.br
 copetran.com.co
 copphangoccuong.com
@@ -5056,6 +5085,7 @@ cultureofascent.com
 cumnor-preschool.co.uk
 cumutiu1.ru
 cuogargaming.com
+cup.tag-b-s3.ru
 cupclek.top
 cupomkinghost.com.br
 cupongames.in
@@ -5762,6 +5792,7 @@ dino1.ddf.al
 dinosowers.ru
 diores.myjino.ru
 diosdelared.com.mx
+dip.net-0-prosa.ru
 diplomatgroup.org
 diplomaticcourier.net
 dir.xb4e7.ru
@@ -6781,6 +6812,7 @@ equipaje.fr
 equipmesolutions.com
 equivalentstresser.net
 er.cv-3-a-9.ru
+er.hop-g-3.ru
 er.jdho3.ru
 er.jwm3e.ru
 er.k25q.ru
@@ -9833,6 +9865,7 @@ huirensohn.hostoi.com
 huitpah.top
 hujkl.info
 hukukiyardimburosu.org
+hum.hop-g3.ru
 humade.kr
 humble-photo.com
 humblelogs.com.ng
@@ -10654,6 +10687,7 @@ january-sitemap.gl.at.ply.gg
 jaobhaezrasam.com
 japerindo.com
 jaqeba.com
+jar.zen-and.ru
 jaratp.cf
 jargonx.asia
 jasmine.by
@@ -12010,6 +12044,7 @@ lamentation-ink.ga
 lamid1.nut.cc
 lammegoedzakkers.be
 lamorindastyles.com
+lamp.koq0.ru
 lamuertedenecessito.ga
 lamyconsulting.com
 lan-premios.in
@@ -15916,6 +15951,7 @@ pictuqyr.qpon
 pierret.ml
 piervio.com
 pifftech.com
+pig.fix-fg.ru
 pigeon4all.org
 pigeonbase.org
 pigmentzorg.be
@@ -17257,6 +17293,7 @@ raveh.ru
 raven.wduh-8.ru
 ravimwz.top
 ravishl.qpon
+raw.fix-fg.ru
 raw.vaticanc2.top
 rawand.esy.es
 rawdagger.top
@@ -17564,6 +17601,7 @@ richweva.com
 rickreallfire.org
 ricolain.in
 ridinyo9.ru
+rig.bit-e.ru
 rigek.com
 rigenter.com
 riggdival.pro
@@ -18789,6 +18827,7 @@ sinsixclaw.com
 sintaccmarketing.com.ar
 sinujhp.top
 sinutinu.com
+sip.run-c-you.ru
 sip1distribution.com
 sipejou7.ru
 siplsystems.com
@@ -18923,6 +18962,7 @@ sljfeuhwuihs.ru
 slkfbshuoru.com
 sloodam.in
 slotmaus246-64506.portmap.host
+slow.koq0.ru
 slow.lilek4au2.ru
 slowdevaction.com
 slowidyter.us
@@ -19028,6 +19068,7 @@ so.wzhy-1.ru
 so.xudofiu02.ru
 soaaxa.biz
 soapstampingmachines.com
+soar.koq0.ru
 soaringheightsacademy.com
 sobachka.comze.com
 sobakevich.biz
@@ -20358,6 +20399,7 @@ thaus.ws
 thawaslobem.com
 thayma.it
 the-administered.gl.at.ply.gg
+the-encyclopedia-of-digital-entrepreneurship-and-innovation.com
 the-rekanze.no-ip.biz
 the-xxxy.uk
 the8020.info
@@ -22136,6 +22178,7 @@ volgymeheszet.hu
 volkanakyildiz.com
 volkerhuge.com
 volkstur.com
+volt.koq0.ru
 voltagehi.atwebpages.com
 volume-defendant.gl.at.ply.gg
 volume.mulberriespussies.com
@@ -22547,6 +22590,7 @@ westtrek.com
 westuae.com
 wesupply.cx
 wesyjzn.top
+wet.app-6-v.ru
 wethembois.biz
 wetlandoilgas.com
 wevolyo4.ru
@@ -23482,6 +23526,7 @@ ye.kokq.ru
 ye.txso-1.ru
 ye6cvdg.top
 year.cewyzui61.ru
+year.koq0.ru
 yearsfa.top
 yeaskews.info
 yehnsops.duckdns.org
@@ -23894,6 +23939,7 @@ zinnywendy.cf
 zinoveva.xyz
 zinyjuu1.ru
 zip.sewumoa.ru
+zip.zen-and.ru
 ziqrah.com
 ziqyrae.ru
 ziraat-helpdesk.com
