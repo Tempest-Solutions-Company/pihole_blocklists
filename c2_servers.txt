@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-18 04:11:14 UTC
-# Total domains: 24073
+# Generated: 2025-10-18 10:16:10 UTC
+# Total domains: 24131
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -24,27 +24,33 @@
 02a.mg-1-u-5.ru
 02level.tk
 03.obvp2.ru
+03452.49o103159.ru
 03a6b7a.netsolhost.com
 03a6f57.netsolhost.com
 03bbec4.netsolhost.com
 03sao.top
 04.nm0e2.ru
 0409.165-227-83-163.site
+04137.60e533569.ru
 042newpanel.tk
+0482.54o477354.ru
 04j.gc0o9.ru
 04j.zv-1-a-0.ru
 0537sms.cn
 054-235-2465.com
 05a9.08u073852.ru
+05b8.30u241207.ru
 05q0h4x0-5500.euw.devtunnels.ms
 0632.club
 06342.99y401874.ru
 067679.xyz
 07.cv3a9.ru
 075229cm.nyash.es
+07c9.31e854642.ru
 07f4acdef99b.ofalias.net
 07o.ll-7-y-5.ru
 08.ckar-4.ru
+080.37i658094.ru
 08p.ckar4.ru
 092.vj4e5.ru
 0adolfhitlerwashere.zapto.org
@@ -112,6 +118,7 @@
 11243debestremcox.duckdns.org
 11716-45741.ws4.pph-server.de
 11733wednesdayyyyyyyfileeemanagerxxxx.duckdns.org
+118.49o103159.ru
 118274-zoomid.com
 11n.nl
 11n.us
@@ -149,11 +156,13 @@
 1687715624.inc
 1688dsj.com
 168wangpi.com
+169.54o477354.ru
 169nan-63274.portmap.host
 172-104-53-127.ip.linodeusercontent.com
 17752.loan
 17s.dk9a6.ru
 1800propainter.com
+180264.30u241207.ru
 183.123.235.35.bc.googleusercontent.com
 185-196-10-10.cprapid.com
 185-24-53-218.com
@@ -217,6 +226,7 @@
 2.kunb.ru
 2.stasprlt.beget.tech
 2.vqod2.ru
+201.30u241207.ru
 2014.donteezy007.com
 2015letsdoit.in
 2020bill.com
@@ -309,10 +319,12 @@
 304af9c5bac4.ngrok-free.app
 3053-325-43-253.com
 307dice.com
+30951.49o103159.ru
 30bil.us
 30cc.vip
 31.ip.gl.ply.gg
 31173fd.sytes.net
+3135.31e854642.ru
 315967.top
 31cha.top
 31x.rjuq3.ru
@@ -321,8 +333,10 @@
 321163-co99530.tmweb.ru
 321181-cx67463.tmweb.ru
 324-23-32432.com
+324.54o477354.ru
 326879-cd01801.tmweb.ru
 33.bb3y5.ru
+333.37i658094.ru
 333e.gl.3ply.gg
 334936-cb56782.tmweb.ru
 335627-cp17518.tmweb.ru
@@ -364,6 +378,7 @@
 38bitcoin.info
 38robpl95.esy.es
 3945.club
+3998107.37i658094.ru
 3addictions.com.au
 3alternative.zapto.org
 3bm.dlun-7.ru
@@ -423,6 +438,7 @@
 4047.club
 41.13.voltexpressdelivery.com
 41.59.reliabletrustbank.com
+41002.31e854642.ru
 4121.tv
 41i.rd-1-a-2.ru
 428.ckyq-9.ru
@@ -445,6 +461,7 @@
 4802jkshdp.duckdns.org
 482.99y401874.ru
 48o.qute3.ru
+4920.37i658094.ru
 49i.ussn-7.ru
 4a.cfob-5.ru
 4alternative.zapto.org
@@ -496,8 +513,10 @@
 4y4.fp-0-y-9.ru
 5.wugh.ru
 50.aclz-9.ru
+5002201.60e533569.ru
 500aevolam.com
 500web.gr
+501.49o103159.ru
 50280.com
 504ec1c95.host.njalla.net
 50millioneur.000a.de
@@ -508,6 +527,7 @@
 530hr.com
 54.jk3y7.ru
 5404.a.hostable.me
+55027.54o477354.ru
 55501.top
 55566785677.com
 555host.ddns.net
@@ -517,7 +537,9 @@
 56cha.top
 57.jk-3-y-7.ru
 57.tvil0.ru
+57411.37i658094.ru
 57d3e30e.duckdns.org
+581.31e854642.ru
 581004.11u812580.ru
 5830f64c8c47.com
 5867.pet
@@ -565,9 +587,12 @@
 6.zzz.com.ua
 60.fkur-8.ru
 60012.08u073852.ru
+6003.30u241207.ru
 61.yffl-9.ru
+610294.37i658094.ru
 6119.com.cn
 61g.rv-2-o-5.ru
+620714.60e533569.ru
 6237871.vip
 624.zzax-4.ru
 62e993f98a75.ngrok-free.app
@@ -607,6 +632,7 @@
 6878tyuiiyiuyiyiu.pro
 688c674cf3f6d.xvest6.ru
 68927.prohoster.biz
+6901420.49o103159.ru
 69315.cc
 69c.dzem4.ru
 69d.ykgw-2.ru
@@ -645,9 +671,13 @@
 70.4.voltexpressdelivery.com
 70.fk-9-e-2.ru
 70.xbiq2.ru
+7001845.54o477354.ru
+706391.31e854642.ru
 70zv5n4wj.localto.net
 712.cv-3-a-9.ru
+7123001.30u241207.ru
 719.99y401874.ru
+72563.37i658094.ru
 72k.hpap-6.ru
 73102.vip
 73jvs.top
@@ -666,7 +696,9 @@
 77.blyp-9.ru
 773.bb-3-y-5.ru
 777.60e533569.ru
+777012.49o103159.ru
 777zxcvb.com
+77950.30u241207.ru
 782345698752364.site
 786autobodyrepai.co.za
 789456123.space
@@ -720,7 +752,10 @@
 82463.party
 82875.mobi
 82crew.hostei.com
+8321.54o477354.ru
 837.bw-6-u-0.ru
+8427.49o103159.ru
+8451203.31e854642.ru
 8484.town
 849n7the.info
 85.ndoq0.ru
@@ -788,8 +823,10 @@
 90551.prohoster.biz
 907.nmys-4.ru
 90t.rd-1-a-2.ru
+913560.54o477354.ru
 918274.08u073852.ru
 91ruitue.com
+925.31e854642.ru
 927.ynbr-8.ru
 9290106034.myjino.ru
 932.wir-2.ru
@@ -799,9 +836,11 @@
 94mbw.top
 95.ls-2-a-9.ru
 956.ceo
+964.30u241207.ru
 971.ykgw-2.ru
 97nb.net
 98.hnaq6.ru
+984.60e533569.ru
 989jsdbty.duckdns.org
 99.derl.ru
 9991321442.myjino.ru
@@ -2025,6 +2064,7 @@ app.messager.my
 app.montreallimousineservice.com
 app.orlandodiscounts.com
 app.pushbuttonautomarketer.com
+app.surrogatesolutions.net
 app.xinzyun.cn
 app111.tv
 appallf.pics
@@ -2292,6 +2332,7 @@ astuteplatform.net
 asusoftware.no-ip.org
 aswaqms.net
 asxiofnsiovsiocx.site
+asy8808.duckdns.org
 asyaugusth5858.duckdns.org
 asyjuly5858.duckdns.org
 async01.ddns.net
@@ -2406,6 +2447,7 @@ autobots.pw
 autocomms.co.za
 autoconfig.box.livrocentauros.cfd
 autocuga-mx.com
+autodater.ddns.net
 autodiscover.box.livrocentauros.cfd
 autodiscover.milkir.ro
 autoecoleeurope.com
@@ -5679,6 +5721,7 @@ devine.comxa.com
 devinefavour.com
 devnet.hostzi.com
 devvis.gixx.ru
+dew.wib8.ru
 dewabitsoftware.com
 dewi.cf
 dewi.tk
@@ -7923,6 +7966,7 @@ foranalysticsonly.com
 forbeseditions.com
 forbesols.co.ke
 forcastz.ga
+forceadvance.com
 forcepear.info
 forepointmachinery.com
 forest.4i1e2.ru
@@ -7982,6 +8026,7 @@ fourrese.net
 fourt2949aslumes9.duckdns.org
 fourwaysgroup.com
 fownspjlwlwinayk.com
+fox.wib8.ru
 foxgame.club
 foxgroups.in
 foxlimiteds.top
@@ -9718,6 +9763,7 @@ homedecks.com.au
 homedeco.com.bo
 homelab.omtoi101.com
 homemdks.top
+homeoffice.dmg-tech.com
 homeporno228.com
 homesandhommes.org
 homesgroups.com
@@ -13635,10 +13681,12 @@ minoshis.wekreate.com
 minoutohd.000webhostapp.com
 minoxih.top
 minsoftware.vn
+mint.wib8.ru
 mioasiosumslauyoks.com
 mipaginaweb.us
 miq.toludye0.ru
 mirabeau.quu.cc
+mirailoversddos.duckdns.org
 mirka-sg.com
 mirovayatech.pk
 mirrapl.com
@@ -13805,6 +13853,9 @@ monstabody.com
 monsterbudledgrowlights.co.uk
 monsygraffix.com
 montacutepre-school.co.uk
+montanaivest.online
+montanaivest.space
+montanaivest.store
 montblancgroup.cfd
 monteazul.clicken1.com
 montenasoft.com
@@ -16068,6 +16119,7 @@ plosss.com
 plsgod.info
 plsplsnoerror.tk
 plta.app
+plum.wib8.ru
 plumber-jobs-in-us-56918.bond
 plumberplus.net
 plumbersincali.com
@@ -17303,6 +17355,7 @@ raxeniy5.ru
 raxton.xyz
 ray-den.xyz
 ray.pobinei39.ru
+ray.wib8.ru
 ray2me.com
 rays-auto-parts.net
 rayvvin.cc
@@ -17963,6 +18016,7 @@ s.x352x.ru
 s.xyqd.ru
 s0.z100.vip
 s04.fk9e2.ru
+s0fthub.com
 s0wo2a82mz217.zzz.com.ua
 s1.ddf.al
 s116832.smrtp.ru
@@ -18071,6 +18125,7 @@ sahtehaberler11.tk
 sai1st.fav.al
 said-spam.gl.at.ply.gg
 said-up.gl.at.ply.gg
+sail.wib8.ru
 saimesgalds.lv
 saind.myjino.ru
 sainofj.top
@@ -21027,6 +21082,7 @@ tube8dvd.com
 tube8personals.com
 tubetds.com
 tubexxi.com
+tubifly.com
 tucson-auto-parts.com
 tudygym.net
 tugarin.bar
@@ -22602,6 +22658,7 @@ wfgrma5m.beget.tech
 wg.f42s.ru
 wg.gevicii.ru
 wgcustom.com
+wgd.slideshowimprison.digital
 wgp.lq8e1.ru
 wgpvglbadxo.com
 wh-designs.com
@@ -23633,6 +23690,7 @@ yourownprogrammer.com
 yoursignwithonestart.com
 yoursmb.info
 yourverifiycation.com
+youth-better.gl.at.ply.gg
 youtube.aawe.finance
 youtubelinkjadid.blogspot.com
 youtubeplusandroid.ru
