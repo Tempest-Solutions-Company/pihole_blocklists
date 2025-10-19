@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-19 01:28:33 UTC
-# Total domains: 24227
+# Generated: 2025-10-19 04:32:49 UTC
+# Total domains: 24267
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -20,11 +20,13 @@
 013nat.net
 02616secureserver.com
 028.11u812580.ru
+028.o303024.ru
 028xmz.com
 02a.mg-1-u-5.ru
 02level.tk
 03.obvp2.ru
 03452.49o103159.ru
+035.o411213.ru
 03a6b7a.netsolhost.com
 03a6f57.netsolhost.com
 03bbec4.netsolhost.com
@@ -40,13 +42,16 @@
 054-235-2465.com
 05a9.08u073852.ru
 05b8.30u241207.ru
+05c8.o411213.ru
 05q0h4x0-5500.euw.devtunnels.ms
+0615.i733643.ru
 0632.club
 06342.99y401874.ru
 067679.xyz
 06d1.93i197934.ru
 07.cv3a9.ru
 075229cm.nyash.es
+07a9.o303024.ru
 07c9.31e854642.ru
 07f4acdef99b.ofalias.net
 07o.ll-7-y-5.ru
@@ -82,6 +87,7 @@
 0xtv.biz
 0z.pihp.ru
 0zq.2mq4r.ru
+0zq.5e8y8.ru
 0zq.802d.ru
 0zq.e41m.ru
 0zq.p2a3p.ru
@@ -100,6 +106,7 @@
 10.a3.bijakbuatduit.com
 100.0.194.35.bc.googleusercontent.com
 100587.11u812580.ru
+100587.o303024.ru
 100stuff.site
 1012.165-227-83-163.site
 10121.165-227-83-163.site
@@ -126,6 +133,8 @@
 11stnft.click
 12.895628.xyz
 1205.60e533569.ru
+1205.o679975.ru
+1207.i733643.ru
 120984.99y401874.ru
 1209forward1209.dns.army
 121zzzzz.com
@@ -140,6 +149,7 @@
 1308344827-4bya137jfj.ap-guangzhou.tencentscf.com
 1310084117-cdzk9xw7xy.ap-beijing.tencentscf.com
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com
+132541.xyz
 1337pony.hol.es
 1337smvids.xyz
 13586721moon.1a2e6.ru
@@ -199,6 +209,7 @@
 1lidoo.ml
 1m.2mq4r.ru
 1m.526r.ru
+1m.5e8y8.ru
 1m.e41m.ru
 1m.p2a3p.ru
 1m.ryzuka.ru
@@ -265,6 +276,7 @@
 2511463.top
 254-badaimaxwin.sbs
 25cha.top
+260941.o411213.ru
 263rdasd.com
 2675.click
 26x.nm0e2.ru
@@ -354,6 +366,7 @@
 345688776.com
 346211-cw53847.tmweb.ru
 34972.11u812580.ru
+34972.o303024.ru
 3499013.99y401874.ru
 34a.vip
 34jkldfs.no-ip.biz
@@ -377,6 +390,7 @@
 37882.www7.site
 380x.vip
 3821305pnceos328.xyz
+384.i733643.ru
 38696.legal
 38bitcoin.info
 38robpl95.esy.es
@@ -446,14 +460,17 @@
 4121.tv
 41i.rd-1-a-2.ru
 428.ckyq-9.ru
+42a5.i733643.ru
 43.tvil0.ru
 430development.com
 431.11u812580.ru
+431.o303024.ru
 43mouvie.co
 4455667778.com
 445566889900.com
 45-76-47-204.plesk.page
 45019.60e533569.ru
+45019.o679975.ru
 454545663.com
 45b.rv-2-o-5.ru
 46.qh1a5.ru
@@ -464,6 +481,7 @@
 47eringov.ru
 4802jkshdp.duckdns.org
 482.99y401874.ru
+4823.o411213.ru
 48o.qute3.ru
 4920.37i658094.ru
 49i.ussn-7.ru
@@ -518,6 +536,7 @@
 5.wugh.ru
 50.aclz-9.ru
 5002201.60e533569.ru
+5002201.o679975.ru
 500aevolam.com
 500web.gr
 501.49o103159.ru
@@ -538,6 +557,7 @@
 555host.ddns.net
 55728.99y401874.ru
 56.fkur-8.ru
+56039.i733643.ru
 568yn.top
 56cha.top
 57.jk-3-y-7.ru
@@ -598,6 +618,7 @@
 6119.com.cn
 61g.rv-2-o-5.ru
 620714.60e533569.ru
+620714.o679975.ru
 6237871.vip
 624.zzax-4.ru
 62e993f98a75.ngrok-free.app
@@ -676,12 +697,14 @@
 70.4.voltexpressdelivery.com
 70.fk-9-e-2.ru
 70.xbiq2.ru
+70018.o411213.ru
 7001845.54o477354.ru
 706391.31e854642.ru
 70zv5n4wj.localto.net
 712.cv-3-a-9.ru
 7123001.30u241207.ru
 719.99y401874.ru
+719.o411213.ru
 72563.37i658094.ru
 72k.hpap-6.ru
 73102.vip
@@ -689,6 +712,7 @@
 73uhd7893hn23cvshdscw.con-ip.com
 74-48-140-110.nip.io
 740.08u073852.ru
+740182.i733643.ru
 7436901.93i197934.ru
 74yanadh.duckdns.org
 75.bw-6-u-0.ru
@@ -696,12 +720,14 @@
 75jng75ufnf.ru
 7648419.vip
 7652190.11u812580.ru
+7652190.o303024.ru
 76aviacraft.sbs
 76z-z.info
 77-matraca777.win
 77.blyp-9.ru
 773.bb-3-y-5.ru
 777.60e533569.ru
+777.o679975.ru
 777012.49o103159.ru
 777zxcvb.com
 77950.30u241207.ru
@@ -826,7 +852,9 @@
 90001.pro
 9009351534.myjino.ru
 9023.11u812580.ru
+9026.o303024.ru
 9031.99y401874.ru
+9031542.i733643.ru
 90551.prohoster.biz
 907.nmys-4.ru
 90t.rd-1-a-2.ru
@@ -851,6 +879,7 @@
 984.60e533569.ru
 989jsdbty.duckdns.org
 99.derl.ru
+9912043.o411213.ru
 9991321442.myjino.ru
 999andro.net
 999phone.su
@@ -2194,6 +2223,7 @@ arkinsons-treatment-15707.bond
 arlacretan.ru
 arlights.net
 arlons-std.com
+arm.qvik5.ru
 armandaolvarez.com
 armb.cc
 armeniyarsenov.pw
@@ -2326,6 +2356,7 @@ assessment-scores.gl.at.ply.gg
 assetacre.com
 assetgrowthgrid.xyz
 assetrental.co.uk
+assets.dmg-tech.com
 assetvisiondeck.xyz
 assetweekly.com
 assistline.com.tr
@@ -3989,6 +4020,7 @@ c7qv.te7ap.online
 c7uo.pohv3.ru
 c8.2mq4r.ru
 c8.526r.ru
+c8.5e8y8.ru
 c8.e41m.ru
 c8.p2a3p.ru
 c8.ryzuka.ru
@@ -5710,6 +5742,7 @@ design.intcomsync.com
 designerfashionlabels.co.uk
 designertotal.com
 desk.miamionly.com
+desktop.dmg-tech.com
 deskverifycontent.com
 desperate.website
 desperoz.myjino.ru
@@ -9201,6 +9234,7 @@ h.z687a.ru
 h1.0-c448.ru
 h1.06hm.ru
 h1.2mq4r.ru
+h1.5e8y8.ru
 h1.6n47.ru
 h1.802d.ru
 h1.9a-hd.ru
@@ -11159,6 +11193,7 @@ justritepharmacy.com
 justwer.site
 jutebags.tk
 jutrack.dp.ua
+juyu1.yifanyi.app
 jv.zzax-4.ru
 jv0.mw-9-y-4.ru
 jvc-terminalbonny.com
@@ -15591,6 +15626,7 @@ p.x.compuegypt.net
 p.x.myolt.my.id
 p0.212-q.ru
 p0.2mq4r.ru
+p0.5e8y8.ru
 p0.62xm.ru
 p0.8c80.ru
 p0.e41m.ru
@@ -18041,6 +18077,7 @@ rxe.526r.ru
 ry.phpa-3.ru
 ry.zelojue1.ru
 rybnowielkie-dzialki.pl
+rye.rqyp1.ru
 rygreentechrenewables.click
 ryiew.beget.tech
 ryobi-recruit.net
@@ -18064,6 +18101,7 @@ s.4cv6c.ru
 s.4xq2k.ru
 s.4y2o5.ru
 s.5e6a.ru
+s.5e8y8.ru
 s.802d.ru
 s.botsaresafu.com
 s.bowibo.ru
@@ -21892,6 +21930,7 @@ v2n.pi9yj.ru
 v2n.s80ye.ru
 v2n.x3u0s.ru
 v3.2mq4r.ru
+v3.5e8y8.ru
 v3.802d.ru
 v3.e41m.ru
 v3.p2a3p.ru
@@ -22085,6 +22124,7 @@ verygreatjourneyofthebabygirlwholivesfor.duckdns.org
 verynicejourencywithbetterbabygirloftheb.duckdns.org
 verysome.ml
 veryspec.live
+vet.npoj2.ru
 vetmen.no-ip.biz
 vetxiu.xyz
 veve.fun
