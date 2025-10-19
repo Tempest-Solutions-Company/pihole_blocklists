@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-19 13:39:10 UTC
-# Total domains: 24334
+# Generated: 2025-10-19 16:43:43 UTC
+# Total domains: 24373
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -47,6 +47,7 @@
 05b8.i554000.ru
 05c8.o411213.ru
 05q0h4x0-5500.euw.devtunnels.ms
+061.u521483.ru
 0615.i733643.ru
 0632.club
 06342.99y401874.ru
@@ -172,6 +173,7 @@
 15cn.ga
 16.mynq.ru
 160287.93i197934.ru
+160287.u521483.ru
 1687715624.inc
 1688dsj.com
 168wangpi.com
@@ -262,6 +264,7 @@
 211.ip.gl.ply.gg
 2152761d.langcdn.top
 219.93i197934.ru
+219.u521483.ru
 2208.165-227-83-163.site
 2209sep25.duckdns.org
 2215.08u073852.ru
@@ -469,6 +472,7 @@
 404.fav.al
 4047.club
 4084.93i197934.ru
+4084.u521483.ru
 41.13.voltexpressdelivery.com
 41.59.reliabletrustbank.com
 41002.31e854642.ru
@@ -744,6 +748,7 @@
 740.08u073852.ru
 740182.i733643.ru
 7436901.93i197934.ru
+7436901.u521483.ru
 74yanadh.duckdns.org
 75.bw-6-u-0.ru
 75.fkur-8.ru
@@ -827,6 +832,7 @@
 849n7the.info
 85.ndoq0.ru
 851.93i197934.ru
+851.u521483.ru
 85anos.com.br
 8622.vip
 8644.club
@@ -902,6 +908,7 @@
 927.ynbr-8.ru
 9290106034.myjino.ru
 93055.93i197934.ru
+93055.u521483.ru
 932.wir-2.ru
 93521.net
 93cc.vip
@@ -1334,6 +1341,7 @@ adamdk12-53145.portmap.host
 adamlikes.com
 adasamusic.com
 adcarapicuiba.org.br
+add.bkud4.ru
 add.homohay31.ru
 addfriend.kr
 addhun.ml
@@ -1516,6 +1524,7 @@ agannochka228.siteme.org
 agapehomecare.net
 agbasky.com
 age-restriction.gl.at.ply.gg
+age.bkud4.ru
 age.jrih5.ru
 ageertsma.nl
 agemiel.com
@@ -2261,6 +2270,7 @@ arkinsons-treatment-15707.bond
 arlacretan.ru
 arlights.net
 arlons-std.com
+arm.kduk8.ru
 arm.qvik5.ru
 armandaolvarez.com
 armb.cc
@@ -2364,6 +2374,7 @@ asinat.com
 asissolartech.com
 asitech.info
 ask.xonulee9.ru
+ask4it.hxit8.ru
 askchyariwaraph.pw
 askdolly.today
 askfor.kl.com.ua
@@ -2836,11 +2847,13 @@ backofficemail3.com
 backsth.pics
 bacteriopsonin.shop
 bad-dragoon.flowadvertising.ro
+bad.wtes4.ru
 badan-drc-tusabv.info
 badboys.net.in
 badgerlandshops.com
 badiahmuriithiwachira.cfd
 badihardware.in
+bag.ckon0.ru
 baghhs.com
 bagmar.com
 bagnomi.ru
@@ -2894,6 +2907,7 @@ bangkokdry.com
 banglikecrazy.com
 banigerz.com
 banihasyim.com
+banit.rkuc9.ru
 banizeusz.com
 bank-auth.org
 bank-danny.gl.at.ply.gg
@@ -3049,6 +3063,7 @@ be.devy-3.ru
 be.kmbo6.ru
 be.vxof.ru
 be.xxx-2-u.ru
+be1.ngiz5.ru
 beak.nu
 beam.wir2.ru
 beamlit.ga
@@ -3083,6 +3098,7 @@ bedavaligtvizle.bl.ee
 bedeessee.com
 bedfordbearshockey.com
 bee.midorilashes.net
+bee.wtes4.ru
 beechholdings.co.uk
 beeder.club
 beef.pot5.ru
@@ -3407,6 +3423,7 @@ blacknet.riskpi.xyz
 blackpirate.site90.com
 blackrz.shop
 blacksmithsoftware.net
+blackstar.bid5.ru
 blacksu.top
 blackyywire.ddns.net
 bladekaswari77.vip
@@ -3927,6 +3944,7 @@ bx.t4a4.ru
 bxnopdkka.com
 bxqvcimgcaepkubgi.com
 by-matrakx.myjino.ru
+by.kvus7.ru
 by.pejy1.ru
 by.xzb6i.ru
 by1337.000webhostapp.com
@@ -5417,6 +5435,7 @@ daciw98636-36752.portmap.host
 dackdack.online
 daconstructions-ksa.com
 dactarhome.com
+dad.kpyb0.ru
 dad9idois-24522.portmap.host
 dad9idois-51319.portmap.host
 dada.grantflaskparty.com
@@ -5733,6 +5752,7 @@ demlogz2014.co.in
 demnjyx.top
 demo-ztxhfeoqql.cn-hangzhou.fcapp.run
 demo.shop.plex.name
+den.kpyb0.ru
 deneme1.url.ph
 denimmi.qpon
 deniska4091.offhst.ru
@@ -5920,6 +5940,7 @@ dikiy.rest
 dikiy.uno
 dikor-tr.ir
 dilinger.ga
+dim.bid5.ru
 dima-pidor.gq
 dimar.cl
 dimemilk.xyz
@@ -5934,6 +5955,7 @@ dino1.ddf.al
 dinosowers.ru
 diores.myjino.ru
 diosdelared.com.mx
+dip.hxit8.ru
 dip.net-0-prosa.ru
 diplomatgroup.org
 diplomaticcourier.net
@@ -6843,6 +6865,7 @@ encibmo.top
 enclassicals.com
 encryptingdata.info
 encryptup.com
+end.ngiz5.ru
 endaepd.top
 endercicek.com
 endnra.ru
@@ -9198,6 +9221,7 @@ gulfclouds.site
 gulflinecargointernational.com
 gullio212y.ddns.net
 gullysidecu.club
+gun4.kpyb0.ru
 guncel-tv-player-lnat.com
 gungangfam.com
 guniches.net
@@ -9277,6 +9301,7 @@ h.w2r1k.ru
 h.x38ii.ru
 h.z-72.ru
 h.z687a.ru
+h0p.ckon0.ru
 h1.0-c448.ru
 h1.06hm.ru
 h1.2mq4r.ru
@@ -9631,6 +9656,7 @@ helpwud.top
 helpxir.top
 helpyourneighbors.org
 helwan.con-ip.com
+hen.kvus7.ru
 hen.saintgroup-inc.com
 henextpiece.app
 henkok.h2m.ru
@@ -9744,6 +9770,7 @@ hinecrest.shop
 hinenreb.com
 hineontherapies.net
 hingexr.bet
+hip.kduk8.ru
 hiphopsouth.com.ng
 hipicanashville.com.br
 hippopotamusyou.site
@@ -11673,6 +11700,7 @@ keylessgorepeaters.com
 keylogbenjamin.000webhostapp.com
 keys2023.duckdns.org
 keytds.ru
+keyz.hxit8.ru
 kf.bvuf2.ru
 kfc-online.tk
 kfistudios.cam
@@ -11769,6 +11797,7 @@ kisar.co.in
 kishanpatel.esy.es
 kisnatronalik.com
 kit-explosion.gl.at.ply.gg
+kit.rkuc9.ru
 kitchenraja.com
 kitchenraja.in
 kitepharma.info
@@ -12184,6 +12213,7 @@ la8204a3.justinstalledpanel.com
 la92ead5.justinstalledpanel.com
 laa7754f.justinstalledpanel.com
 lab.google-analytcis.com
+lab.rkuc9.ru
 lab77a46.justinstalledpanel.com
 label123.1.vg
 labiali.shop
@@ -12193,6 +12223,7 @@ laboreta.com
 labruneuh.com
 lacabnk.com
 lacasonadelcartero.cl
+lace.bid5.ru
 laceyanns.com
 lachcnf.shop
 lackheads-treatment-54469.bond
@@ -13439,6 +13470,7 @@ masterka.ga
 masterminder.in
 masvector.com
 mat-update.be
+mat.cpak0.ru
 matbin.com
 materials-plant.gl.at.ply.gg
 matexx-japan.com
@@ -14240,6 +14272,7 @@ my-webs.org
 my.f-05-t.ru
 my.frl0i.ru
 my.lulugiy2.ru
+my.ngiz5.ru
 my.paneltesla.net
 my.prli1.ru
 my.vwjy-7.ru
@@ -14388,6 +14421,7 @@ n0.su-08.ru
 n0.w-52a.ru
 n0.x-12o.ru
 n0c.rd-1-a-2.ru
+n0w.kduk8.ru
 n1.google-analytcis.com
 n18b7273u1j.in
 n1s8y0w.sip-9ta.ru
@@ -14575,6 +14609,7 @@ nesk.zzz.com.ua
 nest.luv6.ru
 nestealler.kl.com.ua
 nestorlmports.com
+net.ckon0.ru
 net.mcrypto.tech
 net.tatyziu58.ru
 net2110estcarina.com
@@ -14844,6 +14879,7 @@ no.v-96-g.ru
 no.xkqi8.ru
 no.xrhu-7.ru
 no1parnell.com
+no555.wtes4.ru
 noard.ru
 nobles-iq.com
 nobody7188.net16.net
@@ -15759,6 +15795,7 @@ paciorekradom.pl
 packetley.com
 paclficinsight.com
 pacshora.net
+pad.bkud4.ru
 paddymaddy.ddnsfree.com
 padrisosr25.dynuddns.com
 padyitoppon.ga
@@ -15854,6 +15891,7 @@ parliah.pics
 parodadoca.ru
 parothenda.com
 pars-science.ir
+parsec-47111.portmap.host
 parsgranite.ir
 parsleytire.bid
 part-time-job-14534.bond
@@ -20366,6 +20404,7 @@ tantekfurnaces.co.uk
 tantopercanta.net
 tanzen.su
 taodanquan.com
+tap.cpak0.ru
 tapasman.com.au
 tapkinoski.gdn.cp-tr-1.webhostbox.net
 taqwamedical.com
