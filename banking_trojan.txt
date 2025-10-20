@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-20 04:54:42 UTC
-# Total domains: 5981
+# Generated: 2025-10-20 11:00:21 UTC
+# Total domains: 5998
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -577,6 +577,7 @@ alrabie-ye.com
 altaheels.com
 altchannels.com
 alteck.shop
+alterauserforum.org
 alternativa123.ru
 alterstream.fi
 altitum.space
@@ -1218,6 +1219,7 @@ burohapopld.com
 burtleburtle.net
 businesforhome.com
 businessannually.com
+businesstalentgroup.com
 bustedbydaddy.com
 bustonbabes.com
 butanse.shop
@@ -1577,6 +1579,7 @@ colourkeys.digital
 combridge.org
 comfeey.com
 comfyupdate.org
+cominghomemag.com
 comixpo.com
 commandpad.io
 comouth.shop
@@ -1806,6 +1809,7 @@ darkvoid.icu
 darlina.com
 dashboard-salesforce.com
 datacloudgen.com
+datainsightautomation.com
 datapanel.icu
 datasaur.info
 datatechintel.com
@@ -1974,6 +1978,7 @@ dkkjs6.top
 dksu.top
 dl.aginjector.com
 dlucca.com
+dmtmag.com
 dna-do-gamer.com
 dncnglv.com
 dneero.com
@@ -2372,6 +2377,7 @@ feed99.com
 fefasa.hn
 feishux.top
 feltstood.net
+fenergo.com
 fengchijiasuqi.cn
 fengchijiasuqi.com
 fengchijsq.cn
@@ -3223,6 +3229,7 @@ innovationsteams.com
 inodly.com
 inphotography.store
 inputrreparnt.com
+insight.tech
 insplredthinking.group
 installationsoftware1.com
 installationupgrade6.com
@@ -3245,6 +3252,7 @@ internalcheckssso.com
 internet.box
 interviewed.no
 inthooz.com
+intoo.com
 intrepidinc.net
 investdirectinsurance.com
 investinkof.online
@@ -4079,6 +4087,7 @@ namalsk.online
 namfruitvn.site
 nanashopromania.com
 nanophone.store
+nanotempertech.com
 nansenpro.com
 napsathletik.com
 narsinga.com
@@ -4721,6 +4730,7 @@ rehab.shop
 rehlatalkhaleej.com
 reidnfilescloud.com
 release.id
+releases.ph
 relojeriatempus.shop
 relysudden.com
 remnantwarrior.org
@@ -4901,6 +4911,7 @@ scribeemr.com
 scripturesksa.com
 scrub-wow.ca
 sdvg-impuls.ru
+sdvis.org
 seafoods.today
 seagtivity.org
 seanmare.photos
@@ -5011,6 +5022,8 @@ signauxun.com
 signin-okta.com
 signoflife.com
 signzilla.com
+sigopt.com
+sigopt.org
 siliconvalleyjazz.com
 silk-road-auckland.shop
 silkinsurance.com
@@ -5188,6 +5201,7 @@ stockinvestlab.net
 stoladraper.com
 stopclickinglinks.com
 stopnews.online
+storageclassmemory.org
 storekom.com
 stormlegue.com
 storyplanai.com
@@ -5331,6 +5345,7 @@ tescomall.store
 teslalightshows.store
 tesorotucson.com
 test2-insiteseco.com
+testaicorp.com
 tevokaxol.com
 texasholdemllc.com
 tfcfnls.com
@@ -5346,6 +5361,7 @@ thecaticake.online
 thecljexperience.com
 thecrate.us
 theeasternmart.com
+theeventplannerexpo.com
 thefatherhoodwing.space
 thefoad.com
 thegamemasters.nl
@@ -5559,6 +5575,7 @@ unitedfamily.org
 unitedfrom.com
 unitnetwork.xyz
 unity1.store
+universalscalablefirmware.org
 unlimitedmedia.online
 unougn.com
 unrivaledsports.com

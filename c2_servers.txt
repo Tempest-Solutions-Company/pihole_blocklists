@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-20 04:54:42 UTC
-# Total domains: 24447
+# Generated: 2025-10-20 11:00:21 UTC
+# Total domains: 24486
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -20,6 +20,7 @@
 013nat.net
 02616secureserver.com
 028.11u812580.ru
+028.7i091.ru
 028.o303024.ru
 028xmz.com
 02a.mg-1-u-5.ru
@@ -38,6 +39,7 @@
 04137.60e533569.ru
 042newpanel.tk
 0482.54o477354.ru
+0482.5m9081.ru
 0482.i373582.ru
 04j.gc0o9.ru
 04j.zv-1-a-0.ru
@@ -59,6 +61,7 @@
 07.cv3a9.ru
 075229cm.nyash.es
 0789.y438414.ru
+07a9.7i091.ru
 07a9.o303024.ru
 07c9.31e854642.ru
 07f4acdef99b.ofalias.net
@@ -68,6 +71,7 @@
 080.i327147.ru
 08p.ckar4.ru
 092.vj4e5.ru
+0984.5h4553.ru
 0984.o679975.ru
 0adolfhitlerwashere.zapto.org
 0b.nybk.ru
@@ -116,6 +120,7 @@
 10.a3.bijakbuatduit.com
 100.0.194.35.bc.googleusercontent.com
 100587.11u812580.ru
+100587.7i091.ru
 100587.o303024.ru
 100stuff.site
 1012.165-227-83-163.site
@@ -143,6 +148,7 @@
 11n.us
 11stnft.click
 12.895628.xyz
+1205.5h4553.ru
 1205.60e533569.ru
 1205.o679975.ru
 1207.9e466.ru
@@ -182,6 +188,7 @@
 1688dsj.com
 168wangpi.com
 169.54o477354.ru
+169.5m9081.ru
 169.i373582.ru
 169nan-63274.portmap.host
 172-104-53-127.ip.linodeusercontent.com
@@ -189,6 +196,7 @@
 17s.dk9a6.ru
 1800propainter.com
 180264.30u241207.ru
+180264.8d9691.ru
 180264.i554000.ru
 183.123.235.35.bc.googleusercontent.com
 185-196-10-10.cprapid.com
@@ -255,6 +263,7 @@
 2.stasprlt.beget.tech
 2.vqod2.ru
 201.30u241207.ru
+201.8d9691.ru
 201.i554000.ru
 2014.donteezy007.com
 2015letsdoit.in
@@ -369,6 +378,7 @@
 321181-cx67463.tmweb.ru
 324-23-32432.com
 324.54o477354.ru
+324.5m9081.ru
 324.i373582.ru
 326879-cd01801.tmweb.ru
 33.bb3y5.ru
@@ -388,6 +398,7 @@
 345688776.com
 346211-cw53847.tmweb.ru
 34972.11u812580.ru
+34972.7i091.ru
 34972.o303024.ru
 3499013.99y401874.ru
 34a.vip
@@ -484,6 +495,7 @@
 41002.31e854642.ru
 41002.y438414.ru
 4121.tv
+4137.5h4553.ru
 4137.o679975.ru
 41i.rd-1-a-2.ru
 428.ckyq-9.ru
@@ -498,6 +510,7 @@
 4455667778.com
 445566889900.com
 45-76-47-204.plesk.page
+45019.5h4553.ru
 45019.60e533569.ru
 45019.o679975.ru
 454545663.com
@@ -566,6 +579,7 @@
 4y4.fp-0-y-9.ru
 5.wugh.ru
 50.aclz-9.ru
+5002201.5h4553.ru
 5002201.60e533569.ru
 5002201.o679975.ru
 500aevolam.com
@@ -584,6 +598,7 @@
 54.jk3y7.ru
 5404.a.hostable.me
 55027.54o477354.ru
+55027.5m9081.ru
 55027.i373582.ru
 55501.top
 55566785677.com
@@ -649,6 +664,7 @@
 60.fkur-8.ru
 60012.08u073852.ru
 6003.30u241207.ru
+6003.8d9691.ru
 6003.i554000.ru
 61.yffl-9.ru
 610294.37i658094.ru
@@ -656,6 +672,7 @@
 6119.com.cn
 615162.freedomandchance.digital
 61g.rv-2-o-5.ru
+620714.5h4553.ru
 620714.60e533569.ru
 620714.o679975.ru
 6237871.vip
@@ -740,12 +757,14 @@
 70018.4y328.ru
 70018.o411213.ru
 7001845.54o477354.ru
+7001845.5m9081.ru
 7001845.i373582.ru
 706391.31e854642.ru
 706391.y438414.ru
 70zv5n4wj.localto.net
 712.cv-3-a-9.ru
 7123001.30u241207.ru
+7123001.8d9691.ru
 7123001.i554000.ru
 719.4y328.ru
 719.99y401874.ru
@@ -768,18 +787,21 @@
 75jng75ufnf.ru
 7648419.vip
 7652190.11u812580.ru
+7652190.7i091.ru
 7652190.o303024.ru
 76aviacraft.sbs
 76z-z.info
 77-matraca777.win
 77.blyp-9.ru
 773.bb-3-y-5.ru
+777.5h4553.ru
 777.60e533569.ru
 777.o679975.ru
 777012.49o103159.ru
 777012.u069653.ru
 777zxcvb.com
 77950.30u241207.ru
+77950.8d9691.ru
 77950.i554000.ru
 782345698752364.site
 786autobodyrepai.co.za
@@ -835,6 +857,7 @@
 82875.mobi
 82crew.hostei.com
 8321.54o477354.ru
+8321.5m9081.ru
 8321.i373582.ru
 837.bw-6-u-0.ru
 8427.49o103159.ru
@@ -906,6 +929,7 @@
 90001.pro
 9009351534.myjino.ru
 9023.11u812580.ru
+9026.7i091.ru
 9026.o303024.ru
 9031.99y401874.ru
 9031542.9e466.ru
@@ -914,6 +938,7 @@
 907.nmys-4.ru
 90t.rd-1-a-2.ru
 913560.54o477354.ru
+913c50.5m9081.ru
 913c50.i373582.ru
 918274.08u073852.ru
 91ruitue.com
@@ -931,6 +956,7 @@
 95.ls-2-a-9.ru
 956.ceo
 964.30u241207.ru
+964.8d9691.ru
 964.i554000.ru
 971.ykgw-2.ru
 97nb.net
@@ -1390,6 +1416,7 @@ admin-owa.tk
 admin.foa.ae
 admin.jhaexpress.com
 admin.mediachakra.com
+admin.mythic.shopify.io
 admin15a.com
 admindepartment.ir
 admindocmarkens.us
@@ -2145,6 +2172,7 @@ apexlogisticscompany.com
 apextherapyservices.ca
 api.chimera-hosting.zip
 api.formall.org
+api.melonity.gg
 api.rootvk.messager.my
 api.shipensburginvestmentgroup.com
 api.signatureofdocs.cfd
@@ -3422,6 +3450,7 @@ bkstrdljs.com
 bkwriting.com
 bl.f8t6m.ru
 bl.g6i2.ru
+bla.backloghelme.digital
 blaackjack.com
 blablatrain.xyz
 black.br22.net
@@ -4365,8 +4394,10 @@ cdh.lypelya2.ru
 cdkfactory.com
 cdn-googlemanager.com
 cdn.barracudasec.com
+cdn.italian-ips.com
 cdn.mailinfo.life
 cdn.messager.my
+cdn.myolt.my.id
 cdn.zhuqiy.top
 cdndz.messager.my
 cdnpoint.guru
@@ -11168,6 +11199,7 @@ jollipa.net
 jomegi9539-58684.portmap.host
 jomla.cygni.com.br
 jomo.in.ua
+jonathanglynnphoto.com
 joneroa1.ru
 joniik.club
 jonny21.no-ip.biz
@@ -18153,6 +18185,8 @@ rt.andreeacomansinger.com
 rt.lobd.ru
 rt.realassetsrealtors.com
 rt.tygilyo.ru
+rtx.anditech.my.id
+rtx.kaizensamawati.com
 rtx.shipensburginvestmentgroup.com
 ru.nzki-7.ru
 ru6.orz.us
@@ -19967,6 +20001,7 @@ studentscompanion.in
 studio020.com
 studio441.com
 studio69.co.id
+studiojordanphoto.com
 studioraygun.co.uk
 studygrowknow.com
 stupide.qpon
@@ -21108,6 +21143,7 @@ town-minor.gl.at.ply.gg
 townnoise.xyz
 townsenderel.com
 toxhoster.net
+toxi-34642.portmap.io
 toyo-at-jp.info
 toyotaglobal.org
 toys-officers.gl.at.ply.gg
@@ -21480,6 +21516,7 @@ typhondesktop.io
 typifdl.top
 typingone.xyz
 typrat.club
+tytbit.ru
 tytoldran.win
 tywebbing.ml
 tz.vikidii.ru
@@ -22091,6 +22128,7 @@ v2.w-70a.ru
 v2.x-57u.ru
 v2.x-7daf.ru
 v2.x12uy.ru
+v2.xoilaczzzcz.tv
 v2.xzb-6-i.ru
 v2.z-48y.ru
 v2.zk5e7.ru
@@ -22114,6 +22152,7 @@ v3.ryzuka.ru
 v3.s91ii.ru
 v3.w5j7z0.ru
 v3.wagoda.ru
+v3.xoilaczzzcz.tv
 v30.ldef-4.ru
 v308875.hosted-by-vdsina.ru
 v320560.hosted-by-vdsina.ru
