@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-20 01:50:04 UTC
-# Total domains: 24411
+# Generated: 2025-10-20 04:54:42 UTC
+# Total domains: 24447
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -27,6 +27,7 @@
 03.obvp2.ru
 03452.49o103159.ru
 034d2.u069653.ru
+035.4y328.ru
 035.o411213.ru
 03a6b7a.netsolhost.com
 03a6f57.netsolhost.com
@@ -45,9 +46,11 @@
 05a9.08u073852.ru
 05b8.30u241207.ru
 05b8.i554000.ru
+05c8.4y328.ru
 05c8.o411213.ru
 05q0h4x0-5500.euw.devtunnels.ms
 061.u521483.ru
+0615.9e466.ru
 0615.i733643.ru
 0632.club
 06342.99y401874.ru
@@ -142,6 +145,7 @@
 12.895628.xyz
 1205.60e533569.ru
 1205.o679975.ru
+1207.9e466.ru
 1207.i733643.ru
 120984.99y401874.ru
 1209forward1209.dns.army
@@ -289,6 +293,7 @@
 2511463.top
 254-badaimaxwin.sbs
 25cha.top
+260941.4y328.ru
 260941.o411213.ru
 263rdasd.com
 2675.click
@@ -407,6 +412,7 @@
 37882.www7.site
 380x.vip
 3821305pnceos328.xyz
+384.9e466.ru
 384.i733643.ru
 38696.legal
 38bitcoin.info
@@ -481,10 +487,12 @@
 4137.o679975.ru
 41i.rd-1-a-2.ru
 428.ckyq-9.ru
+42a5.9e466.ru
 42a5.i733643.ru
 43.tvil0.ru
 430development.com
 431.11u812580.ru
+431.7i091.ru
 431.o303024.ru
 43mouvie.co
 4455667778.com
@@ -502,6 +510,7 @@
 47eringov.ru
 4802jkshdp.duckdns.org
 482.99y401874.ru
+4823.4y328.ru
 4823.o411213.ru
 48o.qute3.ru
 4920.37i658094.ru
@@ -581,6 +590,7 @@
 555host.ddns.net
 55728.99y401874.ru
 56.fkur-8.ru
+56039.9e466.ru
 56039.i733643.ru
 568yn.top
 56cha.top
@@ -727,6 +737,7 @@
 70.4.voltexpressdelivery.com
 70.fk-9-e-2.ru
 70.xbiq2.ru
+70018.4y328.ru
 70018.o411213.ru
 7001845.54o477354.ru
 7001845.i373582.ru
@@ -736,6 +747,7 @@
 712.cv-3-a-9.ru
 7123001.30u241207.ru
 7123001.i554000.ru
+719.4y328.ru
 719.99y401874.ru
 719.o411213.ru
 72563.37i658094.ru
@@ -746,6 +758,7 @@
 73uhd7893hn23cvshdscw.con-ip.com
 74-48-140-110.nip.io
 740.08u073852.ru
+740182.9e466.ru
 740182.i733643.ru
 7436901.93i197934.ru
 7436901.u521483.ru
@@ -895,6 +908,7 @@
 9023.11u812580.ru
 9026.o303024.ru
 9031.99y401874.ru
+9031542.9e466.ru
 9031542.i733643.ru
 90551.prohoster.biz
 907.nmys-4.ru
@@ -924,6 +938,7 @@
 984.60e533569.ru
 989jsdbty.duckdns.org
 99.derl.ru
+9912043.4y328.ru
 9912043.o411213.ru
 9991321442.myjino.ru
 999andro.net
@@ -1309,6 +1324,7 @@ acruzmuzdexuz.net
 acsbaroda.com
 acsmaterialstesting.com
 acstyles.com
+act.cpak0.ru
 actcuavh.top
 actdhaka.com
 actedsda.cfd
@@ -2990,6 +3006,7 @@ bawsymoney.ga
 bawtrycarbons.com
 baxarex228.xyz
 baxinyo.000webhostapp.com
+bay.kvus7.ru
 bayazitsigorta.com
 baybaytolie.com
 baycord.ga
@@ -4221,6 +4238,7 @@ capty.nut.cc
 car-aug.gl.at.ply.gg
 car-dealerships-5002.zone
 car.gdyl-2.ru
+car.kduk8.ru
 caracaswebhost.com
 card-myers.gl.at.ply.gg
 cardingmaster.com
@@ -5602,6 +5620,7 @@ dawr1.cyberpros.site
 dawsswsh.shop
 daxex.pro
 day.jytoceo30.ru
+day.kpyb0.ru
 day.sacyzie58.ru
 day.sypyguu85.ru
 day.tydubyo66.ru
@@ -5930,6 +5949,7 @@ dietz-mobel.ro
 diferreirabarbershop.com.br
 different-walt.gl.at.ply.gg
 diffuseddesign.com
+dig.ckon0.ru
 digha.tv
 digi-sec.top
 digifriendste.com
@@ -6671,6 +6691,7 @@ egbglobal.com
 ege-sel.com
 egementekstil.com
 egendrider598.top
+egg.kpyb0.ru
 eggscoach.info
 egi0of8.duckdns.org
 ego2much.com
@@ -7980,6 +8001,7 @@ fiu-eu.org
 fivadm.sbs
 fivehundred.work
 fix-project.com
+fix.rkuc9.ru
 fix2.altervista.org
 fixatmu.pics
 fixclomyfodp.cloud
@@ -8566,6 +8588,7 @@ gangonv1.beget.tech
 ganhedwakar.tk
 gansroroyfgdst.com
 ganstopliomalifas.com
+gap.kduk8.ru
 gap.rqyp1.ru
 gapegfikleiret.net
 garex.xyz
@@ -10505,6 +10528,7 @@ iniosmiaw.pw
 injprivateserver.ru
 injurek.top
 ink-approval.com
+ink.hxit8.ru
 inkseed.info
 inlandbeardeddragons.com
 inn.jrih5.ru
@@ -12631,6 +12655,7 @@ linuxdeals.ru
 lio.vbep3.ru
 lion.web2.0campus.net
 lionltd.pw
+lip.kvus7.ru
 lipafru.top
 lipairfoods.com
 lipetskrulit.com
@@ -13009,6 +13034,7 @@ m.wnkc.ru
 m.zo1ah.ru
 m0.kd-50.ru
 m0.nybh.ru
+m0ma.ngiz5.ru
 m0nst3r.eu
 m0yl.te7ap.online
 m1.hl-5-a-6.ru
@@ -13765,6 +13791,7 @@ mhzvwn.xyz
 mi.bvuf2.ru
 mi.gug7.ru
 mi.kenal-cn.com
+mi.limpingbronco.com
 mi.phpa3.ru
 mi.tvti-0.ru
 mi.wduh8.ru
@@ -14221,6 +14248,7 @@ mu.vwjy-7.ru
 muatay.live
 muazymaur.tk
 mubashar786.com
+mud.wtes4.ru
 mudanzasfacilghh.com
 mudwetandbeers.com
 mugbool.bet
@@ -15223,6 +15251,7 @@ oesoblear.pro
 of.nxys.ru
 of.xrxo-2.ru
 of2.qute-3.ru
+of33333.ckon0.ru
 of66.com
 ofanele.com
 off-system.com.nu
@@ -16243,6 +16272,7 @@ pimples.tk
 pimplord.com
 pimpword.in
 pin.cewyzui61.ru
+pin.rkuc9.ru
 pine.luv6.ru
 pinescop.top
 pinglessmetin2.com
@@ -18608,6 +18638,7 @@ se.phpa-3.ru
 se.vj4e5.ru
 sea.1a2e6.ru
 sea.badejie69.ru
+sea.bkud4.ru
 sea.dihijio22.ru
 sea.gytogii12.ru
 sea.homohay31.ru
@@ -19027,6 +19058,7 @@ shumakadeenm.biz
 shwepaukkan.org
 shy.dk-9-a-6.ru
 shy.vudujiu33.ru
+shy.wtes4.ru
 shyda6317.club
 shyh-tw.com
 shzlive.top
@@ -19158,6 +19190,7 @@ sites.y0urn3wb0ss.com
 sitodicortesia.com
 sitwithheprop.ru
 six.jrih5.ru
+six.ngiz5.ru
 sixpacksbnonye.eu
 siyaghasourccing.com
 sizelabs.xyz
@@ -20507,6 +20540,7 @@ te.gunim5yi8.ru
 te.migyvya2.ru
 te.pvzi-1.ru
 te.x73r.ru
+tea.bkud4.ru
 teachingbutter.info
 teamathos.free.fr
 teamferrer.net
@@ -20887,6 +20921,7 @@ tinynuke.kimba.website
 tioq.ga
 tip.aztu.edu.az
 tip.konebras.com.br
+tip.ngiz5.ru
 tipsept.ydns.eu
 tiptop1.info
 tirat1ck-28292.portmap.host
@@ -21878,6 +21913,7 @@ usapony.web44.net
 usarmyvacations.info
 usb-macedonia.gl.at.ply.gg
 usb-occasionally.gl.at.ply.gg
+use.cpak0.ru
 used-peaked-car.biz
 user0001.duckdns.org
 user2332.royal-hosting.ru
