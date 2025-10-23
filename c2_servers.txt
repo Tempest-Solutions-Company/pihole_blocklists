@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-23 18:14:08 UTC
-# Total domains: 30422
+# Generated: 2025-10-24 00:20:35 UTC
+# Total domains: 30475
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -95,6 +95,7 @@
 0e.hnaq6.ru
 0f.padj.ru
 0f.sj5o5.ru
+0i.a-zon.ru
 0jd.qj-4-y-4.ru
 0jd.xr6u9.ru
 0jz.mcej9.ru
@@ -286,6 +287,7 @@
 1w.s61y5.ru
 1w.yffl9.ru
 1w2.ynbr-8.ru
+1y.fe-k2.ru
 1z3.ss-9-y-4.ru
 2.kunb.ru
 2.s61y5.ru
@@ -375,6 +377,7 @@
 2magicalmage.zapto.org
 2n0.qh1a5.ru
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com
+2o.b2ra.ru
 2oy.ldef-4.ru
 2pb.mt3o4.ru
 2q.fid1.ru
@@ -704,6 +707,7 @@
 5mcars.io
 5n.97qm.ru
 5n.d55u5.ru
+5n.kaq51.ru
 5n.kqag-6.ru
 5o.jk-3-y-7.ru
 5pc.jt4o0.ru
@@ -1013,6 +1017,7 @@
 8sl.pf-4-i-2.ru
 8u2.7-gb.ru
 8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com
+8w.d5en.ru
 8x4.aclz-9.ru
 8y.kqag-6.ru
 9.9.jami.bio
@@ -1053,6 +1058,7 @@
 94mbw.top
 95.ls-2-a-9.ru
 956.ceo
+96.j8ro.ru
 964.30u241207.ru
 964.8d9691.ru
 964.i554000.ru
@@ -1545,6 +1551,7 @@ accountupdate.pw
 accqweqweazo.com
 accu.net
 accurapower.com
+ace.k4tem.online
 ace3.legendsbotnet.live
 aceinok.com
 acekca.net
@@ -2895,6 +2902,7 @@ asgmmoacqememywg.xyz
 asguacsqcaumsiqe.xyz
 asgwueyisogemysa.xyz
 asgyuskacueomkku.xyz
+ash.k4tem.online
 ash.web-d-n-45.ru
 ashdkjnvf.kl.com.ua
 ashevillesmica.com
@@ -3133,6 +3141,7 @@ auth.inmediavault.com
 auth.messager.my
 auth.mstoresabotaniud.site
 auth.newmmaintenanhomes.online
+auth.ricountyassoc.store
 auth.xinzyun.cn
 auth3.net
 authenticatesyahoostyle.info
@@ -3178,6 +3187,7 @@ av7.online
 avada-kedavra.pw
 availability-ks.gl.at.ply.gg
 availability-permalink.gl.at.ply.gg
+available-screw.gl.at.ply.gg
 availables2.com
 avalancheclub.ro
 avalonfootwears.com
@@ -3414,6 +3424,7 @@ b2z7r5k.ru
 b3.hl-5-a-6.ru
 b3.qeh5.ru
 b3.wuhp.ru
+b4.d5-en.ru
 b4m.cv-3-a-9.ru
 b4nksecur1tyserv1ce.com
 b4yn.mape-3.ru
@@ -3629,6 +3640,7 @@ bawsymoney.ga
 bawtrycarbons.com
 baxarex228.xyz
 baxinyo.000webhostapp.com
+bay.k4tem.online
 bay.kvus7.ru
 bayazitsigorta.com
 baybaytolie.com
@@ -4206,6 +4218,7 @@ bobypony.olympe.in
 bocaleader.com
 bodaciousevents.nl
 bodegaslopezmoernas.com
+body.vsmu9.ru
 bodylne.shop
 boec.ubksg.ru
 boeschboddenspies.com
@@ -4888,6 +4901,7 @@ canimcalzo.com
 cankardeslerklima.com
 cannabiscbg.shop
 cannujv.shop
+canonjo.asia
 cansupeker.com
 cantecme.xyz
 cantlemedical.com
@@ -5393,6 +5407,7 @@ cinarlastik.com.tr
 cineflash.tk
 cinemachicfilms.com
 cinnmfl.top
+cioud6.sys7yn0iy5.ru
 circleread-view.com.mocha2003.mochahost.com
 circuits-pro.biz
 cirwelh.top
@@ -6214,6 +6229,7 @@ csk.vietnamddns.com
 cso.burydyu0.ru
 csp.jocijyu.ru
 csp.mellor-engineering.cloud
+csp.newmmaintenanhomes.online
 csrausilidisabili.org
 cssalex.altervista.org
 cssime.com
@@ -6465,6 +6481,7 @@ cyn.netai.net
 cynagotceter.in
 cyndaepharma.com
 cynthiayfernando.com
+cypridy.asia
 cythisia-botdigz.azok.org
 cytochroma.org
 czechbigdata.cz
@@ -6892,6 +6909,7 @@ demo-ztxhfeoqql.cn-hangzhou.fcapp.run
 demo.shop.plex.name
 den.kpyb0.ru
 deneme1.url.ph
+denihwc.asia
 denimmi.qpon
 deniska4091.offhst.ru
 deniz-bank.asia
@@ -7438,6 +7456,7 @@ dreamgaming.zzz.com.ua
 dreamkey.ru
 dreamkr.com.ua
 dreamportalz.us
+dreams.sys7yn0iy5.ru
 dreamtoresult.com
 dreamtropical.altervista.org
 dreamworldhospitality.com
@@ -9198,6 +9217,7 @@ f6ud.nmys4.ru
 f6ue.4-5sq.ru
 f92155ve.beget.tech
 f9m0.7i091.online
+fa.jg7ra.ru
 fa.nqju5.ru
 fa.nyps.ru
 fa.xrly8.ru
@@ -10451,6 +10471,7 @@ gfpedromiguel.pt
 gfxapanbnqd4jhf.pw
 gfydwsbtvoypxuqk.onion
 gfyysdjdftm.com
+gg.3druv.ru
 gg.net.co
 gg.z15d.ru
 ggadmanhbb.com
@@ -12397,10 +12418,12 @@ icyyqgyycwkueusq.xyz
 icyywkmoouusqqmy.xyz
 id-4561.zapto.org
 id.dvn4i.ru
+id.grcuc.net
 id.madicoo3.ru
 id.newmmaintenanhomes.online
 id.nxno7.ru
 id.nyfc.ru
+id.othersepoxfrontier-win.cloud
 id.qvik5.ru
 id.rootvk.messager.my
 id.vhhe9.ru
@@ -12684,6 +12707,7 @@ incroqj.top
 inczujv.top
 indalusia.com
 indeego.com.tw
+indef.locker
 index.ht
 indexdoll.top
 indialifes.com
@@ -14367,6 +14391,7 @@ kgyyawcycyqeseie.xyz
 kgyymsccacmggeyc.xyz
 kh.z15d.ru
 khalifacpanel.com
+khamyp.asia
 khaotor.go.th
 khazarcement.ir
 khendra.fr
@@ -15434,6 +15459,7 @@ lifsnbu.qpon
 liftdug.ga
 liftupmyhead.biz
 light.vbep-3.ru
+light0.sys7yn0iy5.ru
 lighteniger.tech
 lights-craft.net
 lighttoolslog.com
@@ -16045,6 +16071,7 @@ m9.x3u0s.ru
 m9q.mt3o4.ru
 ma.andreicerbu.com
 ma.f-42-s.ru
+ma.fenod.ru
 ma.gulfscholarships.com
 ma.hqs9i.ru
 ma.nyfk.ru
@@ -17350,6 +17377,7 @@ msa-hlnet.net
 msasteelalloys.cc
 mscarbonltd.com
 msdos1982.ru
+msfed.othersepoxfrontier-win.cloud
 mshhmasvx.com
 msi.tail65a1e3.ts.net
 mskifyvnjgjlbe.com
@@ -18613,6 +18641,7 @@ office-112.com
 office-winemag.duckdns.org
 office-winemagbk.duckdns.org
 office.newmmaintenanhomes.online
+office.othersepoxfrontier-win.cloud
 office303.duckdns.org
 office365-account-verify.gq
 officefwd.ga
@@ -19079,6 +19108,7 @@ op-ice.comeze.com
 op-lottery.top
 op.fapigya6.ru
 op.koxulaa.ru
+op.lizqa.ru
 op.puwalyy6.ru
 op.pysywao.ru
 op.radinau.ru
@@ -19355,6 +19385,7 @@ outclickstds.com
 outfiqh.qpon
 outlook.al
 outlook.microsoft-account-security.com
+outlook.optumseragamaglas-ouns.cloud
 outreach.zone
 outskirtinc.uni.me
 outsystem.online
@@ -19814,6 +19845,7 @@ pe.vw0e1.ru
 peabi.ga
 peace1234.serveftp.com
 peace1retour.1x.biz
+peace7.sys7yn0iy5.ru
 peadarking.com
 pecfetc.com
 pecunia110011.at
@@ -20340,6 +20372,7 @@ powder.bodyweight666.com
 powdereddoughnut.com
 powent.net
 power-comments.gl.at.ply.gg
+power5.sys7yn0iy5.ru
 powerbrokermagazine.com
 poweringinfluence.com
 powermine.altervista.org
@@ -20774,6 +20807,7 @@ q1h.tvil-0.ru
 q1n.4xq2k.ru
 q1n.4y2o5.ru
 q1n.p3t9b3.ru
+q2.d5-en.ru
 q2.jod6.ru
 q2.k59ee.ru
 q2.ozxg-5.ru
@@ -21905,6 +21939,7 @@ referral-casino.club
 referralwx.com
 refloxty.com
 reformd.asia
+refowdr.asia
 refpa650078.pro
 refractoriesexperiencesrl-it.com
 refrech.duckdns.org
@@ -21965,6 +22000,7 @@ remote1.cf
 remote1.ga
 remote1.gq
 remote1.tk
+remote2.dmg-tech.com
 remove-limited-account.islamichost.org
 remproces.casacam.net
 remrer.eu
@@ -22018,6 +22054,7 @@ rest-tub.gl.at.ply.gg
 restaurant-do.gl.at.ply.gg
 restaurant-kids-working-naturally.trycloudflare.com
 restaurants-colonial.gl.at.ply.gg
+restaurants-hold.gl.at.ply.gg
 restedstream.com
 restoreairpowered.net
 restored.appleuserlock-pagescrty2019ere.fwaavenue.com
@@ -22150,6 +22187,7 @@ rka.qisytui.ru
 rka7q.fox-ab.ru
 rkada4608.buzz
 rkmbba.org
+rl.d5en.ru
 rl7bh.ru
 rm-energroup.info
 rm.h73n.ru
@@ -22487,6 +22525,7 @@ s1ob.llim8.ru
 s1oc.6-0sg.ru
 s1od.nowc8.ru
 s1vr.60e533569.online
+s2.b2ra.ru
 s20188101.onlinehome-server.info
 s2db432453e.com
 s2gj9tonn.localto.net
@@ -22806,6 +22845,7 @@ schtasks.com
 schuiopl.correola-com.top
 schwakf.pics
 schwingsteterindia.com
+sci.ricountyassoc.store
 sciamguiuuymcaqe.xyz
 scientificfertilisers.com
 scieoccwyccyuqsm.xyz
@@ -22864,6 +22904,7 @@ scquoacwkguogyau.xyz
 scqwymasocsiieoc.xyz
 scqyaquiywwweyyy.xyz
 scr.shirt.rip
+scratfx.asia
 screenconecctserv.giize.com
 screened.autoinsurecare.com
 screensshots.esy.es
@@ -23146,6 +23187,7 @@ serverddfd.7m.pl
 serverjainpangwang.pw
 servernet.xyz
 serverupp.club
+servgkp.asia
 service-76f05sx7-1313036808.bj.apigw.tencentcs.com
 service-advise.com
 service-checker.store
@@ -23783,6 +23825,7 @@ smtpforall.neocities.org
 smtress.zzz.com.ua
 smurfiki.pw
 sn.fhelp.top
+sn.hyk5.ru
 sn.ss-9-y-4.ru
 snackinginnovation.ai
 snaifre.sbs
@@ -24366,6 +24409,7 @@ stephenkellogg.com
 stephenlazar.com
 stepvss.qpon
 stepwxv.top
+sternbg.asia
 stevedw.pics
 stevenfromcoinbase.fk3.su
 stevennewpanel.herobo.com
@@ -24430,6 +24474,7 @@ stores-activists.gl.at.ply.gg
 storeyourbox.com
 storezfone.com
 storm.bvuf-2.ru
+storm1.sys7yn0iy5.ru
 stormcoming.com
 stormhost.co.za
 storms.tuful32io3.ru
@@ -24865,6 +24910,7 @@ sz8.xb4e7.ru
 szccf361.com
 szevargrows.com
 szh.saqehyo1.ru
+sziget.dupsiteszta.hu
 szo.ynbr-8.ru
 szonlline.net
 szwanglou.com
@@ -25028,6 +25074,7 @@ t5vo.kqag6.ru
 t5vp.0-1gc.ru
 t5vq.qihs8.ru
 t5y0.9z2503.ru
+t6.3druv.ru
 t6.81dm.ru
 t6bn.54o477354.online
 t6e1x9a.pits-burg-2-z.ru
@@ -25930,6 +25977,7 @@ treten.live
 tretthing.site
 trevorlee.com.ng
 trfordsworking.in
+trial-ask.gl.at.ply.gg
 trial-suppose.gl.at.ply.gg
 trianum.co.ke
 tribunitial-impulse.000webhostapp.com
@@ -25984,6 +26032,7 @@ trust1.co.za
 trustedfundcircle.xyz
 trustinstrument.com
 trustofgod.in
+truth3.sys7yn0iy5.ru
 truva2007.com.tr
 try.rkuc9.ru
 try.sjyj1.ru
@@ -27604,6 +27653,7 @@ vlmadisson.tk
 vloeren-venlo.nl
 vlojr.pw
 vm.cyzukae.ru
+vm.hyk5.ru
 vm.ykgw-2.ru
 vm0875678g52022.online
 vm1063460.had.tf
@@ -27790,6 +27840,7 @@ w1n.m4d8q9.ru
 w1n.u79p.ru
 w1sdom.us
 w2.5i0a.ru
+w2.a-zon.ru
 w2.kpyw-8.ru
 w2.nitrobuda.site
 w2.r46eu.ru
@@ -28451,6 +28502,7 @@ wmlsols.com
 wmu.xr-7-a-0.ru
 wmw.ls-2-a-9.ru
 wmzbase.ru
+wn.fe-k2.ru
 wn6do.top
 wnn.plig-5.ru
 wo-technologie.com
@@ -29111,6 +29163,7 @@ xhost-27542.portmap.host
 xhszjkzk.com
 xhxribeneigukhyeaxj.com
 xi.kfko-3.ru
+xi.sne4p.ru
 xi.txso-1.ru
 xi.z-99-l.ru
 xiamionline.com
