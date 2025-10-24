@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-24 01:21:46 UTC
-# Total domains: 6212
+# Generated: 2025-10-24 06:26:04 UTC
+# Total domains: 6213
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -412,6 +412,7 @@ ablebeen.net
 ablueiris.com
 about-sport.ru
 aboutalbertnguyen.com
+abscbnfoundation.org
 absnude.com
 absoluteaccommodation.com
 absoluteradioplayer.com
