@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-24 06:26:04 UTC
-# Total domains: 6213
+# Generated: 2025-10-24 12:35:35 UTC
+# Total domains: 6215
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3373,6 +3373,7 @@ internalcheckssso.com
 internet.box
 interviewed.no
 inthooz.com
+intlspring.com
 intoo.com
 intrepidinc.net
 investdirectinsurance.com
@@ -5344,6 +5345,7 @@ sso-company.com
 ssstik.online
 stadiumview.us
 staffordplaza.com
+staffvirtual.website
 stage.top
 stagelight.pl
 stakewise.lol
