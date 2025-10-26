@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-25 19:04:03 UTC
-# Total domains: 6215
+# Generated: 2025-10-26 01:09:20 UTC
+# Total domains: 6217
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1383,6 +1383,7 @@ castroclarkforever.com
 casualabaya.icu
 casualhookingup.com
 casualscollection.com
+category.info
 cbc-government.com
 cbdproductguys.com
 cbdsmokeshop.store
@@ -3702,6 +3703,7 @@ kwcgbnz.com
 kwgs.online
 kxhvyyfmwssbv.online
 kxjzmt.uy
+kychelp.live
 kylebarnett.com
 kylebarnett.dev
 kylebarnett.net
