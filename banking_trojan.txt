@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-26 12:16:05 UTC
-# Total domains: 6217
+# Generated: 2025-10-26 13:20:45 UTC
+# Total domains: 6219
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1455,6 +1455,7 @@ charter-boat-guide.com
 charteredarena.org
 chat-gpt.online
 chateaudeau.com
+chatgptitalia.net
 chatmigirl.online
 chatpipoca.net
 chazova.com
@@ -2695,6 +2696,7 @@ galyqaz.com
 gama239634.xyz
 gambinospizza.com
 gambpanda.online
+game.bb
 gamehost.cc
 gamelis.com
 gamepoint.ae
