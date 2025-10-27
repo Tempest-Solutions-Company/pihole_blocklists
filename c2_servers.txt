@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-27 12:38:20 UTC
-# Total domains: 31296
+# Generated: 2025-10-27 13:42:42 UTC
+# Total domains: 31336
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1716,6 +1716,7 @@ ad.c0h9w.ru
 ad.icab.pk
 ad.kokq.ru
 ad.messager.my
+ad.n4-ke.ru
 ad.q8e5.ru
 ad.sapeniu2.ru
 ad.t8g2w.ru
@@ -3364,6 +3365,7 @@ ax.cns-3-u.ru
 ax.khhu8.ru
 ax.r3l1x.ru
 ax.s3i1.ru
+ax.tr-8n.ru
 ax.trowy.ru
 ax.txso1.ru
 ax.v4h3t.ru
@@ -4160,6 +4162,7 @@ birazsiradan.zapto.org
 birchcompany.in
 bird-park.info
 bird.kidsworldgames.info
+bird.x-3-ri.ru
 birdhillps.co.kr
 birdseyelaramie.com
 birlaopenmindsnaubatpur.com
@@ -4743,6 +4746,7 @@ burimche.net
 burkeax.bet
 burkinafaso.duckdns.org
 buroodin.com
+bus.p2om.ru
 busgrab.ml
 busineslife1.com
 business-expired.gl.at.ply.gg
@@ -4752,6 +4756,7 @@ businessbreakfast.net
 businesspdf.net
 busstations.eu
 bustaguy.ml
+but.v3sa.ru
 but.vudujiu33.ru
 butcaketforthen.com
 butizio6.ru
@@ -4924,6 +4929,7 @@ c5.q8g1y.ru
 c5.r99ae.ru
 c5.y-45s.ru
 c5421.top
+c5r.3j5-y.ru
 c6.0y2i.ru
 c6.ko-lu.ru
 c7.0o-js.ru
@@ -5968,6 +5974,7 @@ coins.btcsfarm.com
 cokhiquangbien.com
 colakailedinlenmetesisi.com
 colbaservices.cf
+cold.x-3-ri.ru
 cold5.gofile.io
 coldalt.coldalt.com
 coldheaded.us
@@ -6777,6 +6784,7 @@ d4.hnaq6.ru
 d4.m1y8v.ru
 d4.wi7id.ru
 d4.z491l.ru
+d4pz.3j5-y.ru
 d4t.com.mx
 d5.5h4553.online
 d5.8a-mg.ru
@@ -7743,6 +7751,8 @@ drunk.5-forez-515-o.ru
 drunkpikachu.com
 druvan.xyz
 dry.ju5q.ru
+dry.la9q.ru
+dry.mi4x.ru
 dryice.net.tw
 dsdeees.ru
 dsdfgdfshfgh.ru
@@ -8239,6 +8249,8 @@ eh.jdho3.ru
 eh.jsuv0.ru
 eh.jwm3e.ru
 eh.mxta6.ru
+eh.pl-8a.ru
+eh.s4-ti.ru
 eh.tr-8n.ru
 eh.wzhy1.ru
 eh7pk.top
@@ -9833,6 +9845,7 @@ fionamcauslan.com
 fire.4y3e4.ru
 fire.8y7o4.ru
 fire.bvuf-2.ru
+fire.x-3-ri.ru
 firebladekld.myjino.ru
 fireblazecorrect.duckdns.org
 firecrypt.net
@@ -11112,6 +11125,7 @@ gokuu.club
 golaantsystem.xyz
 gold.nqyf-7.ru
 gold.vudujiu33.ru
+gold.x-3-ri.ru
 goldenalhaji.com
 goldenbhai.com
 goldeneggs.club
@@ -11758,6 +11772,7 @@ h2.w135v.ru
 h2dp.7-5xc.ru
 h2ds.moxt5.ru
 h2k.4y328.online
+h2k.7kf1u.ru
 h2k3.5bq18.ru
 h2mx.37i658094.online
 h2oarchitecture.com.au
@@ -12367,6 +12382,7 @@ home.ac.ug
 home.messager.my
 home.wofaraa29.ru
 home.wtt.ink
+home.x-3-ri.ru
 homedecks.com.au
 homedeco.com.bo
 homelab.omtoi101.com
@@ -14308,6 +14324,7 @@ k4nz.vbep-3.ru
 k4sm.9h-5y.ru
 k4w3.uht-3-o.ru
 k4zi.no-ip.org
+k5.8ss4e.ru
 k5.sj-5-o-5.ru
 k5aiodybloxdasom.com
 k6.pf4i2.ru
@@ -14350,6 +14367,7 @@ k8.wsit4.ru
 k8jv1m2.ru
 k8u.mt3o4.ru
 k8uh0-bfc.duckdns.org
+k8xn.3j5-y.ru
 k8zr.3-s0u.ru
 k9.2-j695.ru
 k9.3u1y.ru
@@ -18711,6 +18729,7 @@ no.prli1.ru
 no.q0spi.ru
 no.quladao75.ru
 no.v-96-g.ru
+no.vex-0.ru
 no.wi-7e.ru
 no.xkqi8.ru
 no.xrhu-7.ru
@@ -18879,6 +18898,7 @@ ntw-vveb.com
 ntwireds.com
 nu.fenod.ru
 nu.pvzi1.ru
+nu.qen-9.ru
 nu.xrhu-7.ru
 nucnlp.top
 nucsquaremall.ga
@@ -19200,6 +19220,7 @@ oh.fenod.ru
 oh.pvzi1.ru
 oh.qecufey7.ru
 oh.re-t0.ru
+oh.s2-ly.ru
 oh.xrxo-2.ru
 ohajaonha.in
 oheaven.oh.ohost.de
@@ -19757,6 +19778,7 @@ os.t65p.ru
 os.tfpe-6.ru
 os.tvoj5.ru
 os.twy0.ru
+os.x3-ri.ru
 osa-co.com
 osasmail.xyz
 oscaiwz.top
@@ -20067,6 +20089,7 @@ p0.s91ii.ru
 p0.t-pay3.ru
 p0.w5j7z0.ru
 p0.wagoda.ru
+p0a.8ss4e.ru
 p0la.cdn-6-38.ru
 p0qe.kpyw8.ru
 p0qf.3-2pd.ru
@@ -20219,6 +20242,7 @@ panhandlepros.com
 panorama-otel.ru
 panpos.ae
 pantamati.com
+pap.tov4.ru
 papafrog.beget.tech
 papaguy.pro
 paparendtea.com
@@ -20392,6 +20416,7 @@ pdz.rv2o5.ru
 pe.dgod.ru
 pe.dumx.ru
 pe.gunim5yi8.ru
+pe.r1v-x.ru
 pe.sqfe6.ru
 pe.tsqe-2.ru
 pe.vakun.ru
@@ -21623,6 +21648,7 @@ qi.ko-lu.ru
 qi.sqfe6.ru
 qi.svga3.ru
 qi.tsqe-2.ru
+qi.wi-7e.ru
 qick.icu
 qifokya5.ru
 qigong-zhen-pai.com
@@ -22203,6 +22229,7 @@ r0.ttx.proksen.com
 r00m.rjofi.online
 r02.sx-2-u-0.ru
 r0ce.i-d-96.ru
+r0lg.3j5-y.ru
 r0se.sne4p.online
 r0z1.5u5vbu6.ru
 r1.bpva0.ru
@@ -22406,6 +22433,7 @@ ratarataruono.pw
 ratefold.ga
 rathellaniggas-54052.portmap.host
 rating-amy.gl.at.ply.gg
+ratings-architects.gl.at.ply.gg
 ratnik123.zzz.com.ua
 ratpanel.5v.pl
 ratpanel.sourceforge.net
@@ -23863,6 +23891,7 @@ sery.ga
 sesecam.com
 sesimpson-judgehq.sbs
 sespipilmu.myjino.ru
+sessomania.com
 sestoreinv.com
 set.me2v.ru
 setandforgetwebsites.net
@@ -24654,6 +24683,7 @@ sophia-ct.com
 sophos-upd-srv.info
 sopito.website
 sopvps.hk
+sorbbolindo.no-ip.biz
 sorbiru.shop
 sorinnohoun.com
 sorolgoteveng.com
@@ -25779,6 +25809,7 @@ ta.qe3yn.ru
 ta.sxqy9.ru
 ta.vex-0.ru
 ta.wzhy-1.ru
+ta.xe-1r.ru
 ta.xyc0.ru
 taaz.vacau.com
 tab.ju5q.ru
@@ -26305,6 +26336,7 @@ tioq.ga
 tip.aztu.edu.az
 tip.konebras.com.br
 tip.ngiz5.ru
+tip.z3lu.ru
 tipsept.ydns.eu
 tipseptbk.ydns.eu
 tiptop1.info
@@ -26374,6 +26406,7 @@ tnuuu.com
 to.harekae65.ru
 to.jiky7.ru
 to.nylykuu40.ru
+to.p2-om.ru
 to.pobinei39.ru
 tobecome.website
 tobmojiol2adf.com
@@ -26969,6 +27002,7 @@ u2kh.54o477354.online
 u3.jt4o0.ru
 u3.x-05.ru
 u32513.netangels.ru
+u3qa.3j5-y.ru
 u3zpp2.top
 u4.shop
 u4.ykgw2.ru
@@ -27994,6 +28028,7 @@ v3.xoilaczzzgz.tv
 v30.ldef-4.ru
 v308875.hosted-by-vdsina.ru
 v320560.hosted-by-vdsina.ru
+v3n.2h7-o.ru
 v4.kd-50.ru
 v4.pav3.ru
 v4sz.08u073852.online
@@ -28007,6 +28042,7 @@ v6m2a.sip-9ta.ru
 v6yt.fkur8.ru
 v6yu.7-5xc.ru
 v6yv.moxt5.ru
+v7.7kf1u.ru
 v7b.rxir-9.ru
 v7mx.y-p-19.ru
 v7rpejh04.localto.net
@@ -30242,6 +30278,7 @@ y7.qoruva.ru
 y7.su6ak.ru
 y7.t408.ru
 y77avcek.beget.tech
+y7mf.3j5-y.ru
 y7n.c34uu.ru
 y7n.i50m.ru
 y7n.m9i5l.ru
@@ -30256,6 +30293,7 @@ y9028868.beget.tech
 y90311s2.beget.tech
 y93554zp.bget.ru
 y938428j.beget.tech
+ya.g-vox.ru
 ya.kfko-3.ru
 ya.nyfc.ru
 ya.to-qa.ru
@@ -30419,6 +30457,7 @@ ye.ky-4x.ru
 ye.n4-ke.ru
 ye.qen-9.ru
 ye.txso-1.ru
+ye.vex-0.ru
 ye.ze-lu.ru
 ye6cvdg.top
 year.cewyzui61.ru
@@ -31227,6 +31266,7 @@ zpa.bi3ux.ru
 zpowersbattery.com
 zq.kdit5.ru
 zq.nibulu.ru
+zq9.8ss4e.ru
 zquirtproom.pw
 zr.fjot.ru
 zr.velyzeu3.ru
