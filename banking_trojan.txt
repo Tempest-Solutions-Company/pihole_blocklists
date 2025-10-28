@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-28 14:05:15 UTC
-# Total domains: 6515
+# Generated: 2025-10-28 20:11:09 UTC
+# Total domains: 6516
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2977,6 +2977,7 @@ googelchrome.com
 googlachrome.com
 googlcchrome.com
 google-chn.com
+google-firebase.digital
 google-svip.com
 google-windows.com
 googleachrome.com
