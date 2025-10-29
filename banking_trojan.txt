@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-29 02:16:33 UTC
-# Total domains: 6516
+# Generated: 2025-10-29 08:22:18 UTC
+# Total domains: 6517
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3466,6 +3466,7 @@ ind-ikddps.cc
 ind-ikddps.online
 ind-ikddpzs.online
 ind-ikddpzz.online
+indebt-faturas.com
 independent-transport.com
 indextv.org
 indian19.com
