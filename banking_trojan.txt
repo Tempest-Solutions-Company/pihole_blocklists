@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-10-31 12:07:46 UTC
-# Total domains: 6517
+# Generated: 2025-10-31 15:11:55 UTC
+# Total domains: 6536
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -886,6 +886,11 @@ assurix.run
 astekz.com
 astromani.click
 asura-scans.online
+at-portal-das-financas.com
+at-portaldasfinancas-pt.com
+at-portaldasfinancas-pt.org
+at-portaldasfinancas.com
+at-portaldasfinancas.org
 atacadopopularofc.online
 athects.site
 athomelive.com
@@ -900,6 +905,7 @@ atonovat.run
 atorishation.icu
 atotax.icu
 atp2.top
+atportal-das-financas.com
 atsgen.com
 attendrvaschools.com
 attorneys-au-q.click
@@ -929,6 +935,13 @@ authtax.icu
 autoinsurancesaver.click
 automatywulkan.com
 autopsy.online
+autoridade-tributaria-gov.com
+autoridade-tributaria-pt.com
+autoridade-tributaria-pt.org
+autoridade-tributaria.com
+autoridade-tributaria.org
+autoridadetributaria-pt.org
+autoridadetributaria.org
 autoservismikacisin.com
 autotificate.com
 autotrackbest.online
@@ -2577,6 +2590,7 @@ fastfacts.co
 fastgames-bog-itl.com
 fastpayy-denizbank.com
 fastpool.xyz
+fat-doc-online.com
 fbcounselors.com
 fbetlixgee.eu
 fbpsikd.click
@@ -4856,6 +4870,11 @@ poppincorksbistro.com
 popsico.com
 pornformance.net
 pornovideos.video
+portal-das-financas-pt.com
+portal-das-financas-pt.org
+portaldasfinancas-at.com
+portaldasfinancas-pt.org
+portaldasfinancas.org
 portalonline-simplespgme.online
 portalreceitafazenda.com
 porterranchhomes.com

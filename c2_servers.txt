@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-10-31 12:07:46 UTC
-# Total domains: 32436
+# Generated: 2025-10-31 15:11:55 UTC
+# Total domains: 32516
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -437,6 +437,7 @@
 2t.n-jur.ru
 2tj.fp-0-y-9.ru
 2tx.kj-4-o-0.ru
+2v.ty9a.ru
 2vlc.l.time4vps.cloud
 2w.plx-5.ru
 2w1.527w.ru
@@ -643,6 +644,7 @@
 45019.o679975.ru
 454545663.com
 45b.rv-2-o-5.ru
+46.fa3y.ru
 46.kaq51.ru
 46.qh1a5.ru
 4615.net
@@ -915,6 +917,7 @@
 6fl.sj5o5.ru
 6fy7tg8y96f87tr.xyz
 6g.sd4o7.ru
+6h.fa3y.ru
 6h.gr-3-e-4.ru
 6hu.gl8r.ru
 6i4.ze9y.ru
@@ -949,6 +952,7 @@
 7.c70ye.ru
 7.nytk.ru
 70.4.voltexpressdelivery.com
+70.b9sa.ru
 70.fk-9-e-2.ru
 70.xbiq2.ru
 70018.4y328.ru
@@ -1158,6 +1162,7 @@
 8n5.xb-4-e-7.ru
 8o.obvp2.ru
 8q.r8li.ru
+8ql.n6ri.ru
 8r.kijx.ru
 8s.kj-4-o-0.ru
 8s3.s7li.ru
@@ -1263,6 +1268,7 @@
 9odzilla.xyz
 9r.gtus4.ru
 9ra2xnnm8v62x.cfc-execute.bj.baidubce.com
+9s.m2jo.ru
 9s.qcet8.ru
 9t.wsit-4.ru
 9t.xb4e7.ru
@@ -1291,8 +1297,10 @@ a.1vd-z.ru
 a.1wd2k.ru
 a.3e7u.ru
 a.4fg2n.ru
+a.6vwj8.ru
 a.7-fd.ru
 a.8g89.ru
+a.9-ck6.ru
 a.ahz-ya.ru
 a.bpva0.ru
 a.cgty8.ru
@@ -1358,6 +1366,7 @@ a0451952.xsph.ru
 a0455475.xsph.ru
 a0458390.xsph.ru
 a0461249.xsph.ru
+a0gqv.pe8d.online
 a1.246-b.ru
 a1.2f8-2.ru
 a1.4a7vci9.ru
@@ -3006,6 +3015,7 @@ ardasheveugeni.myjino.ru
 ardentem.com
 ardhpeb.top
 ardrop.dev
+are-fifteen.gl.at.ply.gg
 area.k4tem.ru
 area.xa-5-r.ru
 areablankserver.tk
@@ -3081,6 +3091,7 @@ artteaq.pics
 artwithanexplanation.ca
 artyintelligence.com
 artyislandrentals.net
+arusicucloud.es
 arvision.com.co
 arziiddos.altervista.org
 as.c8i0.ru
@@ -3592,6 +3603,7 @@ azurebrief.gleeze.com
 azurecomcdn.net
 b-cointrade.com
 b-invest.eu
+b.25qx7.ru
 b.4dl.icu
 b.4xq2k.ru
 b.4y2o5.ru
@@ -3731,6 +3743,7 @@ b5d.rjuq3.ru
 b5h.ykgw2.ru
 b5o.aclz-9.ru
 b5uk.fi7em.online
+b5yhr.pe8d.online
 b6dc.3-s0u.ru
 b6tj.11u812580.online
 b6v.pf-6-o-2.ru
@@ -3929,6 +3942,7 @@ baseits.com.br
 basekingsmentop.top
 basest-rooms.000webhostapp.com
 bashupload.com
+basic-fan.gl.at.ply.gg
 basilicd.com
 basinenstitusudernegi.com
 basis-appropriations.gl.at.ply.gg
@@ -5122,6 +5136,7 @@ c4hz.cdn-6-38.ru
 c4tt.nyqb0.ru
 c4tz.0-9pr.ru
 c4w.9i3mpa6.ru
+c4x3m.wi7o.online
 c5.1y-zt.ru
 c5.22jk.ru
 c5.3i6i4.ru
@@ -5193,6 +5208,7 @@ c7wp.1p-8s.ru
 c8.2mq4r.ru
 c8.526r.ru
 c8.5e8y8.ru
+c8.71290.ru
 c8.e41m.ru
 c8.imm-yi.ru
 c8.p2a3p.ru
@@ -7330,6 +7346,7 @@ dd.vuln5.ru
 dd00nnzkndd.net
 dd0s.xyz
 dd45646.win
+ddc.j3ve.ru
 ddclsmcc.eu
 ddeqsgsws.com
 ddgroupupdate.com
@@ -7685,6 +7702,7 @@ diskhub.ml
 dislip8o.beget.tech
 disloef.bet
 disluqd.top
+disnotavalidmeantocommunicatemkidlydothe.duckdns.org
 distantstat.com
 distributionguitar.xyz
 diuwdx.top
@@ -7782,6 +7800,7 @@ do.wzhy1.ru
 do.xudofiu02.ru
 do.xzb6i.ru
 do.z3-lu.ru
+do92r.t1va.online
 dobaserdo.com
 doblefotos.zonster.com
 doc.8thwonderclothing.co.uk
@@ -7919,6 +7938,7 @@ doskaevriakjoilo.com
 dot.aztu.edu.az
 dot.dor8y.online
 dot.margencymedia.com
+dot9-30205.portmap.host
 dotabaz.com
 dotai.hk
 dotcex.com
@@ -8550,6 +8570,7 @@ efrelectronics.com.br
 efsec.net
 eg.bxof.ru
 eg.unspokentinkling.digital
+eg.x3le.ru
 eg.z-99-l.ru
 egamcorps.ga
 egbglobal.com
@@ -9837,6 +9858,7 @@ f4l.tvil0.ru
 f4zh.zzax4.ru
 f4zi.jobt9.ru
 f4zj.6-3tm.ru
+f5bqh.sa3x.online
 f5rp.pitsburg-2z.ru
 f6.0bj3i.ru
 f6.6wou3.ru
@@ -10101,6 +10123,7 @@ ffshoreexecscrew.shop
 ffshoreexecshub.shop
 ffu.sd4o7.ru
 fg.r.ap-execcompliance.vu
+fg.ru6q.ru
 fg.rvox.ru
 fg7.tvoj5.ru
 fgfhfjfkfl.xyz
@@ -10738,6 +10761,7 @@ g.6i-xm.ru
 g.6i4u.ru
 g.6s95.ru
 g.9-k588.ru
+g.9715w.ru
 g.9b9-7.ru
 g.9zk8r.ru
 g.a-91p.ru
@@ -10790,6 +10814,7 @@ g0.zqof0.ru
 g00d.da-5-v.ru
 g00d.s7li.online
 g00d8y3.1.vg
+g0bn9.wi7o.online
 g0dday.cc
 g0ld.mab7o.online
 g0nq.desj1.ru
@@ -10953,6 +10978,7 @@ gatehub.site
 gatehub.tech
 gates.subgiare.vn
 gateway.speed-tech.info
+gatex.kallisti.uk.com
 gatex.xoilaczzzcz.tv
 gatex.xoilaczzzgz.tv
 gavs.info
@@ -12135,6 +12161,7 @@ h.pejy1.ru
 h.pymz.ru
 h.q463a.ru
 h.ri-04.ru
+h.t-nin.ru
 h.tqrjf.ru
 h.u-251.ru
 h.v-36u.ru
@@ -12156,6 +12183,7 @@ h1.2mq4r.ru
 h1.5e8y8.ru
 h1.6n47.ru
 h1.802d.ru
+h1.8oryn.ru
 h1.9a-hd.ru
 h1.ay-63.ru
 h1.byq3.ru
@@ -12208,6 +12236,7 @@ h2.owp-oo.ru
 h2.sa8yn.ru
 h2.vamuwe.ru
 h2.w135v.ru
+h2.xo3v.ru
 h27.mi7x.ru
 h2c.8ds98.ru
 h2dp.7-5xc.ru
@@ -12965,6 +12994,7 @@ hp.8-fr.ru
 hp.f42s.ru
 hpa.i4-27k.ru
 hpc.cfob-5.ru
+hpd.di5r.ru
 hpglmail.com
 hphshop.cz
 hpqr.qapyfyi0.ru
@@ -13702,6 +13732,7 @@ integria.com
 integritasca.com
 intekyapi.com.tr
 intelifin.com
+intelligencedns.duckdns.org
 intelphoto.iteach.com.ua
 intelz.duckdns.org
 interactiveresumebuilder.com
@@ -14196,6 +14227,7 @@ j1053066.myjino.ru
 j1053162.myjino.ru
 j1063616.myjino.ru
 j1073368.myjino.ru
+j1de9.re7x.online
 j1nxfyr3.su
 j2.sne-4-p.ru
 j2.stix-2.ru
@@ -14436,6 +14468,7 @@ jjjaya.zadc.ru
 jjken.be
 jk.bb3y5.ru
 jk.cadynue6.ru
+jk.q4zi.ru
 jk.ritenoo3.ru
 jkcadeiras.com.br
 jkdef8.ws
@@ -14912,10 +14945,12 @@ k8jv1m2.ru
 k8u.mt3o4.ru
 k8uh0-bfc.duckdns.org
 k8xn.3j5-y.ru
+k8zm4.je9t.online
 k8zr.3-s0u.ru
 k9.2-j695.ru
 k9.3u1y.ru
 k9.5u-zk.ru
+k9.6vwj8.ru
 k9.ae-18.ru
 k9.c70ye.ru
 k9.i-76t.ru
@@ -15657,6 +15692,7 @@ kolesnica.biz
 koletrezzo.ru
 koletrezzo22.ru
 kolini7c.beget.tech
+kolklokjkj.com
 komicalkalo-46737.portmap.host
 komidbx.top
 kommanderkakadu.bplaced.net
@@ -15693,6 +15729,7 @@ kovaliownik.siteme.org
 kowloonshadow.com
 kox.termofoc.gr
 koz.farmia.rs
+kp.se5m.ru
 kp.vbof.ru
 kp.z99l.ru
 kpbindustriel.com
@@ -16827,6 +16864,7 @@ loveyou.xcution.pw
 loveyouneed.pw
 lovin.us
 low-incl.gl.at.ply.gg
+lower-mem.gl.at.ply.gg
 lowi1.com
 loxomi.in.ua
 loxx.zzz.com.ua
@@ -16920,6 +16958,7 @@ luzazai5.ru
 lv.gdyl2.ru
 lv.w30g.ru
 lv.we4ex.ru
+lvo.w1um.ru
 lvory7.7-doxok-46-eu.ru
 lvprocurement.com
 lvu.xa4p.ru
@@ -16948,6 +16987,7 @@ lz.obvp2.ru
 lzediamike.trade
 lzh.fr
 m-appsuite.com
+m.017fk.ru
 m.0vl3u.ru
 m.4aeaco0.ru
 m.4qua0.ru
@@ -17059,6 +17099,7 @@ m3ss4g3rtesla.com
 m3t.5u5vbu6.ru
 m3u4uarto.cf
 m3yc.3v-3y.ru
+m3yhu.t1va.online
 m3yl.9-1pv.ru
 m3zy.54o477354.online
 m4.hyk5.ru
@@ -17121,6 +17162,7 @@ m7.r219i.ru
 m7.rwzqh.ru
 m7.w-78i.ru
 m7.wy-72.ru
+m7dqw.je9t.online
 m7p.4md69.ru
 m7qc.1s-1n.ru
 m7y1.7aoasu3.ru
@@ -18903,6 +18945,7 @@ n24.lj3u5.ru
 n26a4ekqvqxd5fsq3k6bau7lrlikiczgnuny5v3vtgef4fw5gq24deyd.onion
 n2bv.2h7-o.ru
 n2ch.9ha-t.ru
+n2t8k.wi7o.online
 n3.1o6y4.ru
 n3.1vd-z.ru
 n3.1wd2k.ru
@@ -18941,6 +18984,7 @@ n4wq.xb1-60.ru
 n4y.v3ix.ru
 n4y2.4y328.online
 n5.7wh2n.ru
+n5.9715w.ru
 n5.a89b.ru
 n5.bupuva.ru
 n5.c2x0b1.ru
@@ -19472,6 +19516,7 @@ not-bloom.gl.at.ply.gg
 not-mountain.gl.at.ply.gg
 not-rosa.gl.at.ply.gg
 notchangeme.su
+note-road.gl.at.ply.gg
 note.coreicc.com
 notebanae.cyou
 notebanin.cyou
@@ -20744,6 +20789,7 @@ ozbekmaklne.com
 ozgurdusleranaokulu.com
 ozibiza.com
 ozkardekorasyon.com
+ozkeplancarpet.com
 ozo.microintegratedservice.com
 ozoba.shop
 ozoffky.shop
@@ -20763,6 +20809,7 @@ p.bvqu-7.ru
 p.c34uu.ru
 p.d.compuegypt.net
 p.d.myolt.my.id
+p.dl3zd.ru
 p.fttu6.ru
 p.goklobtogether.net
 p.henyta.ru
@@ -20788,6 +20835,7 @@ p0.212-q.ru
 p0.2mq4r.ru
 p0.5e8y8.ru
 p0.62xm.ru
+p0.71290.ru
 p0.8c80.ru
 p0.9i3mpa6.ru
 p0.e41m.ru
@@ -20836,6 +20884,7 @@ p5g1.78nsy6.ru
 p5k.xr6u9.ru
 p5ld.9ha-t.ru
 p5w0.7aoasu3.ru
+p5wz0.re7x.online
 p5yx.sun-7-k.ru
 p6.top
 p6nnjzgxl.localto.net
@@ -20847,6 +20896,7 @@ p7.l134.ru
 p7.ykgw2.ru
 p7e2x.mape-3.ru
 p7km.plig5.ru
+p7lrd.wi7o.online
 p7s5272.xyz
 p7vx.3-s0u.ru
 p7w2c9.vbep-3.ru
@@ -22162,6 +22212,7 @@ q0rd.jobt9.ru
 q0w9e3.sip-9ta.ru
 q1.0vs-r.ru
 q1.4qua0.ru
+q1.dl3zd.ru
 q1.if-p4.ru
 q1.top
 q1.w1um.ru
@@ -22234,6 +22285,7 @@ q7.yxb-au.ru
 q73.xr-7-a-0.ru
 q74722vp.beget.tech
 q77.zzax-4.ru
+q7fx.t1va.online
 q7hp.6-w0y.ru
 q7m.3jw5u.ru
 q7m.5bq18.ru
@@ -23028,6 +23080,7 @@ r1.pi9yj.ru
 r1.s80ye.ru
 r1.x3u0s.ru
 r1m.y3-68c.ru
+r1m3k.sa3x.online
 r1q.kot9.ru
 r1se.jg-7-ra.online
 r1se.sys7yn0iy5.online
@@ -23096,6 +23149,7 @@ r3k.068xaw.ru
 r3k.fa3y.ru
 r3v.v9542.ru
 r4h8.9z2503.ru
+r4mzt.t1va.online
 r4n.8y5o8a8.ru
 r4n.kat31o.ru
 r4n9.1lt22.ru
@@ -23806,6 +23860,7 @@ rozm12345678-28404.portmap.host
 rp.andreeamunteanu.com
 rp.jullianacalhau.com.br
 rp8.1ne-z.ru
+rp9a.je9t.online
 rpc2.gdn
 rpmnierals.com
 rq.fo1od.ru
@@ -23962,6 +24017,8 @@ s.4y2o5.ru
 s.5e6a.ru
 s.5e8y8.ru
 s.802d.ru
+s.8oryn.ru
+s.91-7l.ru
 s.botsaresafu.com
 s.bowibo.ru
 s.byq3.ru
@@ -24040,6 +24097,7 @@ s3.1z22k.ru
 s3.bvum-6.ru
 s3.zm6392.online
 s3nty.xhost.ro
+s3nzk.pe8d.online
 s3o-cnc.ddns.net
 s3osx.ddns.net
 s3ov8.ddns.net
@@ -24976,6 +25034,7 @@ sidecarsafaritours.com
 sides-water-70.myjino.ru
 sidivhe.top
 sieep4.res4ev7oy1.ru
+siegania.com
 siegelpigeons.com
 sieqwarteg.com
 sieqwartegtotolet.com
@@ -25323,6 +25382,7 @@ sluggtq.top
 slweb.xyz
 sm.rooderoofing.com.au
 sm.t65p.ru
+sm.ty9a.ru
 sm1ie.syc0aq8uy1.ru
 sm4.vototao9.ru
 smakristenpry.sch.id
@@ -26638,6 +26698,7 @@ t2.9i3mpa6.ru
 t2.mcyz4.ru
 t222.vip
 t2constructiontexas.com
+t2gh5.je9t.online
 t2jw.kynh0.ru
 t2m4.rv6324.online
 t2st.fav.al
@@ -26667,6 +26728,7 @@ t5.s61y5.ru
 t5.sne-4-p.ru
 t5hl.31e854642.online
 t5m.60nma5.ru
+t5v3.t1va.online
 t5vo.kqag6.ru
 t5vp.0-1gc.ru
 t5vq.qihs8.ru
@@ -27267,6 +27329,7 @@ tj.rv2o5.ru
 tj3.ye-t5c.ru
 tjfr.tk
 tjtabrbfk.com
+tjxh-internetional.com
 tjxzyd.com
 tk.ht-if.ru
 tk.n-jur.ru
@@ -27977,6 +28040,7 @@ u75728.test-handyhost.ru
 u7j.wir-2.ru
 u7wq0c9.1a2e6.ru
 u7xgk.top
+u7z9n.sa3x.online
 u9.sxuj-7.ru
 u92618hp.beget.tech
 u92905m0.beget.tech
@@ -28271,7 +28335,9 @@ uhf.ibzr-2.ru
 uhleii.fun
 uhma.shop
 uhv.kufapoi3.ru
+ui.aidexcel.co.uk
 ui.rk-8-y-6.ru
+ui.tweethost.com
 ui.x-vo4.ru
 uik.vj4e5.ru
 uinlive-time.com
@@ -28575,6 +28641,7 @@ uptyperw.com
 upvwp.top
 upwanpdx.qpon
 uq.xexykuo2.ru
+uq1.ke9t.ru
 uq2.obvp2.ru
 uqb.ze9y.ru
 uqlbiotech.com
@@ -28908,6 +28975,7 @@ v2.j-70o.ru
 v2.j1z2u.ru
 v2.jo-59.ru
 v2.k-72o.ru
+v2.kallisti.uk.com
 v2.kj4o0.ru
 v2.l-75y.ru
 v2.l99oy.ru
@@ -28967,9 +29035,11 @@ v3.5e8y8.ru
 v3.802d.ru
 v3.e41m.ru
 v3.imm-yi.ru
+v3.kallisti.uk.com
 v3.p2a3p.ru
 v3.ryzuka.ru
 v3.s91ii.ru
+v3.t-nin.ru
 v3.t-pay3.ru
 v3.w5j7z0.ru
 v3.wagoda.ru
@@ -28996,6 +29066,7 @@ v6yt.fkur8.ru
 v6yu.7-5xc.ru
 v6yv.moxt5.ru
 v7.7kf1u.ru
+v7.der14i.ru
 v7b.rxir-9.ru
 v7mx.y-p-19.ru
 v7p2.4qua0.ru
@@ -29527,6 +29598,7 @@ vulpss.net
 vupepgfagso.com
 vusiqdyp.com
 vv.c34uu.ru
+vv.ha5r.ru
 vv.henyta.ru
 vv.i50m.ru
 vv.m9i5l.ru
@@ -29639,6 +29711,7 @@ w5en.cdn-6-38.ru
 w6.nytk.ru
 w63709gi.beget.tech
 w68426zc.bget.ru
+w6j2.sa3x.online
 w6jl.i-d-96.ru
 w6qc.60e533569.online
 w7.4y328.online
@@ -29994,6 +30067,7 @@ westtannacrieff.com
 westtrek.com
 westuae.com
 westy.karslioglu-tr.com
+westy.ydns.eu
 wesupply.cx
 wesyjzn.top
 wet.app-6-v.ru
@@ -30724,6 +30798,7 @@ wyyicgkimuogimuw.xyz
 wyyuwewkiyegmwse.xyz
 wyywogmgqcssykkk.xyz
 wyywwiamggsuwewk.xyz
+wz.25qx7.ru
 wz.7wh2n.ru
 wz.a89b.ru
 wz.bpva-0.ru
@@ -30860,6 +30935,7 @@ x1.cgty8.ru
 x1.s61y5.ru
 x16.life
 x2.5e6a.ru
+x2.91-7l.ru
 x2.ahz-ya.ru
 x2.b2-ra.ru
 x2.ew-w3.ru
@@ -30867,6 +30943,7 @@ x2.nibulu.ru
 x2.vototao9.ru
 x2.x-ceu8.ru
 x2.ykgw-2.ru
+x2cvg.sa3x.online
 x2j.2se.info
 x2j.4fg2n.ru
 x2j.d44yy.ru
@@ -30903,6 +30980,7 @@ x7md.3v-3y.ru
 x7p4.zm6392.online
 x7pro.top
 x7x.xyz
+x8.9-ck6.ru
 x8.9b9-7.ru
 x8.i924ao.ru
 x8.z413y.ru
@@ -31323,6 +31401,7 @@ y5n.0ouuky0.ru
 y6m.fj-2-e-0.ru
 y6nb.7l-0b.ru
 y6w.bvum-6.ru
+y7.017fk.ru
 y7.1i5i.ru
 y7.blyp-9.ru
 y7.bvqu-7.ru
@@ -32121,6 +32200,7 @@ z9.xa4p.online
 z92074ju.beget.tech
 z96269eg.beget.tech
 z999723i.beget.tech
+z9f4.wi7o.online
 z9k1.4md69.ru
 z9kahfjxc.localto.net
 z9kq.4a8u6.online
