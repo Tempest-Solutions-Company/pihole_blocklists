@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-04 00:30:24 UTC
-# Total domains: 33505
+# Generated: 2025-11-04 04:34:54 UTC
+# Total domains: 33529
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -282,6 +282,7 @@
 1b.cfob-5.ru
 1c.b2-ra.ru
 1c.bejw.ru
+1d.71o9.ru
 1drvmicrosoft.com
 1e.nqyf7.ru
 1e1ff22.live
@@ -630,6 +631,7 @@
 3r.bid-5.ru
 3r.ha7e.ru
 3r7.77-6.ru
+3rd.67tf.ru
 3rv.gr-3-e-4.ru
 3rv.lr2y6.ru
 3s.gj-2-i-3.ru
@@ -1281,6 +1283,7 @@
 8p.p8ri.ru
 8q.r8li.ru
 8ql.n6ri.ru
+8r.ha0m.ru
 8r.kijx.ru
 8s.1yjp.ru
 8s.kj-4-o-0.ru
@@ -1378,6 +1381,7 @@
 9gh.bb3y5.ru
 9h.dr3a0.ru
 9h2.rk-8-y-6.ru
+9hb.p8ri.ru
 9hd.1ne-z.ru
 9hm.se5m.ru
 9ht.xa9t.ru
@@ -1552,6 +1556,7 @@ a2wpress.com
 a3.3-5y.ru
 a3.fe-k2.ru
 a30r264dg.cn
+a3h.do-04d2.ru
 a3j9h.da6v.online
 a3k9.77-6.online
 a3vnt.139z.online
@@ -3832,6 +3837,7 @@ b.sa8yn.ru
 b.stop2asrertyasport3.com
 b.t408.ru
 b.thegjurertyasport18.com
+b.tyj-4b.ru
 b.uandmearertyasport1.com
 b.w135v.ru
 b.wd-79.ru
@@ -6122,6 +6128,7 @@ cineflash.tk
 cinemachicfilms.com
 cinnmfl.top
 cioud6.sys7yn0iy5.ru
+cioudfiore.xyz
 circleread-view.com.mocha2003.mochahost.com
 circuits-pro.biz
 cirwelh.top
@@ -6979,6 +6986,7 @@ cs-game.bl.ee
 cs-shop.com.br
 cs.bo8y.ru
 cs.lyphahaha.top
+cs.miu24.pro
 cs0.fe7a.ru
 cs01.shop
 cs6hgg.pw
@@ -9752,6 +9760,7 @@ ewfplkgb.cf
 ewg.jujosuu4.ru
 ewges38c.beget.tech
 ewm.ndoq0.ru
+ewo.0fv1.ru
 ewssol.top
 ex.de-6a.ru
 ex.j5-ol.ru
@@ -11609,6 +11618,7 @@ geysckgyiiqaaqek.xyz
 geysooywggeeemug.xyz
 geyswcqeumycawag.xyz
 geyyegoaguiyakoq.xyz
+gf.g7ve.ru
 gfaefskfht.xyz
 gfdhhfg.zzz.com.ua
 gfhjkb.site40.net
@@ -12654,6 +12664,7 @@ h2v.4md69.ru
 h2v.64198.ru
 h2v.7g37b.ru
 h2v.8vl8u.ru
+h2v.pdv4m6.ru
 h2vx.1s-1n.ru
 h2w8.no4s.online
 h3.0f78.ru
@@ -12693,6 +12704,7 @@ h5r.xt7y8.ru
 h5x.w7tx-3t.ru
 h5yx.2h7-o.ru
 h5z.xr7a0.ru
+h6.3u-6.ru
 h65276.srv0.test-hf.ru
 h6p4t.1z57.online
 h7.1o6y4.ru
@@ -14981,6 +14993,7 @@ jo.qe3yn.ru
 jo.qekz.ru
 jo.s2-ly.ru
 jo.xvqy8.ru
+jo.yldv.ru
 joannpittman.com
 joanread.ru
 joaservice.com
@@ -18485,6 +18498,7 @@ mfmqatar.com
 mfshop.me
 mfsoutdoorsvenezuela.com
 mfvgfeqskjbdvgbk.com
+mg.k7t0.ru
 mg1lz2fzd.mdutmdk.in
 mg1lz2fzd.mdutmdu.in
 mgav71.xyz
@@ -19442,6 +19456,7 @@ mz.sd4o7.ru
 mz1.7kf1u.ru
 mz1.der14i.ru
 mz6.5bq18.ru
+mz7.tyj-4b.ru
 mzaky.com
 n.0o-js.ru
 n.227-m.ru
@@ -19603,6 +19618,7 @@ n8.5i0a.ru
 n84.po5m.ru
 n8n-bot.com
 n8n-video-demo.keerok.tech
+n8r.k0xx-i4.ru
 n8x.jcof9.ru
 n8yr.kqag6.ru
 n8ys.0-1gc.ru
@@ -22887,6 +22903,7 @@ q1.4qua0.ru
 q1.dl3zd.ru
 q1.if-p4.ru
 q1.top
+q1.tyj-4b.ru
 q1.w1um.ru
 q1.xb4e7.ru
 q1.y-o7uu.ru
@@ -22939,6 +22956,7 @@ q4ws.hpap6.ru
 q4wt.9-1pv.ru
 q4xn.te7ap.online
 q5.f-11.ru
+q5.k0xx-i4.ru
 q5.lb3091.online
 q5.wsit-4.ru
 q5tn.1p-8s.ru
@@ -24082,12 +24100,14 @@ re-goat.gl.at.ply.gg
 re-pos.in
 re-vic.gl.at.ply.gg
 re.andreeamunteanu.com
+re.bestjacksonvillehotels.com
 re.grjy2.ru
 re.nyfk.ru
 re.qacacoe3.ru
 re.s2-ly.ru
 re.sne4p.ru
 re.sxqy9.ru
+re.tweethost.com
 re.valmetfinance.com
 re.wi-7e.ru
 re.wzhy-1.ru
@@ -24421,6 +24441,7 @@ rk1.6u3o9.ru
 rk8.64198.ru
 rk8.7g37b.ru
 rk8.d597o.ru
+rk8.pdv4m6.ru
 rk8.q-083.ru
 rka.firu6ui8.ru
 rka.qisytui.ru
@@ -24889,6 +24910,7 @@ s888for.ru
 s8j1.yldv.online
 s8lp.mi9q.online
 s9.jt4o0.ru
+s9.l-ly.ru
 s9.zk-5-e-7.ru
 s90380fj.beget.tech
 s9555o.qute-3.ru
@@ -29754,6 +29776,7 @@ v0m.xr6u9.ru
 v0m4.ha5r.online
 v0q.jg-7-ra.ru
 v0s.ki8n.ru
+v0x.do-04d2.ru
 v1.0ouuky0.ru
 v1.5bq18.ru
 v1.6cm81.ru
@@ -31852,6 +31875,7 @@ x1.5y4a.ru
 x1.cgty8.ru
 x1.s61y5.ru
 x16.life
+x19.k0xx-i4.ru
 x1zpn.q3lo.online
 x2.5e6a.ru
 x2.5x7u.ru
