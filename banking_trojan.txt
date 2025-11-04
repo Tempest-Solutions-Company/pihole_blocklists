@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-11-04 04:34:54 UTC
-# Total domains: 6562
+# Generated: 2025-11-04 10:40:11 UTC
+# Total domains: 6591
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1148,6 +1148,7 @@ bikeshed.store
 bikesoro.com
 billdodge.com
 billhop.com
+billpay-info.com
 bimageelement.id
 binance-copytrading.pro
 bindirect.click
@@ -1303,6 +1304,9 @@ broadwing.biz
 broadwingcommunication.com
 broadwingnetworks.net
 brodart01.com
+brokeragepacket.com
+brokercarriersetup.com
+brokerpackets.com
 brookeberry1.com
 brooklynndickinson.net
 brothersconstructionandpaintingllc.com
@@ -1436,6 +1440,7 @@ captcha-verify-6r4x.com
 captrustatwork.com
 capturingmind.com
 car-fuya.com
+car-hauling.com
 carabiner.shop
 carboledger.com
 carbonfit.online
@@ -1454,6 +1459,12 @@ carneysandoe.com
 carnivoresbbqsandwichshop.net
 carpen82.com
 carpowertools.com
+carrier-packets.com
+carrier-packets.net
+carrieragreements.com
+carrierpack.net
+carrierpacket.online
+carriersetup.net
 carsquotesadvisors.com
 casadecampoamazonas.com
 casadoconector.online
@@ -1509,6 +1520,7 @@ center-hubs.com
 center-upload.pro
 centerhub.pro
 centerkick.com
+centraldispach.net
 centre.ng
 centrichotel.com
 centrionmanagement.com
@@ -1629,6 +1641,7 @@ ckjacob.com
 ckysp.top
 clack.su
 claddy.de
+claimeprogressive.com
 clamscams.com
 claramillan.com
 clarsslink.com
@@ -1805,6 +1818,7 @@ confirmation-id1174.com
 confirmation-id1175.com
 confirmation-id1176.com
 confirmation-id1177.com
+confirmation-rate.com
 conflictpreemption.org
 cong-dich-vu-cong-quoc-gia.com
 cong-dichvucong.com
@@ -2330,6 +2344,7 @@ dvcvn-dichvucongquoocgla.online
 dvcvn-trungtamdulieu.com
 dvdonlinestore.net
 dvlhpbxlmmi.es
+dwssa.top
 dxgjsgw.com
 dynamicbusiness.info
 dynamiccrownhub.com
@@ -2703,7 +2718,9 @@ flaxergaurds.com
 fleebunga.sbs
 fleedy.com
 fleemigratorsolutions.com
+fleetcarrier.net
 fleetfedx.com
+fleetgo0.com
 fleetservice.info
 flexiraq.world
 flirt.ws
@@ -3365,6 +3382,7 @@ hypothequeswestisland.com
 hyprobiz.com
 hytecafrica.com
 i-djp-pajak.com
+i-lovepdf.net
 i-m-a-g-e.club
 i.call
 i.host
@@ -3455,6 +3473,7 @@ illeatyou.com
 illoyhah.site
 illumitexgroup.com
 ilner.top
+ilove-pdf.net
 ilovehue.store
 ilrne.top
 im3ls.top
@@ -4497,6 +4516,9 @@ newz20.online
 nexbio.academy
 nexdrive.nl
 nextdoormaintenanceandrepairs.com
+nextgen01.net
+nextgen1.net
+nextgen223.com
 nextiorhive.com
 nextlaunchpoint.site
 nextproject2025.com
@@ -4627,6 +4649,7 @@ ofertop.shop
 officefilecloudoc.com
 officefiledrivecloud.com
 officenotedrivecloud.com
+officews101.com
 offlce.co
 offshorevsys.com
 offsidex.shop
@@ -5089,6 +5112,9 @@ rashihospital.com
 rasoiratnammasala.com
 raspisurveillance.com
 ratatui.today
+ratecnf.com
+ratecnf.net
+rateconfirm.net
 ratledge.biz
 rawasex.com
 raxisb.com
@@ -5320,6 +5346,7 @@ sbvhn.com
 scalara.ch
 scale-with-ai.com
 scan2dressingroom.com
+scarrierpack.com
 scent-florist.com
 schetcik.online
 schilllr.icu
@@ -6165,6 +6192,7 @@ vecsphere.com
 vediate.com
 veevasitesolutions.com
 vegue.me
+vehicle-release.com
 veic.fr
 venomen.art
 verandainteriors.com
@@ -6355,6 +6383,7 @@ withbible.com
 withclier.com
 wiz1.net
 wizair.com
+wjwrateconfirmation.com
 wkgsvkmjfft.com
 wnypermanentlighting.com
 wolfeguitars.com
