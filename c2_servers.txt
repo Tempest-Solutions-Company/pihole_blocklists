@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-08 01:01:35 UTC
-# Total domains: 34870
+# Generated: 2025-11-08 06:06:18 UTC
+# Total domains: 34909
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -104,6 +104,7 @@
 0day4today.com
 0e.8-fr.ru
 0e.hnaq6.ru
+0er.owlflug.ru
 0f.padj.ru
 0f.sj5o5.ru
 0ff.m4ze.ru
@@ -139,6 +140,7 @@
 0ur.r9xa.ru
 0v.3druv.ru
 0v.wo-h3.ru
+0ver.heronturm.ru
 0vivowater.com
 0w.da5y.ru
 0wq.ye-t5c.ru
@@ -356,6 +358,7 @@
 1net.co.uk
 1o.r8li.ru
 1oi.s7li.ru
+1on.heronturm.ru
 1p0rtal.com
 1p2.re7x.ru
 1qb.rk-8-y-6.ru
@@ -427,6 +430,7 @@
 22k.g7ve.ru
 22x.hl5a6.ru
 22y456.com
+23.heronturm.ru
 23121232.com
 23445778889.com
 23452246.com
@@ -2912,6 +2916,7 @@ amazon-fr.fun
 amazon-france.xyz
 amazonccc.ru
 amazonvillage.net
+amber.citrinewald.ru
 amber.fenod.online
 amber3.run-c-you.online
 ambergeist.ru
@@ -4207,6 +4212,7 @@ babycheatsheets.com
 babylongrace1010.duckdns.org
 babymarket.io
 bacanacabana.com.br
+bach.jasperhain.ru
 back-trust-aurora.cluster-ctrjumtpbmf.mnl-east-2.timcorpnet.com
 back.gdyl-2.ru
 back.k4tem.ru
@@ -6582,6 +6588,7 @@ claudfx.win
 claudiagongora.info
 claudiomauricio.com
 clavera.cat
+claw.tigerzaun.ru
 clawteamwear.com
 clay.luv6.ru
 clay.tr-8-n.ru
@@ -6651,6 +6658,7 @@ cloud.8u2a9.ru
 cloud.8y7o4.ru
 cloud.amazoncdn.shop
 cloud.bvuf-2.ru
+cloud.cloudkreis.ru
 cloud.defenderblt.com
 cloud.iloveanimals.shop
 cloud.xinzyun.cn
@@ -7201,6 +7209,7 @@ craiglist.ignorelist.com
 craigtropgr.biz
 crakev.com
 crakom.com
+crane.cranezeit.ru
 crankrim.ml
 craser-36950.portmap.host
 crashthis.com.nu
@@ -9148,6 +9157,7 @@ echocej.top
 echospheres.tech
 echozauber.ru
 echrepdvcd.com
+ecke.jadeecke.ru
 eclipsenebel.ru
 eclmezm.top
 eclpi.in
@@ -10832,6 +10842,7 @@ felixbold.info
 felixooriums.net
 feliznatal2015.net
 fellsminjs.com
+fels.badgerfels.ru
 female-ebay.gl.at.ply.gg
 femmesvoyage.com
 femoody.com.au
@@ -11145,6 +11156,8 @@ floxblog.ru
 flrtginvsoergm.com
 flsmidhtmaaggear.com
 fludgwererqo.at
+flug.cranezeit.ru
+flug.owlflug.ru
 fluidsurveys.si
 fluss.1ittleriver.ru
 fluss.nickelweide.ru
@@ -12253,6 +12266,7 @@ glow.k8li.online
 glow.luv6.ru
 glow.m-4-rj.ru
 glow.r-9-xa.ru
+glow.rubyraum.ru
 glowhausaesthetic.com
 gloyakata.ml
 glu.po5m.ru
@@ -12678,6 +12692,7 @@ groysman.club
 grspz.com
 grst.sumukye2.ru
 grubyy1999.siteme.org
+gruen.jadeecke.ru
 gruntwerkz.com
 gruopcor.com
 grupo-ac.com
@@ -13432,6 +13447,7 @@ having-spring.gl.at.ply.gg
 hawaiiholidayhq.com
 hawala.shop
 hawifo-43198.portmap.host
+hawk.hawkmast.ru
 hawkeye.dns.army
 hawkeye.dns.navy
 hawkeye.v6.army
@@ -15329,6 +15345,7 @@ jacob228.tmweb.ru
 jacobkrumnow.com
 jacobtraders.com
 jad.fisbonline.com
+jade.jadeecke.ru
 jadekick.ga
 jadgqh.top
 jag.n4ke.ru
@@ -16879,6 +16896,7 @@ kraonkelaere.com
 kras-ref.ru
 kratheinz.com
 kratosleloks.space
+kreis.cloudkreis.ru
 krep.icu
 krestenbv.nl
 krestovskiy.nik.siteme.org
@@ -18812,6 +18830,7 @@ masresk.ir
 massagemsp.org
 massageseatssure.com
 massivedynamics.pe
+mast.hawkmast.ru
 master-n3wt0n.webatu.com
 master-pfd.com
 master.masterworkloki.ga
@@ -19650,6 +19669,7 @@ moonberry.pk
 moonman.beget.tech
 moonmansbotnet.com
 moor.beechmoor.ru
+moor.jasperhain.ru
 mootube.fans
 mooviewatch.life
 moppgrass.com
@@ -20381,6 +20401,7 @@ na.tr-8n.ru
 na.vwjy-7.ru
 naamco.biz
 nacht.m00nweaver.ru
+nacht.owlflug.ru
 nacosti.go.ke
 nadbabbabefnefmf.su
 nadidetadllar.com
@@ -22026,6 +22047,7 @@ otr.aztu.edu.az
 otr.demoserviciopcmendoza.com.ar
 ottappmail.com
 ottawabodybuilding.com
+otter.otterweg.ru
 ou-meme.xyz
 ou.mjg1.ru
 ou.nufypiy1.ru
@@ -23600,6 +23622,7 @@ pulka.pp.ua
 pulluoj.bet
 pulsarsaat.us
 pultermugelvanta9281.com
+puma.pumaschiff.ru
 puma.r-1-v-x.ru
 pun.ju5q.ru
 pun.wkej2.ru
@@ -24854,6 +24877,7 @@ racecem.top
 raceora.tech
 racestarindustries.com
 rackingmorehq.top
+rad.rainrad.ru
 rada2012.net.ua
 raders.ru
 radialz.bet
@@ -24875,6 +24899,7 @@ rahal.aboulfeth.com
 railmirt.isasecret.com
 rain.4i1e2.ru
 rain.failczar.com
+rain.rainrad.ru
 rainbowsongdome.net
 raja000hack.zapto.org
 rajas.cf
@@ -24950,6 +24975,7 @@ ratrithee.ddns.net
 ratro.usa.cc
 ratty.mywire.org
 ratuinopurene.pw
+raum.rubyraum.ru
 raveh.ru
 raven.q0spi.online
 raven.wduh-8.ru
@@ -25593,6 +25619,7 @@ rub.xa5r.ru
 rubalyi3.ru
 rubbymok.gsms.one
 ruben.findinit.com
+ruby.rubyraum.ru
 rubyscoeicm.com
 rudemath.com
 rudyhadisuwarnocosmetics.com
@@ -25617,6 +25644,7 @@ run.gesybue11.ru
 run.pykokiu43.ru
 run.quladao75.ru
 run0.cc
+rune.jasperhain.ru
 runesonne.ru
 rungame.biz
 runiloe2.ru
@@ -26149,6 +26177,7 @@ scgymmwiiiekcigg.xyz
 schalfer.no-ip.org
 schedule.eliteworkxmarketing.com
 schelliing.com
+schiff.pumaschiff.ru
 schlntek.com
 scholarpdf.com
 schoolcloud.tech
@@ -26403,6 +26432,7 @@ segami.ga
 segami.ml
 seganag.com
 segeertsoft.com
+segel.pumaschiff.ru
 seguralawfirm.com
 seguroagost21.duckdns.org
 segurocarroautomovel.com.br
@@ -27828,6 +27858,7 @@ steelfreebe3.com
 steelfreebe4.com
 stefanchik.com
 stefanie-denker.de
+stein.badgerfels.ru
 stell.domainmedicalhha.com
 stellarblick.ru
 stellatosolutions.com
@@ -27982,6 +28013,7 @@ studiojordanphoto.com
 studioraygun.co.uk
 studygrowknow.com
 stupide.qpon
+sturm.rainrad.ru
 stuttafordszim.com
 stviro.hi2.ro
 style-tropical.gl.at.ply.gg
@@ -29190,6 +29222,7 @@ tiedbythreads.online
 tieieieros.su
 tienaris.com
 tiendamatilda.cl
+tiger.tigerzaun.ru
 tigerromnci.eb2a.com
 tigertool.tk
 tigesedgu.ru
@@ -30188,6 +30221,7 @@ uexdex.com
 uf8.qcet8.ru
 ufb.b9sa.ru
 ufdebrouwer.be
+ufer.otterweg.ru
 ufer.wrenhafen.ru
 ufg-corp.com
 ufhfisdoff8sdfk.su
@@ -32111,6 +32145,7 @@ weeponp.com
 weeqeaogcsywkcci.xyz
 weeshuisghana.nl
 weeukouqomigmoqs.xyz
+weg.otterweg.ru
 wegazo.ru
 wegeuuymegyquiag.xyz
 wegiiewygoccgkmk.xyz
@@ -32355,6 +32390,7 @@ winapp24.pl
 winblowservice.hopto.org
 winbtservs.com
 wind.0zvel.online
+wind.hawkmast.ru
 windefenderconection.duckdns.org
 windelectric.ua
 windevup.craym.eu
@@ -32557,6 +32593,7 @@ wohinqfood.com
 wok.wkej2.ru
 wolf.8u2a9.ru
 wolf.vbep-3.ru
+wolke.cloudkreis.ru
 wolverinlogan2025.duckdns.org
 woman-rights.ga
 womensfitnessplans.com
@@ -34582,6 +34619,7 @@ zarnaftdiar.ir
 zartashakona.com
 zas.aztu.edu.az
 zas.demoserviciopcmendoza.com.ar
+zaun.tigerzaun.ru
 zay.hu
 zaz-bouba.net63.net
 zazadawg.comslut.xyz
@@ -34642,6 +34680,7 @@ zedekus.com.ng
 zedlabs.co.uk
 zeesportvissen.be
 zehir.no-ip.biz
+zeit.cranezeit.ru
 zeitgeistguard.xyz
 zen1thblkhat-48437.portmap.host
 zen1thblkhat-64408.portmap.host
