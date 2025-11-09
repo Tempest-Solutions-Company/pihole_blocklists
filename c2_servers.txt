@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-09 12:33:47 UTC
-# Total domains: 35726
+# Generated: 2025-11-09 18:38:50 UTC
+# Total domains: 35768
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -658,6 +658,7 @@
 3bots.xyz
 3c.xbiq2.ru
 3c5a1f6ffbb7de3ec610c661e8131ea2.tk
+3c7.nightwharf.ru
 3ch.u-v9.ru
 3cuartos.com
 3d-gold.com.hk
@@ -732,6 +733,7 @@
 3x.top
 3x1.rxir-9.ru
 3xk.k5gc56.ru
+3xlu.icy-moth.ru
 3y28z.top
 3z.7-fd.ru
 3z.te8x.ru
@@ -973,6 +975,7 @@
 5eed.qytan.online
 5ellisburton.zapto.org
 5f.ls-2-a-9.ru
+5f2zf.frost-fox.ru
 5fn542lfohsup239.iloveanimals.shop
 5fw.24s6.ru
 5h.1r55.ru
@@ -1232,6 +1235,7 @@
 77.b2ra.ru
 77.blyp-9.ru
 77.d55u5.ru
+77.windbarrow.ru
 773.bb-3-y-5.ru
 777.5h4553.ru
 777.60e533569.ru
@@ -1275,6 +1279,7 @@
 7hb.yldv.ru
 7hz.ldef-4.ru
 7i.bqet3.ru
+7ih.windbarrow.ru
 7it.wi0x.ru
 7ji.dr3a0.ru
 7jp.fi0m.ru
@@ -1537,6 +1542,7 @@
 9h.dr3a0.ru
 9h2.rk-8-y-6.ru
 9hb.p8ri.ru
+9hctu.nightwharf.ru
 9hd.1ne-z.ru
 9hm.se5m.ru
 9ht.xa9t.ru
@@ -1725,6 +1731,7 @@ a3.fe-k2.ru
 a3.ravenpfad.ru
 a3.sm-0-kewood.ru
 a30r264dg.cn
+a31a.wind-barrow.ru
 a3h.do-04d2.ru
 a3j9h.da6v.online
 a3k9.77-6.online
@@ -2230,6 +2237,7 @@ ad.sapeniu2.ru
 ad.t8g2w.ru
 ad.tfpe6.ru
 ad4rchr39w8f.fun
+ad9vh.gi0wmarsh.ru
 adamblackie12312312-62714.portmap.host
 adamdk12-53145.portmap.host
 adamlikes.com
@@ -3395,6 +3403,7 @@ api.chimera-hosting.zip
 api.filtergoyrdo.top
 api.formall.org
 api.gigachatglob.top
+api.goodfatherbab.top
 api.goolagstalinmore.top
 api.khljokas.top
 api.lkofitjhecvr.top
@@ -5153,6 +5162,7 @@ bloodcakep.yolox.net
 bloodclatcry.com
 bloodscarf.xyz
 bloodydi.xin
+bloom.br1arwild.ru
 blorehost.in
 blossomtreedubai.com
 blowfres.altervista.org
@@ -5507,6 +5517,7 @@ brolaskjf.superweb.ws
 bromford-flagship.co.uk
 bromleysymphony.org.uk
 broncobearings.co.za
+brook.cinderloom.ru
 brook.frostfox.ru
 brookebstark.com
 brothdy.asia
@@ -8461,8 +8472,10 @@ dhssupaul.org
 dhst.qapyfyi0.ru
 dhurmatsain.base.pk
 dhvs3e7t-001-site1.ftempurl.com
+dhy.wind-barrow.ru
 di-1.icu
 di.lkci1.ru
+di.storm-harrow.ru
 di.xyqd.ru
 diabetespal.ps
 diablesdelleida.cat
@@ -8917,6 +8930,7 @@ drg.kidizue6.ru
 drgooddeal.com
 drift.1-byhih-05-ey.ru
 drift.frostfox.ru
+drift.gi0wmarsh.ru
 driftfels.online
 driil93.7-doxok-46-eu.ru
 drili61.2-pukeg-36-oy.ru
@@ -9016,6 +9030,7 @@ duncan01.no-ip.org
 duncian.top
 dune.n-4-ke.ru
 dune.s7li.online
+dune.storm-harrow.ru
 dune.treqz.online
 dune.tu-7-q.ru
 dune.tu7q.online
@@ -9914,6 +9929,7 @@ enigeria.gov.ng
 enigma-stat.com
 enior-living-61814.bond
 enirelax.com
+enjoy-char.gl.at.ply.gg
 enjoy-silent.gl.at.ply.gg
 enjoy.2-wafij-3-ue.ru
 enjoy.5-kafaq-7-io.ru
@@ -10911,6 +10927,7 @@ f3.5i0a.ru
 f3l.fp-0-y-9.ru
 f3n7k.798u-g.ru
 f3xbuildingfunforum.zapto.org
+f4.fr0stciiff.ru
 f46e602.sytes.net
 f4l.tvil0.ru
 f4vc.clearfog.ru
@@ -12502,6 +12519,7 @@ gicaway3.ru
 gickshop.ru
 gidrevi4.org
 gidynamictiling.com.au
+gift.embertrail.ru
 gift.pl-8-a.ru
 gift.ydns.eu
 giftchris.com
@@ -12626,6 +12644,7 @@ glow.luv6.ru
 glow.m-4-rj.ru
 glow.r-9-xa.ru
 glow.rubyraum.ru
+glow.wind-barrow.ru
 glowhausaesthetic.com
 gloyakata.ml
 glu.po5m.ru
@@ -14013,6 +14032,7 @@ hf.yw9a.ru
 hf5.fk9o0.ru
 hfaggron.tk
 hfcool.info
+hfcv.gi-0-wmarsh.ru
 hffiahz.asia
 hfhlagljsljtls.ml
 hfktichen.com
@@ -14357,6 +14377,7 @@ hours-scientific.gl.at.ply.gg
 houseandhoundcare.com
 houseofan.com
 houshan.shop
+hover.fr0stciiff.ru
 hovera.ru
 hovopuy9.ru
 how2get.org
@@ -14417,6 +14438,7 @@ htmag.net
 http-google.ddnsking.com
 hu.jnfe-1.ru
 hu.myzj.ru
+hu.storm-harrow.ru
 hu.toqyboe3.ru
 hu.wdax1.ru
 huaeokaefoaeguaehl.co
@@ -14824,6 +14846,7 @@ ig.plig-5.ru
 igahicfrwwfpjhef.ru
 igdesondaj.xyz
 igeo.work
+igf.embertrail.ru
 ighllight.net
 igiconsulting.pro
 ignovikovo.temp.swtest.ru
@@ -15722,6 +15745,7 @@ j0.0o-js.ru
 j0.95tbm.ru
 j0e.n6ri.ru
 j0h.lilacsilo.ru
+j0n.br1arwild.ru
 j0xk.op76.online
 j1.0pu.ru
 j1.4aeaco0.ru
@@ -18500,6 +18524,7 @@ looking-harley.gl.at.ply.gg
 lookingupwellandgood.men
 lookup.central-hispano.eu
 lookup2-42134.portmap.host
+loom.m-0-on-forger.ru
 loot-chem.com
 lootem.xyz
 lopdent.club
@@ -19881,6 +19906,7 @@ mist.1ittleriver.ru
 mist.jg-7-ra.online
 mist.jix3.ru
 mist.sne-4-p.online
+mist0.icy-moth.ru
 mist7.sm0kewood.ru
 mistermal.sytes.net
 mistgraben.ru
@@ -24313,6 +24339,7 @@ pw.xbiq2.ru
 pwa.vihuqau.ru
 pwdomawomen.in
 pwire.darkbastard.com.de
+pwmt.embertrail.ru
 pwryan.net
 px.pf-6-o-2.ru
 px.vumarifa.com
@@ -26223,6 +26250,7 @@ rp8.1ne-z.ru
 rp9a.je9t.online
 rpc2.gdn
 rpmnierals.com
+rps7g.windbarrow.ru
 rq.fo1od.ru
 rq.mufabui4.ru
 rq8.7i7y5.ru
@@ -26336,6 +26364,7 @@ ruyalwayaco.biz
 rv-dds.nl
 rv.h-73-n.ru
 rv.nibulu.ru
+rv4sh.frost-fox.ru
 rvadag.xyz
 rvkoae.xyz
 rvt50mekz.localto.net
@@ -26975,6 +27004,7 @@ sdh9.motorcycles
 sdihomes.com
 sdixniu.com
 sdjfklsdf2.win
+sdjyu.m-0-on-forger.ru
 sdk-api.messager.my
 sdn003kaubun.sch.id
 sdniduhiudvudbucbudb.con-ip.com
@@ -28182,6 +28212,7 @@ spankyl33.com
 sparge-parole.hi2.ro
 spark.bid5.ru
 spark.flintwerder.ru
+spark.m-0-on-forger.ru
 spark7.sm0kewood.ru
 spark7.syc0aq8uy1.online
 sparkickwears.ga
@@ -29885,6 +29916,7 @@ thonsfends.site50.net
 thooph2.ru
 thorasgardstorm.com
 thori.xyz
+thorn.stormharrow.ru
 thought-write.gl.at.ply.gg
 thousandan.ml
 thread-faq.gl.at.ply.gg
@@ -30941,6 +30973,7 @@ uec.pf-4-i-2.ru
 uegkbhbacte.com
 ueuser.com
 uexdex.com
+uf6qo.fr0stciiff.ru
 uf8.qcet8.ru
 ufb.b9sa.ru
 ufdebrouwer.be
@@ -31099,6 +31132,7 @@ ui.x-vo4.ru
 uiact.tech
 uik.vj4e5.ru
 uinlive-time.com
+uirs.br1arwild.ru
 uis.dr3a0.ru
 uixing.coffee
 ujaas.ml
@@ -31976,6 +32010,7 @@ vakarpishkov.magnaart.ru.fbweb.ru
 valdez.in
 vale-sanete-investment.sbs
 vale.lakespry.ru
+vale0.cinderloom.ru
 valenciasoft.com
 valentine-platform-wood-examination.trycloudflare.com
 valentinogods.zzz.com.ua
@@ -32484,6 +32519,7 @@ vspool.xyz
 vsreviewsa.com
 vt-ne.com
 vt7.rv-2-o-5.ru
+vtbg5.icy-moth.ru
 vteach.com.sg
 vth.ka2s.ru
 vthingsure.gq
@@ -33060,6 +33096,7 @@ wgpvglbadxo.com
 wh-designs.com
 wh.p-93-z.ru
 wh.pf-6-o-2.ru
+wharf.cinderloom.ru
 what-nudist.gl.at.ply.gg
 whatagain.ga
 whatdoyouwant.no-ip.org
@@ -33126,6 +33163,7 @@ wikimusicguide.com
 wikipizzahut.com
 wild.boargrund.ru
 wild.sjkdioshios.shop
+wild.stormharrow.ru
 wildansraail.serveblog.net
 wilddbgh.qpon
 wilddip.myjino.ru
@@ -33140,6 +33178,7 @@ williamsonteas.com
 williamsway2luv.com
 williemeshurkmre.net
 willmoretraders.tk
+willow.stormharrow.ru
 willow.wqix-5.ru
 willow9.windowl.ru
 willozm.top
@@ -34387,6 +34426,7 @@ xyq.bo3l.ru
 xyshvidiova.com
 xyz.fapigya6.ru
 xz.bb-3-y-5.ru
+xzh.nightwharf.ru
 y.0y-pm.ru
 y.0y2i.ru
 y.333-f.ru
@@ -35054,6 +35094,7 @@ yuntong-batt.co
 yunyou44.vip
 yurrie893.no-ip.biz
 yushe.shop
+yusuf36.hopto.org
 yuxinproteins.com
 yuye.ru
 yvfei.253274554324.com
@@ -35255,6 +35296,7 @@ z1.w9v5r4.ru
 z1.yxb-au.ru
 z1.z1u2z.ru
 z10nx710011-53037.portmap.host
+z14.gi0wmarsh.ru
 z1f.rjuq3.ru
 z1ipa23.zzz.com.ua
 z1mk.2h7-o.ru
