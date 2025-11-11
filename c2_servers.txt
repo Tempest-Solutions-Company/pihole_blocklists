@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-11 13:17:34 UTC
-# Total domains: 36577
+# Generated: 2025-11-11 19:25:21 UTC
+# Total domains: 36626
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -822,6 +822,7 @@
 4823.o411213.ru
 483650885622.shop
 48o.qute3.ru
+490.halfquark.ru
 4920.37i658094.ru
 4920.i327147.ru
 4920.lb3091.ru
@@ -1457,6 +1458,7 @@
 8n.n6ri.ru
 8n5.xb-4-e-7.ru
 8o.obvp2.ru
+8o6.halfquark.ru
 8p.p8ri.ru
 8q.614lo.ru
 8q.r8li.ru
@@ -4288,6 +4290,7 @@ ax.v4h3t.ru
 ax.v96g.ru
 ax.xkx0o.ru
 ax.xyqd.ru
+ax20258888.com
 ax73.kpyw8.ru
 ax74.3-2pd.ru
 ax75.vorn5.ru
@@ -4420,6 +4423,7 @@ b0r9.7si-s.ru
 b0t.4y328.online
 b0t.6cm81.ru
 b0t.94e-w8.ru
+b0t.drift-meadow.ru
 b0t.online
 b0t2.2s84d.ru
 b0zq.si9a.online
@@ -5942,6 +5946,7 @@ bymartin.xxl.lc
 bynbv.ic0n1ctrove.ru
 bynewcrest.ru
 byquset.com
+byspotikfy.com
 byte3.b1tcrush.ru
 byv.q3lo.ru
 bz-bz.bz
@@ -6034,6 +6039,7 @@ c2n.da2yw.ru
 c2n.hlgy7.ru
 c2n.m046d.ru
 c2n.n6e8h.ru
+c2r.crystalcavern.ru
 c2x8.gfk-8120.ru
 c3.6aiiwi2.ru
 c3.g-lim.ru
@@ -8373,6 +8379,7 @@ davo.serveftp.com
 davolutiion.kilu.de
 davuchi.eroea.com
 dawn-mirror.ru
+dawn.emberfrontier.ru
 dawn.jg-7-ra.online
 dawn.tu7q.online
 dawn3.syc0aq8uy1.online
@@ -10114,6 +10121,7 @@ emanticvalue.com
 emaragogi.com.br
 emballeplus.com
 embarasstor.com
+ember.emberfrontier.ru
 ember.sh4d0wmere.ru
 ember.wqix-5.ru
 embergrund.ru
@@ -11236,6 +11244,7 @@ f7r3e.ember-harbor.ru
 f7zn0.mi9q.online
 f8rn.i-c-81.ru
 f8s.amberr0cket.ru
+f8t.emberfrontier.ru
 f92155ve.beget.tech
 f9m0.7i091.online
 f9q.3v-3y.ru
@@ -11787,6 +11796,7 @@ floritimi.ro
 flosinjs.com
 flour.1-mafus-044-e.ru
 flourmeadowbakery.com
+flow.drift-meadow.ru
 flow3.res4ev7oy1.online
 flowascatch.com
 flowerpotco.com
@@ -12353,6 +12363,7 @@ g4m.6x-3z.ru
 g4m.mi7x.online
 g4n0.q-0-spi.ru
 g4ny.37i658094.online
+g4v.glimmerstone.ru
 g4v.solarfracht.online
 g4zt.71o9.online
 g5.blyp9.ru
@@ -12877,6 +12888,7 @@ ghvn.no-ip.org
 gi.khoc9.ru
 gi.nqju5.ru
 gi.obvp-2.ru
+gi09mn3d.com
 giangholuankiem.com
 giass5.syc0aq8uy1.ru
 giasudatviet.online
@@ -12970,6 +12982,7 @@ glaucoalmeida.com.br
 glaug.v1b3forge.ru
 glaxeopink.net
 gle.zo6r.ru
+gleam.crystalcavern.ru
 gleam.xenonridge.ru
 gleis.atlasufer.ru
 gleis.cometpfad.ru
@@ -13956,6 +13969,7 @@ h2k3.5bq18.ru
 h2m9q.4qo8.online
 h2mx.37i658094.online
 h2oarchitecture.com.au
+h2p.rivermote.ru
 h2p1.k5gc56.ru
 h2pk3.432b47.ru
 h2q9m.1r55.online
@@ -14049,6 +14063,7 @@ h7lp.vorn5.ru
 h7m.h9u8w.ru
 h7m.p51io.ru
 h7m.x7f4g2.ru
+h7x.glimmerstone.ru
 h8.l-5228.ru
 h839492.duckdns.org
 h8klb.top
@@ -14785,6 +14800,7 @@ hovera.ru
 hovopuy9.ru
 how2get.org
 howarob.in
+howelllanddevelopment.com
 however-extends.gl.at.ply.gg
 hoy.tvil-0.ru
 hoytocasnow.com
@@ -14861,6 +14877,7 @@ hubster.io
 hudosantakakuuritai.com
 hue.b9ku.ru
 huejjdhs.xyz
+hufhhfgfuandununcudcnjdncjndcnjdchdhfuan.duckdns.org
 huge-it.com
 huge-killer.gl.at.ply.gg
 hugevcdn.pro
@@ -16412,6 +16429,7 @@ jesusmythicism.info
 jesyxcn3.beget.tech
 jet.gyj0.ru
 jet.khoc9.ru
+jet.zimloop.ru
 jetbahis733.com
 jetbud.store
 jetferr.com.br
@@ -17852,6 +17870,7 @@ kri.xe3ax.ru
 krisaldasliodsahj.com
 kristofferandstephanie.com
 krivomadogolyhp.com
+krk.halfquark.ru
 krlopskhfutroplsa.com
 krmcargoservices.com
 krmu.kz
@@ -18138,6 +18157,7 @@ l0gs.re-t-0.ru
 l0re.n-4-ke.ru
 l0se.ju-5-q.ru
 l0t8.1r55.online
+l0v.driftmeadow.ru
 l0wer.5-milod-931-o.ru
 l1.xr7a0.ru
 l10992ea.justinstalledpanel.com
@@ -18889,6 +18909,7 @@ loeisd.duckdns.org
 loferlit.ml
 loft.wir2.ru
 lofty.ml
+log-surplus.gl.at.ply.gg
 log.dogepay.info
 logalex.z.gp
 loganwolverin2026.duckdns.org
@@ -18983,6 +19004,7 @@ looking-harley.gl.at.ply.gg
 lookingupwellandgood.men
 lookup.central-hispano.eu
 lookup2-42134.portmap.host
+loom.acidwrench.ru
 loom.deltasync.ru
 loom.m-0-on-forger.ru
 loot-chem.com
@@ -19288,6 +19310,7 @@ m2fv.49o103159.online
 m2mine.com
 m2n.0u7y.ru
 m2n.qylyxi.ru
+m2q.storm-ripple.ru
 m2q8.op-76.online
 m2q9a.kzg-w-4y.ru
 m2th3k.top
@@ -19336,6 +19359,7 @@ m4t9.si9a.online
 m4v.99y401874.online
 m5.1r55.ru
 m5.nq-52.ru
+m5k.st0nesurge.ru
 m5n.wi7e.ru
 m5o.hy6o.ru
 m5q1.bl8205.online
@@ -19877,6 +19901,7 @@ mazenas.blogspot.com
 mazury.com.pl
 mb-best.com
 mb.kidizue6.ru
+mb3.acidwrench.ru
 mb4z3nlfyrcjnoqf.onion
 mbasic.celticcommunications.co
 mbc.zo8k.ru
@@ -19942,6 +19967,7 @@ me1.qute3.ru
 me8.rv-2-o-5.ru
 me9x.9z2503.ru
 meadofnb.top
+meadow.driftmeadow.ru
 meadow.wduh-8.ru
 meadow0.ic0n1cbrook.ru
 meagkgmoekasqiuc.xyz
@@ -20300,6 +20326,7 @@ million.skgifts.com
 milmgqn.pics
 milonestlevevy.com
 miloquilla.ddns.net
+miloquilla.linkpc.net
 miluashikguer.ru
 milux-my.com
 mim.bahcesehir.edu.tr
@@ -21346,6 +21373,7 @@ n4.sa8yn.ru
 n4.w135v.ru
 n4kw.5g-t.online
 n4s.71o9.ru
+n4s.rivermote.ru
 n4t5.fi0m.online
 n4wq.xb1-60.ru
 n4y.v3ix.ru
@@ -21383,6 +21411,7 @@ n7300.no
 n7w3a.t-7-1u.ru
 n7x.ravenpfad.ru
 n7xs.cdn-6-38.ru
+n7y.drift-meadow.ru
 n8.5i0a.ru
 n8.ripplerover.ru
 n84.po5m.ru
@@ -23605,6 +23634,7 @@ p1.re-t0.ru
 p1.zi-qa.ru
 p19.ra6n.ru
 p1a.jg-7-ra.ru
+p1k.storm-ripple.ru
 p1kx.99y401874.online
 p1nefour.ru
 p1streetsira-36072.portmap.host
@@ -24527,6 +24557,7 @@ poolandspabuildingsandenclosures.com
 poolchemicals-mv.com
 poolkingsthailand.com
 poosonline.net
+pooun.acidwrench.ru
 pop-experimental.gl.at.ply.gg
 pop-kruger.gl.at.ply.gg
 pop.hifeboi3.ru
@@ -25084,6 +25115,7 @@ q1me4.yw9a.online
 q1n.4xq2k.ru
 q1n.4y2o5.ru
 q1n.p3t9b3.ru
+q1r.emberfrontier.ru
 q1v8.3-5y.online
 q1zd.s64lr5ok.com
 q2.5-rt.ru
@@ -25138,6 +25170,7 @@ q5.k0xx-i4.ru
 q5.lb3091.online
 q5.wsit-4.ru
 q5tn.1p-8s.ru
+q5x.crystalcavern.ru
 q5ya.11u812580.online
 q6.ey-m5t.ru
 q6k.t4mo.ru
@@ -25184,6 +25217,7 @@ q7m2x.w-8z35.com
 q7m3a.p0k61h.ru
 q7p0d.u-v9.online
 q7xpa.si9a.online
+q7z.opalhollow.ru
 q8.9bp6i.ru
 q8.kqag-6.ru
 q88.maplexenon.ru
@@ -26054,6 +26088,7 @@ r2cx.desj1.ru
 r2cy.4-5sq.ru
 r2cz.nmys4.ru
 r2l.solarfracht.online
+r2m.glimmerstone.ru
 r2n.6aiiwi2.ru
 r2p.7nf214.ru
 r2px.7l-0b.ru
@@ -26100,6 +26135,7 @@ r4mzt.t1va.online
 r4n.8y5o8a8.ru
 r4n.kat31o.ru
 r4n9.1lt22.ru
+r4t.storm-ripple.ru
 r4yd.1s-1n.ru
 r4yq.9r3s.online
 r5.cedarnova.ru
@@ -26639,6 +26675,7 @@ rid.r9xa.ru
 rider-february-thorough-decades.trycloudflare.com
 ridinyo9.ru
 rift.cioudharbor.ru
+rift.st0nesurge.ru
 rift.tr-8-n.ru
 rift.zapkinetic.ru
 rig.bit-e.ru
@@ -27237,6 +27274,7 @@ s9e.mi7x.online
 s9k2.4qo8.online
 s9lp.xf7-27.ru
 s9n.zo8k.ru
+s9p.driftmeadow.ru
 s9t.ju8r.online
 sa.phpa-3.ru
 sa14584-25628.smrtp.ru
@@ -28928,6 +28966,7 @@ spankyl33.com
 sparge-parole.hi2.ro
 spark.bid5.ru
 spark.flintwerder.ru
+spark.glimmerstone.ru
 spark.m-0-on-forger.ru
 spark7.sm0kewood.ru
 spark7.syc0aq8uy1.online
@@ -29408,6 +29447,7 @@ stormhost.co.za
 stormoak.ru
 storms.tuful32io3.ru
 stormsandy.tk
+stormy.storm-ripple.ru
 storsvc-win.com
 storymodemortalcombo.com
 stoweqtd.myjino.ru
@@ -29425,6 +29465,7 @@ strategicassetlane.xyz
 strategies2excel.com
 stream.escapesvacationclub.com
 streamcodex.online
+streamerbonfire.1cooldns.com
 streamin.style
 streamlolz.com
 street-golf.gl.at.ply.gg
@@ -30122,6 +30163,7 @@ t90489q8.beget.tech
 t917659s.beget.tech
 t92.do-04d2.ru
 t95212tt.beget.tech
+t9d.rivermote.ru
 t9f.qcet-8.ru
 t9f.zo8k.ru
 t9fe.cdn-2-45.ru
@@ -30974,6 +31016,7 @@ tp.nm0e2.ru
 tp.op76.ru
 tp.sewumoa.ru
 tpa.gtus-4.ru
+tpauser9be.com
 tpended.xyz
 tpi.api-microsoftcom.com
 tpleflpokadkeoot.ws
@@ -32718,6 +32761,7 @@ v5q.r0en3ap.ru
 v5qp3.u4-r-o.ru
 v5w.r1mrock.ru
 v6m2a.sip-9ta.ru
+v6n.crystalcavern.ru
 v6r2.fi0m.online
 v6t3x.pe8d.online
 v6yt.fkur8.ru
@@ -33394,6 +33438,7 @@ w2cx.6-19t.ru
 w2t.ravenpfad.ru
 w3.gdyl2.ru
 w3.x874a.ru
+w3b.driftmeadow.ru
 w3d.33b2.online
 w3hhhhh-44281.portmap.host
 w3q0.7mdmu7og.ru
@@ -33573,6 +33618,7 @@ wave.1a2e6.ru
 wave.m-4-rj.ru
 wave.mab7o.online
 wave.ndoq-0.ru
+wave.rivermote.ru
 waveo.syc0aq8uy1.ru
 waxxiv.com
 way.cawyfie51.ru
@@ -34804,6 +34850,7 @@ x3pn.1s-1n.ru
 x3q.q-0-spi.ru
 x3rn.kynh0.ru
 x3wr.mi9q.online
+x3y.st0nesurge.ru
 x4.ripplerover.ru
 x4d.8-f-e8.ru
 x4d2.w7tx-3t.ru
@@ -36148,6 +36195,7 @@ z3mp.4-l8u.ru
 z3n7c4.pitsburg-2z.ru
 z3us1.z-ed.info
 z3w4.1051lt6.ru
+z3x.drift-meadow.ru
 z4.fi0m.ru
 z4.hasefa.ru
 z4k.ykgw-2.ru
@@ -36187,6 +36235,7 @@ z8.c70ye.ru
 z8.fa3y.ru
 z83n.0fv1.online
 z83n.w-8z35.com
+z8n2.st0nesurge.ru
 z8q.1lt22.ru
 z8q.9m94k8.ru
 z8q.kat31o.ru
