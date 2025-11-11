@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-11 01:06:48 UTC
-# Total domains: 36423
+# Generated: 2025-11-11 07:12:15 UTC
+# Total domains: 36463
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -389,6 +389,7 @@
 1t.g-vox.ru
 1t.ky-4x.ru
 1t.x3-ri.ru
+1t1v5.proxyjet.ru
 1tnsf.top
 1u74z.moss-owl.ru
 1unarpetal.ru
@@ -422,6 +423,7 @@
 209-190-75-10.gq
 20q.5b-c.ru
 21.hb0-e.ru
+21.stormcairn.ru
 21.su4n.ru
 21072206.su
 210main.com
@@ -523,6 +525,7 @@
 2lh.i-c-81.ru
 2luj.pooflare.ru
 2m.s836.ru
+2m42.proxyjet.ru
 2maga.site
 2magas.site
 2magicalmage.zapto.org
@@ -1013,6 +1016,7 @@
 5n.kaq51.ru
 5n.kqag-6.ru
 5nu.8786.ru
+5nyo.zap-kinetic.ru
 5o.do-k3.ru
 5o.jk-3-y-7.ru
 5pc.jt4o0.ru
@@ -1428,6 +1432,7 @@
 8e3d.duckdns.org
 8ellisburton.zapto.org
 8f.lexz.ru
+8f2q.kairosmix.ru
 8fz.yu5k.ru
 8h.xer-o.ru
 8i.te8x.ru
@@ -2834,6 +2839,7 @@ ajs.s7li.ru
 ajshgdhjfgasthjydyufasghjfdafsgudgfhjasgfjh.satyr.wtf
 ak.1yjp.ru
 ak.g7r7s.ru
+ak.kairosmix.ru
 ak.m5k1k.ru
 ak.meelk.com.ua
 ak.qekz.ru
@@ -3546,6 +3552,7 @@ api.securebootupdatesystem.com
 api.shimoneaprel.top
 api.shipensburginvestmentgroup.com
 api.signatureofdocs.cfd
+api.softwarecommerce.net
 api.transbankdevelopers.com
 api.updatesreview.com
 api.wifi-update.biz
@@ -4576,6 +4583,7 @@ bach.prairiewolf.ru
 back-trust-aurora.cluster-ctrjumtpbmf.mnl-east-2.timcorpnet.com
 back.gdyl-2.ru
 back.k4tem.ru
+back.softwarecommerce.net
 back1337.info
 backab.ru
 backbaymall.ga
@@ -4588,6 +4596,7 @@ backgroundyouinternetenabled.org
 backify404.com
 backinmotionmassage.com
 backkrj.top
+backoffice.softwarecommerce.net
 backofficemail3.com
 backsth.pics
 bacteriopsonin.shop
@@ -5259,6 +5268,7 @@ bkwriting.com
 bl.888-c.ru
 bl.f8t6m.ru
 bl.g6i2.ru
+bl2eu.ember-glade.ru
 bla.backloghelme.digital
 blaackjack.com
 blablatrain.xyz
@@ -5698,6 +5708,7 @@ bromford-flagship.co.uk
 bromleysymphony.org.uk
 broncobearings.co.za
 brook.cinderloom.ru
+brook.ember-glade.ru
 brook.frostfox.ru
 brookebstark.com
 brothdy.asia
@@ -6603,6 +6614,7 @@ cfd-regulations.com
 cfexpresstraining.com
 cfg.brasilinst.site
 cfm-upgrweb.com
+cg.plum-wav-ru.ru
 cg.vbep3.ru
 cg.vgof.ru
 cg.xer-o.ru
@@ -7287,6 +7299,7 @@ completed-somewhere.gl.at.ply.gg
 complicity-team.org
 complve.top
 compraventaeloro.com
+computer-table.gl.at.ply.gg
 computergraphics.in
 computers-favorite.gl.at.ply.gg
 comqpru.top
@@ -7740,6 +7753,7 @@ csp.newmmaintenanhomes.online
 csrausilidisabili.org
 cssalex.altervista.org
 cssime.com
+csstatus.0nlinecc.com
 cst-trade.ru
 cstest.mucfc.store
 cstest250822.ddns.net
@@ -7855,6 +7869,7 @@ cwaweqieycwqiqui.xyz
 cwawicacaguemmuy.xyz
 cwawsykwggccaceq.xyz
 cwayykmaeeqyqkqy.xyz
+cwc.zapkinetic.ru
 cwcgikskcmqaqmye.xyz
 cwcgsgeuuqueoiue.xyz
 cwcmkkoiwesieeeo.xyz
@@ -8653,6 +8668,7 @@ dfdfhdhdrgethftrj.duckdns.org
 dfgdfgdfg.dfgdfg
 dfgdfgivetender.com
 dfghr.beget.tech
+dfh.g0ldenspire.ru
 dfhhja.shop
 dfm.qacacoe3.ru
 dfr.myhehaa4.ru
@@ -9142,6 +9158,7 @@ drf34n8h-001-site1.htempurl.com
 drg.kidizue6.ru
 drgooddeal.com
 drift.1-byhih-05-ey.ru
+drift.brambleholt.ru
 drift.frost-wilder.ru
 drift.frostfox.ru
 drift.gi0wmarsh.ru
@@ -12913,6 +12930,7 @@ gleam.xenonridge.ru
 gleis.atlasufer.ru
 gleis.cometpfad.ru
 gleis.driftkrone.ru
+glen.g0ldenspire.ru
 glenios.club
 glenjohhstones.pro
 glibbixzorptweezleprang.top
@@ -13805,6 +13823,7 @@ h0f8.solarfracht.online
 h0me.qytan.online
 h0me.xa-5-r.ru
 h0p.ckon0.ru
+h0p9.zap-kinetic.ru
 h0pe.0zvel.online
 h0u7k.top
 h0w4.98g-bj.ru
@@ -14913,6 +14932,7 @@ i.goklobtogether.net
 i.qgf-5-e.ru
 i.stasismyfuture.com
 i.xqix.ru
+i0.proxyjet.ru
 i042.mobi
 i078pt1f7dpiuhl1.iloveanimals.shop
 i11s.fa-0-n.ru
@@ -15768,6 +15788,7 @@ iraqvoip.biz
 ircbot.blogdns.net
 ircccal.co.in
 irclass-org.ml
+ircq.brambleholt.ru
 irehireanywhere.shop
 irfanbayrak.com
 irgkaz.me
@@ -18559,6 +18580,7 @@ lgbtqwebdesign.com
 lgtskills.com
 lh.je9t.ru
 lhet.net
+lhf.g0ldenspire.ru
 li.lalz.ru
 li.pgka9.ru
 li.tvti-0.ru
@@ -18901,6 +18923,7 @@ looking-harley.gl.at.ply.gg
 lookingupwellandgood.men
 lookup.central-hispano.eu
 lookup2-42134.portmap.host
+loom.deltasync.ru
 loom.m-0-on-forger.ru
 loot-chem.com
 lootem.xyz
@@ -20165,6 +20188,7 @@ microservices.webredirect.org
 microservisetrue.vip
 microsharepolnt.store
 microsoft-graphics.ddns.net
+microsoft-schtask.com
 microsoft-spencer.gl.at.ply.gg
 microsoft-teams-download.com
 microsoft-telemetry.at
@@ -20443,6 +20467,7 @@ mmuell.com
 mmw.da6v.ru
 mmxgfzadrian.xyz
 mn.ckar4.ru
+mn.deltasync.ru
 mn.lysyrei3.ru
 mn.wo-h3.ru
 mn.xxos.ru
@@ -21813,6 +21838,7 @@ nocturnalbreak.com
 nod.qvik5.ru
 node.hashmonero.com
 node.ky-4-x.ru
+node3.proxyjet.ru
 nodejsexpress.com
 nodetectshere.top
 nodullingshinestar.info
@@ -22109,6 +22135,7 @@ o4.su-4n.ru
 o4k.sxuj-7.ru
 o55bm.top
 o5b.dlun-7.ru
+o5r.zap-kinetic.ru
 o6.fl-0-wbud.ru
 o6v.gdyl2.ru
 o9.1z57.ru
@@ -23046,6 +23073,7 @@ orangeisabitch.net16.net
 orb.ju5q.ru
 orb.z3lu.ru
 orbiddendreams.shop
+orbit.proxyjet.ru
 orbitkamm.ru
 orbitkrone.online
 orburi.ru
@@ -23550,6 +23578,7 @@ p5yx.sun-7-k.ru
 p6.0-xv-3i5.ru
 p6.89atr.ru
 p6.top
+p6b.plum-wav-ru.ru
 p6b3q.bo8y.online
 p6dv.m2la.online
 p6m4q.x625v7.ru
@@ -24038,6 +24067,8 @@ phantom.cwsurf.de
 pharma--partners.com
 pharmakomplex.hu
 pharmaspan.com
+phase5.kairosmix.ru
+phase7.proxyjet.ru
 phasesupport.com
 phazzze.dyndns.org
 phcc-india.com
@@ -25486,6 +25517,7 @@ qoritravelperu.com
 qp.cnmnmb.top
 qp.s80ye.ru
 qph.fkur-8.ru
+qpn.ember-glade.ru
 qpo.net16.net
 qpr.5no-v.ru
 qq.fabiankorte.net
@@ -25901,6 +25933,7 @@ r0ce.i-d-96.ru
 r0lg.3j5-y.ru
 r0n9.3pea2.ru
 r0n9.60nma5.ru
+r0q.brambleholt.ru
 r0se.sne4p.online
 r0se.vo-3-n.ru
 r0se.ze9y.online
@@ -26210,6 +26243,7 @@ rc-mailserverdata3.com
 rc.kj-4-o-0.ru
 rc.tigelie.ru
 rcanecodex.dev
+rchh0.stormcairn.ru
 rchitectseo.net
 rcisgoat.chickenkiller.com
 rcparasky.com
@@ -26535,6 +26569,7 @@ rider-february-thorough-decades.trycloudflare.com
 ridinyo9.ru
 rift.cioudharbor.ru
 rift.tr-8-n.ru
+rift.zapkinetic.ru
 rig.bit-e.ru
 rig.n4ym.ru
 rigek.com
@@ -28013,6 +28048,7 @@ sherwoodpest.com
 shfh-54092.portmap.host
 shieldcrypter.ru
 shieldled.us
+shift.gyrodesk.ru
 shiftbd.com
 shiipco.com
 shileniniliv.com
@@ -29973,6 +30009,7 @@ t7.z-72.ru
 t7hjzd.top
 t7p.v3ix.online
 t7pqm.77-6.online
+t7x.stormcairn.ru
 t7z.lo9q.online
 t7z.saffronkern.ru
 t8.8-f-e8.ru
@@ -32610,6 +32647,7 @@ v9rx.4-l8u.ru
 v9tc.7l-0b.ru
 v9x2.lb3091.online
 va.d09r.ru
+va.deltasync.ru
 va.hpap-6.ru
 va.pewi2ee5.ru
 va.pvzi-1.ru
@@ -32736,6 +32774,7 @@ ve.q4e3n.ru
 ve.su6ak.ru
 ve1l.uht3o.online
 ve69.info
+vector.zapkinetic.ru
 vectorblitz.ru
 vectto.bunkernet.club
 vediclibrary.online
@@ -35061,6 +35100,7 @@ xxxxyuanko.com
 xxxxz-61067.portmap.host
 xxxyuanko.com
 xxxze.co.nu
+xxzu.plum-wav-ru.ru
 xy.lysyrei3.ru
 xy.pihuvio6.ru
 xy.prli-1.ru
