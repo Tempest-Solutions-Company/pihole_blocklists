@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-12 00:26:33 UTC
-# Total domains: 36626
+# Generated: 2025-11-12 01:30:46 UTC
+# Total domains: 36663
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -373,6 +373,7 @@
 1net.co.uk
 1o.r8li.ru
 1oi.s7li.ru
+1olj.glitch-pact.ru
 1on.heronturm.ru
 1p0rtal.com
 1p2.re7x.ru
@@ -454,6 +455,7 @@
 23445778889.com
 23452246.com
 238.yq2r.ru
+23jn.fluxcrate.ru
 24-va9q13.rest
 24377710093445.su
 24411244.com
@@ -531,6 +533,7 @@
 2maga.site
 2magas.site
 2magicalmage.zapto.org
+2n.b3aconz.ru
 2n.dr1ftpanda.ru
 2n0.qh1a5.ru
 2n4.yq2r.ru
@@ -566,6 +569,7 @@
 2xh.fk9e2.ru
 2y.w8i0h.ru
 2yf.ndoq0.ru
+2yn.polywhiz.ru
 2yxp0.top
 2z.wo-h3.ru
 2zi.ss-9-y-4.ru
@@ -709,6 +713,7 @@
 3n.ndoq0.ru
 3nity.xyz
 3o.ussn7.ru
+3o9.b-3-aconz.ru
 3oi.wtok2.ru
 3q6.ithc-4.ru
 3qd.7nf214.ru
@@ -1227,6 +1232,7 @@
 72k.hpap-6.ru
 73102.vip
 73jvs.top
+73k03.turbotap.ru
 73uhd7893hn23cvshdscw.con-ip.com
 74-48-140-110.nip.io
 74.95tbm.ru
@@ -1316,6 +1322,7 @@
 7m.wtok2.ru
 7m1a.4a8u6.online
 7magicalmage.zapto.org
+7mj20.turbo-tap.ru
 7n.vbep3.ru
 7nb.dae017f.ru
 7ne.5b-c.ru
@@ -1324,6 +1331,7 @@
 7p.meqt.ru
 7p.top
 7qk.f-o-9bt.ru
+7qti.v3ctorplum.ru
 7r.95tbm.ru
 7r.j3ve.ru
 7r.ll-7-y-5.ru
@@ -1343,6 +1351,7 @@
 7v7.ha5r.ru
 7w.lobd.ru
 7w.rvox.ru
+7ws9g.turbotap.ru
 7x.95tbm.ru
 7x.xg5e7.ru
 7xk.dc-8.ru
@@ -5947,6 +5956,7 @@ bynbv.ic0n1ctrove.ru
 bynewcrest.ru
 byquset.com
 byspotikfy.com
+byte2.fluxcrate.ru
 byte3.b1tcrush.ru
 byv.q3lo.ru
 bz-bz.bz
@@ -7701,6 +7711,7 @@ cremoviedobavkimoj53.net
 cresbuy.ga
 crest.m1stwander.ru
 crest.stormglade.ru
+crest.zenbloom.ru
 crete-holidays.com.gr
 crevisoft.net
 crhrocker.hostingsiteforfree.com
@@ -11883,6 +11894,8 @@ forestrunamp.pw
 forevergod2017.com
 forexdispatch.info
 forexxlessonss.com
+forge.joltberry.ru
+forge9.codecog.ru
 forgnogcy.info
 forkdp.top
 form-saver.gl.at.ply.gg
@@ -12228,6 +12241,7 @@ fy3s3x.xyz
 fyc.co.jp
 fyh-2.ru
 fykqx.ru
+fyp.glitch-pact.ru
 fyzee.top
 fyzee.xyz
 fz.614lo.ru
@@ -12381,6 +12395,7 @@ g6ta.kqag6.ru
 g6tb.0-1gc.ru
 g6tc.qihs8.ru
 g6u.m2la.ru
+g6ur4.zenbloom.ru
 g7.d55u5.ru
 g7.mossowl.ru
 g70.se5m.ru
@@ -13465,6 +13480,7 @@ greyistanbulhtm.com
 greyistanbulport.com
 greymirror.io
 gri.cyzukae.ru
+grid.joltberry.ru
 grid.v0rt3xlab.ru
 gridnodeessentials.com
 grimaldinapoli-it.com
@@ -13706,6 +13722,7 @@ guu.myhehaa4.ru
 guvdavhwoylcb.com
 guvencelikimalat.com
 gveejlsffxmfjlsfbllq.com
+gvh.b-3-aconz.ru
 gw.888-c.ru
 gw.fj-4-i-6.ru
 gw.nyps.ru
@@ -14554,6 +14571,7 @@ hitneysolar.com
 hitrol-60505.portmap.host
 hittf.top
 hitwaze.asia
+hiv8.polywhiz.ru
 hivlcjcvux.com
 hixphoto.com
 hj.03e3x.ru
@@ -15071,6 +15089,7 @@ iatyogrod63.shop
 iaurro.net
 iavfuykg.com
 iaz.dc-8.ru
+ib.codecog.ru
 ib.fq-1-y-8.ru
 ib.lakespry.ru
 ib.sqfe-6.ru
@@ -16201,6 +16220,7 @@ j.p-81.ru
 j.w6n2t.ru
 j0.0o-js.ru
 j0.95tbm.ru
+j0.b3aconz.ru
 j0e.n6ri.ru
 j0h.lilacsilo.ru
 j0n.br1arwild.ru
@@ -20248,6 +20268,7 @@ mi.kenal-cn.com
 mi.limpingbronco.com
 mi.phpa3.ru
 mi.sne4p.ru
+mi.turbo-tap.ru
 mi.tvti-0.ru
 mi.wduh8.ru
 mi1d.res4ev7oy1.online
@@ -22004,6 +22025,7 @@ nouris.gr
 nouveau-site-message.livehost.fr
 nov-cleaner.gl.at.ply.gg
 nova-shadow.com
+nova7.polywhiz.ru
 novakremokasdogiosan.com
 novamint.website
 novellv.qpon
@@ -22387,6 +22409,7 @@ ociueckuqkkyqkuu.xyz
 ociyagocgaycwsyi.xyz
 ociyykwkywcgiyyw.xyz
 ocjsqbqoyjlavan.com
+ock.turbotap.ru
 ockayakeocewmmsq.xyz
 ockeuuksyuswwayw.xyz
 ockieeauuccikoom.xyz
@@ -22476,6 +22499,7 @@ oe.pvzi1.ru
 oe.su-4n.ru
 oe.wi-7e.ru
 oe.xrhu-7.ru
+oe723.b-3-aconz.ru
 oeabocbeogoaehgoi.at
 oeabocbeogoaehgoi.be
 oeabocbeogoaehgoi.br
@@ -23171,6 +23195,7 @@ orb.ju5q.ru
 orb.z3lu.ru
 orbiddendreams.shop
 orbit.proxyjet.ru
+orbit2.turbo-tap.ru
 orbitkamm.ru
 orbitkrone.online
 orburi.ru
@@ -24168,6 +24193,7 @@ pharmakomplex.hu
 pharmaspan.com
 phase5.kairosmix.ru
 phase7.proxyjet.ru
+phase7.zimloop.ru
 phasesupport.com
 phazzze.dyndns.org
 phcc-india.com
@@ -25129,6 +25155,7 @@ q2g.mg-1-u-5.ru
 q2hzn.op76.online
 q2k.lunarlicht.ru
 q2k.sunny-harbor.ru
+q2q.joltberry.ru
 q2v.ju8r.ru
 q2w5e.085-x-89-c.ru
 q2wl.cdn-3-29.ru
@@ -25174,6 +25201,7 @@ q5x.crystalcavern.ru
 q5ya.11u812580.online
 q6.ey-m5t.ru
 q6k.t4mo.ru
+q6lhy.glitchpact.ru
 q6pr.2h7-o.ru
 q6yt.o-b-79.ru
 q7.2bj82sg.ru
@@ -25200,6 +25228,7 @@ q7.yxb-au.ru
 q73.xr-7-a-0.ru
 q74722vp.beget.tech
 q77.zzax-4.ru
+q7dj.zimloop.ru
 q7dz.432b47.ru
 q7fx.t1va.online
 q7fzp.qo1s.online
@@ -26978,6 +27007,7 @@ rt.lobd.ru
 rt.realassetsrealtors.com
 rt.to1j.ru
 rt.tygilyo.ru
+rto.codecog.ru
 rtprintdeluxestudio.store
 rtx.anditech.my.id
 rtx.kaizensamawati.com
@@ -28171,6 +28201,7 @@ shfh-54092.portmap.host
 shieldcrypter.ru
 shieldled.us
 shift.gyrodesk.ru
+shift2.glitchpact.ru
 shiftbd.com
 shiipco.com
 shileniniliv.com
@@ -30721,6 +30752,7 @@ thursday-cabinet.gl.at.ply.gg
 thursday-mere.gl.at.ply.gg
 thursdayyyyyremmmmxxxxx.duckdns.org
 thuysanhoangtrungps.com
+thvs.glitchpact.ru
 thy.m4rj.ru
 thyssenkrrupp.com
 thzsmrjqqzpaz2mz.onion
@@ -32824,6 +32856,7 @@ vale-sanete-investment.sbs
 vale.cioudharbor.ru
 vale.lakespry.ru
 vale0.cinderloom.ru
+vale4.zenbloom.ru
 valenciasoft.com
 valentine-platform-wood-examination.trycloudflare.com
 valentinogods.zzz.com.ua
@@ -32925,6 +32958,7 @@ ve.q4e3n.ru
 ve.su6ak.ru
 ve1l.uht3o.online
 ve69.info
+vector.v3ctorplum.ru
 vector.zapkinetic.ru
 vectorblitz.ru
 vectto.bunkernet.club
@@ -34842,6 +34876,7 @@ x2j.w9k6m9.ru
 x2m.ctze0.ru
 x2n.tem5.ru
 x2r.icetap.ru
+x2u4v.b3aconz.ru
 x2w7.9-s-7g.ru
 x2z.7aoasu3.ru
 x32l.mcyz4.ru
@@ -35019,6 +35054,7 @@ xi.ko-8r.ru
 xi.pl-8a.ru
 xi.sne4p.ru
 xi.txso-1.ru
+xi.v3ctorplum.ru
 xi.z-99-l.ru
 xiaeufaehe.su
 xiamionline.com
@@ -35912,6 +35948,7 @@ ypedorado.com.br
 yphervra.xyz
 ypk.sechub.com.cn
 ypropjjqlnq.com
+yq2z.fluxcrate.ru
 yr.h-73-n.ru
 yrg.ka2s.ru
 yrrkh.app
