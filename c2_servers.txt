@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-13 01:54:28 UTC
-# Total domains: 37042
+# Generated: 2025-11-13 07:59:11 UTC
+# Total domains: 37097
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -20,6 +20,7 @@
 00x.yldv.ru
 00xerror.in
 01.d55u5.ru
+012.zenith-snap.ru
 0131.ga
 013nat.net
 02616secureserver.com
@@ -28,6 +29,7 @@
 028.o303024.ru
 028xmz.com
 02a.mg-1-u-5.ru
+02au.echozig.ru
 02level.tk
 03.obvp2.ru
 03.su4n.ru
@@ -819,6 +821,7 @@
 46.lo2p.ru
 46.qh1a5.ru
 4615.net
+465669107.xyz
 4732632.press
 4742.club
 47b.sj5o5.ru
@@ -899,6 +902,7 @@
 4q.614lo.ru
 4q.gi0x.ru
 4q.rubyraum.ru
+4q.wreckly.ru
 4r.bramblestrom.ru
 4r1i.zenithsnap.ru
 4revergreen.com
@@ -1348,6 +1352,7 @@
 7r.j3ve.ru
 7r.ll-7-y-5.ru
 7r.qrow6.ru
+7r.wreckly.ru
 7r.ynmh-8.ru
 7rcl.o-b-79.ru
 7rj.fe7a.ru
@@ -2732,6 +2737,7 @@ agoamgkwoqwimusg.xyz
 agoaqukiiciiaamu.xyz
 agocckwekwqsooai.xyz
 agokmiywugagiciu.xyz
+agosto20.con-ip.com
 agostodc20.duckdns.org
 agqeamksegyumqew.xyz
 agqieuiucywigquk.xyz
@@ -3593,6 +3599,7 @@ apextherapyservices.ca
 apexxenon.com
 api.chimera-hosting.zip
 api.filtergoyrdo.top
+api.foodbyte.cc
 api.formall.org
 api.gigachatglob.top
 api.goodfatherbab.top
@@ -3615,6 +3622,7 @@ api.transbankdevelopers.com
 api.updatesreview.com
 api.wifi-update.biz
 api.xn--coudflare-0sb.com
+api25.didns.ru
 api3.samsungcareers.work
 apis.aawe.finance
 apital-a.group
@@ -4112,6 +4120,7 @@ atmtest.ezar.ru
 atomicwallet.email
 atomqne.top
 atreyu.net
+atri.click
 atriocrm.com
 atrissi.de
 atriurx.top
@@ -4884,6 +4893,7 @@ bc.pxys.ru
 bc.t65p.ru
 bcb.fk-9-o-0.ru
 bcfremote.dmg-tech.com
+bcidaho.247supportsolutions.com
 bck.kl.com.ua
 bckstark54.duckdns.org
 bclm-es.info
@@ -4911,6 +4921,7 @@ bd.o05h.ru
 bd.o82g.ru
 bd.p2o7l.ru
 bd.p74yi.ru
+bd.papervolt.ru
 bd.r3l1x.ru
 bd.s4m7v4.ru
 bd.si3un.ru
@@ -4940,6 +4951,7 @@ be.vortexgipfel.ru
 be.vxof.ru
 be.xxx-2-u.ru
 be1.ngiz5.ru
+beacon6.trickilygrey.com
 beak.nu
 beam.wir2.ru
 beamlit.ga
@@ -5387,6 +5399,9 @@ blasttw.asia
 blatfdg.top
 blatt.stormgrat.ru
 blazejdutka.pl
+blazingelectricz.com
+blazingelectricz.online
+blazingelectricz.store
 blaztech.us
 bleflyyon.com
 blentus.nut.cc
@@ -5399,6 +5414,7 @@ blessingworld.co.in
 blessmouse.com
 bli.web.id
 blink.spry-volt.ru
+blink.trickilygrey.com
 blink.v1b3forge.ru
 blinkerz.ml
 blintepeeste.org
@@ -6028,9 +6044,11 @@ bynbv.ic0n1ctrove.ru
 bynewcrest.ru
 byquset.com
 byspotikfy.com
+byte.jaxdrill.ru
 byte.rumble-kin.ru
 byte2.fluxcrate.ru
 byte3.b1tcrush.ru
+byteflowing1337.github.io
 byv.q3lo.ru
 bz-bz.bz
 bz.5-rt.ru
@@ -6057,6 +6075,7 @@ c.pav3.ru
 c.v1n4n.ru
 c.v6z1q.ru
 c.xyqd.ru
+c0.echozig.ru
 c0.ru7x.ru
 c00l.je-9-r.ru
 c00l.mab7o.online
@@ -8952,6 +8971,8 @@ dixii.org
 diyarbakir.no-ip.biz
 dizzle.3vt.info
 dj2op.rift-cog.ru
+dja.hotelsinjacksonvillefl.com
+dja.vrolijkecreaties.nl
 djaber.synology.me
 djakwi0129121ksls1229.com
 djchet.comoj.com
@@ -9209,6 +9230,7 @@ dowelltodayindustries.com
 down2sesh.com
 down4life.hopto.org
 downersnow.tk
+download856.mediafire.com
 download9.cf
 downloadbiz.ru
 downloadjako.con-ip.com
@@ -9296,6 +9318,7 @@ drift.brambleholt.ru
 drift.frost-wilder.ru
 drift.frostfox.ru
 drift.gi0wmarsh.ru
+drift.wreckly.ru
 driftfels.online
 driil93.7-doxok-46-eu.ru
 drili61.2-pukeg-36-oy.ru
@@ -10640,6 +10663,7 @@ eryunhali.com.tr
 erz.nickelweide.ru
 erzurumdahaliyikama.com
 es.fenod.ru
+es.jaxdrill.ru
 es.montreallimosvip.com
 es.mzvo7.ru
 es.xhs-8-e.ru
@@ -12027,6 +12051,7 @@ fombis.com
 fonfi.com
 fongyeh.com.tw
 fontdrvhost.xyz
+foodbyte.cn
 foodchenn.com
 foodexpress.com.bd
 foodopg.cyou
@@ -13178,6 +13203,7 @@ glaug.v1b3forge.ru
 glaxeopink.net
 gle.zo6r.ru
 gleam.crystalcavern.ru
+gleam.inktrap.ru
 gleam.xenonridge.ru
 gleis.atlasufer.ru
 gleis.cometpfad.ru
@@ -13674,6 +13700,7 @@ gri.cyzukae.ru
 grid.bash-glider.ru
 grid.joltberry.ru
 grid.v0rt3xlab.ru
+grid6.wreckly.ru
 gridnodeessentials.com
 grimaldinapoli-it.com
 grimbooter.com
@@ -14514,6 +14541,7 @@ hc.oc57y.ru
 hcforklitf.com
 hcgdduj-001-site1.etempurl.com
 hckrmytest.com
+hcm-technology.com
 hd.n-44-s.ru
 hd.pf-6-o-2.ru
 hd.zo4n.ru
@@ -15002,6 +15030,7 @@ hotelexcelsior.com.np
 hotelier.com.ve
 hotelpami.com
 hotelpostasiracusa.it
+hotels-atmospheric.gl.at.ply.gg
 hotelvillagonug.org
 hotlips.top
 hotmoza.com
@@ -15012,6 +15041,7 @@ houseandhoundcare.com
 houseofan.com
 houshan.shop
 hover.fr0stciiff.ru
+hover.trickilygrey.com
 hover4.ember-trail.ru
 hovera.ru
 hovopuy9.ru
@@ -19337,6 +19367,7 @@ lq.k25q.ru
 lq.ljat.ru
 lq.pymh.ru
 lqnwdnwdw.xyz
+lqsvi.inktrap.ru
 lr.yq2r.ru
 lr.znx7.ru
 lraielrai.com
@@ -20410,6 +20441,7 @@ mesagkigquewussu.xyz
 mesaweide.ru
 mesccigmyugkcwua.xyz
 mesgeqyaeuqumuqu.xyz
+mesh.papervolt.ru
 mesh.treqz.online
 meshsorterio.com
 mesmmkwsogysqcgo.xyz
@@ -21228,6 +21260,7 @@ mudwetandbeers.com
 mugbool.bet
 mugeltravel.com
 muj.xa4p.ru
+mukphol.com
 muld.org
 mulege.gob.mx
 multas-impagas2025.com
@@ -22199,6 +22232,7 @@ node.hashmonero.com
 node.ky-4-x.ru
 node.vorticeye.ru
 node3.proxyjet.ru
+node3.trickilygrey.com
 nodejsexpress.com
 nodetectshere.top
 nodullingshinestar.info
@@ -22406,6 +22440,7 @@ nuovosarto.com
 nupenetwork.org
 nuriaduriokalklass.com
 nurulhayati.com
+nut.jaxdrill.ru
 nutbe.nut.cc
 nutbep8.nut.cc
 nutp7.nut.cc
@@ -22470,6 +22505,7 @@ nyprince.us
 nything-foo.bar
 nyvisiting.livehost.fr
 nyxxb.com.cn
+nz.echozig.ru
 nz.vuzojiu9.ru
 nzeaugustine.click
 nzekanze2013.hopto.org
@@ -22709,6 +22745,7 @@ octbeer12.com
 octdepend.info
 october10.su
 octopus.black
+octubre212024.giize.com
 octvt.xyz
 ocuamuyyueesewac.xyz
 ocuaucauimyykgqc.xyz
@@ -24465,6 +24502,7 @@ pharma--partners.com
 pharmakomplex.hu
 pharmaspan.com
 phase.bash-glider.ru
+phase0.inktrap.ru
 phase5.kairosmix.ru
 phase7.proxyjet.ru
 phase7.zimloop.ru
@@ -24554,6 +24592,7 @@ pine.luv6.ru
 pine.tr-8-n.ru
 pinescop.top
 pinezirkel.ru
+pinganxzen.shop
 pinglessmetin2.com
 pink.kuryc7yy1.ru
 pinkystalephotography.com
@@ -25161,6 +25200,8 @@ protiekfire.com
 protoflint.com
 prototype.tapmycard.work
 prototypechain.com
+proud17.duckdns.org
+proudsoldier.duckdns.org
 provaiy.qpon
 prove.mine.nu
 provide-abu.gl.at.ply.gg
@@ -25244,6 +25285,7 @@ pul.5b-c.ru
 pulka.pp.ua
 pulluoj.bet
 pulsarsaat.us
+pulse.papervolt.ru
 pultermugelvanta9281.com
 puma.pumaschiff.ru
 puma.r-1-v-x.ru
@@ -26078,6 +26120,7 @@ quantumflask.com
 quantumrinde.ru
 quanyuan.org
 quapfi.asia
+quark.papervolt.ru
 quark1.rumblekin.ru
 quark5.glitch-pact.ru
 quartz.wqix-5.ru
@@ -26299,6 +26342,7 @@ qz9.xzb-6-i.ru
 qz9.zk5e7.ru
 qz9.zv1a0.ru
 qzec.club
+qzq.zenith-snap.ru
 qzz.va4n.ru
 r-s.us
 r-sbonlin.co.uk
@@ -26771,6 +26815,7 @@ redoli8645obirah.zapto.org
 reducelogs.com
 reductoday.com
 ree4.7ci.ru
+reechel.com
 reed.s-2-ly.ru
 reedtradeinc.in
 reelpilot.co
@@ -27000,6 +27045,7 @@ rift.riftcog.ru
 rift.st0nesurge.ru
 rift.tr-8-n.ru
 rift.zapkinetic.ru
+rift.zenith-snap.ru
 rig.bit-e.ru
 rig.n4ym.ru
 rig31ebc.com
@@ -27358,6 +27404,7 @@ runnrxl.top
 runtimebroker.pw
 ruon1on.ru
 rupoc.beget.tech
+rupper9.duckdns.org
 rur.qenogia7.ru
 rus99.net
 rusav1.icu
@@ -27575,6 +27622,7 @@ s4f.zzax-4.ru
 s4k1.5x7u.online
 s4rfunclan.kilu.biz
 s4ym.xa9t.online
+s5.inktrap.ru
 s5.nybh.ru
 s56569.smrtp.ru
 s5bet.online
@@ -28550,6 +28598,7 @@ shoestop.info
 shofxd.top
 shohadaonline.ir
 shop.1boop1.space
+shop.atri.help
 shopalya.shop
 shopbaite.ru
 shopm.info
@@ -32622,6 +32671,7 @@ updateoffice360.top
 updater-internal.mooo.com
 updates-windows-10-184623.com
 updates.highendmark.com
+updatesbrows.app
 updatiing.co
 upermagicalvacations.com
 upgrademailboxsecurity.org
@@ -32956,6 +33006,7 @@ v1.authorandrewsmith.com
 v1.buildingmaterialsandclimate.com
 v1.cntm.edu.vn
 v1.hab77u.ru
+v1.jaxdrill.ru
 v1.moroccancam.com
 v1.q3v8p.ru
 v1.q780.ru
@@ -33205,6 +33256,7 @@ valdez.in
 vale-sanete-investment.sbs
 vale.cioudharbor.ru
 vale.lakespry.ru
+vale.zenith-snap.ru
 vale0.cinderloom.ru
 vale4.zenbloom.ru
 valenciasoft.com
@@ -34165,6 +34217,7 @@ weeaqsosgogwwysc.xyz
 weed-forums.ml
 weed.pozie.lol
 weed.su
+week-ut.gl.at.ply.gg
 weeklydvar.com
 weeponp.com
 weeqeaogcsywkcci.xyz
@@ -34439,6 +34492,7 @@ windows-mine.gl.at.ply.gg
 windows-support.org
 windows-updates-26351.com
 windows-updates-26746.com
+windows-updates-check.com
 windows-updates.nice-data.top
 windowsdns.com
 windowsedgeupdater.com
@@ -35584,6 +35638,7 @@ xq9.y83v.ru
 xq91.plig5.ru
 xq92.7-5wd.ru
 xq97.vukm9.ru
+xqgn6.echozig.ru
 xqi.rilefoo8.ru
 xqs.8i-9.ru
 xqtechllc.com
