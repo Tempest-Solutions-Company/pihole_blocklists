@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-13 14:04:40 UTC
-# Total domains: 37159
+# Generated: 2025-11-13 20:10:14 UTC
+# Total domains: 37207
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -127,6 +127,7 @@
 0k.5x7u.ru
 0k.a-zon.ru
 0kd.no4s.ru
+0kj3.warpclutch.ru
 0lj.te8x.ru
 0llhs.sbs
 0m.03e3x.ru
@@ -513,6 +514,7 @@
 2dx.n2vr.ru
 2e.wo-h3.ru
 2ellisburton.zapto.org
+2eq.sketchloom.ru
 2fr.5-rt.ru
 2g.gj-2-i-3.ru
 2gvision.com
@@ -1417,6 +1419,7 @@
 8451203.zm6392.ru
 8484.town
 849n7the.info
+84w7.pulseknob.ru
 85.ndoq0.ru
 851.93i197934.ru
 851.rv6324.ru
@@ -1455,6 +1458,7 @@
 89betv2.net
 8a.tiqk.ru
 8a.u-v9.ru
+8ab.sketchloom.ru
 8alternative.zapto.org
 8b.d5-en.ru
 8b.mt-3-o-4.ru
@@ -2350,6 +2354,7 @@ adkjt.3utilities.com
 adkpower.in
 adler.anvilklee.ru
 adler.eaglekrone.ru
+adler.ferretpfad.ru
 adler.granitebach.ru
 adler.willowufer.ru
 admadmin.com
@@ -3415,6 +3420,7 @@ ananbabanbensen.online
 anantapro.net
 anastasiadn.com
 anazon.com
+anchor.foamswitch.ru
 anchor0.gyro-desk.ru
 anchormarineqroup.com
 ancirbf.top
@@ -3688,6 +3694,7 @@ apps-microsoft.com
 apps-microsoft.pro
 apps.dmg-tech.com
 apps4ipad.ru
+appsupdate.xyz
 apptds.com
 apptrackr.hol.es
 aprendaceo.com.br
@@ -4612,6 +4619,7 @@ b6v.pf-6-o-2.ru
 b7-golfix.org
 b7.fk-9-e-2.ru
 b7.rvox.ru
+b71yl.pulseknob.ru
 b7gs.4aeaco0.ru
 b7k2.a-4n66k4.ru
 b7k2.q3v8p.ru
@@ -4669,6 +4677,7 @@ bacanacabana.com.br
 bach.echohang.ru
 bach.jasperhain.ru
 bach.prairiewolf.ru
+bach.walnutsteg.ru
 back-trust-aurora.cluster-ctrjumtpbmf.mnl-east-2.timcorpnet.com
 back.gdyl-2.ru
 back.k4tem.ru
@@ -5310,6 +5319,7 @@ birch.ic0n1cforge.ru
 birch.orionfeld.ru
 birch.pixelbuche.ru
 birch.sparrowdock.ru
+birch.sprigkompass.ru
 birchcompany.in
 bird-park.info
 bird.kidsworldgames.info
@@ -5425,6 +5435,7 @@ blessingsz.com
 blessingworld.co.in
 blessmouse.com
 bli.web.id
+blink.foamswitch.ru
 blink.spry-volt.ru
 blink.trickilygrey.com
 blink.v1b3forge.ru
@@ -6676,6 +6687,7 @@ cennoworld.com
 cenonyenaro.xyz
 cens0red.us
 cent1.fav.al
+centaurustermas.com
 center-everything.gl.at.ply.gg
 center-kate.gl.at.ply.gg
 center-para.gl.at.ply.gg
@@ -9383,6 +9395,7 @@ dry.tu7q.ru
 dryice.net.tw
 drywabq.qpon
 ds.pe8d.ru
+dscrba7gv.localto.net
 dsdeees.ru
 dsdfgdfshfgh.ru
 dsffdsk323721372131.com
@@ -9507,6 +9520,7 @@ dyh.dk-9-a-6.ru
 dyslexic-picture.000webhostapp.com
 dysplld.top
 dystrophy.ir
+dyy.raven-flux.ru
 dz.dumx.ru
 dz1p-nn0x.duckdns.org
 dzon.100sm.ru
@@ -10071,6 +10085,7 @@ eicgmakuucoymmuu.xyz
 eiche.boargrund.ru
 eiche.brassgipfel.ru
 eiche.ibexweald.ru
+eiche.oryxbucht.ru
 eiche.quartzhain.ru
 eicsioywskgmuwiy.xyz
 eicwwsiwwikuyaeu.xyz
@@ -11675,6 +11690,7 @@ feliznatal2015.net
 fellsminjs.com
 fels.badgerfels.ru
 fels.glaciergrat.ru
+fels.oryxbucht.ru
 fels.sageufer.ru
 fels.shadowtal.ru
 female-ebay.gl.at.ply.gg
@@ -11924,6 +11940,7 @@ fjoersm.beget.tech
 fjord.cioudbr1nk.ru
 fjord.copperhang.ru
 fjord.elmquarry.ru
+fjord.knollhafen.ru
 fjord.ny4lp8.ru
 fjord.polarhafen.ru
 fjord.quillwinkel.ru
@@ -12661,6 +12678,7 @@ gaeuhaiuhfihehfsx.su
 gaffer.pp.ua
 gafigaf.in
 gag.khoc9.ru
+gaggimusic.com
 gaghpaheiafhjefije.top
 gaghpaheiafhjefijk.su
 gaghpaheiafhjefijl.cc
@@ -13236,6 +13254,7 @@ gleam.xenonridge.ru
 gleis.atlasufer.ru
 gleis.cometpfad.ru
 gleis.driftkrone.ru
+gleis.hearthwinkel.ru
 glen.g0ldenspire.ru
 glenios.club
 glenjohhstones.pro
@@ -13293,6 +13312,7 @@ glu.po5m.ru
 gluco-sync.com
 glue.rjuq-3.ru
 glut.ashenkrone.ru
+glut.eiderquelle.ru
 glut.emberkranz.ru
 glut.quartzhain.ru
 glut.ravenkamm.ru
@@ -14508,6 +14528,7 @@ harrychasen.us
 harsto5.myhostpoint.ch
 hartmanaw.xyz
 harviesnewep.no-ip.org
+harz.ferretpfad.ru
 harz.ironklippe.ru
 has.cqom9.ru
 has.da5v.ru
@@ -15452,6 +15473,7 @@ icole484.forum
 icomedic.com
 icomp.sk
 icomseecimimumww.xyz
+iconconsultants.com
 icoqokmmyqiagoew.xyz
 icoucuwwmeyoyauk.xyz
 icoygkmgkggcwmce.xyz
@@ -17444,6 +17466,7 @@ kamiagausawmaysq.xyz
 kamiliyagoldberg.000webhostapp.com
 kamilleoliviagreen.com
 kamkguwakwcamoya.xyz
+kamm.knollhafen.ru
 kamm.ny4lp8.ru
 kamm.starfiare.ru
 kamm.xenonridge.ru
@@ -17946,6 +17969,7 @@ klee.brassgipfel.ru
 klee.cometpfad.ru
 klee.embertarn.ru
 klee.orionfeld.ru
+klee.walnutsteg.ru
 kli.sojokiy.ru
 klickus.com
 klickus.in
@@ -18580,6 +18604,7 @@ l90504a7.justinstalledpanel.com
 l90968e9.justinstalledpanel.com
 l93015ad.justinstalledpanel.com
 l93b3638.justinstalledpanel.com
+l93r.foamswitch.ru
 l94d6f63.justinstalledpanel.com
 l95347gf.beget.tech
 l99d714a.justinstalledpanel.com
@@ -18712,6 +18737,8 @@ lastprisoner.org
 lastsentinelflock.org
 lasvegas.beget.tech
 lasxz.drift-shad-0-w.ru
+lat.hotelsinjacksonvillefl.com
+lat.vrolijkecreaties.nl
 late-lil.at.ply.gg
 late-operates.gl.at.ply.gg
 lateholidaydeals.org.uk
@@ -18990,6 +19017,7 @@ lichfieldlabour.co.uk
 licht.argonbucht.ru
 licht.cioudbr1nk.ru
 licht.citrinewald.ru
+licht.oryxbucht.ru
 liddlaymai.xyz
 lidgeys.ru
 lie.tu7q.ru
@@ -21022,6 +21050,7 @@ moor.beechmoor.ru
 moor.ci2udforge.ru
 moor.frostgipfel.ru
 moor.jasperhain.ru
+moor.knollhafen.ru
 moor.sageufer.ru
 moor.sparrowdock.ru
 moos.echohang.ru
@@ -21892,6 +21921,7 @@ nearreality.io
 nearsic.top
 neat.kuryc7yy1.ru
 nebel.driftkrone.ru
+nebel.eiderquelle.ru
 nebel.prairiewolf.ru
 nebogame.bl.ee
 necan.gov.np
@@ -22105,6 +22135,7 @@ nhvc.c7.cl
 ni.khhu-8.ru
 ni.vqod2.ru
 ni5.bid-5.ru
+nib.pulseknob.ru
 nibiru4.duckdns.org
 nibiru5.duckdns.org
 nibiru6.duckdns.org
@@ -22434,6 +22465,7 @@ nsfcoatings.vip
 nsgatetest1.digital
 nsogbu1.tk
 nstructify.tech
+nt3e.nib-snap.ru
 ntc-0sk.jp
 nterac24-confirmation.live
 ntgas.ml
@@ -23535,6 +23567,7 @@ orbit.proxyjet.ru
 orbit.quartzflip.ru
 orbit1.miragepad.ru
 orbit2.turbo-tap.ru
+orbit9.warpclutch.ru
 orbitkamm.ru
 orbitkrone.online
 orburi.ru
@@ -24737,6 +24770,7 @@ platinet-pl.com
 plavomore.com
 plaxtiykrm.tmp.fstest.ru
 play.aawe.finance
+playarena.pages.dev
 playgroundcobweb.xyz
 playgroundvina.com
 playingdogs.su
@@ -26717,6 +26751,7 @@ ratro.usa.cc
 ratty.mywire.org
 ratuinopurene.pw
 rauch.flintwerder.ru
+rauch.hearthwinkel.ru
 rauch.nimbusforge.ru
 rauch.steelpfad.ru
 rauch.swiftgasse.ru
@@ -27087,6 +27122,7 @@ rid.r9xa.ru
 rider-february-thorough-decades.trycloudflare.com
 ridinyo9.ru
 rift.cioudharbor.ru
+rift.nib-snap.ru
 rift.riftcog.ru
 rift.st0nesurge.ru
 rift.tr-8-n.ru
@@ -27439,6 +27475,7 @@ rune.ic0n1cforge.ru
 rune.jasperhain.ru
 rune.l2-1-w2.ru
 rune.oakensiegel.ru
+rune.walnutsteg.ru
 runesonne.ru
 rungame.biz
 runiloe2.ru
@@ -29412,6 +29449,8 @@ spark.bid5.ru
 spark.flintwerder.ru
 spark.glimmerstone.ru
 spark.m-0-on-forger.ru
+spark.warpclutch.ru
+spark6.raven-flux.ru
 spark7.sm0kewood.ru
 spark7.syc0aq8uy1.online
 sparkickwears.ga
@@ -29817,6 +29856,7 @@ stepwxv.top
 stern.1ittleriver.ru
 stern.atlasufer.ru
 stern.emberkranz.ru
+stern.hearthwinkel.ru
 stern.pixelbuche.ru
 stern.prairiewolf.ru
 stern.quartzhain.ru
@@ -30739,6 +30779,7 @@ tattvahardware.com
 tatvanto.ug
 tau.ibexweald.ru
 tau.polarhafen.ru
+tau.sprigkompass.ru
 tau.steelpfad.ru
 tau.swiftgasse.ru
 tauedaiednaibduf.ws
@@ -31559,6 +31600,7 @@ tra.amajed.com
 tra.schermgebroken.nl
 trabalhoescolar7.ddns.net
 trace.st3elflare.ru
+trace4.raven-flux.ru
 tracer.rurs.net
 trachyw.qpon
 track-marble.gl.at.ply.gg
@@ -32244,6 +32286,7 @@ ufdebrouwer.be
 ufel.ember-cross.ru
 ufer.anvilklee.ru
 ufer.cedarsteg.ru
+ufer.eiderquelle.ru
 ufer.otterweg.ru
 ufer.ravenkamm.ru
 ufer.shadowtal.ru
@@ -33228,6 +33271,7 @@ v31.7si-s.ru
 v320560.hosted-by-vdsina.ru
 v3d1.st3elflare.ru
 v3d7.yw9a.online
+v3kxh.nib-snap.ru
 v3n.2h7-o.ru
 v3n2.opal-hollow.ru
 v3r.horizonspur.ru
@@ -34297,6 +34341,7 @@ weiiokasaoykcaku.xyz
 weimomuuuksiguki.xyz
 weisqkcuskossucm.xyz
 weiss.elmquarry.ru
+weiss.ferretpfad.ru
 weiss.starfiare.ru
 weiucaakagswsaiu.xyz
 weiuwuqyocasaaqe.xyz
@@ -34754,12 +34799,14 @@ wolf.vbep-3.ru
 wolfe.pixelbuche.ru
 wolke.ashenkrone.ru
 wolke.cloudkreis.ru
+wolke.elmfalter.ru
 wolke.ic0n1cforge.ru
 wolke.nimbusforge.ru
 wolke.oakensiegel.ru
 wolke.orionfeld.ru
 wolke.polarhafen.ru
 wolke.quillwinkel.ru
+wolke.sprigkompass.ru
 wolverinlogan2025.duckdns.org
 woman-rights.ga
 womensfitnessplans.com
@@ -36593,6 +36640,7 @@ ywyyskuaooyugmgo.xyz
 yx.5no-v.ru
 yx0n.s64lr5ok.com
 yx1.duckdns.org
+yx80.sketchloom.ru
 yxb.z2q2.ru
 yxcarbons.com
 yxm.forgehafen.ru
