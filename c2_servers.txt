@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-13 00:48:36 UTC
-# Total domains: 37001
+# Generated: 2025-11-13 01:54:28 UTC
+# Total domains: 37042
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -554,6 +554,7 @@
 2septiembrerem.duckdns.org
 2t.n-jur.ru
 2tj.fp-0-y-9.ru
+2tkvw.twist-nova.ru
 2tx.kj-4-o-0.ru
 2u8.si9a.ru
 2v.ty9a.ru
@@ -572,6 +573,7 @@
 2yf.ndoq0.ru
 2yn.polywhiz.ru
 2yxp0.top
+2z.mirage-pad.ru
 2z.wo-h3.ru
 2zi.ss-9-y-4.ru
 2zq4.ey-m5t.ru
@@ -898,6 +900,7 @@
 4q.gi0x.ru
 4q.rubyraum.ru
 4r.bramblestrom.ru
+4r1i.zenithsnap.ru
 4revergreen.com
 4reverinmymind.com
 4sen.pl
@@ -992,6 +995,7 @@
 5b7crp.com
 5c.blyp-9.ru
 5c5.si9a.ru
+5cg77.miragepad.ru
 5ct.fa3y.ru
 5d.8b-1d.ru
 5d.fi0m.ru
@@ -1230,6 +1234,7 @@
 719.99y401874.ru
 719.o411213.ru
 719.r46eu.ru
+71f9.fr0gpulse.ru
 72563.37i658094.ru
 72563.i327147.ru
 72563.lb3091.ru
@@ -7530,6 +7535,7 @@ corbelsep.com
 cordilleraescalera.com
 cordondating.xyz
 core-allowing.gl.at.ply.gg
+core.gl-1-tchgarden.ru
 core.gyrodesk.ru
 core.r6ms.pw
 corecommunityservices.tech
@@ -7784,8 +7790,10 @@ cremeroloe.com
 cremoviedobavkimoj53.net
 cresbuy.ga
 crest.m1stwander.ru
+crest.miragepad.ru
 crest.stormglade.ru
 crest.zenbloom.ru
+crest4.miragepad.ru
 crete-holidays.com.gr
 crevisoft.net
 crgevents.com
@@ -8467,6 +8475,7 @@ daviscollege.ie
 davo.serveftp.com
 davolutiion.kilu.de
 davuchi.eroea.com
+daw.gl-1-tchgarden.ru
 dawn-mirror.ru
 dawn.emberfrontier.ru
 dawn.jg-7-ra.online
@@ -9786,6 +9795,8 @@ ecger.site
 ech4today.store
 echat.net
 echo.embercross.ru
+echo.vorticeye.ru
+echo9.vorticeye.ru
 echocej.top
 echospheres.tech
 echozauber.ru
@@ -11335,6 +11346,7 @@ f1ct.6-w0y.ru
 f1g.x2lu.ru
 f1le.da5v.online
 f1le.pl-8-a.ru
+f1o.twistnova.ru
 f1oor.4-pytim-30-ua.ru
 f1r3d.biz
 f1rm.da5v.online
@@ -12248,6 +12260,7 @@ frostite.biz
 frostshiledr.com
 frostva.club
 frp-arm.com
+frqyt.gl-1-tchgarden.ru
 frt.8i-9.ru
 frtuiop.3-a.net
 frugaliasdelivery.com
@@ -12385,6 +12398,7 @@ fy.nqju-5.ru
 fy3s3x.xyz
 fyc.co.jp
 fyh-2.ru
+fyi67.fr0gpulse.ru
 fykqx.ru
 fyp.glitch-pact.ru
 fyzee.top
@@ -13173,6 +13187,7 @@ glenios.club
 glenjohhstones.pro
 glibbixzorptweezleprang.top
 glibtof.qpon
+glide.twistnova.ru
 glidfy.com
 glimmed.pics
 gllnar.com
@@ -13656,6 +13671,7 @@ greyistanbulhtm.com
 greyistanbulport.com
 greymirror.io
 gri.cyzukae.ru
+grid.bash-glider.ru
 grid.joltberry.ru
 grid.v0rt3xlab.ru
 gridnodeessentials.com
@@ -13965,6 +13981,7 @@ gymkecmkyuyoamim.xyz
 gymokcoqccqkgcsw.xyz
 gymossqgigmmwcse.xyz
 gymouiiiimwsaqqq.xyz
+gynar.twist-nova.ru
 gyoamegucgsqsaok.xyz
 gyogcogaaogggucw.xyz
 gyogowiakukeceeq.xyz
@@ -16643,6 +16660,7 @@ jessyeaibel.com
 jesunaememma.icu
 jesusmythicism.info
 jesyxcn3.beget.tech
+jet.bash-glider.ru
 jet.gyj0.ru
 jet.khoc9.ru
 jet.zimloop.ru
@@ -19238,7 +19256,10 @@ lookup2-42134.portmap.host
 loom.acidwrench.ru
 loom.deltasync.ru
 loom.m-0-on-forger.ru
+loom.vorticeye.ru
+loom3.fr0gpulse.ru
 loom5.rumblekin.ru
+loom7.fr0gpulse.ru
 loot-chem.com
 lootem.xyz
 lopdent.club
@@ -19436,6 +19457,7 @@ lyy.mi7x.ru
 lz.fe9v.ru
 lz.obvp-2.ru
 lz.obvp2.ru
+lz3y.gl1tchgarden.ru
 lzediamike.trade
 lzh.fr
 m-appsuite.com
@@ -22175,6 +22197,7 @@ nocturnalbreak.com
 nod.qvik5.ru
 node.hashmonero.com
 node.ky-4-x.ru
+node.vorticeye.ru
 node3.proxyjet.ru
 nodejsexpress.com
 nodetectshere.top
@@ -22250,6 +22273,8 @@ nouris.gr
 nouveau-site-message.livehost.fr
 nov-cleaner.gl.at.ply.gg
 nova-shadow.com
+nova.zenithsnap.ru
+nova1.st3elflare.ru
 nova7.polywhiz.ru
 novakremokasdogiosan.com
 novamint.website
@@ -23434,6 +23459,7 @@ orb.ju5q.ru
 orb.z3lu.ru
 orbiddendreams.shop
 orbit.proxyjet.ru
+orbit1.miragepad.ru
 orbit2.turbo-tap.ru
 orbitkamm.ru
 orbitkrone.online
@@ -24438,6 +24464,7 @@ phantom.cwsurf.de
 pharma--partners.com
 pharmakomplex.hu
 pharmaspan.com
+phase.bash-glider.ru
 phase5.kairosmix.ru
 phase7.proxyjet.ru
 phase7.zimloop.ru
@@ -25393,6 +25420,7 @@ q1.w1um.ru
 q1.xb4e7.ru
 q1.y-o7uu.ru
 q14.sxuj-7.ru
+q1f1p.twist-nova.ru
 q1h.tvil-0.ru
 q1kxvb7a02-90x0.shop
 q1me4.yw9a.online
@@ -28232,6 +28260,7 @@ serv-node4.top
 servb.zzz.com.ua
 serve1.mooo.com
 servecore.today
+server.dczu.dpdns.org
 server.dsl.ge
 server.geeksquadrenew.com
 server.plusloinart.org
@@ -28482,6 +28511,7 @@ sherwoodpest.com
 shfh-54092.portmap.host
 shieldcrypter.ru
 shieldled.us
+shift.bash-glider.ru
 shift.gyrodesk.ru
 shift2.glitchpact.ru
 shiftbd.com
@@ -29287,6 +29317,7 @@ spark7.sm0kewood.ru
 spark7.syc0aq8uy1.online
 sparkickwears.ga
 sparkle.c0sm1cweld.ru
+sparkle.twistnova.ru
 sparrow-cap-manufacturer.com
 sparrowjagwar.zapto.org
 sparrowwilla.biz
@@ -30005,6 +30036,7 @@ suu.sed-i.org
 suv.vekoloe8.ru
 suvw.qapyfyi0.ru
 sux.website
+suz.mirage-pad.ru
 suzhuomate.com
 sv.cv3a9.ru
 sv.mcyz4.ru
@@ -31424,6 +31456,7 @@ tr8.z-x0.ru
 tra.amajed.com
 tra.schermgebroken.nl
 trabalhoescolar7.ddns.net
+trace.st3elflare.ru
 tracer.rurs.net
 trachyw.qpon
 track-marble.gl.at.ply.gg
@@ -32875,6 +32908,7 @@ uwhfdsndcjdn.tk
 uwielbienie.com
 uwoxkmwul.com
 ux.ke9t.ru
+ux.twist-nova.ru
 ux.xijoxou.ru
 uxasdaxjiqrk.com
 uxg.n5ol.ru
@@ -33084,6 +33118,7 @@ v30.ldef-4.ru
 v308875.hosted-by-vdsina.ru
 v31.7si-s.ru
 v320560.hosted-by-vdsina.ru
+v3d1.st3elflare.ru
 v3d7.yw9a.online
 v3n.2h7-o.ru
 v3n2.opal-hollow.ru
@@ -33276,6 +33311,7 @@ ve1l.uht3o.online
 ve69.info
 vector.v3ctorplum.ru
 vector.zapkinetic.ru
+vector.zenithsnap.ru
 vectorblitz.ru
 vectto.bunkernet.club
 vediclibrary.online
@@ -33373,6 +33409,7 @@ vi-1.icu
 vi.dgod.ru
 vi.sgdi-6.ru
 vi.t-65-p.ru
+vi.twistnova.ru
 viadigm.com
 viaialater.eu
 viancaplast.com
@@ -33974,6 +34011,8 @@ wave.m-4-rj.ru
 wave.mab7o.online
 wave.ndoq-0.ru
 wave.rivermote.ru
+wave.zenithsnap.ru
+wave6.gl1tchgarden.ru
 waveo.syc0aq8uy1.ru
 waxxiv.com
 way.cawyfie51.ru
@@ -35739,6 +35778,7 @@ y5.hnaq6.ru
 y5.yjor.ru
 y55ut8.pro
 y5fw.4-l8u.ru
+y5i1.st3elflare.ru
 y5n.0ouuky0.ru
 y5n4.da6v.online
 y5rb.op76.online
@@ -35796,6 +35836,7 @@ y9bm.5-sy77.com
 y9lg.9-32p.ru
 y9p.coralglanz.ru
 y9t3.98g-bj.ru
+y9w7.gl-1-tchgarden.ru
 ya.g-vox.ru
 ya.kfko-3.ru
 ya.nyfc.ru
