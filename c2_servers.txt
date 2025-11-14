@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-14 00:11:25 UTC
-# Total domains: 37207
+# Generated: 2025-11-14 02:15:26 UTC
+# Total domains: 37242
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2356,6 +2356,7 @@ adler.anvilklee.ru
 adler.eaglekrone.ru
 adler.ferretpfad.ru
 adler.granitebach.ru
+adler.ivyvale.ru
 adler.willowufer.ru
 admadmin.com
 admaris.ir
@@ -5442,6 +5443,7 @@ blink.v1b3forge.ru
 blinkerz.ml
 blintepeeste.org
 blisurn.top
+blitz.elmfalter.ru
 blitz.ironklippe.ru
 blitz.sparrowdock.ru
 blksssd.ydns.eu
@@ -9220,6 +9222,7 @@ dorblu99.net
 dorevilokpadjghs.com
 dorimeinserino.shop
 dorn.ironklippe.ru
+dorn.slatefalke.ru
 dorn.steelpfad.ru
 doroego.co.in
 doroweed.co.in
@@ -10086,6 +10089,7 @@ eiche.boargrund.ru
 eiche.brassgipfel.ru
 eiche.ibexweald.ru
 eiche.oryxbucht.ru
+eiche.platinumvale.ru
 eiche.quartzhain.ru
 eicsioywskgmuwiy.xyz
 eicwwsiwwikuyaeu.xyz
@@ -11508,6 +11512,7 @@ faithnomore.shop
 fakssfriday.hc0.me
 falatrade.com
 falgahnim.com
+falke.thrushmere.ru
 falkekombiservisi.net
 falklandexportinc.com
 fallencrafts.info
@@ -11937,6 +11942,7 @@ fj.xijoxou.ru
 fjd.da6v.ru
 fjo.be
 fjoersm.beget.tech
+fjord.ashriver.ru
 fjord.cioudbr1nk.ru
 fjord.copperhang.ru
 fjord.elmquarry.ru
@@ -13242,6 +13248,7 @@ glade.nimbusforge.ru
 gladeeiche.ru
 gladliving.com
 glanz.ibexweald.ru
+glanz.titanbirch.ru
 glassgovernment.info
 glauco69.no-ip.org
 glaucoalmeida.com.br
@@ -13255,6 +13262,7 @@ gleis.atlasufer.ru
 gleis.cometpfad.ru
 gleis.driftkrone.ru
 gleis.hearthwinkel.ru
+gleis.ivyvale.ru
 glen.g0ldenspire.ru
 glenios.club
 glenjohhstones.pro
@@ -14427,7 +14435,9 @@ had.n4ym.ru
 hadeca.esy.es
 hadfanawass.com
 hafedabdall.zapto.org
+hafen.brinewald.ru
 hafen.dovemantel.ru
+hafen.rowanstead.ru
 hafen.wrenhafen.ru
 hag.rqyp1.ru
 hag505.com
@@ -17469,6 +17479,7 @@ kamkguwakwcamoya.xyz
 kamm.knollhafen.ru
 kamm.ny4lp8.ru
 kamm.starfiare.ru
+kamm.titanbirch.ru
 kamm.xenonridge.ru
 kammyygauqcwcukw.xyz
 kampusotelcilik.com
@@ -17968,6 +17979,7 @@ kld.tov4.ru
 klee.brassgipfel.ru
 klee.cometpfad.ru
 klee.embertarn.ru
+klee.goldtalon.ru
 klee.orionfeld.ru
 klee.walnutsteg.ru
 kli.sojokiy.ru
@@ -18147,6 +18159,7 @@ kopolonimu.info
 koq-0.ru
 koreanbeautyexpert.com
 korkutgroup.com
+korn.ashriver.ru
 korney-chukovsky.su
 korovka.name
 korrrrrrnnnnqlmdzhnz.edns.biz
@@ -18212,6 +18225,7 @@ krompres.tk
 krone.argonbucht.ru
 krone.eaglekrone.ru
 krone.echohang.ru
+krone.slatefalke.ru
 kronocloud.top
 krork.xyz
 krornet.net
@@ -19015,6 +19029,7 @@ licensechecker.pw
 liceobilinguejuvenil.edu.co
 lichfieldlabour.co.uk
 licht.argonbucht.ru
+licht.boulderfield.ru
 licht.cioudbr1nk.ru
 licht.citrinewald.ru
 licht.oryxbucht.ru
@@ -21047,17 +21062,21 @@ moonmansbotnet.com
 moor.argonbucht.ru
 moor.atlasufer.ru
 moor.beechmoor.ru
+moor.brinewald.ru
 moor.ci2udforge.ru
 moor.frostgipfel.ru
 moor.jasperhain.ru
 moor.knollhafen.ru
+moor.platinumvale.ru
 moor.sageufer.ru
 moor.sparrowdock.ru
 moos.echohang.ru
 moos.embertarn.ru
 moos.granitebach.ru
+moos.ivyvale.ru
 moos.ny4lp8.ru
 moos.swiftgasse.ru
+moos.thrushmere.ru
 moos.willowufer.ru
 mootube.fans
 mooviewatch.life
@@ -21805,6 +21824,7 @@ nacht.m00nweaver.ru
 nacht.owlflug.ru
 nacht.shadowtal.ru
 nacht.stormgrat.ru
+nacht.yewhollow.ru
 nacosti.go.ke
 nadbabbabefnefmf.su
 nadidetadllar.com
@@ -21920,6 +21940,7 @@ ne666an.xyz
 nearreality.io
 nearsic.top
 neat.kuryc7yy1.ru
+nebel.acornhollow.ru
 nebel.driftkrone.ru
 nebel.eiderquelle.ru
 nebel.prairiewolf.ru
@@ -24555,6 +24576,7 @@ pfad.crimsonwald.ru
 pfad.elmquarry.ru
 pfad.embertarn.ru
 pfad.stoatgasse.ru
+pfad.yewhollow.ru
 pfad.zirconweg.ru
 pfanaerstill.com
 pfandfrei.de.cm
@@ -26750,6 +26772,7 @@ ratrithee.ddns.net
 ratro.usa.cc
 ratty.mywire.org
 ratuinopurene.pw
+rauch.ashriver.ru
 rauch.flintwerder.ru
 rauch.hearthwinkel.ru
 rauch.nimbusforge.ru
@@ -27471,6 +27494,7 @@ run.gesybue11.ru
 run.pykokiu43.ru
 run.quladao75.ru
 run0.cc
+rune.acornhollow.ru
 rune.ic0n1cforge.ru
 rune.jasperhain.ru
 rune.l2-1-w2.ru
@@ -29715,6 +29739,7 @@ staffstylos.com.ar
 stag.cukurukuk.fun
 stagaman.comyr.com
 staging.germ-ac.com
+stahl.goldtalon.ru
 stain.no-ip.biz
 stalbanspostboxes.com
 stalegrinder.com
@@ -29839,6 +29864,7 @@ stefanchik.com
 stefanie-denker.de
 stein.anvilklee.ru
 stein.badgerfels.ru
+stein.boulderfield.ru
 stein.flintwerder.ru
 stell.domainmedicalhha.com
 stellarblick.ru
@@ -29855,9 +29881,11 @@ stepvss.qpon
 stepwxv.top
 stern.1ittleriver.ru
 stern.atlasufer.ru
+stern.brinewald.ru
 stern.emberkranz.ru
 stern.hearthwinkel.ru
 stern.pixelbuche.ru
+stern.platinumvale.ru
 stern.prairiewolf.ru
 stern.quartzhain.ru
 stern.willowufer.ru
@@ -30777,11 +30805,13 @@ tatle.net
 tatry-ubytovanie.com
 tattvahardware.com
 tatvanto.ug
+tau.elmfalter.ru
 tau.ibexweald.ru
 tau.polarhafen.ru
 tau.sprigkompass.ru
 tau.steelpfad.ru
 tau.swiftgasse.ru
+tau.titanbirch.ru
 tauedaiednaibduf.ws
 taughtcom.ga
 tavana-es.com
@@ -32284,12 +32314,14 @@ uf8.qcet8.ru
 ufb.b9sa.ru
 ufdebrouwer.be
 ufel.ember-cross.ru
+ufer.acornhollow.ru
 ufer.anvilklee.ru
 ufer.cedarsteg.ru
 ufer.eiderquelle.ru
 ufer.otterweg.ru
 ufer.ravenkamm.ru
 ufer.shadowtal.ru
+ufer.thrushmere.ru
 ufer.wrenhafen.ru
 ufer.zirconweg.ru
 ufg-corp.com
@@ -34092,6 +34124,7 @@ wald.l2-1-w2.ru
 wald.martenhain.ru
 wald.nickelweide.ru
 wald.oakensiegel.ru
+wald.rowanstead.ru
 waletexas542.biz
 walkerholic.xyz
 walkersvillecomputers.com
@@ -34225,6 +34258,7 @@ we.xrly-8.ru
 weacumkguscewsku.xyz
 weacwmqwaiaqouqq.xyz
 weafrc.asia
+weald.slatefalke.ru
 wealthscope.xyz
 wealthstrategyflow.xyz
 weamyyeoyoqsumks.xyz
@@ -34343,6 +34377,7 @@ weisqkcuskossucm.xyz
 weiss.elmquarry.ru
 weiss.ferretpfad.ru
 weiss.starfiare.ru
+weiss.yewhollow.ru
 weiucaakagswsaiu.xyz
 weiuwuqyocasaaqe.xyz
 wekauykisssmaaoe.xyz
