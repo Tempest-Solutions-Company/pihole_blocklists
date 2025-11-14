@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-11-14 02:15:26 UTC
-# Total domains: 6651
+# Generated: 2025-11-14 08:21:03 UTC
+# Total domains: 6678
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -772,6 +772,7 @@ apple-appcare-service.com
 apple-securityiphone-icloud.com
 appledoreholiday.com
 application-document.com
+application-review.org
 appmacosx.com
 appmarket.sbs
 appme.store
@@ -1475,6 +1476,7 @@ casamuseoayerbe.co
 casanovarenovations.com
 cascadiaeye.shop
 cashclickmin.online
+cashorix.xyz
 cashraven.online
 casper15.xyz
 caspercan.com
@@ -1554,6 +1556,7 @@ chainsecure.world
 chalnlizt.org
 championconcretepump.site
 changelifenow.online
+channel-review.org
 chaoimhpayah.com
 chaoneka.com
 charge64.de
@@ -1732,6 +1735,7 @@ cloudlifesolutions.com
 cloudmention.icu
 cloudrepo.us
 cloudservicecheck.cc
+cloudwardena.com
 cloudwebstart.net
 cloudworldst.net
 cloufdtf.com
@@ -1790,6 +1794,7 @@ company-ticket.com
 companyname-my-salesforce.com
 companyname-okta.com
 completecareclinics.org
+compliance-review.org
 compr-app.top
 compressioncare.site
 comptonsupply.com
@@ -2734,12 +2739,15 @@ fitteknull.com
 fivelittlemonkeys.fun
 fiveoakstuscaloosa.com
 fiwbyjhu.ru
+flaezguerad.com
+flaezguered.com
 flairsyt.shop
 flapawer.com
 flash-win.com
 flashserve.store
 flatrategrievances.com
 flaxergaurds.com
+flcreagurade.com
 fleebunga.sbs
 fleedy.com
 fleemigratorsolutions.com
@@ -2747,15 +2755,19 @@ fleetcarrier.net
 fleetfedx.com
 fleetgo0.com
 fleetservice.info
+flenieregurd.com
 flexiraq.world
+flheregurend.com
 flirt.ws
 flirten24.net
 flisshill.com
 flitsyourmoney.com
 flmeatery.co.za
+flnaresgurard.com
 flowersandmoreboutique.com
 flowment.io
 flrstrade.com
+flsaregursd.com
 flshmcjs.info
 flugonvape.com
 fluraresto.me
@@ -2880,6 +2892,7 @@ gabpauto.com
 gabyshomeimprovements.com
 gadgetnesthub.online
 galaxans.com
+galaxyswapper.pro
 galerie53.com
 galleryz.online
 galyqaz.com
@@ -3515,6 +3528,7 @@ imdj5674pankou.com
 img-statics.com
 img1-secure.com
 immadeinhisimage.com
+imobiliariaricardoparanhos.com
 impart.online
 importenptoc.com
 impossible-quiz.online
@@ -4759,6 +4773,7 @@ ouaefgoiafehoafeughoaufeoiuafseghgouaesf.faith
 oubaobet3.vip
 oubaobet879.com
 oubaovip158.net
+oultimojogo.com
 ouryclarkint.com
 ousia.kitchen
 outdooutcome.com
@@ -4934,6 +4949,7 @@ pointguard.ventures
 points2success.com
 pokojewewladyslawowie.pl
 polatfamilyengine.com
+policy.video
 pollymaniya.ru
 polovoiinspektor.shop
 polyglass.com
@@ -5268,6 +5284,7 @@ rodillosciclismo.com
 rokomariranna.com
 roksit.net
 rol.com
+romancecristao.net.br
 romsii.shop
 roninachain.com
 ronnin-v2.com
@@ -5730,6 +5747,7 @@ stratimasesstr.com
 streamrestoration.com
 streamtecheng.com
 streamxpert.net
+strike-submit.com
 strtz.site
 sts-vodafone.com
 sts.com.sa
@@ -5742,6 +5760,7 @@ studyuts.online
 stvwell.online
 styleperspaged.xyz
 sublimelbc.store
+submit-appeal.com
 suburbanexterminating.com
 suegypt.com
 suggestutterly.com
@@ -5764,6 +5783,7 @@ superseriesscores.com
 supershuttles.co.za
 superstar0601.dev
 supfoundrysettlers.us
+support-review.org
 surgebytes.net
 surirapatt.com
 surverymonkey.co.uk
@@ -5841,6 +5861,7 @@ tci-usa.shop
 tcm-supplyllc.com
 tcp64.de
 tdoxycbf.icu
+tdsworkout.com
 teacheronline.online
 teambeholders.com
 teamjandm.com
@@ -5912,6 +5933,7 @@ thefatherhoodwing.space
 thefoad.com
 thegamemasters.nl
 thegreatcoursesclassiccollection.com
+theguardshield.com
 thehairplug.shop
 thehealthhealer.store
 thehippiedippi.site
@@ -6077,10 +6099,12 @@ triple-network.com
 tripmall.online
 triumphsic.org
 trkitok.com
+tropicalexecutivehotel.com
 troyanh.pw
 truco.online
 true-english.online
 truetok.site
+trust-review.org
 trust-walles.com
 try-databoss.us
 trytembo.io
@@ -6432,6 +6456,7 @@ winstonandfriendz.ca
 winstonmartin.com
 wintervibestour.com
 wireoneinternet.info
+wishhotelbahia.com
 wishm.shop
 withbible.com
 withclier.com
@@ -6507,7 +6532,9 @@ xn--0xv635egwf.xn--fiqs8s
 xn--i2ej6ba0alj4stb9o.com
 xn--skp-lma2h.com
 xn--sukabt-m4a.com
+xoiiasdpsdoasdpojas.com
 xowinewhiskey.com
+xpoalswwkjddsljsy.com
 xpoda.com
 xq0.site
 xqqqpic.pics
