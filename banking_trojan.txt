@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-11-27 00:09:17 UTC
-# Total domains: 6800
+# Generated: 2025-11-27 05:14:37 UTC
+# Total domains: 6830
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2460,6 +2460,13 @@ efficacyhost.com
 efij.top
 efx2blogs.com
 eg-monitoring.com
+egyptpost.baby
+egyptpost.bond
+egyptpost.icu
+egyptpost.pics
+egyptpost.quest
+egyptpost.rest
+egyptpost.skin
 eha1.top
 ehubgame.com
 eidnfilecloud.com
@@ -2674,6 +2681,26 @@ fastgames-bog-itl.com
 fastpayy-denizbank.com
 fastpool.xyz
 fat-doc-online.com
+fawry.autos
+fawry.baby
+fawry.boats
+fawry.bond
+fawry.cfd
+fawry.click
+fawry.club
+fawry.cyou
+fawry.help
+fawry.lat
+fawry.life
+fawry.lol
+fawry.love
+fawry.mom
+fawry.qpon
+fawry.quest
+fawry.rest
+fawry.sbs
+fawry.skin
+fawry.top
 fbcounselors.com
 fbetlixgee.eu
 fbpsikd.click
@@ -3857,6 +3884,7 @@ juil.top
 julete.net
 julete.xyz
 juliameladin.de
+jumia.cfd
 jump-finance.online
 jump-finance.tech
 jumpmind.com
@@ -6124,6 +6152,7 @@ tikamoon.online
 tikcok.com
 tikitok-goolges.sbs
 tikpremplaymarktuzb.sbs
+tikt.help
 tiktok-down.com
 tiktok18.world
 tiktokgplya.sbs
@@ -6292,6 +6321,7 @@ unfl3.top
 unfo3.top
 ungryo.shop
 uninortediverso.com
+unionpay.cfd
 unitecharabia.com
 unitedcerebralpalsy.website
 unitedfamily.org
