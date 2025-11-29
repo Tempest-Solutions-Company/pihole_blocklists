@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-29 00:51:07 UTC
-# Total domains: 41326
+# Generated: 2025-11-29 05:55:59 UTC
+# Total domains: 41368
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -29,6 +29,7 @@
 013nat.net
 017fk.ru
 01efv.odd-kraken.ru
+01o.fal1ow7an.ru
 02616secureserver.com
 028.11u812580.ru
 028.7i091.ru
@@ -447,6 +448,7 @@
 1ojva.g0sslamp.ru
 1olj.glitch-pact.ru
 1on.heronturm.ru
+1ot1.fal1ow7an.ru
 1p0rtal.com
 1p2.re7x.ru
 1pc1wdstwjv4p.cfc-execute.gz.baidubce.com
@@ -488,6 +490,7 @@
 1wd2k.ru
 1wt.wildm1nt.ru
 1y.fe-k2.ru
+1yc.commi-5-sfa-7-t.ru
 1yd0a.pulse-knob.ru
 1yjp.ru
 1yqf.c1earwave.ru
@@ -656,6 +659,7 @@
 2pb.mt3o4.ru
 2pq.z2q2.ru
 2q.fid1.ru
+2qj0g.esca1t3ust.ru
 2ql.dunn-0-en-7-el.ru
 2qn80.fl0wbud.ru
 2rf.1r55.ru
@@ -668,10 +672,12 @@
 2tj.fp-0-y-9.ru
 2tkvw.twist-nova.ru
 2tx.kj-4-o-0.ru
+2u.aud1mi5s.ru
 2u8.si9a.ru
 2v.ty9a.ru
 2v1.lumentwist.ru
 2vlc.l.time4vps.cloud
+2vx.bowin1nca5.ru
 2w.plx-5.ru
 2w1.527w.ru
 2wa.stormblink.ru
@@ -1241,6 +1247,7 @@
 5n.d55u5.ru
 5n.kaq51.ru
 5n.kqag-6.ru
+5nafr.esca1t3ust.ru
 5nu.8786.ru
 5nyo.zap-kinetic.ru
 5o.do-k3.ru
@@ -1613,6 +1620,7 @@
 7ol4i.a5t1gstudy.ru
 7p.meqt.ru
 7p.top
+7p53k.commi-5-sfa-7-t.ru
 7plpf.spryvolt.ru
 7q.knackquill.ru
 7q7-i.ru
@@ -1626,6 +1634,7 @@
 7r.ynmh-8.ru
 7rcl.o-b-79.ru
 7rj.fe7a.ru
+7ruo5.aud1mi5s.ru
 7sd.stoner0ck.ru
 7sfb5.top
 7t.t4mo.ru
@@ -4642,6 +4651,7 @@ auburnchamber.net
 auctlon-uk.com
 audia3i.com
 audio-soc.gl.at.ply.gg
+audio.aud-1-mi-5-s.ru
 audiosv.com
 audioux.qpon
 audit.amazingmail.biz
@@ -4671,6 +4681,7 @@ auf.nelypuu5.ru
 aufheuafoaheuf.su
 augtecks.ga
 auldlxm.courses
+aulf.po1ba8esett.ru
 aulongxia.com
 auoegfiaefuageudn.at
 auoegfiaefuageudn.be
@@ -4890,6 +4901,7 @@ axelerode.pw
 axelerode.site
 axiabjj.com
 axibbyg.locker
+axis.st0rmbyte.ru
 axiscx.com
 axiumcontrol.com
 axm.mjg1.ru
@@ -6612,6 +6624,7 @@ brr-21.ru.shn-host.ru
 brt.velyzeu3.ru
 brther-group.com
 bru5h.5-juzeb-0-io.ru
+bru81.aud-1-mi-5-s.ru
 brucebaner2029.duckdns.org
 bruke.0akstream.ru
 bruke.s1lvergate.ru
@@ -6926,6 +6939,7 @@ c0u1d8.2-pukeg-36-oy.ru
 c0ve.n-4-ke.ru
 c0z7.k-8ip.ru
 c1.di5r.ru
+c1.windcrest.ru
 c1045.top
 c1265.top
 c1302.top
@@ -7454,6 +7468,7 @@ cdn.mailinfo.life
 cdn.messager.my
 cdn.myolt.my.id
 cdn.relatec.it.com
+cdn.rs-dns.sbs
 cdn.zhuqiy.top
 cdndz.messager.my
 cdnjscookies.top
@@ -8691,6 +8706,7 @@ corbelsep.com
 cordilleraescalera.com
 cordondating.xyz
 core-allowing.gl.at.ply.gg
+core.bowin-1-nca-5.ru
 core.gl-1-tchgarden.ru
 core.gyrodesk.ru
 core.n0v0se1prew.ru
@@ -9157,6 +9173,7 @@ customers-commander.gl.at.ply.gg
 customers-invoice.xyz
 custpub.com
 custsupport1000.com
+custv.bowin-1-nca-5.ru
 cut-carry.gl.at.ply.gg
 cut.tov4.ru
 cutatms.top
@@ -9441,6 +9458,7 @@ d1hs.7l-0b.ru
 d1m.r7va.com
 d1o.j935.ru
 d1ys4.zo4n.online
+d2.bowin-1-nca-5.ru
 d2.cup7.ru
 d2.i4-27k.ru
 d2.pen-1-sp-7-edef.ru
@@ -10268,6 +10286,7 @@ djurres.nl
 djzbgu.mobi
 dk.fokymeu.ru
 dk.mintspr1ng.ru
+dk2799.com
 dk2fp.ju-4-en-pare-1.ru
 dkhb.xyz
 dkkmfd-vko.kz
@@ -10864,6 +10883,7 @@ dy.mxta-6.ru
 dy.nqyf7.ru
 dy.z15d.ru
 dy1ov.ru
+dy6288.com
 dy6ap.ru
 dyarkaka.no-ip.biz
 dybadaktakta.had.su
@@ -13016,6 +13036,7 @@ falke2.g0ldmint.ru
 falkekombiservisi.net
 falklandexportinc.com
 falkonstertikololas.com
+fall.po1ba8esett.ru
 fallencrafts.info
 fallmusicfestival.com
 falofao.cyou
@@ -13845,6 +13866,7 @@ fp.realassetsrealtors.com
 fpbqrouphaiti.com
 fpqr.voxuzeo8.ru
 fpt.bdkj.com.ng
+fpx0w.bowin-1-nca-5.ru
 fpzu.ic0n1cvalley.ru
 fq.wdax1.ru
 fq8.r1ver.ru
@@ -14030,6 +14052,7 @@ ftytr.cf
 ftz.gj-2-i-3.ru
 fu.nqju-5.ru
 fu4.h1ddenlake.ru
+fu5599.com
 fu6.fs8e0.ru
 fucheun.com
 fuchsiasourcing.com
@@ -14075,6 +14098,7 @@ fun.xudofiu02.ru
 function-assembled.gl.at.ply.gg
 functionalrejh.com
 fund-eyes.gl.at.ply.gg
+fund.aud-1-mi-5-s.ru
 fundacionairesdelfuturo.com
 fundbridgegroup.xyz
 fundmypageant.com
@@ -14338,6 +14362,7 @@ g8.ye-t5c.ru
 g8f.opal-hollow.ru
 g8k1.08u073852.online
 g8p.glacierbruecke.ru
+g8r.windcrest.ru
 g8wy.9ha-t.ru
 g8z.fk-9-e-2.ru
 g8z1.67tf.online
@@ -18178,6 +18203,7 @@ iqkwiuwyooeyyuui.xyz
 iqkwqyegoeskcmei.xyz
 iqkwucggmciiwmwm.xyz
 iqkycwgigqmuiagw.xyz
+iqm.commi-5-sfa-7-t.ru
 iqmeakkeygeeegga.xyz
 iqmeasuccsssiggi.xyz
 iqmgkuseaeoiucaq.xyz
@@ -18631,6 +18657,7 @@ j1de9.re7x.online
 j1nxfyr3.su
 j1p7q.b6je.online
 j2.sne-4-p.ru
+j2.st0rmbyte.ru
 j2.stix-2.ru
 j25dr987d.shop
 j2hnet.duckdns.org
@@ -19085,6 +19112,7 @@ jpstan.com
 jpuityvakjgg.com
 jpv.dlun7.ru
 jq.u-v9.ru
+jq8ob.bowin1nca5.ru
 jqk.ravenklause.ru
 jqp.wi7e.ru
 jquery.min-js.site
@@ -21604,6 +21632,7 @@ lmpersonaltraining.com
 lmpulsefashion.net
 lmtdb.run
 lmy0.clear-fog.ru
+ln.esca1t3ust.ru
 ln.qzad3.ru
 ln.yjor.ru
 lnabeuffhshsueur.to
@@ -23299,6 +23328,7 @@ mist.sne-4-p.online
 mist.st0nebyte.ru
 mist.st0rmleaf.ru
 mist.thornecho.ru
+mist.windcrest.ru
 mist0.icy-moth.ru
 mist3.driftl1ne.ru
 mist4y.copperweide8.ru
@@ -27752,6 +27782,7 @@ plumbersincali.com
 plumberspro.us
 plume.vexlatch.ru
 plume.wduh-8.ru
+plume.windcrest.ru
 plurcfq.top
 plush.lizqa.online
 plustech.gr
@@ -28317,6 +28348,7 @@ ptrc.pl
 pu.briarhaven.ru
 pu.khhu-8.ru
 pu.stix-2.ru
+pu1785.com
 pua4.spindleway.ru
 pub-00f10b47dd684622a2ee8483d03099ba.r2.dev
 pub-1-icb-0-at.ru
@@ -30562,6 +30594,8 @@ rootyar.messager.my
 rootyas.messager.my
 ropaketsed.ru
 rope.0zvel.online
+rope.po1ba8esett.ru
+rope3.fal1ow7an.ru
 rope5.gethe-4-e.ru
 rophenreswi.ru
 roprostkoemnsuper200.com
@@ -30738,6 +30772,7 @@ ruon1on.ru
 rupoc.beget.tech
 rupper9.duckdns.org
 rur.qenogia7.ru
+rur2.fal1ow7an.ru
 rus99.net
 rusav1.icu
 rusgym.com
@@ -33148,6 +33183,7 @@ srimedhasoft.com
 sriuedueiuiefgif.su
 sriuedueiuiefgy.in
 sriusfedon.bedavahost.biz
+srjxi.aud-1-mi-5-s.ru
 srnartevent-lb.com
 srndp.press
 srq-project.eu
@@ -35085,6 +35121,7 @@ tlprivatecollection.com
 tls.psigestioncomercial.com.ar
 tls.sharesoffices.com
 tm.aclz9.ru
+tm.bowin1nca5.ru
 tm7.z413y.ru
 tma.penodoa.ru
 tmaster.com.ua
@@ -35395,6 +35432,7 @@ trail.skym0tion.ru
 trail.ventrill.ru
 trail.wildcr3st.ru
 trail0.regenwald.ru
+trail2.esca1t3ust.ru
 trail2.pen-1-sp-7-edef.ru
 trail2.prairieforge.ru
 trail3.brimhopper.ru
@@ -36100,6 +36138,7 @@ ufg-corp.com
 ufhfisdoff8sdfk.su
 ufsbrt.online
 ufsbrt.site
+ufsu.commi-5-sfa-7-t.ru
 ufudf8fjoidiosoi.co.at.nr
 ug.andreeamunteanu.com
 ug.rilefoo8.ru
@@ -36748,6 +36787,7 @@ utoboolusho2.zapto.org
 utomation-tools-78123.bond
 utps.live
 uttercleaningpasadenamd.com
+uu.po1ba8esett.ru
 uuaaeaguysmyoqgq.xyz
 uuaeacqsicywogsm.xyz
 uuagiwmuoiuacueo.xyz
@@ -37223,6 +37263,7 @@ vajskiyluwh.com
 vakarpishkov.magnaart.ru.fbweb.ru
 valdez.in
 vale-sanete-investment.sbs
+vale.bowin1nca5.ru
 vale.cioudharbor.ru
 vale.lakespry.ru
 vale.le-3-nsnet-7-e.ru
@@ -38748,6 +38789,7 @@ wm.ktox5.ru
 wm.oc57y.ru
 wm.vxof.ru
 wm.xer-o.ru
+wm1wu.aud1mi5s.ru
 wm9.z-72.ru
 wmasters.ca
 wmjlive.top
