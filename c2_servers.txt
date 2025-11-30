@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-11-30 13:25:29 UTC
-# Total domains: 42045
+# Generated: 2025-11-30 19:30:44 UTC
+# Total domains: 42096
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4230,6 +4230,7 @@ araphat.thewisemen.ml
 araujosubastas.com.uy
 arb0r.fr
 arbistars.com
+arc9m5.mar5hma1narc.ru
 arcadiatechnology.co
 arcantos.y55.eu
 arcelikpendikservisi.gen.tr
@@ -5139,6 +5140,8 @@ b2blnd.com
 b2bseller.ga
 b2i.tvil-0.ru
 b2m.3pea2.ru
+b2q5ct.br-2-qin-5-pect.ru
+b2q7pt.br2qin5pect.ru
 b2vf.vukm9.ru
 b2vt.plig5.ru
 b2vu.7-5wd.ru
@@ -6081,6 +6084,7 @@ bl-1-zpond.ru
 bl.888-c.ru
 bl.f8t6m.ru
 bl.g6i2.ru
+bl0stw.windf1re.ru
 bl1nkswitch.ru
 bl2eu.ember-glade.ru
 bl3nda.glimmerkranz.ru
@@ -6475,6 +6479,7 @@ bq.u84t.ru
 bq.v7e1v.ru
 bq.w9k6m9.ru
 bq.x-ceu8.ru
+bq5ect.br2qin5pect.ru
 bq6.cdn-2-45.ru
 bqet-3.ru
 bqk.aspenatlas.ru
@@ -6671,6 +6676,8 @@ browserplugin.duckdns.org
 browsertools.shop
 brp.dzem4.ru
 brpt.xyz
+brq2n7.br-2-qin-5-pect.ru
+brq5n2.br2qin5pect.ru
 brr-21.ru.shn-host.ru
 brt.velyzeu3.ru
 brther-group.com
@@ -6823,6 +6830,7 @@ buriallifeinsurancepolicies.com
 burimche.net
 burkeax.bet
 burkinafaso.duckdns.org
+burn0t.firew0rd.ru
 buroodin.com
 burst.mysticdrop.ru
 burst.rift-cog.ru
@@ -7016,6 +7024,7 @@ c1m.sa8yn.ru
 c1m.w135v.ru
 c1m8q.5x7u.online
 c1nx.93i197934.online
+c1ow7d.c-1-othwou-1-d.ru
 c1p7mx.tape-5-x.ru
 c1pze.98g-bj.ru
 c1t7.ironbucht.online
@@ -8264,6 +8273,7 @@ cl1ffo.mistpeak.ru
 cl22567.tmweb.ru
 cl29183.tmweb.ru
 cl3an45u.biz
+cl7twd.c-1-othwou-1-d.ru
 cl86669.tmweb.ru
 clad0n.lynchstem.ru
 claeverbrooks.com
@@ -9529,6 +9539,7 @@ d0k.565fit.ru
 d0lphin1337.xyz
 d0m7.9bp6i.ru
 d0mu.60e533569.online
+d0rux5.c-1-othwou-1-d.ru
 d0ugh7.kneadloop.ru
 d1.465-w.ru
 d1.h934.ru
@@ -11341,6 +11352,7 @@ ec.gethe-4-e.ru
 ec.xr6u9.ru
 eca90.net76.net
 ecger.site
+ech0lk.s1lentlake.ru
 ech0ly.soundg0.ru
 ech4today.store
 echat.net
@@ -11867,6 +11879,7 @@ emakalem.com
 emakgroup.de
 emanticvalue.com
 emaragogi.com.br
+emb3rz.windf1re.ru
 emballeplus.com
 embarasstor.com
 ember-cloud.ru
@@ -13551,6 +13564,7 @@ fiqueforadacaixa.com
 fiqyg2oa3.ru
 fir.itermed.ar
 fir.thesmarthustle.info
+fir3wd.firew0rd.ru
 fire.4y3e4.ru
 fire.8y7o4.ru
 fire.bvuf-2.ru
@@ -13681,6 +13695,7 @@ fkyhelp.top
 fl.gi0x.ru
 fl.h73n.ru
 fl.he.02.node.poi.best
+fl0ckz.black5wan.ru
 fl0wbyte.ru
 fl3uss.test6yvarn1sh.ru
 fl3xyinc.com
@@ -13710,6 +13725,7 @@ flare.spiintforge.ru
 flare.sunb1aze.ru
 flare.suncrest0n.ru
 flare.wildshift.ru
+flare1.windf1re.ru
 flare5.sunfold.ru
 flare9.skyf1ame.ru
 flaschat.com
@@ -13848,6 +13864,7 @@ foengel.com
 fofatot.ddns.net
 fofogogo23http.no-ip.biz
 fog1sy.shad0wmint.ru
+fog7mn.mar-5-hma-1-narc.ru
 fogants.info
 fogbed.xyz
 foggy.mistytrai1.ru
@@ -14558,6 +14575,7 @@ gale.uht3o.online
 gale.x-2-lu.ru
 gale2.rock-bay.ru
 gale7x.windstack.ru
+gale9f.windf1re.ru
 galen-mpl15aag.rest
 galeria.powiat-lancut.com.pl
 galijdanova.myjino.ru
@@ -15340,6 +15358,7 @@ glut.saffronhafen.ru
 glutbfw.top
 glutebikes.top
 glv7.marble-tug.ru
+glyph9.firew0rd.ru
 glyphsteg.ru
 gm.sx-2-u-0.ru
 gm.velyzeu3.ru
@@ -17099,7 +17118,9 @@ hm.x-7daf.ru
 hm.xbiq2.ru
 hm.zk5e7.ru
 hm.zv1a0.ru
+hm5ark.mar-5-hma-1-narc.ru
 hmaplus.com
+hmarc7.mar5hma1narc.ru
 hmd.gl8r.ru
 hmn.voxuzeo8.ru
 hmno.somipaa9.ru
@@ -17423,6 +17444,7 @@ hurdln.asia
 hurricanspin.ru
 hurriyetilanservisi.gen.tr
 hush5.bl1zpond.ru
+hush9r.s1lentlake.ru
 hushkush.net
 hussproject.no-ip.org
 hustlegang.website
@@ -21000,11 +21022,13 @@ l0dd0e7a.justinstalledpanel.com
 l0e78d44.justinstalledpanel.com
 l0gs.re-t-0.ru
 l0ng.ru
+l0ng1e.l-0-ngpo-1-e.ru
 l0re.n-4-ke.ru
 l0se.ju-5-q.ru
 l0t8.1r55.online
 l0v.driftmeadow.ru
 l0wer.5-milod-931-o.ru
+l0xp1e.l-0-ngpo-1-e.ru
 l1.xr7a0.ru
 l10992ea.justinstalledpanel.com
 l10n.m-4-rj.ru
@@ -21206,6 +21230,7 @@ laidojimopaslaugos.com
 laifedorikomakons.com
 laj.tigelie.ru
 lak3on.brightlake.ru
+lak3sh.s1lentlake.ru
 lake.re-t-0.ru
 lake.rjofi.online
 lake.shadowtrail.ru
@@ -21742,6 +21767,7 @@ littleindiadentist.com.sg
 littlekitty.at
 livbayn.ml
 livdecor.pt
+live-ro.gl.at.ply.gg
 live.m365.1drive.zip
 live.zanax6aa1.ru
 livedieoslix.com
@@ -22301,6 +22327,7 @@ m1stpk.mistpeak.ru
 m1sty.lake5p1rit.ru
 m1styx.mistflare.ru
 m1stzone.ru
+m1x5hn.mar5hma1narc.ru
 m1yl.hpap6.ru
 m2.1y-zt.ru
 m2.391-g.ru
@@ -22402,6 +22429,7 @@ m5.1r55.ru
 m5.nq-52.ru
 m5k.st0nesurge.ru
 m5n.wi7e.ru
+m5narc.mar5hma1narc.ru
 m5o.hy6o.ru
 m5q1.bl8205.online
 m5we2.v4-z.online
@@ -22818,6 +22846,7 @@ mapsresearch.ca
 maqfax.com.br
 mar-keyservices.com
 mar3na.soft0cean.ru
+mar9hx.mar-5-hma-1-narc.ru
 maratonando.tk
 maravillas12.duckdns.org
 marbelclinic.com
@@ -24692,6 +24721,7 @@ n9.5m9081.online
 n9.wsit-4.ru
 n9151643.beget.tech
 n91836wz.beget.tech
+n9g0pe.l-0-ngpo-1-e.ru
 n9i.oqtx.ru
 n9k3.3-5y.online
 n9o.kdit5.ru
@@ -24771,6 +24801,7 @@ napiv.press
 napo.info
 napolicontabilidade.com.br
 narcosblue.net
+narcx7.mar-5-hma-1-narc.ru
 nardoweb.it
 narrathfpt.top
 narrevet.com.au
@@ -25078,6 +25109,7 @@ ngimg.vip
 nglish-class-in12.today
 ngozi.tk
 ngp-co.com
+ngp4le.l-0-ngpo-1-e.ru
 ngportal.pw
 ngs.antmedia.io
 ngtools.us
@@ -25289,6 +25321,7 @@ noggs.ru
 nohz.org
 noidprb.cyou
 noir4.darksun5et.ru
+noir7w.black5wan.ru
 noirgsiorgididii.su
 noithathoanggia.net.vn
 noitusd.shop
@@ -25763,6 +25796,7 @@ obiwon.net
 objective-morse.45-138-16-249.plesk.page
 oboyouk.comoj.com
 obrt-alutim.hr
+obs1dx.black5wan.ru
 observatoriosocial.udenar.edu.co
 obsprojects.net
 obte.dripanchor.ru
@@ -26771,6 +26805,7 @@ otboynic.kz
 otculua.shop
 otelgoldenheart.com
 otghealth.com
+oth5wd.c-1-othwou-1-d.ru
 others-beastality.gl.at.ply.gg
 othiesuw.pw
 othisanna.com
@@ -27699,6 +27734,7 @@ petstop.com.sg
 petumau5.ru
 peu.dygyliy.ru
 pewny.sat-dv.ru
+pex7in.br-2-qin-5-pect.ru
 pezinok.cf
 pezwsv.top
 pf-pv.xyz
@@ -29196,6 +29232,8 @@ qick.icu
 qidra5.thistlehavn.ru
 qifokya5.ru
 qigong-zhen-pai.com
+qin5pt.br-2-qin-5-pect.ru
+qin8p5.br2qin5pect.ru
 qinghang.club
 qinyue.cc
 qiokbrohaschosdikolane.com
@@ -29550,6 +29588,7 @@ qualityinet.net
 qualitytek.co.uk
 quan-gears.biz
 quantaservices.store
+quantum123-56094.portmap.host
 quantumbooter.net
 quantumegypt.com
 quantumflask.com
@@ -29917,6 +29956,7 @@ r2l.solarfracht.online
 r2m.glimmerstone.ru
 r2n.6aiiwi2.ru
 r2p.7nf214.ru
+r2p5qx.br2qin5pect.ru
 r2px.7l-0b.ru
 r2q3.94e-w8.ru
 r2q6vm.sun-7-k.ru
@@ -29972,6 +30012,7 @@ r5.k002.ru
 r5.ussn-7.ru
 r54v.qu1rkfuse.ru
 r58.ynmh-8.ru
+r5h1ma.mar5hma1narc.ru
 r5q.ju8r.online
 r5xz.pohv3.ru
 r5yd.b6je.online
@@ -30912,6 +30953,7 @@ rpmnierals.com
 rps7g.windbarrow.ru
 rq.fo1od.ru
 rq.mufabui4.ru
+rq5pec.br-2-qin-5-pect.ru
 rq8.7i7y5.ru
 rq8.cdn-886.ru
 rq8.ckyq-9.ru
@@ -32821,6 +32863,7 @@ slit-on.ga
 sliv.ogzhenren.com
 sljfeuhwuihs.ru
 slkfbshuoru.com
+slnt7k.s1lentlake.ru
 sloodam.in
 slot0p.smartb0x.ru
 slotmaus246-64506.portmap.host
@@ -33243,6 +33286,7 @@ spark3.primurib1er.ru
 spark3.shadowsun.ru
 spark5.b1uespark.ru
 spark6.raven-flux.ru
+spark7.firew0rd.ru
 spark7.flashwood.ru
 spark7.mistlake.ru
 spark7.sm0kewood.ru
@@ -33541,6 +33585,7 @@ st0urm.se1fish5tupid.ru
 st1.fav.al
 st11llers.000webhostapp.com
 st1ern.bil1sun8en.ru
+st1llw.s1lentlake.ru
 st1ngcrate.ru
 st3eg.aphrh1tc4h.ru
 st6.quartzflip.ru
@@ -34151,6 +34196,7 @@ svzzv.wildshift.ru
 sw.njur.ru
 sw.xa9t.ru
 sw1mly.g0ldfish.ru
+sw4nyx.black5wan.ru
 sw6jshf91sdqg.duckdns.org
 swa.silversummit.ru
 swaauogosyuusouc.xyz
@@ -38362,6 +38408,7 @@ w0000t.com
 w0ald.se1fish5tupid.ru
 w0eh.copperlattice.ru
 w0f7n3ty.ru
+w0rdix.firew0rd.ru
 w0rmlefilou-26308.portmap.host
 w0umz.s0ftfern.ru
 w1.7n28r.ru
@@ -38776,6 +38823,7 @@ webpseo.com
 websavey.com
 webserveapp.info
 websitename.pw
+websitetest.optikl.ink
 websocket.click
 webspace.ph
 webstyle.net.au
@@ -39349,6 +39397,7 @@ wn.n0v0se1prew.ru
 wn.v0xelspark.ru
 wn6do.top
 wndb.alderstone.ru
+wndf7r.windf1re.ru
 wnerstrategyservices.help
 wnf.ty9a.ru
 wniaeninie.su
@@ -39717,6 +39766,7 @@ wupx.ml
 wurzuqeozoueztuzqe.ru
 wusetwo.xyz
 wuwu6.cfd
+wux4d1.c-1-othwou-1-d.ru
 wv-enupgweb.com
 wv.safofoe5.ru
 wv1.nq-8-e-9.ru
@@ -41559,6 +41609,7 @@ z5kb.0-9pr.ru
 z5kc.nyqb0.ru
 z5kr.y-p-19.ru
 z5m.brassufer.online
+z5mhn1.mar-5-hma-1-narc.ru
 z5tq.9-s-7g.ru
 z6.3druv.ru
 z6.wz3a7.ru
