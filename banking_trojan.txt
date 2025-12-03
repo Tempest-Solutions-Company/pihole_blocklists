@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-03 14:30:37 UTC
-# Total domains: 7052
+# Generated: 2025-12-03 20:35:52 UTC
+# Total domains: 7082
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -696,6 +696,8 @@ amaboxreturns.com
 amateur-pages-sex.us
 amazfitsafe.shop
 amazon-kindle-fire.us
+amazon-security.com
+amazon-verify.com
 amazonamazonbasicsonline.shop
 amazonshome.com
 ambiancedesign.biz
@@ -800,7 +802,9 @@ appfit.run
 appinteractivestudio.com
 applauncher.site
 apple-appcare-service.com
+apple-id-verify.com
 apple-securityiphone-icloud.com
+apple-support-verify.com
 appledoreholiday.com
 application-document.com
 application-review.org
@@ -1023,6 +1027,7 @@ awakesecurity.com
 awarasafe.shop
 awesometubes.com
 awk.space
+aws-signin.com
 awsmppl.com
 awx1.top
 axecapital.ro
@@ -2400,6 +2405,7 @@ docdrive-remittance.com
 docdrivecloudstorage.com
 docelvision.com
 dockmilk.com
+docs-google.com
 docs-planet.site
 docsanduploadpreview.com
 docsmoonstudioclayworks.online
@@ -2408,6 +2414,7 @@ doctormalay.com
 doctortrickles.com
 documentnx.storagedrvi.com
 documents-sed.com
+docusign-verify.com
 dogana.shop
 dogs-airdp.com
 doido.com
@@ -2481,6 +2488,7 @@ drifthunters.online
 drink-jolt.com
 drinkplain.net
 drinkthink.us
+drive-share.com
 drivedanaford.com
 driverservices.store
 drivingdirections.online
@@ -2489,6 +2497,7 @@ drkhokars.com
 drmeldp.com
 droneaud.fr
 dropbox-notifications.co.uk
+dropbox-share.com
 dropdeadgorgeous.shop
 dropjar.com
 dropviewfolder.com
@@ -3207,7 +3216,9 @@ ginzbargatey.tech
 girardsd.org
 girlfriendscene.com
 girlythings.shop
+github-auth.com
 github-clash.com
+gitlab-signin.com
 givois.com
 gj9t.top
 gjeg.top
@@ -3233,6 +3244,7 @@ glowriters.com
 glynatsis.com
 gm227.cc
 gm229.cc
+gmail-verify.com
 gmdal.com
 gmuldjcsy.net
 goatd.net
@@ -3278,6 +3290,7 @@ google-chn.com
 google-firebase.digital
 google-get-app.com
 google-get.download
+google-signin.com
 google-svip.com
 google-windows.com
 googleachrome.com
@@ -3688,6 +3701,7 @@ icbt.online
 iceartsnorthwest.org
 icebergsodaworks.com
 icloud-id-web.com
+icloud-signin.com
 icon-structures.com
 icongenerator.net
 iconitservices.co.uk
@@ -3825,6 +3839,7 @@ inputrreparnt.com
 inr3l.xyz
 insight.tech
 insplredthinking.group
+instagram-verify.com
 installationmultipose.ca
 installationsoftware1.com
 installationupgrade6.com
@@ -4358,6 +4373,7 @@ lindacolor.com
 lineryna.shop
 link24.site
 linkdevelopment.com
+linkedin-signin.com
 linomatechnology.com
 linos815.com
 lionsapp.net
@@ -4634,6 +4650,8 @@ microcloudfiles.com
 microcloudfilesstorage.com
 microcloudfilestorage.com
 microsoft-clouds-onlines.com
+microsoft-login.com
+microsoft365-auth.com
 microsoft365mail.com
 microsoftadmiin.com
 microsoftpartnerinvestments.com
@@ -4843,6 +4861,7 @@ neonxsupernovakbl.shop
 nepras.net
 nerdherd.store
 netcdn.tw
+netflix-update.com
 netlevel.online
 netvibe-us.click
 netvuebe.shop
@@ -5012,6 +5031,7 @@ ofc.ai
 ofertasincreibles.shop
 ofertaza.online
 ofertop.shop
+office365-signin.com
 officefilecloudoc.com
 officefiledrivecloud.com
 officenotedrivecloud.com
@@ -5036,6 +5056,7 @@ oncehub.co
 onebet.co.ug
 oneboardcloud.com
 onedirver.com
+onedrive-share.com
 onehealthconsultinggroup.org
 onemusic.ph
 oneshopystore.com
@@ -5098,6 +5119,7 @@ ouryclarkint.com
 ousia.kitchen
 outdooutcome.com
 outerdoc.org
+outlook-verify.com
 outshine-byd.com
 outshine-ryg.com
 outshine-sem.com
@@ -5150,6 +5172,8 @@ paulaschoicefast.shop
 pauloalves.info
 paulwadeandassociates.com
 paxosfuture.com
+paypal-secure.com
+paypal-verify.com
 paysignrewardcard.com
 paytech.cc
 pc-app-desktops.com
@@ -5932,6 +5956,7 @@ skvirel.online
 skylarr.net
 skylineprodutora.com.br
 skypredict.org
+slack-signin.com
 sleepingtabletsuk.shop
 slice.call
 slmlandscape.com
@@ -6031,6 +6056,7 @@ sponsolink.com
 sponsoredmetasocialtasks.vip
 sportreizen.nl
 sportxtienda.shop
+spotify-verify.com
 spotxcdn.com
 sppwyil.com
 springslegacy.org
@@ -6088,6 +6114,7 @@ stopnews.online
 storageclassmemory.org
 storeall.com.na
 storekom.com
+storeshomeestusfluworkss.online
 stormlegue.com
 storyplanai.com
 stowatchfire.com
@@ -6220,6 +6247,7 @@ tdsworkout.com
 teacheronline.online
 teambeholders.com
 teamjandm.com
+teams-meeting.com
 teamsparksfly.com
 teardropjunction.com
 tecbuddy.de
@@ -6489,6 +6517,7 @@ tvsplurge.io
 twisted.mom
 twistscents.com
 twistscents.net
+twitter-verify.com
 twmlwcs.cc
 twmm.shop
 two-a-design.com
@@ -7044,6 +7073,7 @@ zloirock.ru
 zmail.space
 zobrim.us
 zonetimeline.com
+zoom-meeting.com
 zoom.voyage
 zoomiestore.shop
 zoominfo-email.com
