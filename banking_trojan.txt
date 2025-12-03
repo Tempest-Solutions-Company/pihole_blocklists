@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-03 02:19:48 UTC
-# Total domains: 7049
+# Generated: 2025-12-03 08:24:43 UTC
+# Total domains: 7051
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2814,6 +2814,7 @@ fantasyroom.online
 faradays.store
 farmaciadrogueriasanjorge.com
 farmersgateag.com
+fashdefi.store
 fashionablyemployed.com
 fashionbf.com
 fashionbw.com
@@ -4807,6 +4808,7 @@ n.name
 n.next
 n.site
 n30sk.top
+n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion
 n3d8.top
 nachet.pro
 nagahisa.com
