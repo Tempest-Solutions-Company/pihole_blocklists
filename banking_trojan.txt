@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-03 12:24:55 UTC
-# Total domains: 7051
+# Generated: 2025-12-03 14:30:37 UTC
+# Total domains: 7052
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2858,6 +2858,7 @@ feed99.com
 feetsco-stage.com
 fefasa.hn
 feishux.top
+felixmarkets.com
 feltstood.net
 fenergo.com
 fengchijiasuqi.cn
