@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-05 01:02:59 UTC
-# Total domains: 43344
+# Generated: 2025-12-05 03:08:42 UTC
+# Total domains: 43383
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -606,6 +606,7 @@
 26e.j0tchamber.ru
 26x.nm0e2.ru
 27.c70ye.ru
+28.darkb1rd.ru
 28.plx-5.ru
 280.ldef-4.ru
 287.hl5a6.ru
@@ -671,6 +672,7 @@
 2l.kdit5.ru
 2lcfo.com
 2lh.i-c-81.ru
+2lkz.brightf1eld.ru
 2luj.pooflare.ru
 2m.s836.ru
 2m42.proxyjet.ru
@@ -1114,6 +1116,7 @@
 4magicalmage.zapto.org
 4max.xyz
 4me-4you.com
+4mjo.deep0asis.ru
 4mxlrhcab.localto.net
 4n.j8ro.ru
 4n.jt4o0.ru
@@ -1154,6 +1157,7 @@
 4v.hyk5.ru
 4v.rock-bay.ru
 4v9-u.ru
+4vc.s0ftbyte.ru
 4vp.xyz
 4wj.o-b-79.ru
 4wmi.luc-7-y-5-nub.ru
@@ -5227,6 +5231,7 @@ b.wnkc.ru
 b.yuxuanow.top
 b.yy88.ru
 b0.qf0u2.ru
+b0.riverl1ght.ru
 b0.ru7x.ru
 b0.vex-0.ru
 b00k.je-9-r.ru
@@ -5745,6 +5750,7 @@ bd.6i4u.ru
 bd.9b9-7.ru
 bd.9zk8r.ru
 bd.b10ou.ru
+bd.brightl1ne.ru
 bd.ctze0.ru
 bd.falconhimmel.ru
 bd.favezi.ru
@@ -6406,6 +6412,7 @@ bloodclatcry.com
 bloodscarf.xyz
 bloodydi.xin
 bloom.br1arwild.ru
+bloom.brightl1ne.ru
 bloom.neoniake.ru
 bloom.opalhollow.ru
 bloom.stormbioom.ru
@@ -7139,6 +7146,7 @@ bxl.b9sa.ru
 bxnopdkka.com
 bxnrxuyjcytf.com
 bxof.ru
+bxq.brightf1eld.ru
 bxqvcimgcaepkubgi.com
 by-matrakx.myjino.ru
 by.fenod.ru
@@ -7471,6 +7479,7 @@ cafe-family-club.by
 caffreyloader.xyz
 cafrol.com
 cahol33666-24962.portmap.host
+caiip.darkb1rd.ru
 caijinshuiguolabadianzi.com.cn
 caim7.res4ev7oy1.online
 cairocartoon.com
@@ -8608,6 +8617,7 @@ client24-14.comuv.com
 client25-16.site40.net
 clients.zippercms.com
 cliff.br-1-ar-wild.ru
+cliff.brightl1ne.ru
 cliff.manual-1-sa-1-yz.ru
 cliff.stormbiend.ru
 cliff.sunr1dge.ru
@@ -8658,6 +8668,7 @@ cloud.iloveanimals.shop
 cloud.juzgadorama.it.com
 cloud.netsolutionpoint.com
 cloud.p0larday.ru
+cloud.silverh1ll.ru
 cloud.spyingte1ess.ru
 cloud.ve1vetc0ves.ru
 cloud.windfiare.ru
@@ -9365,6 +9376,7 @@ crest.lynchstem.ru
 crest.m1stwander.ru
 crest.m1stwave.ru
 crest.miragepad.ru
+crest.riverl1ght.ru
 crest.st0nepeak.ru
 crest.stonemist.ru
 crest.stormglade.ru
@@ -10154,6 +10166,7 @@ davolutiion.kilu.de
 davuchi.eroea.com
 daw.gl-1-tchgarden.ru
 dawn-mirror.ru
+dawn.brightf1eld.ru
 dawn.emberfrontier.ru
 dawn.jg-7-ra.online
 dawn.tu7q.online
@@ -13798,6 +13811,7 @@ feuer.emberkranz.ru
 feuerwehr-feuchtwangen.de
 feuhdeuhduhuehdg.to
 feuhdeuhduhuehdk.ws
+fev5.deep0asis.ru
 few-mines.gl.at.ply.gg
 few.cqom9.ru
 few.n4ke.ru
@@ -13863,6 +13877,7 @@ field-accessing.gl.at.ply.gg
 field-tracker.gl.at.ply.gg
 field.bana1ity8ed.ru
 field.chit-7-a-5-tat.ru
+field.deep0asis.ru
 field.l1ghtforest.ru
 field.soft5and.ru
 field0.fa-1-cbrea-5-t.ru
@@ -14327,6 +14342,7 @@ forcepear.info
 forepointmachinery.com
 forest.4i1e2.ru
 forest.bvuf-2.ru
+forest.darkb1rd.ru
 forest.heatherkranz.ru
 forest.lifet1met0rt.ru
 forest.mistyflare.ru
@@ -14568,6 +14584,7 @@ frost.cl0udfall.ru
 frost.dovemantel.ru
 frost.ede1g0rge.ru
 frost.icylotus.ru
+frost.windshift.ru
 frost2.oceanshift.ru
 frost5.clearspark.ru
 frost7.shadowf0x.ru
@@ -14920,6 +14937,7 @@ g5.tundrasable.ru
 g5ph.morrowplug.ru
 g5t.8j8-o.ru
 g5t9.no4s.online
+g5wyk.s0ftbyte.ru
 g5z9.j0-e-t.ru
 g5zx.9-88.online
 g6.85cu3895.ru
@@ -16591,6 +16609,7 @@ gx0tr.gr0upw0rk.ru
 gx1m.9-1pv.ru
 gxc.mjg1.ru
 gxh191.top
+gxjo.brightl1ne.ru
 gxy.voxuzeo8.ru
 gy.jnfe-1.ru
 gy.oc57y.ru
@@ -17634,6 +17653,7 @@ hmarc7.mar5hma1narc.ru
 hmd.gl8r.ru
 hmn.voxuzeo8.ru
 hmno.somipaa9.ru
+hmo.stoneh0use.ru
 hmoney.hostei.com
 hmuhvsjjl.com
 hmvr4u61p.localto.net
@@ -17824,6 +17844,7 @@ hotmoza.com
 hotpsyb.top
 hours-morrison.gl.at.ply.gg
 hours-scientific.gl.at.ply.gg
+house.softr1ver.ru
 houseandhoundcare.com
 houseofan.com
 houshan.shop
@@ -18078,6 +18099,7 @@ i10r.thornecho.ru
 i11s.fa-0-n.ru
 i1se.rjofi.online
 i2.top
+i2.windshift.ru
 i2.wtok2.ru
 i2.x3le.ru
 i21.te8x.ru
@@ -19694,6 +19716,7 @@ jj.vvbb321.com
 jj.xxcc789.com
 jjis.qute3.ru
 jjjaya.zadc.ru
+jjjgaasda.live
 jjken.be
 jjl.77-6.ru
 jjrx.a4chptr1ck.ru
@@ -21846,6 +21869,7 @@ laiotlboxklvpcdfhu.com
 laj.tigelie.ru
 lak3on.brightlake.ru
 lak3sh.s1lentlake.ru
+lake.darkb1rd.ru
 lake.re-t-0.ru
 lake.rjofi.online
 lake.shadowtrail.ru
@@ -22058,6 +22082,7 @@ leadtorealestate.com
 leaf.4i1e2.ru
 leaf.8y7o4.ru
 leaf.mab7o.online
+leaf.s0ftbyte.ru
 leaf0.syc0aq8uy1.ru
 leaf7y.leafbyte.ru
 leaf7y.leafjump.ru
@@ -22301,6 +22326,7 @@ liftupmyhead.biz
 light.forestgl0w.ru
 light.imp2rtund0.ru
 light.r2dire5our.ru
+light.softr1ver.ru
 light.vbep-3.ru
 light0.sys7yn0iy5.ru
 lighteniger.tech
@@ -23220,6 +23246,7 @@ ma.r0ckveil.ru
 ma.r1v-x.ru
 ma.tvti-0.ru
 ma.vhhe9.ru
+ma.windshift.ru
 ma.xer-o.ru
 ma.xt7y8.ru
 ma1ektrin7.ru
@@ -24245,6 +24272,7 @@ mist.jg-7-ra.online
 mist.jix3.ru
 mist.mossgrotte.ru
 mist.opal-hollow.ru
+mist.riverl1ght.ru
 mist.rockbyte.ru
 mist.sne-4-p.online
 mist.st0nebyte.ru
@@ -26123,6 +26151,7 @@ nov-cleaner.gl.at.ply.gg
 nova-shadow.com
 nova.5h0p.ru
 nova.aucti0nz7ir.ru
+nova.brightf1eld.ru
 nova.brimhopper.ru
 nova.cheb0t5agit.ru
 nova.deepvalley.ru
@@ -27828,6 +27857,7 @@ ox.fix-fg.online
 ox.g-vox.ru
 ox.kocq.ru
 ox.lizqa.ru
+ox.riverl1ght.ru
 ox.sgdi6.ru
 ox.tfpe-6.ru
 ox.tgsi9.ru
@@ -33189,6 +33219,7 @@ shadow-grove.ru
 shadow.adv0cal1egat.ru
 shadow.deepflash.ru
 shadow.gre2tre7ue.ru
+shadow.stoneh0use.ru
 shadow.suncrest0n.ru
 shadow2.r0ad.ru
 shadow2515.duckdns.org
@@ -33289,6 +33320,7 @@ shift.comp-0-tsab-3-e.ru
 shift.dup1ic4ermaph.ru
 shift.gyrodesk.ru
 shift.oddkraken.ru
+shift.stoneh0use.ru
 shift.wildm1nt.ru
 shift1.mor-5-tud-1-es.ru
 shift2.glitchpact.ru
@@ -34264,6 +34296,7 @@ spark.flintwerder.ru
 spark.glimmerstone.ru
 spark.m-0-on-forger.ru
 spark.pen1sp7edef.ru
+spark.s0ftbyte.ru
 spark.silenth1ll.ru
 spark.spindle-way.ru
 spark.thornecho.ru
@@ -34542,6 +34575,7 @@ ss.meqt.ru
 ss.pixub.com
 ss.qf0u2.ru
 ss.razorplume.ru
+ss7e.softr1ver.ru
 ssa-update-channel.us
 ssabc.xyz
 ssatdirect.com
@@ -35103,6 +35137,7 @@ sunnynaturelstone.com
 sunnyrainyd.com
 sunnysk.tk
 sunrise-f.co.jp
+sunrise.deep0asis.ru
 sunrise.softshadow.ru
 sunrisefootball.com
 sunrisestaffing.co
@@ -36861,6 +36896,7 @@ trail.ede1g0rge.ru
 trail.flintzoo.ru
 trail.rumble-kin.ru
 trail.skym0tion.ru
+trail.softr1ver.ru
 trail.ventrill.ru
 trail.wildcr3st.ru
 trail0.regenwald.ru
@@ -38508,6 +38544,7 @@ v0.b2-ra.ru
 v0g.be3q.ru
 v0id.sne4p.online
 v0jp.9h-5y.ru
+v0k6.stoneh0use.ru
 v0m.xr6u9.ru
 v0m4.ha5r.online
 v0q.jg-7-ra.ru
@@ -39498,6 +39535,7 @@ vxnishhisbacl-53480.portmap.host
 vxnjhdhs-35196.portmap.host
 vxnsishjha-62957.portmap.host
 vxpxgorqkihafv.com
+vxucqb.dpdns.org
 vy.ktox5.ru
 vy.sgdi-6.ru
 vy.sx2u0.ru
@@ -41310,6 +41348,7 @@ x5.y-o7uu.ru
 x5c.db-3-a-4.ru
 x5m.drift-bay.ru
 x5pw.5-rt.online
+x5ust.windshift.ru
 x5wk.ve1p.online
 x64.x3le.ru
 x65cr13.com
