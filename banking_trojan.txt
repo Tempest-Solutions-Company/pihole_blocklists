@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-05 03:08:42 UTC
-# Total domains: 7082
+# Generated: 2025-12-05 09:14:14 UTC
+# Total domains: 7087
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -340,6 +340,7 @@
 65766.lv
 65768.lv
 6dpg521.online
+6esygx.space
 6kctq.quest
 6llp.top
 6pjj.top
@@ -1249,6 +1250,7 @@ billieusbst.shop
 billpay-info.com
 bimageelement.id
 binance-copytrading.pro
+binancegames.sb
 bindirect.click
 bing.com.cn
 bingoshow.xyz
@@ -5496,6 +5498,7 @@ qxq80smu.shop
 qyczmtalenlnc.store
 qysmahku.ru
 qzcuate.net
+qzjfxy.fun
 qznvtb.com
 qzvj52cv-typf.com
 r-jconcretes.com
@@ -6248,7 +6251,9 @@ teacheronline.online
 teambeholders.com
 teamjandm.com
 teams-meeting.com
+teamscn.com
 teamsparksfly.com
+teamszv.com
 teardropjunction.com
 tecbuddy.de
 techapprenticeships.io
