@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-06 13:01:31 UTC
-# Total domains: 43627
+# Generated: 2025-12-06 17:07:27 UTC
+# Total domains: 43675
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -245,6 +245,7 @@
 10.a3.bijakbuatduit.com
 10.glacierbruecke.ru
 10.k59ee.ru
+10.mylitapp.com
 10.tcp.eu.ngrok.io
 100.0.194.35.bc.googleusercontent.com
 100587.11u812580.ru
@@ -268,6 +269,7 @@
 11.clear-fog.ru
 11.dnek6.ru
 11.jujosuu4.ru
+11.mylitapp.com
 11.ss-9-y-4.ru
 11.t4mox.ru
 1100f.com
@@ -551,6 +553,7 @@
 209-190-75-10.gq
 20q.5b-c.ru
 21.hb0-e.ru
+21.mylitapp.com
 21.stormcairn.ru
 21.su4n.ru
 21072206.su
@@ -1194,6 +1197,7 @@
 5-kafaq-7-io.ru
 5-milod-931-o.ru
 5-ninet-1-ou.ru
+5.tcp.ngrok.io
 5.wugh.ru
 50.aclz-9.ru
 5002201.5h4553.ru
@@ -2764,7 +2768,10 @@ according-european.gl.at.ply.gg
 account-bookcaptcha.cfd
 account-bookcaptcha.com
 account-bookextranet.icu
+account-bookpulse.icu
+account-bookscaptcha.com
 account-bookspulse.com
+account-bookupdate.cfd
 account-extranetcaptchapulse.com
 account-extranetcheck.com
 account-extranetcheck.info
@@ -3730,6 +3737,7 @@ allpit.studio
 allseasongudinc.tech
 allseasonssc.com
 allsportsandwellness.ca
+allstararena.com
 allstarss.tk
 allstroyka.by
 alltech-egypt.com
@@ -3822,6 +3830,7 @@ alwayslivehealthy.com
 alwifaq.ly
 alyacht.com
 alysonmf.us
+alza7f.localto.net
 am.d.khabeir.com
 am.d.nadimgadget.shop
 am.devy3.ru
@@ -4148,6 +4157,7 @@ anhthyflower.com
 aniaeninie.su
 animailshealthyfoodsline.top
 animal-flying.gl.at.ply.gg
+animals-geology.gl.at.ply.gg
 animefastflux.com
 anino.biz
 aninogames.com
@@ -5220,6 +5230,7 @@ azure.mcej-9.ru
 azure.q0spi.online
 azure5.bluem1st.ru
 azurebrief.gleeze.com
+azurecloudteam.com
 azurecomcdn.net
 azurefree.ignorelist.com
 b-1-ttper-7-ent.ru
@@ -5269,6 +5280,7 @@ b.w135v.ru
 b.wd-79.ru
 b.wehv.ru
 b.wnkc.ru
+b.yedekcioto.com
 b.yuxuanow.top
 b.yy88.ru
 b0.qf0u2.ru
@@ -5557,6 +5569,7 @@ bag.ckon0.ru
 baghhs.com
 bagmar.com
 bagnomi.ru
+bagusdominoqq.net
 bagy.mcdir.ru
 bahanasoftindo.com
 baidudownload.com
@@ -5572,6 +5585,7 @@ baklaysinc.com
 bakrakhada.com
 baksonyem.com
 bal-rewards.xyz
+balajibalamurugan.in.net
 balamand.net
 balancedassetline.xyz
 balancedgrowthhub.xyz
@@ -6598,6 +6612,8 @@ bonzevud.com
 book.1a2e6.ru
 book.8y7o4.ru
 book.wi-7-e.ru
+bookcaptchaextranet.cfd
+bookcaptchasync.com
 bookgiants.info
 bookihnxz.tk
 booking.com-reactivate.de
@@ -6735,6 +6751,7 @@ bprdptaspen.com
 bpria.com
 bpu.v4-z.ru
 bpwk.xyz
+bpy.is
 bq.4fg2n.ru
 bq.ahz-ya.ru
 bq.bramblestrom.ru
@@ -8688,6 +8705,7 @@ climashop.ro
 climjuw.top
 clinicafisiotrat.com
 clinicamegadental.com.br
+clinicasdorim.com.br
 clinique-sainte-marie.top
 cliten.microdoctor.com.br
 clivertrade.biz
@@ -9067,6 +9085,7 @@ contador.visitante-group-new.cf
 contadoriaporto.com.br
 contains-are.gl.at.ply.gg
 contalento.cl
+content-distribution-v2.pro
 content-organisations.gl.at.ply.gg
 content-website-analytics.com
 content.aawe.finance
@@ -10684,6 +10703,7 @@ dietpas.top
 dietssaladsfood.com
 dietz-mobel.ro
 diferreirabarbershop.com.br
+different-ncaa.gl.at.ply.gg
 different-walt.gl.at.ply.gg
 diffuseddesign.com
 dig.ckon0.ru
@@ -11777,6 +11797,7 @@ eb4253-001-site1.btempurl.com
 ebalazhabagadyku.icu
 ebatsosatpizdec.com
 ebay-governance.gl.at.ply.gg
+ebay-worked.gl.at.ply.gg
 ebaybase.pp.ua
 ebdadnmolaedbfau.top
 ebddteinurkortapgs.com
@@ -13947,6 +13968,7 @@ fhomesolutions.net
 fhp.lilacsilo.ru
 fhtre.xyz
 fi.a.tp9y.skylinecloud.xyz
+fi.derayat.com
 fi.nqju-5.ru
 fi3lda.duskfield.ru
 fi7em.ru
@@ -18817,6 +18839,7 @@ indu1ra8ing.ru
 induimperial.com
 indulogstics.com
 indumatiholidays.com
+industrial-listed.gl.at.ply.gg
 industrial-vegetation.gl.at.ply.gg
 industrial3d.com
 industrialspares.to
@@ -22697,6 +22720,7 @@ localmw.org
 locations-bow.gl.at.ply.gg
 locked.tech
 lockhome.ml
+lockyloadcollectibles.com
 locopoco.zz.mu
 lodestarlegal.com.au
 lodgelipika.in
@@ -22889,6 +22913,7 @@ loveyouneed.pw
 lovin.us
 lovinanorthbalidriver.com
 low-incl.gl.at.ply.gg
+lowcountrygrapevines.com
 lower-mem.gl.at.ply.gg
 lowi1.com
 loxomi.in.ua
@@ -23514,6 +23539,7 @@ mail.honesty-shippings.com
 mail.hotelgrandpapua.com
 mail.intikinanpratama.com
 mail.mattech-llc.com
+mail.maureenmorrow.com
 mail.messager.my
 mail.outlook365.vip
 mail.re-t-0.ru
@@ -23521,6 +23547,7 @@ mail.thetavernonfourth.com
 mail.valorschoolsupplies.com
 mail.wholesalecharitysupply.com
 mail.wildshift.ru
+mail.winecountrytrailriding.com
 mail.yaklasim.com
 mail001.hiuasyolaperakende.com
 mail002.hiuasyolaperakende.net
@@ -23613,6 +23640,7 @@ malware.jujutsukaisenmanga.in.net
 malware.kallisti.uk.com
 malware.kbbet777.net
 malware.nimeshpatel.in.net
+malware.spc.jp.net
 malware.updos.uk.com
 malware.vn168.casa
 malware.vn168.im
@@ -23761,6 +23789,7 @@ marutiexim.com
 marvelvod.com
 mary-brochures.gl.at.ply.gg
 maryduke.co.uk
+marydunncauleymosaics.com
 marytraders.in
 marziafr.com
 marzo2020.duckdns.org
@@ -23877,6 +23906,7 @@ mc2lab.com
 mcb.u-v9.ru
 mcbt.ru
 mcchphgndpadclga.com
+mccousins.com
 mcdonalds-gift.info
 mcdrewar.com
 mceneryfinancial.com
@@ -24890,6 +24920,7 @@ motorambari.com
 motorfan-com.tk
 motorinorentals.com
 motorlevelingz.su
+motphimchillz.uk
 mountain-percent.gl.at.ply.gg
 mountaintopbuilders.com
 mountainviewproductions.ca
@@ -25125,6 +25156,7 @@ mundialveiculosba.com.br
 mundocccam.com
 mundodayz.com
 mundokashery.com
+munichmotorsport.com
 municipales.ru
 munozconsulting.online
 munyw.icu
@@ -25132,6 +25164,7 @@ murk0y.darkf1sh.ru
 murmuringramrod.bet
 murphkirk.com
 murray-m.ml
+muscat4d.com
 musclecar.000a.de
 musculationexercice.com
 musdeyejbcbkse.com
@@ -26432,6 +26465,7 @@ nsdic.pp.ru
 nselfiber.com
 nsfcoatings.vip
 nsgatetest1.digital
+nsgrafica.ao
 nsi.cioudnest.ru
 nsogbu1.tk
 nstructify.tech
@@ -28808,6 +28842,7 @@ phiheatings.ir
 philipshotels.in
 phillycheesesteakhouse.com
 phishing.kbbet777.net
+phishing.spc.jp.net
 phising.diamondtechnologies.in.net
 phising.vn168.im
 phixpros.com
@@ -31495,6 +31530,7 @@ reklama.messager.my
 rekmedia.com.au
 relacer.rajas.com.my
 related-suspended.gl.at.ply.gg
+relativeplanning.com
 relayservice.org
 released-temple.gl.at.ply.gg
 reliable-shippers.world
@@ -33152,6 +33188,7 @@ senszlz.cfd
 sentedcheck.com
 sentembertolls.ru
 sentfactor.com
+sentidoseguros.com.br
 sentient.industries
 sentineob.sbs
 sentmpy.cyou
@@ -34531,6 +34568,7 @@ sparrrow.in
 spartanr.5gbfree.com
 sparx5.f1amewise.ru
 spawnstars1.shop
+spc.jp.net
 spcdipslays.com
 spcllt.com
 spearsrnfq.net
@@ -35997,6 +36035,7 @@ taileenanahi.company
 tailfcw.shop
 tailuong.com.vn
 taineruder.ml
+taingment.com
 taio4ubuzz.co.in
 taipeibangla.com
 taiyuean.com
@@ -36155,8 +36194,10 @@ tawkifyhq.com
 taxacts.de
 taxi-enot.ru
 taxlogs.linkpc.net
+taxpro-ca.mrgadget.net
 taylanbakircilik.com
 taylors4u.co.in
+tayronasuites.com
 tazmanski.ru
 tazzatti.com
 tb-india.net
@@ -37144,6 +37185,7 @@ transfer-hero.gl.at.ply.gg
 transfiles.tld56.cn
 transformers1.fav.al
 transilvaniabois.com
+translacat.com
 translate.googleegah.icu
 translate.googleegaz.icu
 translink.lk
@@ -37428,6 +37470,7 @@ twig7s.0akshade.ru
 twig9x.leafbyte.ru
 twilight.zzz.com.ua
 twirl5.kneadloop.ru
+twistz69-34948.portmap.host
 two.zanax6aa1.ru
 twobads.1.vg
 twobkgg.cyou
@@ -38075,6 +38118,7 @@ uk.1397u6.ru
 uk.blyp9.ru
 uk.g-04-s.ru
 uk2.localto.net
+uk3.mylitapp.com
 ukabenerji.com
 ukaytrades.tk
 ukchautari.com
@@ -38942,6 +38986,7 @@ v3.imm-yi.ru
 v3.kallisti.uk.com
 v3.kuq5g.ru
 v3.motchilltv.bot
+v3.motphimchillz.uk
 v3.opaldrift.ru
 v3.otisgrand.com
 v3.p2a3p.ru
@@ -39416,6 +39461,7 @@ villayuh-57711.portmap.host
 villayuhh-59194.portmap.host
 villayuhh-63081.portmap.host
 viltech.ml
+vimsltd.com
 vimupofir.niksma.ru
 vinastardiamonds.cf
 vincecamutogiftcard.com
@@ -39950,6 +39996,7 @@ waitingneworder.in.net
 wajig60179-23764.portmap.host
 wajinye8.ru
 wakesho.co.ke
+wakuwaku.online
 wal3d.deane4y5not.ru
 wald.bluer1ver.ru
 wald.c0nsiumpond.ru
@@ -41225,6 +41272,7 @@ wwgxwnil.com
 wwment.ml
 wwt.not0r5atush.ru
 wwteytsfaiyrrg.com
+www-youtube-com-watchvideo.cfd
 www1.6v7aon.com
 www1.t89xy0.org
 www10.gartners.1x.biz
