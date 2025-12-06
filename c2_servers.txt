@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-06 00:51:01 UTC
-# Total domains: 43559
+# Generated: 2025-12-06 04:56:20 UTC
+# Total domains: 43599
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -147,6 +147,7 @@
 0i4.4qo8.ru
 0i4.suncrest0n.ru
 0icby.gr-1-tbinder.ru
+0icfl.getr18ht.ru
 0imm.sh2mvi5cous.ru
 0iz7q.mashrift.ru
 0jd.qj-4-y-4.ru
@@ -165,6 +166,7 @@
 0m.jagc.ru
 0m0.n5ol.ru
 0m3.8j4-5-6.ru
+0m95l.st2rudmu7t.ru
 0ma.77-6.ru
 0mf.dewroot.ru
 0n.cl0udrise.ru
@@ -482,6 +484,7 @@
 1ronpath.ru
 1rs.wqix5.ru
 1s.ktox5.ru
+1s.not0r5atush.ru
 1s.stoner0ck.ru
 1saadqdwdqd.camdvr.org
 1sosq.top
@@ -531,6 +534,7 @@
 2.stasprlt.beget.tech
 2.vqod2.ru
 20.3-5y.ru
+20.hea1t5ultan.ru
 20.loxr.ru
 201.30u241207.ru
 201.8d9691.ru
@@ -1158,6 +1162,7 @@
 4sv.cl0udmark.ru
 4t.ckyq9.ru
 4t.wugh.ru
+4t2.inc1inedn0n.ru
 4thave.co.uk
 4tqm.28ae00i7.ru
 4u.ozxg-5.ru
@@ -1302,6 +1307,7 @@
 5fw.24s6.ru
 5g.c0mpen5ducky.ru
 5g95w.brightpeak.ru
+5gz.inc1inedn0n.ru
 5h.1r55.ru
 5h.n0rthw1nd.ru
 5h.rivershad0w.ru
@@ -1485,6 +1491,7 @@
 69d.ykgw-2.ru
 69xloy.com
 6a.m2la.ru
+6a.not0r5atush.ru
 6ajg.v0ltmorrow.ru
 6alternative.zapto.org
 6b.n-jur.ru
@@ -1496,6 +1503,7 @@
 6ci.gc0o9.ru
 6ci.zv-1-a-0.ru
 6cm.ykgw-2.ru
+6cm1.re1iabteady.ru
 6connesso.com
 6cyd.ap2rthyub2n.ru
 6d.jeqr.ru
@@ -1560,6 +1568,7 @@
 6u.xvo4.ru
 6u1.mt3o4.ru
 6uh.fie-1-dcl-0-se.ru
+6uyj.ind1sset5.ru
 6v.jagc.ru
 6v1e8.xyz
 6vwj8.ru
@@ -1941,6 +1950,7 @@
 8r3y.ei8htyern1k.ru
 8rt2.emberhoehle.ru
 8s.1yjp.ru
+8s.getr18ht.ru
 8s.kj-4-o-0.ru
 8s3.s7li.ru
 8scom.link
@@ -2349,6 +2359,7 @@ a7px.i-d-96.ru
 a7qy.9-32p.ru
 a7r.0vl3u.ru
 a7r.s64lr5ok.com
+a8.ind1sset5.ru
 a83.ma5kd7unk.ru
 a84bl82rni.ru
 a89b.ru
@@ -4802,6 +4813,7 @@ at.ra-9x.ru
 at.s4-ti.ru
 at.skym0tion.ru
 at.v7h3.ru
+at0.getr18ht.ru
 at3bk.hostkda.com
 at7.rjuq3.ru
 ata-rh.com.br
@@ -6307,6 +6319,7 @@ bk.x0e8.ru
 bk0hq.lu7hichma7t.ru
 bk1l.comp-0-tsab-3-e.ru
 bk3rtkbjt2mw1sbe.iloveanimals.shop
+bkj3.not0r5atush.ru
 bklbd.ru
 bkldz.thornecho.ru
 bklerdwiadlxxbjunwu.com
@@ -6817,6 +6830,7 @@ bricks.builders.cp-in-14.webhostbox.net
 bridge.8u2a9.ru
 bridge.fireciiff.ru
 bridge.rainb1te.ru
+bridge.st2rudmu7t.ru
 brigadefantome.great-heberg.eu
 brige.firer1dge.ru
 brige.moonf1eld.ru
@@ -7316,6 +7330,7 @@ c2059.top
 c21.sun5t0rm.ru
 c2507.top
 c2601.top
+c27.hea1t5ultan.ru
 c2751.top
 c2863.top
 c2d1.6362o9.ru
@@ -9409,6 +9424,7 @@ crest.bray-circuit.ru
 crest.chri5t1anget.ru
 crest.f1recliff.ru
 crest.f1recrest.ru
+crest.hea1t5ultan.ru
 crest.jamcrest.ru
 crest.lakesp1rit.ru
 crest.lynchstem.ru
@@ -9496,6 +9512,7 @@ crystal.br1ghtzone.ru
 crystal.cloudb1te.ru
 crystal.dreamc0ast.ru
 crystal.f1rebyte.ru
+crystal.ind1sset5.ru
 crystal2.shadowtrail.ru
 crystalf0x.ru
 crystalgate.no
@@ -9743,6 +9760,7 @@ cwsqguioggaoauwa.xyz
 cwsusaucwesauqkw.xyz
 cwsuysqskckoawoq.xyz
 cwsywgcmqqsycuyu.xyz
+cwtw5.f2rcegro0m.ru
 cwuamaeoymwsacyq.xyz
 cwuaosqqgyukquyu.xyz
 cwueoocegccwsegi.xyz
@@ -10312,6 +10330,7 @@ ddos.www.moroccancam.com
 ddoser2.ohost.de
 ddosit.us
 dds.zzz.com.ua
+ddu2.inc1inedn0n.ru
 ddxalee.com
 de-6a.ru
 de-sh.xyz
@@ -10379,6 +10398,7 @@ deekartmobile.com
 deep-n.com
 deep.ant1er5noos.ru
 deep.em1npe0ny.ru
+deep.in0cubwal1.ru
 deep.lilek4au2.ru
 deep.sh2mvi5cous.ru
 deep5tone.ru
@@ -10423,6 +10443,7 @@ delmontcaldowcaterers.co.za
 deloilte.com
 delselectex.xyz
 delta-mkt.com
+delta.c7ucifto1nov.ru
 delta.d7un4recid.ru
 delta.diab4uette.ru
 delta.dreamc0ast.ru
@@ -10799,6 +10820,7 @@ dlkorrtundbuov.com
 dll.amajed.com
 dll.schermgebroken.nl
 dll.vuzojiu9.ru
+dll32s.lat
 dload.chatology.my
 dlop3.skyb1end.ru
 dlp.socialsalesnaija.com
@@ -10815,6 +10837,7 @@ dmaris.vn
 dmburi.com
 dmcgroup.com.vn
 dmgevents.com
+dmh.f2rcegro0m.ru
 dmhvburtxot.com
 dmicn.com
 dmlfq.press
@@ -14403,6 +14426,7 @@ forest.bvuf-2.ru
 forest.darkb1rd.ru
 forest.firecrest.ru
 forest.heatherkranz.ru
+forest.inc1inedn0n.ru
 forest.lifet1met0rt.ru
 forest.mistyflare.ru
 forest.skyhollow.ru
@@ -16610,6 +16634,7 @@ guanzani.com
 guanzeni.com
 guard.ap2rthyub2n.ru
 guard.aucti-0-nz-7-ir.ru
+guard.getr18ht.ru
 guardhive.com
 guardianforyou.pl
 guata.com.br
@@ -16873,6 +16898,7 @@ h1.dvn-4-i.ru
 h1.e-134.ru
 h1.e-72t.ru
 h1.e41m.ru
+h1.f2rcegro0m.ru
 h1.fa-99.ru
 h1.imm-yi.ru
 h1.k5d1y.ru
@@ -21641,6 +21667,7 @@ kws5-1.messager.my
 kws5.messager.my
 kwsmweb3.xyz
 kwxwi.lakeray.ru
+kx.c7ucifto1nov.ru
 kx.kpyw-8.ru
 kx6.rv6324.online
 kxlv.org
@@ -24377,6 +24404,7 @@ missyhydrick.com
 mist.1ittleriver.ru
 mist.5t0p.ru
 mist.chri5t1anget.ru
+mist.f2rcegro0m.ru
 mist.jg-7-ra.online
 mist.jix3.ru
 mist.mossgrotte.ru
@@ -26708,6 +26736,7 @@ occsgymeockukuio.xyz
 ocdfg.mossgrotte.ru
 ocean.n1ghtstone.ru
 ocean.oceanshift.ru
+ocean.st2rudmu7t.ru
 oceanclubsreloaded.us
 oceanlinkmarrine.com
 oceauma.com
@@ -32042,6 +32071,7 @@ rtx.kaizensamawati.com
 rtx.shipensburginvestmentgroup.com
 ru.nzki-7.ru
 ru.su4n.ru
+ru3.c7ucifto1nov.ru
 ru5g8y.ger-8-y-5-evruga.ru
 ru6.orz.us
 rub.pi6o.ru
@@ -35070,6 +35100,7 @@ storm.amberkliff.ru
 storm.bvuf-2.ru
 storm.co7nrev0ke.ru
 storm.crust5p1ant.ru
+storm.in0cubwal1.ru
 storm.shadowstream.ru
 storm.silverr0ot.ru
 storm.st0rmleaf.ru
@@ -35253,6 +35284,7 @@ sun.drift-bay.ru
 sun.firetrail.ru
 sun.gytogii12.ru
 sun.homohay31.ru
+sun.ind1sset5.ru
 sun.pobinei39.ru
 sun.quladao75.ru
 sun.silverpath.ru
@@ -35870,6 +35902,7 @@ t7p.v3ix.online
 t7pqm.77-6.online
 t7q2.redm0on.ru
 t7x.stormcairn.ru
+t7z.hea1t5ultan.ru
 t7z.lo9q.online
 t7z.saffronkern.ru
 t8.8-f-e8.ru
@@ -36577,6 +36610,7 @@ thuysanhoangtrungps.com
 thvs.glitchpact.ru
 thy.m4rj.ru
 thyssenkrrupp.com
+thz.c7ucifto1nov.ru
 thzsmrjqqzpaz2mz.onion
 ti-film.com
 ti.grjy2.ru
@@ -38666,6 +38700,7 @@ uxg.n5ol.ru
 uxizfixcomplandrush.com
 uxlyihgvfnqcrfcf.com
 uxqbewwdunihwscfl.com
+uxsplooler.online
 uxvbhdtbhth.com
 uy-akwaibom.ru
 uy.jorx.ru
@@ -39115,6 +39150,7 @@ vazyr4ii9.ru
 vb.kpyw-8.ru
 vb.plx5.ru
 vbooter.org
+vbor.in0cubwal1.ru
 vbq6.v1b3forge.ru
 vbsdu8w9ockjhk.in
 vbt-one.biz
@@ -40005,6 +40041,7 @@ wave.mintforest.ru
 wave.ndoq-0.ru
 wave.pen1sp7edef.ru
 wave.rivermote.ru
+wave.st2rudmu7t.ru
 wave.windbr1dge.ru
 wave.zenithsnap.ru
 wave1.cieardrop.ru
@@ -41159,6 +41196,7 @@ wwe.kzg-w-4-y.ru
 wwe23pro.myjino.ru
 wwgxwnil.com
 wwment.ml
+wwt.not0r5atush.ru
 wwteytsfaiyrrg.com
 www1.6v7aon.com
 www1.t89xy0.org
@@ -41618,6 +41656,7 @@ xb0n.5h4553.online
 xb19f.1a2e6.ru
 xbaeubuegs.su
 xbet-ajpr.top
+xbex.in0cubwal1.ru
 xbiq-2.ru
 xblackeyex.000webhostapp.com
 xbm.amajed.com
@@ -41940,6 +41979,7 @@ xrstresser.net
 xrt.abalawi.com
 xrt.automanpk.com
 xrt4tr.com
+xrw.sc0rp5koroh.ru
 xs.alexandraparasca.com
 xs.liberatorpremiercompany.com
 xse3.frosthain.online
