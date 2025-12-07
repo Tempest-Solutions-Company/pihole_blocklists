@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-07 05:18:25 UTC
-# Total domains: 43704
+# Generated: 2025-12-07 11:23:32 UTC
+# Total domains: 43784
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3457,6 +3457,7 @@ ai.sjyj1.ru
 ai.tsqe2.ru
 ai.w2r1k.ru
 aiaeufaehe.su
+aiboxs.click
 aicomtrading.in
 aicsma.org
 aid.ju5q.ru
@@ -3950,6 +3951,7 @@ ami1.altervista.org
 amialoys.com
 amiceqymyiiewwgs.xyz
 amicgegscaocqasq.xyz
+amicostrevelkrot.com
 amierdz.no-ip.biz
 amigoecuqassagya.xyz
 amigor.qpon
@@ -4284,6 +4286,7 @@ apdfty.net
 apdlive.top
 ape.bkud4.ru
 ape.qvik5.ru
+apekafilokreilosaka.com
 aperture-48940.portmap.host
 apexelectronics-au.com
 apexenguae.com
@@ -4453,6 +4456,7 @@ arceo.pl
 arch.pot5.ru
 archeckfix.com
 archerelectricalpllc.com
+archikobalkrtiloka.com
 archilabdesigns.com
 archimedes181.it
 archive-candidate.gl.at.ply.gg
@@ -6195,6 +6199,7 @@ bii8.gdn
 bijnortimes.com
 bikeslam.net
 biklomanymonerteotr.com
+bikolasdikolertaa.com
 bil1sun8en.ru
 bilgenart.com
 bilgeoptik.com
@@ -7071,6 +7076,7 @@ bucharest.ro.eu.undernet.org
 buchiike.com
 bucketsec.tk
 buckeyedude.zapto.org
+buckscountytaxattorney.com
 bucrew.asia
 bucscrup.ru
 bud.h0bblenet.ru
@@ -7113,6 +7119,7 @@ bulentersoy.tv
 bulk-url-opener.com
 bullseyeaudio.com
 bullstray.hol.es
+bullstreetgourmetandmarket.lautrec.info
 bullxneo.net
 bullylifemag.com
 bulverdebasketball.com
@@ -7556,6 +7563,7 @@ cae-5-arf-0-rk.ru
 cafe-family-club.by
 caffreyloader.xyz
 cafrol.com
+cagis.pandajogosgratis.com
 cahol33666-24962.portmap.host
 caiip.darkb1rd.ru
 caijinshuiguolabadianzi.com.cn
@@ -7569,7 +7577,11 @@ caixasdesom.sbs
 cake.markapedya.com
 cakeandstudio.com
 cakerycafe.com
+cakhiatv.video
+cakhiatv.watch
 cakhiatvab.com
+cakhiatvb.com
+cakhiatvd.com
 calbewo.cyou
 calcutta.co.kr
 calendar-egyptian.gl.at.ply.gg
@@ -7650,6 +7662,7 @@ cankardeslerklima.com
 cannabiscbg.shop
 cannujv.shop
 canonjo.asia
+cans.systems
 cansupeker.com
 cantecme.xyz
 cantlemedical.com
@@ -9145,6 +9158,7 @@ coorpfree7.duckdns.org
 coorpfree9.duckdns.org
 cop.joy-2-way.ru
 copagelol.com.br
+copenhagenclimatecouncil.com
 copetran.com.co
 copp3r.copperweide8.ru
 copperhang.ru
@@ -10797,6 +10811,7 @@ disluqd.top
 disnotavalidmeantocommunicatemkidlydothe.duckdns.org
 distantstat.com
 distributionguitar.xyz
+ditmemaytuimayau88ngu.shilohbn.ru.com
 diuwdx.top
 divamgo.top
 divdal2.no-ip.org
@@ -11475,6 +11490,7 @@ dygn8.ic0n1cshore.ru
 dyh.dk-9-a-6.ru
 dykxkasesippbsjb.com
 dynamicedge-llc.com
+dynamicsyntax.org
 dypislng.com
 dyslexic-picture.000webhostapp.com
 dysplld.top
@@ -14003,6 +14019,7 @@ field.l1ghtforest.ru
 field.soft5and.ru
 field0.fa-1-cbrea-5-t.ru
 field1.law-5-andw-1-ch.ru
+fieldblue.logocravings.com
 fieldtripz.com
 fieooeoafheifiif.su
 fierpausemg93.com
@@ -14011,6 +14028,7 @@ fifplaya.fi.funpic.de
 fig.jix3.ru
 fight.5-kafaq-7-io.ru
 fightat.pics
+fighterpilotuniversity.com
 fightwithcapitalism.com
 figueqhk.xin
 figure.medai-gruop.com
@@ -14788,6 +14806,7 @@ fuck-killz.ru
 fuck.wz-3-a-7.ru
 fuckadv.ru
 fuckencio.com
+fuckgoogle.shilohbn.ru.com
 fuckingyoursister.ru
 fuckon1.date
 fuckrabbit.com
@@ -14922,6 +14941,7 @@ g-gratitude.co.th
 g-kioku.com
 g-o-f-y-s-e-l-f.foo
 g-reveal.gl.at.ply.gg
+g-terrace.net
 g.13-yz.ru
 g.1jd3t.ru
 g.23df.ru
@@ -15086,6 +15106,7 @@ g7.mossowl.ru
 g70.se5m.ru
 g74n.maplexenon.ru
 g7c5.kzg-w-4y.ru
+g7cnfrcns.localto.net
 g7k.7i091.online
 g7m.068xaw.ru
 g7m.8ds98.ru
@@ -15306,17 +15327,49 @@ gatex.aceawarewales.com
 gatex.antiracistusa.org
 gatex.brentwood-operatic.com
 gatex.brownandgraymusic.com
+gatex.bullstreetgourmetandmarket.lautrec.info
+gatex.cagis.pandajogosgratis.com
+gatex.cakhiatv.video
+gatex.cakhiatv.watch
+gatex.cakhiatvb.com
+gatex.cakhiatvd.com
+gatex.cakhiatvl.com
+gatex.cakhiatvx.com
+gatex.copenhagenclimatecouncil.com
 gatex.dooeys.com
+gatex.dynamicsyntax.org
+gatex.fieldblue.logocravings.com
+gatex.fighterpilotuniversity.com
+gatex.git.peteralanlloyd.com
+gatex.graffitinyc.com
 gatex.kallisti.uk.com
+gatex.mail.richardstjohn.com
+gatex.new.logocravings.com
+gatex.nightmarerecords.com
 gatex.nixt.io
 gatex.otisgrand.com
+gatex.pandajogosgratis.com
+gatex.perdre-la-raison.com
+gatex.peteralanlloyd.com
+gatex.sitemaps.butchvoices.com
 gatex.sociall.io
 gatex.socolive.in
 gatex.socolive10.ac
 gatex.socolive12.ac
 gatex.socolive17.ac
+gatex.vosillustration.logocravings.com
+gatex.workflows.edmdroid.com
 gatex.www.50thirdand3rd.com
 gatex.www.agil8.com
+gatex.www.atlbbqfest.com
+gatex.www.everybodyeveryone.com
+gatex.www.franksndawgs.com
+gatex.www.iamerinbrown.info
+gatex.www.mipatriaecuador.com
+gatex.www.monitorduty.com
+gatex.www.rogerperrybook.com
+gatex.www.springhousepress.com
+gatex.www.uwff.com
 gatex.xoilaczzazz.tv
 gatex.xoilaczzzcz.tv
 gatex.xoilaczzzdz.tv
@@ -16273,6 +16326,7 @@ goodyz.yzi.me
 googelevi.com
 googl-1010-final.com
 google-reviews-5l6.pages.dev
+google.shilohbn.ru.com
 googleapi.ru
 googlecardboardapp.com
 googlechrome-ww.com
@@ -18920,6 +18974,7 @@ inndividual.co.uk
 innervn.bet
 innoexpo.tech
 innofaso.com
+innov8league.com
 innovarconsultores.com
 innovation-insights.com
 innovation.desi
@@ -20695,10 +20750,12 @@ karina2bento-com.xyz
 karkinfra.in
 karlson53.xyz
 karma-bodrum.com
+karma0.xyz
 karmartec.com.au
 karmina117.sytes.net
 karmina118.sytes.net
 karmina119.sytes.net
+karminis.ch
 karnaval.asia
 karnaval.casa
 karnico.cl
@@ -22826,6 +22883,7 @@ lolibot.ru
 lolmio.altervista.org
 lololol.netsons.org
 lolora.ru
+lols-esports.com
 lolzzmortex.duckdns.org
 lomdebips.com
 lomkapwt.beget.tech
@@ -23652,11 +23710,13 @@ malware.aml-bot.in.net
 malware.brentwood-operatic.com
 malware.dcfl.cn.com
 malware.diamondtechnologies.in.net
+malware.f8bet.gr.com
 malware.jobdekho.in.net
 malware.jujutsukaisenmanga.in.net
 malware.kallisti.uk.com
 malware.kbbet777.net
 malware.nimeshpatel.in.net
+malware.shilohbn.ru.com
 malware.spc.jp.net
 malware.updos.uk.com
 malware.vn168.casa
@@ -24950,6 +25010,7 @@ mouraplas.com
 mousawisa.com
 mouseoverwiki.com
 mousquinouch.com
+mousycyminays.com
 moutoxj.top
 mov4wrd.com
 move-did.gl.at.ply.gg
@@ -25164,6 +25225,7 @@ muld.org
 mulege.gob.mx
 multas-impagas2025.com
 multidantraders.in
+multiplayer-games-online.pandajogosgratis.com
 multiple-knitting.gl.at.ply.gg
 multiport.shop
 multitraction.cf
@@ -25197,6 +25259,7 @@ music2.eq.ee
 musicoo1.ru
 musicstock.us
 musicwwv.beget.tech
+musl.site
 must.pot5.ru
 mustafabugra.com
 mutumbu.hc0.me
@@ -29312,6 +29375,7 @@ poppingb.com
 poppingx.com
 poqh.ru
 porchwilliams1234.serveftp.com
+porn.shilohbn.ru.com
 porn.zytv.ru
 porn4us.ws
 pornhab.com
@@ -29678,6 +29742,7 @@ pssa.000webhostapp.com
 pstnego.com
 pswrdlk.cf
 psycholife.accessdennied.uk
+psynovareal.ddns.net
 pt.4a8u6.ru
 pt.5lr1v.ru
 pt.9wb-k.ru
@@ -31838,6 +31903,7 @@ ritedi.icu
 ritihas826-36023.portmap.host
 ritoftwithhers.ru
 ritsuninfra.in
+ritualex.com
 ritvikbhai.comule.com
 ritz-carintonsuites.com
 riv3t.r1verdrop.ru
@@ -33395,6 +33461,7 @@ sex.aml-bot.in.net
 sex.diamondtechnologies.in.net
 sex.jobdekho.in.net
 sex.jujutsukaisenmanga.in.net
+sex.shilohbn.ru.com
 sex.updos.uk.com
 sex.vn168.casa
 sex.vn168.im
@@ -34188,6 +34255,7 @@ smkrantimula.sch.id
 smms.concept-studio.com.ua
 smo.75nahgyu2.xyz
 smoke.theeternalkansascity.com
+smokefreehousinginfo.com
 smokelessbooter.tk
 smokingantrecords.com
 smoothcashout.online
@@ -34586,6 +34654,7 @@ sparkle6.j1gglestone.ru
 sparkle7.sn-0-rtling.ru
 sparkle9.ma-shrift.ru
 sparklehomecleaningcompany.com
+sparklemyhome.net
 sparkling-shadow.com
 sparrow-cap-manufacturer.com
 sparrowjagwar.zapto.org
@@ -34776,6 +34845,7 @@ sqwgqsiiycmwiwoq.xyz
 sqwmiyemyeicqceo.xyz
 sqwoemykegsaomgy.xyz
 sqwqksqiwgcwkkuy.xyz
+sqwqwasresbkng.com
 sqwqyacauquqcyiw.xyz
 sqwsgysemwwkcswm.xyz
 sqwucykoyuuaasso.xyz
@@ -35201,6 +35271,7 @@ stormsandy.tk
 stormy.storm-ripple.ru
 storsvc-win.com
 storymodemortalcombo.com
+storysavers.in
 stoweqtd.myjino.ru
 stozft.asia
 stp.vumarifa.com
@@ -35339,6 +35410,7 @@ suit.tatyziu58.ru
 suitmemory.info
 suitsoap.xyz
 sukaponic.com
+suketiawan.com
 sukw.duckdns.org
 sulakshmihotels.in
 suleman.uni.me
@@ -35456,6 +35528,7 @@ supremogtarp.ddns.net
 supremqatar.com
 supreonlin.temp.swtest.ru
 sureboi.info
+sureclear.com.au
 surene.esy.es
 surepolex.com
 surepolexninja.serveftp.com
@@ -36898,6 +36971,7 @@ toi.l.hostens.cloud
 toirgsiorgididii.ws
 tok-info.com
 tokar222.000webhostapp.com
+tokaritokloiuer.com
 toke.paneltesla.net
 tokeno6a.xyz
 tokenpockethd.com
@@ -36960,6 +37034,7 @@ topdottourism.co.za
 toperdwtrade.biz
 topesimnomads.com
 topgadgetzone.com
+tophygiene.co.uk
 topic-florists.gl.at.ply.gg
 topik07.mcdir.ru
 topk.beatriceflorea.com
@@ -37232,6 +37307,7 @@ travel.bumbleshrimp.com
 travel.thattravelclub.com
 travelgidblog.top
 traveller.to
+travelmix.ch
 travelok.dynuddns.net
 travelstudio.gr
 tray.gyj0.ru
@@ -37291,6 +37367,7 @@ trilfy.ru
 trilineconsulting.com
 trimasjaya.com
 trimbble.se
+trimed.com.au
 trimoci.qpon
 trimoeb.bet
 trioeffisentec.com
@@ -38958,6 +39035,7 @@ v2.www.50thirdand3rd.com
 v2.www.agil8.com
 v2.www.allaboutbasketball.us
 v2.www.authorandrewsmith.com
+v2.www.brainspinesurgery.com
 v2.www.cascaderelief.org
 v2.www.istas22.org
 v2.www.outsideprague.com
@@ -39036,6 +39114,7 @@ v3.www.50thirdand3rd.com
 v3.www.agil8.com
 v3.www.allaboutbasketball.us
 v3.www.authorandrewsmith.com
+v3.www.brainspinesurgery.com
 v3.www.cascaderelief.org
 v3.www.istas22.org
 v3.www.outsideprague.com
@@ -42793,6 +42872,7 @@ yonutz.pixub.com
 yooacuygikwggemc.xyz
 yookqekcykkkskkm.xyz
 yoooawaicwciqioa.xyz
+yopaxif225-50693.portmap.host
 yoqawmmqqkiciyqq.xyz
 yoqcgsumgmaikois.xyz
 yoqeosqcygasmkku.xyz
