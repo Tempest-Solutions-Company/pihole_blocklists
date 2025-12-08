@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-08 00:34:04 UTC
-# Total domains: 43799
+# Generated: 2025-12-08 05:39:04 UTC
+# Total domains: 43801
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8473,6 +8473,7 @@ cities-bang.gl.at.ply.gg
 citr1x.l1mewave.ru
 citropt.pics
 cittadellese.sitonuovo.eu
+city-therapy.testingweblink.com
 citycolor.com.mx
 cityhotel.ge
 cityhotlove.com
@@ -35407,6 +35408,7 @@ suckerity.xyz
 suctso.asia
 sudhirghate.com
 sue.xb-4-e-7.ru
+sueweb.testingweblink.com
 sufcompany.ddnsguru.com
 sufficientblessing.com
 sufficientblessings132.duckdns.org
