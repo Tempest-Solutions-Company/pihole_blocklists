@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-10 12:27:27 UTC
-# Total domains: 7109
+# Generated: 2025-12-10 18:32:42 UTC
+# Total domains: 7110
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5477,6 +5477,7 @@ quantcdn.io
 quantdum.com
 quantexagroup.autos
 quantumarcade.store
+quantumfilebreak.com
 quantumit.online
 quantumpcs.shop
 quarterhouse.store
