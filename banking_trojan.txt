@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-10 00:16:44 UTC
-# Total domains: 7106
+# Generated: 2025-12-10 06:22:18 UTC
+# Total domains: 7109
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3626,6 +3626,7 @@ hoyoverse.blog
 hpdocument.com
 hpksafe.shop
 hrbriefings.com
+hristomasitomasdf.com
 hrlawflorida.com
 hrsd1.top
 hrsd2.top
@@ -4247,6 +4248,7 @@ krahha.com
 kranice.shop
 kreyy.com
 kristylarue.com
+krivomadogolyhp.com
 krona77.ru
 ksicngtw.org
 ksowlapw.com
@@ -5888,6 +5890,7 @@ sf-trd.ltd
 sfgame.sk
 sfxpips.com
 sgcex84.cn
+sgcipl.com
 sgcoc008.com
 sgdsti.com
 sglcarbon.sk
