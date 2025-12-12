@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-12 01:00:29 UTC
-# Total domains: 7110
+# Generated: 2025-12-12 07:06:12 UTC
+# Total domains: 7166
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -425,8 +425,22 @@
 9xmovie.sbs
 a-asana.com
 a-poster.info
+a.ba
 a.call
+a.gl
 a.global
+a.google
+a.host
+a.id
+a.is
+a.la
+a.na
+a.name
+a.pa
+a.qa
+a.sa
+a.target
+a.ua
 a110d1a9.top
 a1acomputerservices.com
 a1hr.top
@@ -1043,6 +1057,14 @@ aytobusesre.com
 azuredeploypackages.net
 azureglobalaccelerator.com
 azuycomp.com
+b.ca
+b.data
+b.google
+b.host
+b.ma
+b.name
+b.qa
+b.search
 b188m3.com
 b1wt.com
 b2-impact.es
@@ -1202,6 +1224,7 @@ betajbk.com
 betaric.com
 bethanyroseville.org
 betieastern.pk
+betimi.org
 betiv.fun
 betokay.com
 bett1safe.shop
@@ -1547,6 +1570,8 @@ bytelink.sbs
 bytesfromageek.com
 c.call
 c.id
+c.map
+c.qa
 c.target
 c0ncuur.com
 c0oncur.com
@@ -2069,6 +2094,7 @@ couponxplanet.shop
 courseir.com
 covalent.com
 covenwars.com
+coveo.cc
 cover-aws.com
 covingtonvillas.com
 coy360.com
@@ -2169,6 +2195,9 @@ czskcwk1.com
 d-cdn.de
 d-riyadh.com
 d.call
+d.qa
+d.search
+d.ua
 d0khp81b2771l1umdhguh806k7.net
 d3digital.store
 d4d.shop
@@ -2567,6 +2596,7 @@ e.fail
 e.is
 e.map
 e.name
+e.open
 e.style
 e.target
 e.tv
@@ -2805,6 +2835,7 @@ eyyww650.top
 ezstat.ru
 ezytracker.com
 f-fin.store
+f.call
 f5pl.top
 f8beta-2.com
 f8logistics.net
@@ -2826,6 +2857,7 @@ fallshotel.com.br
 familyfriendly.site
 familykinnection.com
 familyspiceblog.com
+famipole.ml
 fancyporno.com
 fannama.com
 fanovara.top
@@ -3121,6 +3153,11 @@ fzyqv.space
 g-entrance.icu
 g-fittings.shop
 g.call
+g.la
+g.open
+g.qa
+g.sa
+g.target
 gabpauto.com
 gabyshomeimprovements.com
 gadgetnesthub.online
@@ -3242,6 +3279,7 @@ gkjdepok.org
 gl-meet2024.com
 glassesrus.com
 glaviso.top
+glbridge.auto
 glevorcapital.com
 glimzy.shop
 glitzandglamdesign.com
@@ -3431,8 +3469,12 @@ gzesa.net
 gzki.org
 gzn6.top
 h-r-e.de
+h.domains
+h.name
 h.store
+h.target
 h14i.top
+h5dev.xyz
 hackerverse.com
 hacklinknetwork.store
 hagemeyerna.com
@@ -4753,11 +4795,13 @@ morvath.com
 mos-prom-service.ru
 mosaicconfirm.com
 moscable77.ru
+motchilltv.you
 mothtoflameb.buzz
 motinkon.co
 motionerz.id
 motopartshonda.shop
 motopartshonda.site
+motphimchilli.uk
 mountainspringchilipepper.com
 moviepolis.ru
 mozy.social
@@ -4868,6 +4912,7 @@ navigate-grey.fun
 navigator.online
 navix.site
 nayadofoundation.org
+nb.host
 nc4u.net
 ncjg.vip
 ncpdesign.com.au
@@ -5016,8 +5061,10 @@ nyzvelew.ru
 nzda.shop
 nzyutrc.net
 o.call
+o.google
 o.host
 o.name
+o.top
 o1x-secure-form.cyou
 o1z0.top
 o365clouddocsstorage.com
@@ -5407,6 +5454,9 @@ protect.in
 protectedcheckoutroute.com
 protenza-eg.com
 protostar.space
+prototype.ca
+prototype.ma
+prototype.map
 prototype.run
 providedatheyfromyouthe.club
 provienergyfilms.site
@@ -6390,8 +6440,11 @@ thinkkidsusa.com
 thinknigeria.org
 thirdmetrics.com
 thirstyturtleonline.com
+this.ba
+this.data
 this.host
 this.name
+this.target
 thomsonreuter.info
 thomsonreuter.pro
 thormvp.com
@@ -6573,6 +6626,7 @@ ucit.shop
 ucuzaalisveris.net
 udp64.de
 udyan.org
+ue.map
 ueox5.top
 ugmp.net
 ugocavitte.com
@@ -6974,6 +7028,7 @@ xtreme.hr
 xuione.com
 xuione.one
 xvcwbxjzdecpi.store
+xvideox.za.com
 xwqkhnc.com
 xwxaru.com
 xxlicious.com
@@ -7054,6 +7109,7 @@ yxnews.online
 yxunqfhyuwrxt.online
 yxw6.top
 yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion
+z.ga
 z0mi.top
 z1412.online
 z14r.top
