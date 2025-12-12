@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-11 18:55:05 UTC
-# Total domains: 48645
+# Generated: 2025-12-12 01:00:29 UTC
+# Total domains: 48687
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -34,6 +34,7 @@
 00hu05.shop
 00kla.com
 00v.xyz
+00w1g.j1ttersnap.ru
 00x.7-h9.ru
 00x.yldv.ru
 00x5ghgnnj9.xyz
@@ -944,6 +945,7 @@
 1j.ember-trail.ru
 1j9.wduh8.ru
 1jd.bvuf2.ru
+1jd.twigmantle.ru
 1jd3t.ru
 1je.gc0o9.ru
 1k.j-0-tchamber.ru
@@ -1252,6 +1254,7 @@
 2tx.kj-4-o-0.ru
 2u.aud1mi5s.ru
 2u8.si9a.ru
+2v.cl1nkbarge.ru
 2v.ty9a.ru
 2v1.lumentwist.ru
 2v2.space
@@ -1864,6 +1867,7 @@
 5f.ls-2-a-9.ru
 5f2zf.frost-fox.ru
 5f6.crust5p1ant.ru
+5fa4.cobble-yard.ru
 5fj.st0negate.ru
 5fn542lfohsup239.iloveanimals.shop
 5fw.24s6.ru
@@ -2770,6 +2774,7 @@
 9xz.24s6.ru
 9y.njur.ru
 9y.sa3x.ru
+9yd.v0xletrill.ru
 9yg.m2la.ru
 9yi.j935.ru
 9z.m7lo.ru
@@ -4547,6 +4552,7 @@ alpha.ironbl0om.ru
 alpha.lugerd.com
 alpha.mashvortex.ru
 alpha.nuts.kiev.ua
+alpha.orb-shackle.ru
 alpha.p0larday.ru
 alpha.pip-etalon.ru
 alpha.protonhost.net
@@ -7072,6 +7078,7 @@ bf.d42n.ru
 bf.k0v1p.ru
 bf.k5b2q.ru
 bf.m7lo.ru
+bf1.twig-mantle.ru
 bfagzzezgaegzgfaie.top
 bfagzzezgaegzgfaik.su
 bfagzzezgaegzgfail.cc
@@ -9012,6 +9019,7 @@ cbzr-98pq1.ydns.eu
 cc.aass654.com
 cc.jjkk567.com
 cc.nnmm234.com
+cc.orb-shackle.ru
 cc.riftcog.ru
 cc.vn168.im
 cc.vvbb321.com
@@ -9066,6 +9074,7 @@ cdn.messager.my
 cdn.myolt.my.id
 cdn.relatec.it.com
 cdn.rs-dns.sbs
+cdn.sentihey.dedyn.io
 cdn.zhuqiy.top
 cdndz.messager.my
 cdnjscookies.top
@@ -9950,6 +9959,7 @@ clinicapele.agenciadelivearte.com.br
 clinicasdoctord.com.br
 clinicasdorim.com.br
 clinique-sainte-marie.top
+clink.orb-shackle.ru
 cliten.microdoctor.com.br
 clivertrade.biz
 clivertradesbiz.in
@@ -11851,6 +11861,7 @@ delta.gr0upw0rk.ru
 delta.in5istle5s.ru
 delta.intrl2bi1e.ru
 delta.lo0kferti1.ru
+delta.pr0wlmint.ru
 delta.r0cketf2rm.ru
 delta.st0neforest.ru
 delta.sun5hine.ru
@@ -11891,6 +11902,7 @@ denny-insurance.co.uk
 densed.ml
 densefox.ml
 denshikeiyaku-hikaku.com
+dent.twigmantle.ru
 dentalconcernsanswered.com
 dentist-dental-care-99908.bond
 dentistmastercanada.com
@@ -12280,6 +12292,7 @@ dll.amajed.com
 dll.schermgebroken.nl
 dll.vuzojiu9.ru
 dll32s.lat
+dlnd.twig-mantle.ru
 dload.chatology.my
 dlop3.skyb1end.ru
 dlp.socialsalesnaija.com
@@ -12911,6 +12924,7 @@ dworldvr.com
 dwr.bo3l.ru
 dwssa.top
 dwtrade.biz
+dxd.pr0wlmint.ru
 dxg-bob.info
 dxl08.ch2rmsan1nst.ru
 dxovrcmyletmggxf.com
@@ -13876,6 +13890,7 @@ elysium-inc.info
 elysium-inc.pro
 elysium-ltd.pro
 em.cl0udmark.ru
+em.cobble-yard.ru
 em.dbc-8-i.ru
 em.mxta6.ru
 em.n4-ke.ru
@@ -15994,6 +16009,7 @@ fl3xyinc.top
 fl4sho.flashwood.ru
 fl583.top
 fl9.hre-9-in-7-mamma.ru
+fla.twigmantle.ru
 fla5h.2-fyzog-201-e.ru
 flac.fozomya6.ru
 flacca.usa.cc
@@ -16713,6 +16729,7 @@ futurenaturallistic.com
 futurepacksunlimited.com
 futurizmoff.com
 fuxb.dicti0nvica1.ru
+fuzz.muddle-oak.ru
 fv.nqyf7.ru
 fv.xibovyu5.ru
 fv.xx-os.ru
@@ -16860,6 +16877,7 @@ g1000net.com
 g100cf.ddns.net
 g15hev.go1dkamy5hev.ru
 g1d5hv.go-1-dkamy-5-hev.ru
+g1gq.orbshackle.ru
 g1l6m9p.ru
 g1rq.7-09f.ru
 g1s.obvp-2.ru
@@ -17069,6 +17087,7 @@ gamma.cheb0t5agit.ru
 gamma.ep1che2ded.ru
 gamma.f1rest0ne.ru
 gamma.lett5p0st.ru
+gamma.muddle-oak.ru
 gamma.patterjack.ru
 gamma.po0f5hleika.ru
 gamma.rainb0rne.ru
@@ -20272,6 +20291,7 @@ hu.storm-harrow.ru
 hu.toqyboe3.ru
 hu.wdax1.ru
 hu41o.ever-mint.ru
+hu9.j1ttersnap.ru
 huaeokaefoaeguaehe.top
 huaeokaefoaeguaehk.su
 huaeokaefoaeguaehl.co
@@ -20464,6 +20484,7 @@ i3.ll-7-y-5.ru
 i3.meqt.ru
 i4b2.gay
 i4j.rv-2-o-5.ru
+i4o3.twig-mantle.ru
 i4qt.b1eedu4yuk.ru
 i4u.fireh0rn.ru
 i5.ra-9x.ru
@@ -20926,6 +20947,7 @@ ij300.top
 ijabnews71.com
 ijabosspanel.tk
 ijapersonal.ga
+ijct.cl1nkbarge.ru
 ijelevine.ru
 ijels.com
 ijitm.com
@@ -25415,6 +25437,7 @@ loom.acidwrench.ru
 loom.deltasync.ru
 loom.m-0-on-forger.ru
 loom.n0v0se1prew.ru
+loom.orbshackle.ru
 loom.quartzflip.ru
 loom.suf-1-nau-8-h.ru
 loom.vorticeye.ru
@@ -26523,7 +26546,9 @@ malware.jobdekho.in.net
 malware.jujutsukaisenmanga.in.net
 malware.kallisti.uk.com
 malware.kbbet777.net
+malware.motchilltv.red
 malware.motchilltv.you
+malware.nangtamlonto.top
 malware.nimeshpatel.in.net
 malware.servicecenters.in.net
 malware.shilohbn.ru.com
@@ -26582,6 +26607,7 @@ mansiobbok.com
 manticu.asia
 mantini.duckdns.org
 mantis.bubars.com
+mantle.pr0wlmint.ru
 manual-terminology.gl.at.ply.gg
 manualapproval-leke.tk
 manualc.lat
@@ -32225,6 +32251,7 @@ pimplord.com
 pimpword.in
 pin.cewyzui61.ru
 pin.rkuc9.ru
+pincer.twigmantle.ru
 pine.cioudharbor.ru
 pine.luv6.ru
 pine.tr-8-n.ru
@@ -33008,6 +33035,7 @@ proves2tn.2tono.com
 provide-abu.gl.at.ply.gg
 providence.nutorus.com
 provorov.cwsurf.de
+prowl.j1ttersnap.ru
 prox01.altervista.org
 proxaa23w.kozow.com
 proximns-bg.com
@@ -34164,6 +34192,7 @@ qwer.net23.net
 qwert123.comli.com
 qwerty12346.ru
 qwfxemkbuee.com
+qwg6.orbshackle.ru
 qx.3e7u.ru
 qx.jozotea.ru
 qx.kjyx7.ru
@@ -36090,6 +36119,7 @@ safetyzone.com.sa
 safevibe.net
 safevpnconnection.anondns.net
 saffron-zip.ru
+saffron.muddle-oak.ru
 saffron.wtok-2.ru
 saffronzip.ru
 saflot.com
@@ -37057,6 +37087,7 @@ sh1178960.a.had.su
 sh1213709.a.had.su
 sh2keng1neer.ru
 sh4dow.darkf1sh.ru
+shackle.twig-mantle.ru
 shad0w.duskfield.ru
 shad3o.0akshade.ru
 shaddyfiles.ru
@@ -37907,6 +37938,7 @@ snaifre.sbs
 snake.dietasrapidas.info
 snakeig.click
 snakexox.com
+snap.j1ttersnap.ru
 snapdealrightnow.com
 snapk.org
 snappis.lat
@@ -39739,6 +39771,7 @@ t2.9i3mpa6.ru
 t2.apps.zestforai.com
 t2.bo8y.ru
 t2.mcyz4.ru
+t2.v0xletrill.ru
 t222.vip
 t2constructiontexas.com
 t2gh5.je9t.online
@@ -41268,6 +41301,7 @@ trik-internet.url.ph
 trikhaus.info
 trilfy.ru
 trilineconsulting.com
+trill.v0xletrill.ru
 trimasjaya.com
 trimbble.se
 trimed.com.au
@@ -41485,6 +41519,7 @@ twelve.gdyl-2.ru
 twenan.ga
 twentysixjune.biz
 twessy.tasawk.net
+twig.pr0wlmint.ru
 twig.s-2-ly.ru
 twig.wir2.ru
 twig7s.0akshade.ru
@@ -41865,6 +41900,7 @@ uayooouicksesgmo.xyz
 uayoukessuwoceuc.xyz
 uayqygeqgoeueywa.xyz
 uayumyaocqcwmcsc.xyz
+ub.muddle-oak.ru
 ub.n-96-f.ru
 ubady.xyz
 ubanedanigmimig.su
@@ -42847,6 +42883,7 @@ uytghkhl.sbs
 uyu.jyhsolucion.ar
 uyu.wantedrelief.com
 uyx4123.cn
+uz.cobble-yard.ru
 uz.d09r.ru
 uz.vqod-2.ru
 uz5.mt-3-o-4.ru
@@ -43739,6 +43776,7 @@ v7p2.i-m22.ru
 v7pz.02lxy3.ru
 v7rpejh04.localto.net
 v8.ckar-4.ru
+v8.orb-shackle.ru
 v8.ziqa.ru
 v81h.m0rning.ru
 v8gqo.p1acetit1e.ru
@@ -44052,6 +44090,7 @@ vevcn.com
 veve.fun
 vex.f1sslehub.ru
 vex.naberui.ru
+vex.orbshackle.ru
 vex.qe3yn.ru
 vex.zyrupoe.ru
 vex7in.st0rmshade.ru
@@ -46284,6 +46323,7 @@ wz8.qej9.ru
 wza.f1ukomki5s.ru
 wzlive.support
 wzs.manual1sa1yz.ru
+wztbj.cl1nkbarge.ru
 wzu.ki8n.ru
 x-apply.com
 x-vape.ca
@@ -46496,6 +46536,7 @@ x7md.3v-3y.ru
 x7p4.zm6392.online
 x7pro.top
 x7x.xyz
+x7xh.cl1nkbarge.ru
 x8.13-yz.ru
 x8.9-ck6.ru
 x8.9b9-7.ru
@@ -47041,6 +47082,7 @@ xxinfo.xyz
 xxkoixiiiqpyecxoaka.com
 xxl.fatedlove888.com
 xxpeszmtf.localto.net
+xxqr.cobble-yard.ru
 xxv.xyz
 xxx.hotelsinnewjerseyatlanticcity.com
 xxx.sanctifly.club
