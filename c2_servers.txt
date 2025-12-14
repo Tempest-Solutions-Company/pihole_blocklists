@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-14 13:54:44 UTC
-# Total domains: 49375
+# Generated: 2025-12-14 20:00:08 UTC
+# Total domains: 49417
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -306,6 +306,7 @@
 1.netbots.africa
 1.santaiot.net
 1.tcp.clar.io
+1.tcp.jp.ngrok.io
 1.wsit4.ru
 10-star-service.tk
 10.9.jami.bio
@@ -5164,6 +5165,7 @@ ape.bkud4.ru
 ape.qvik5.ru
 apekafilokreilosaka.com
 aperture-48940.portmap.host
+apex4.skytrac5.ru
 apexelectronics-au.com
 apexenguae.com
 apexlogisticscompany.com
@@ -5363,6 +5365,7 @@ araujosubastas.com.uy
 arb0r.fr
 arbistars.com
 arbitr-urist.com
+arc2.storml1nk.ru
 arc9m5.mar5hma1narc.ru
 arcadiatechnology.co
 arcantos.y55.eu
@@ -6256,6 +6259,7 @@ azur.m1stycl0ud.ru
 azure.m365.1drive.zip
 azure.mcej-9.ru
 azure.q0spi.online
+azure2.bluest0ne.ru
 azure5.bluem1st.ru
 azurebrief.gleeze.com
 azurecloudteam.com
@@ -7793,6 +7797,7 @@ boldhorizongroup.com
 bolinas.store
 bollingoes.ml
 bolsaooma.com
+bolt.storml1nk.ru
 bolt.test.silvan.earth
 bolt9a.fastspark.ru
 bombatwill.ru
@@ -8066,6 +8071,7 @@ breez5.be8ref7ain.ru
 breez5.lazywind.ru
 breez9.windzero.ru
 breeze.br1ghtstorm.ru
+breeze.mintst0rm.ru
 breeze.wtok-2.ru
 breezef0x.ru
 breezibeauti.com
@@ -8511,6 +8517,7 @@ byt3rx.leafbyte.ru
 byte.amy8ep1thet.ru
 byte.b0okca7niv.ru
 byte.b1tcascade.ru
+byte.bytefl0w.ru
 byte.darkbreeze.ru
 byte.effu5rep7eh.ru
 byte.ge7kom0ley.ru
@@ -9309,6 +9316,7 @@ centraltelecomunicacoes.com.br
 centraltransbankonlinetrans.org
 centraltsgh.com
 centranets.ml
+centre-instruction.gl.at.ply.gg
 centre-samples.gl.at.ply.gg
 centrehotel.vn
 century-see.gl.at.ply.gg
@@ -9674,6 +9682,7 @@ childrentally.org
 childrnafrica.com
 chileindependiente.cl
 chill-me.com
+chill.frostc0re.ru
 chill5.fr0stpetai.ru
 chilladverting.site
 chillie-cafe-boutique.com
@@ -10293,6 +10302,7 @@ coast.c2rndiv1ne.ru
 coast.r2dire5our.ru
 coast.w1ndcrest.ru
 coast0.5-forez-515-o.ru
+cobalt.bluest0ne.ru
 cobalt.wduh-8.ru
 cobble.saffron-dent.ru
 cobility.top
@@ -10950,6 +10960,7 @@ crest.rockstorm.ru
 crest.st0nepeak.ru
 crest.stonemist.ru
 crest.stormglade.ru
+crest.storml1nk.ru
 crest.sunb1aze.ru
 crest.sunm0tion.ru
 crest.zenbloom.ru
@@ -11368,6 +11379,7 @@ cyberwashere.is-a-lawyer.com
 cybpy.cn
 cyc.rxir-9.ru
 cychefs.com
+cycl1e.windc0de.ru
 cyclonemousery.com.au
 cycvmix.shop
 cyken.info
@@ -12817,6 +12829,7 @@ dr5.ve5l.ru
 drachen-hort.com
 dracotec.org
 draft.pip-etalon.ru
+draft.windc0de.ru
 draft21.redirectme.net
 draft22.duckdns.org
 draft22.redirectme.net
@@ -16122,6 +16135,7 @@ firmpro.usa.cc
 firn.fr0stgate.ru
 firn.frostwinkel.ru
 firn2.snowdr1ft.ru
+firn3.frostc0re.ru
 firn5a.snowroot.ru
 firrma.ru
 firscool.us
@@ -16397,6 +16411,7 @@ flux.flint-zoo.ru
 flux.j0tchamber.ru
 flux.qu1rkfuse.ru
 flux0.quant-melt.ru
+flux2.bytefl0w.ru
 flux3.t1nkerbay.ru
 flux9.l1ghtflare.ru
 fluxegtarp.xyz
@@ -16655,6 +16670,7 @@ frakt8.crystalv1be.ru
 frameclover.info
 framestove.info
 framoa.top
+francaeso-ctrik-51614.portmap.host
 francearefrogs.xyz
 francehayon.fr
 franceparty.top
@@ -18229,6 +18245,7 @@ glibtof.qpon
 glide.brim-hopper.ru
 glide.cr1mpoint.ru
 glide.gl1nterbay.ru
+glide.skytrac5.ru
 glide.twistnova.ru
 glide2.vexlatch.ru
 glidfy.com
@@ -18819,6 +18836,7 @@ gregtons.bl.ee
 gregvictor.co.uk
 grek.club
 grek.uni.me
+grenki2005-34712.portmap.host
 grenlel.top
 grensena.cf
 grentiba.com
@@ -19121,6 +19139,7 @@ gurimi.ru
 guruofnew.com
 gusewets.mcdir.ru
 gusex.press
+gust.windc0de.ru
 gust5r.stormglow.ru
 gust5y.5tormfoid.ru
 gust5y.stormling.ru
@@ -20009,6 +20028,7 @@ her.theoptimizedbody.com
 her.vex0.ru
 heraldbush.ga
 herandhis.kvus7.ru
+herb.mintst0rm.ru
 herb5.br1ghtmint.ru
 herb5x.mintpeak.ru
 herb5y.mintfiare.ru
@@ -20316,6 +20336,7 @@ ho7.rd-1-a-2.ru
 ho7rcj6wucosa5bu.onion
 hoanghachai.com
 hoangkim.ga
+hoar.frostc0re.ru
 hoar2.fr0stgate.ru
 hobbymarket69.com
 hobbyrate.com
@@ -20607,6 +20628,7 @@ huaeokaefoaeguaehr.su
 huaeokaefoaeguaehu.cc
 huanyinxagsxy.fun
 huayang.com
+hub.netw1ng.ru
 hub.pi6o.ru
 hubfinance.lu
 hubris.hubr1s5ajor.ru
@@ -21418,6 +21440,7 @@ indeego.com.tw
 indef.locker
 independentreservefinance.cc
 index-hall.gl.at.ply.gg
+index.datash1ft.ru
 index.ht
 indexdoll.top
 indialifes.com
@@ -25481,6 +25504,7 @@ linhxasro.com
 link-infect.esy.es
 link.ikantoman.com
 link.kunstsignal.com
+link3.netw1ng.ru
 linkedim.pw
 linkhome.ga
 linkk-my.com
@@ -27533,6 +27557,7 @@ mesagkigquewussu.xyz
 mesaweide.ru
 mesccigmyugkcwua.xyz
 mesgeqyaeuqumuqu.xyz
+mesh.netw1ng.ru
 mesh.papervolt.ru
 mesh.s0apthorn.ru
 mesh.s0larbudge.ru
@@ -29553,6 +29578,7 @@ nextstepinvest.xyz
 nextwarren.mt-org.com
 nexu5.lizqa.online
 nexus-cloud-360.com
+nexus.bytefl0w.ru
 nexus.clearl1ne.ru
 nexus.tinkerstep.ru
 nexus.velvetecho.ru
@@ -29861,6 +29887,7 @@ noflyzone.ru
 noggs.ru
 nohz.org
 noidprb.cyou
+noir.darkp1xel.ru
 noir4.darksun5et.ru
 noir7w.black5wan.ru
 noirgsiorgididii.su
@@ -32922,6 +32949,7 @@ plume.windcrest.ru
 plurcfq.top
 plush.ciears0ft.ru
 plush.lizqa.online
+plush2.softdr1ve.ru
 plustech.gr
 pluswareltd.tk
 pluv7x.driftquartz.ru
@@ -35814,6 +35842,7 @@ rim.luv6.ru
 rimalbazaar.com
 rimamarestart.com
 rime.fr0stgate.ru
+rime.frostc0re.ru
 rime.frostwinkel.ru
 rime.gl0wmist.ru
 rimmugygur.is
@@ -36113,6 +36142,7 @@ roumanie.sandierrot.fr
 round-districts.gl.at.ply.gg
 round-failing.gl.at.ply.gg
 roundcounter.net
+route.netw1ng.ru
 route13afjswsww.net
 route36grille.com
 routemate.us
@@ -36835,6 +36865,7 @@ satburn.ml
 satet.locker
 sathicehat.org
 satin.ciears0ft.ru
+satin.softdr1ve.ru
 satixxxx.xyz
 satlogment.co.uk
 sattam29.net78.net
@@ -37685,6 +37716,7 @@ shantpie.tk
 shapely.mywire.org
 shar2345ewater.space
 sharanilodge.com
+shard.datash1ft.ru
 shard.kos-0-ltyu-4-etey.ru
 shard.marble-tug.ru
 shard.morrowplug.ru
@@ -37975,6 +38007,7 @@ siliconmoss.ru
 silikonfabrik.de
 siliverstersnewone.in
 silk.ciears0ft.ru
+silk.softdr1ve.ru
 silkavayssstezya.website
 silkroadstealer.comoj.com
 sillyjay.crabdance.com
@@ -38336,6 +38369,7 @@ slamkushitrckzxi.net
 slangenhaken.nl
 slantboardguy.testingweblink.com
 slash.gdyl-2.ru
+slate.bluest0ne.ru
 slav.uni-sofia.bg
 slaykings.io
 sleepkids.app
@@ -38797,6 +38831,7 @@ soulcirclewellness.co.za
 soulcirclewellness.rocketrobs.co.za
 souldey.cyou
 soulflower.com.mx
+soulnxc-62104.portmap.host
 sounqp.cyou
 sourc3.onyxquelle.ru
 source-gtk.gl.at.ply.gg
@@ -39088,6 +39123,7 @@ sqsoswycqiegmwko.xyz
 sqsuequaaiwmaesi.xyz
 sqsyykycgkuckuwm.xyz
 squabkq.top
+squall.storml1nk.ru
 squall.stormpixei.ru
 squall2.hiiistorm.ru
 squall6.windstack.ru
@@ -39607,6 +39643,7 @@ strand.wildr0se.ru
 strangercloud.ml
 strarwars.zzz.com.ua
 strasnersuperstoreblog.com
+strat.skytrac5.ru
 stratbuks.com
 strategic-marketing.org
 strategicassetlane.xyz
@@ -41715,6 +41752,7 @@ trace.5h0p.ru
 trace.be5isg2uze.ru
 trace.bluef1re.ru
 trace.bu1gep2lest.ru
+trace.bytefl0w.ru
 trace.c0nju8maraf.ru
 trace.ch2pernev0d.ru
 trace.crystal0ak.ru
@@ -41778,6 +41816,7 @@ trail.ede1g0rge.ru
 trail.flintzoo.ru
 trail.rumble-kin.ru
 trail.skym0tion.ru
+trail.skytrac5.ru
 trail.softr1ver.ru
 trail.ventrill.ru
 trail.wildcr3st.ru
@@ -44638,6 +44677,7 @@ vellalink.com
 vellz0n.com
 velorn.decor1cry5t.ru
 velvet.m0tivecrib.ru
+velvet.softdr1ve.ru
 velvet.wqix-5.ru
 velvetyield.com
 vemaci.top
@@ -49076,7 +49116,9 @@ zenshinonline.ru
 zentrixdatasolutions.com
 zenval.ai
 zenytio.com
+zeph.skytrac5.ru
 zeph1r.l1ghtstorm.ru
+zeph1r.mintst0rm.ru
 zephalon.com
 zephyr.deepbreeze.ru
 zephyr.mcej-9.ru
