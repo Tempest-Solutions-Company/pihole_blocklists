@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-15 02:05:25 UTC
-# Total domains: 7233
+# Generated: 2025-12-15 08:10:47 UTC
+# Total domains: 7301
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1555,6 +1555,7 @@ butteritaccounting.com
 buyadvisershop.net
 buycc.shop
 buygreenstudio.com
+buyiceecream.com
 buyington.com
 buyingzed.com
 buyitofficial.shop
@@ -2457,7 +2458,10 @@ docdrivecloudstorage.com
 docelvision.com
 dockmilk.com
 docs-google.com
+docs-live.works
 docs-planet.site
+docs-workspace.live
+docs-workspace.online
 docsanduploadpreview.com
 docsmoonstudioclayworks.online
 docsresearchgroup.com
@@ -2486,6 +2490,7 @@ doref.win
 dornwell.today
 dosingpumps.ru
 dostylish.com
+doubletwistertop.com
 douyincs.top
 dovevivo.com
 dovexa.top
@@ -2542,6 +2547,7 @@ drinkplain.net
 drinkthink.us
 drive-share.com
 drivedanaford.com
+drivemyfile.com
 driverservices.store
 drivingdirections.online
 drivoroad.store
@@ -3077,10 +3083,14 @@ footballstudio.online
 foreverhungry.shop
 forlindma.online
 forlindmc.online
+form-direct.live
+form-space.org
 formafit.online
 formafutura.it
 formbuddy.com
 formgroup.construction
+forms-gle.online
+forms.works
 fornume.com
 foroateo.com
 fortheculture.shop
@@ -3393,6 +3403,7 @@ goolgepalay.com
 goollfanyi.com
 gopas2go.cz
 gordianscorporate.ltd
+gotomind.net
 gotraxsafe.shop
 gotuneapp.top
 gouglechrome.com
@@ -4461,6 +4472,8 @@ lineryna.shop
 link24.site
 linkdevelopment.com
 linkedin-signin.com
+linkeedservice.com
+linkerseervice.com
 linomatechnology.com
 linos815.com
 lionsapp.net
@@ -4823,6 +4836,7 @@ morvath.com
 mos-prom-service.ru
 mosaicconfirm.com
 moscable77.ru
+motchilltv.how
 motchilltv.you
 mothtoflameb.buzz
 motinkon.co
@@ -5636,6 +5650,12 @@ rchobby.pk
 rcmguttersystems.com
 rdnsdomain1.co.in
 rdpdeals.co
+re-tdm-sec.live
+re-tdm-sec.online
+re-tdmsec.live
+re-tdmsec.online
+re-tdmsec.software
+re-tdmsec.zone
 reactbanner.com
 readingnews.store
 readyedc.us
@@ -5660,6 +5680,7 @@ reddit-seeklogo.com
 redepo.site
 rederate.info
 redir.store
+redirect-workspace.com
 redirecting.ws
 redpack.com.ar
 reelsappbackend.space
@@ -5701,6 +5722,7 @@ restorationdentalaz.com
 restui.club
 retajarabia.com
 retdirectyourman.eu
+retdmsec.live
 retgwrey.site
 retoninjainmobiliario.com
 reverasuplementos.fun
@@ -6377,6 +6399,44 @@ tcg-world.shop
 tci-usa.shop
 tcm-supplyllc.com
 tcp64.de
+tdm-sec.consulting
+tdm-sec.live
+tdm-sec.news
+tdm-sec.online
+tdm-sec.software
+tdmsec-analysis.live
+tdmsec-analysis.online
+tdmsec.com
+tdmsec.consulting
+tdmsec.expert
+tdmsec.live
+tdmsec.online
+tdmsec.social
+tdmsecglobal.live
+tdmsecglobal.online
+tdmsecglobal.zone
+tdmseclabs.consulting
+tdmseclabs.live
+tdmseclabs.online
+tdmseclabs.software
+tdmsecsys.live
+tdmsecsys.online
+tdmsecsys.social
+tdmsecsys.software
+tdmsecsys.zone
+tdmsecteam.live
+tdmsecteam.online
+tdmsecteam.software
+tdmsecteam.zone
+tdmsecure.consulting
+tdmsecure.live
+tdmsecure.online
+tdmsecure.software
+tdmsecure.zone
+tdmsecurity.consulting
+tdmsecurity.live
+tdmsecurity.online
+tdmsecurity.social
 tdoxycbf.icu
 tdsworkout.com
 teacheronline.online
@@ -6557,7 +6617,15 @@ tlcnailbarhoover.com
 tlelmeuas.com
 tlfiyat.shop
 tllws.com
+tm-blog.live
+tm-blog.online
+tm-blog.social
+tm-blog.software
+tm-blog.website
 tmo-assistant.com
+tmsec-blog.live
+tmsec-blog.online
+tmsec-blog.software
 tmtha.com
 tnmurphybeds.com
 tnuk.top
