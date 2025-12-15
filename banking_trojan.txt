@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-15 14:16:24 UTC
-# Total domains: 7301
+# Generated: 2025-12-15 20:21:34 UTC
+# Total domains: 7304
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2886,6 +2886,8 @@ fantasy-hub.online
 fantasy-hub.ru
 fantasyroom.online
 faradays.store
+farketmez36.sbs
+farketmez37.cfd
 farmaciadrogueriasanjorge.com
 farmersgateag.com
 fashdefi.store
@@ -3135,6 +3137,7 @@ freshemail.net
 freshtechfiltration.com
 freyqa.bet
 frezorapp.io
+froglive.net
 fromsuper.com
 frontrowinternational.us
 frostyfreebies.com
