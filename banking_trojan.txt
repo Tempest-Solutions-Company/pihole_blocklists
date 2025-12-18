@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-18 03:12:16 UTC
-# Total domains: 7317
+# Generated: 2025-12-18 09:17:43 UTC
+# Total domains: 7320
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4754,6 +4754,7 @@ mic-tests.com
 michael-schuller.de
 michaeljohnhome.co.uk
 michalmaayandon.com
+mickstatham.com
 microcloudfiles.com
 microcloudfilesstorage.com
 microcloudfilestorage.com
@@ -5311,6 +5312,7 @@ pcconnection.online
 pccustomhomes.net
 pcpnabharoad.com
 pcwnyb.com
+pdeterstars.com
 peachandprunes.com
 peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion
 pearlysrestaurant.shop
@@ -7189,6 +7191,7 @@ xyled.online
 xym3.top
 xyqcdk.fun
 xyqoquy.shop
+xyrmiskisxyr.cc
 xyzhealthshop.com
 xzmbb.com
 xzshonsscrjzu.online
