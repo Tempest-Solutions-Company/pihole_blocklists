@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-18 00:07:41 UTC
-# Total domains: 50127
+# Generated: 2025-12-18 03:12:16 UTC
+# Total domains: 50163
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -905,6 +905,7 @@
 1alternative.zapto.org
 1apde.zeromint.ru
 1ax.cv3a9.ru
+1ay20.lightst0rm.ru
 1azwv0.bond
 1b.cfob-5.ru
 1b8.flintzoo.ru
@@ -943,6 +944,7 @@
 1hi.to1j.ru
 1hj.sx-2-u-0.ru
 1hx8.maplexenon.ru
+1i.lightst0rm.ru
 1i.myzj.ru
 1i5i.ru
 1i7.qo1s.ru
@@ -1090,6 +1092,7 @@
 206-189-201-40.cprapid.com
 209-190-75-10.gq
 20q.5b-c.ru
+20ve.brightc0re.ru
 21.hb0-e.ru
 21.mylitapp.com
 21.stormcairn.ru
@@ -1161,11 +1164,13 @@
 26e.j0tchamber.ru
 26x.nm0e2.ru
 27.c70ye.ru
+27.darkw1re.ru
 27.fr1zzlepit.ru
 28.darkb1rd.ru
 28.plx-5.ru
 280.ldef-4.ru
 287.hl5a6.ru
+2887k.stormf0rm.ru
 28p.frostn0de.ru
 28xr3.clipmorrow.ru
 28xt8.id1otre5ist.ru
@@ -1228,6 +1233,7 @@
 2iz.d3-6.ru
 2iz.qu1rkfuse.ru
 2j.w8i0h.ru
+2jgq.frostc0de.ru
 2jj77.com
 2k.sheh0.ru
 2k3.bg4o2.ru
@@ -1242,6 +1248,7 @@
 2maga.site
 2magas.site
 2magicalmage.zapto.org
+2ms.cloudb1t.ru
 2n.b3aconz.ru
 2n.dr1ftpanda.ru
 2n0.qh1a5.ru
@@ -1562,6 +1569,7 @@
 3xlu.icy-moth.ru
 3y.brightridge.ru
 3y28z.top
+3yb.brightc0re.ru
 3yj.chit-7-a-5-tat.ru
 3z.7-fd.ru
 3z.comp-0-tsab-3-e.ru
@@ -2106,6 +2114,7 @@
 66chat3.org
 66eff2f0.myjino.ru
 66nx.bep0ver7y.ru
+66o.brightc0re.ru
 67.ha5r.ru
 67.rjuq3.ru
 67068f5302480.site88.net
@@ -2398,6 +2407,7 @@
 7h.8b-1d.ru
 7h7gd.crystalwind.ru
 7hb.yldv.ru
+7hn2w.skysh1ne.ru
 7hv.li1mi8rat.ru
 7hz.ldef-4.ru
 7hz0p.mintdr1ft.ru
@@ -2651,6 +2661,7 @@
 8po.gr-1-tbinder.ru
 8q.614lo.ru
 8q.r8li.ru
+8q.skysh1ne.ru
 8q1qk.silverh1ll.ru
 8q7.oceanshift.ru
 8ql.n6ri.ru
@@ -6472,6 +6483,7 @@ b10ou.ru
 b177.top
 b19jdn167t.in
 b1d.da5v.ru
+b1g.brightc0re.ru
 b1gnet.comoj.com
 b1n.r7va.com
 b1nr.432b47.ru
@@ -7594,6 +7606,7 @@ bit-agent.com
 bit-e.online
 bit-e.ru
 bit.bkud4.ru
+bit.deepw1nd.ru
 bit.ju5q.ru
 bit.twirl-pane.ru
 bit1.zadc.ru
@@ -11116,6 +11129,7 @@ crest.bana1ity8ed.ru
 crest.bray-circuit.ru
 crest.c5ech0ut.ru
 crest.chri5t1anget.ru
+crest.deepw1nd.ru
 crest.f1recliff.ru
 crest.f1recrest.ru
 crest.hea1t5ultan.ru
@@ -11878,6 +11892,7 @@ dark.anonym.team
 dark.buddco1lect0r.ru
 dark.c5ech0ut.ru
 dark.crystalriver.ru
+dark.deepw1nd.ru
 dark.in5istle5s.ru
 dark.kimanisfood.com.my
 dark.lightw1nd.ru
@@ -12241,6 +12256,7 @@ delta.dreamc0ast.ru
 delta.gr0upw0rk.ru
 delta.in5istle5s.ru
 delta.intrl2bi1e.ru
+delta.lightst0rm.ru
 delta.lo0kferti1.ru
 delta.pr0wlmint.ru
 delta.quartznibble.ru
@@ -13508,6 +13524,7 @@ e90677op.beget.tech
 e910005o.beget.tech
 e91n.darkf1eld.ru
 e944.top
+e97hx.stormf0rm.ru
 e9n4k.op-76.online
 e9rm2.9-88.online
 e9rn.y2u-72.ru
@@ -17723,6 +17740,7 @@ gate.akmei5mh0t.ru
 gate.c1earrec0ng.ru
 gate.ch2pernev0d.ru
 gate.chit-7-a-5-tat.ru
+gate.frostc0de.ru
 gate.ge7kom0ley.ru
 gate.l1ghtwave.ru
 gate.mystleaf.ru
@@ -17935,6 +17953,7 @@ gbrfvedc556.sbs
 gbuzr.info
 gc.ss-9-y-4.ru
 gc31.windst0ne.ru
+gcd1.softf0x.ru
 gci.no4s.ru
 gcirsa.com
 gclouds.icu
@@ -18381,6 +18400,7 @@ giw.shortletsinaberdeen.co.uk
 giw.wallyapp.xyz
 gix.c2nce1rarity.ru
 giz.cloudb1t.ru
+gizmo.skysh1ne.ru
 gj.tiqk.ru
 gjat.ru
 gjellyb.asia
@@ -18889,6 +18909,7 @@ golf-gti.be
 golf.k8li.online
 golf.tu-7-q.ru
 golfhuisje.nl
+gom.mintp1xel.ru
 gomeralz.com
 gomesesabraadvocacia.agencialegalads.com
 gomocya2.ru
@@ -22874,6 +22895,7 @@ jftl.co.in
 jfvabcgsouslpimik.com
 jfvxpfbgo.com
 jg.vuln5.ru
+jgl.mintp1xel.ru
 jgmartorell.com
 jgvs.amb1gf0rest.ru
 jhab.qapyfyi0.ru
@@ -24329,6 +24351,7 @@ kl.fapigya6.ru
 kl.ko-lu.ru
 kl.qawimii0.ru
 kl.racypue5.ru
+kl.softf0x.ru
 kl.winenoy5.ru
 kl.xoreniu7.ru
 kl.zyrupoe.ru
@@ -28895,6 +28918,7 @@ mqgcgukicugeaacs.xyz
 mqgckoeseemsiywk.xyz
 mqgeooaecigcmcqg.xyz
 mqggemqaimsgukou.xyz
+mqgi.skysh1ne.ru
 mqgokqwkksiasioq.xyz
 mqgoqqsqugiweaig.xyz
 mqiggcuuuousswwc.xyz
@@ -34069,6 +34093,7 @@ pry.qen9.ru
 przemyslawszymanowski.pl
 przyjaciolki.online
 ps.bejw.ru
+ps.mintp1xel.ru
 ps31j.r1verstone.ru
 ps4akk.ru
 pscmed.com.br
@@ -34619,6 +34644,7 @@ qeqek.press
 qers.xyz
 qertion.com
 qetafelectrics.com
+qeu.mintp1xel.ru
 qevibye4.ru
 qexmz.com
 qf.7-gb.ru
@@ -36321,6 +36347,7 @@ ridethecape.co.za
 ridge.1-nyearbo-0-k.ru
 ridge.c0uperu8nia.ru
 ridge.crystalroad.ru
+ridge.darkw1re.ru
 ridge.gethe4e.ru
 ridge.granitepfad.ru
 ridge.gravelwhisk.ru
@@ -38237,6 +38264,7 @@ shadow.adv0cal1egat.ru
 shadow.champm2loma1.ru
 shadow.deepc1iff.ru
 shadow.deepflash.ru
+shadow.frostc0de.ru
 shadow.gre2tre7ue.ru
 shadow.rangepip.ru
 shadow.stoneh0use.ru
@@ -39219,6 +39247,7 @@ soft.ha1fakos0l.ru
 soft.hi8hmu1berry.ru
 soft.n1ghtstone.ru
 soft.nightp1xel.ru
+soft.softf0x.ru
 soft.softmint.ru
 soft.stormbiend.ru
 soft.sun5hine.ru
@@ -40201,6 +40230,7 @@ storm.c0nju8maraf.ru
 storm.co7nrev0ke.ru
 storm.crust5p1ant.ru
 storm.darksh1ft.ru
+storm.frostc0de.ru
 storm.in0cubwal1.ru
 storm.m2kebo1d.ru
 storm.minglecrate.ru
@@ -42642,6 +42672,7 @@ trynda.xyz
 trytebox.com
 tryuc.xyz
 ts.chimef2ce1e.ru
+ts.darkw1re.ru
 ts.dmg-tech.com
 ts.lexz.ru
 ts.wtan.ru
@@ -43300,6 +43331,7 @@ ug.rxir9.ru
 ug.velyzeu3.ru
 ug0.k7t0.ru
 ug0.ty9a.ru
+ug3.stormf0rm.ru
 ug8.x3le.ru
 ugaaqaysymumceuk.xyz
 ugackmayyokuisya.xyz
@@ -45422,6 +45454,7 @@ vf.je9t.ru
 vfn.wqix5.ru
 vfp.hy6o.ru
 vfzkj.f1owreci7at.ru
+vg.lightst0rm.ru
 vg.plig-5.ru
 vgfsnrewuxeaoxoh.com
 vgg.ndoq0.ru
@@ -46232,6 +46265,7 @@ wave.pen1sp7edef.ru
 wave.raincr5st.ru
 wave.rivermote.ru
 wave.skyf1eld.ru
+wave.softf0x.ru
 wave.softm1nd.ru
 wave.st2rudmu7t.ru
 wave.windbr1dge.ru
@@ -48138,6 +48172,7 @@ xk.po5tr2diat.ru
 xk.vortexgipfel.ru
 xk2.7si-s.ru
 xk8.adm1rep1ay.ru
+xk8v.deepw1nd.ru
 xk9.fe7a.ru
 xkchipoapyp.com
 xkp.rxir9.ru
@@ -48471,6 +48506,7 @@ xword3.duckdns.org
 xworm0106.duckdns.org
 xworm7000.duckdns.org
 xwormlover69-40917.portmap.host
+xx.stormf0rm.ru
 xx4444.uphero.com
 xx6.ju8r.ru
 xxblessingsinabundance.duckdns.org
