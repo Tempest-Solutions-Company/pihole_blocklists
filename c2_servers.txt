@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-20 16:08:03 UTC
-# Total domains: 50688
+# Generated: 2025-12-20 22:13:31 UTC
+# Total domains: 50726
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -178,6 +178,7 @@
 0e.hnaq6.ru
 0e2.wildshift.ru
 0ec.barg5t0get.ru
+0ej.frostc0met.ru
 0er.owlflug.ru
 0f.padj.ru
 0f.sj5o5.ru
@@ -246,12 +247,14 @@
 0tanoke.xyz
 0ti.night-bloom.ru
 0tl.hnaq6.ru
+0tmh.frostc0met.ru
 0tt44n.xyz
 0ty.a-8-ain-4-unt.ru
 0u.idi0tnau8h.ru
 0u7y.ru
 0uk.net
 0up.shadowstream.ru
+0up.sunsh1ne.ru
 0ur.r9xa.ru
 0ut.qu0rkline.ru
 0v.3druv.ru
@@ -786,6 +789,7 @@
 134oppott.com
 13586721moon.1a2e6.ru
 135oppott.com
+135y.clearb1te.ru
 1364days.com
 136oppott.com
 136service.com
@@ -852,6 +856,7 @@
 14ba.fogmap.ru
 14h.aucti-0-nz-7-ir.ru
 14myx.oakember.ru
+15.frostc0met.ru
 15.nybh.ru
 15.to1j.ru
 15248636.site
@@ -994,6 +999,7 @@
 1n.z3-lu.ru
 1natojobservice.ru
 1net.co.uk
+1now.wavec0de.ru
 1o.r8li.ru
 1o6y4.ru
 1oi.s7li.ru
@@ -1439,6 +1445,7 @@
 39tka.bond
 3a.driftshad0w.ru
 3a.r46eu.ru
+3a.stormp1ne.ru
 3a.xo3v.ru
 3accdomain2.ru
 3accdomain3.ru
@@ -1895,6 +1902,7 @@
 596f205362.nxcli.net
 596y.bul1upd2ted.ru
 59gwy.ic0n1ctrove.ru
+59l.frostc0met.ru
 5a.frost-indigo.ru
 5a0.ember-cross.ru
 5adm.windsh1ne.ru
@@ -1908,6 +1916,7 @@
 5b7crp.com
 5b7q.d1sputl2b.ru
 5br.m1xthatch.ru
+5bvg1.stormp1ne.ru
 5bwm.galy8phony.ru
 5c.blyp-9.ru
 5c.gl1ntip.ru
@@ -2377,6 +2386,7 @@
 7a.p7li.ru
 7a.sj-5-o-5.ru
 7a0xj.g0bcrumb.ru
+7a19u.darkl1ne.ru
 7a80p.fl-0-wlatch.ru
 7alternative.zapto.org
 7anki.p7ecunder8.ru
@@ -2680,6 +2690,7 @@
 8s.1yjp.ru
 8s.getr18ht.ru
 8s.kj-4-o-0.ru
+8s.wavec0de.ru
 8s3.s7li.ru
 8scom.link
 8secretsofsuccess.com
@@ -4980,6 +4991,7 @@ ampanyahaftasistok100.com
 ampiq.xyz
 ampnet88.xyz
 amprox.click
+ampz4.clearb1te.ru
 amqaskmekkwqkwiq.xyz
 amqeoceuwmkeyaiw.xyz
 amqgoooyyeigiaou.xyz
@@ -7298,6 +7310,7 @@ beta.cl0udramble.ru
 beta.cr2ftedne5s.ru
 beta.crankmuddle.ru
 beta.darkc0re.ru
+beta.darkl1ne.ru
 beta.in5istle5s.ru
 beta.kettlewisp.ru
 beta.m1stybird.ru
@@ -7554,6 +7567,7 @@ birchcompany.in
 bird-park.info
 bird.barg5t0get.ru
 bird.kidsworldgames.info
+bird.mistf1eld.ru
 bird.x-3-ri.ru
 birdhillps.co.kr
 birdrankace.com
@@ -7656,6 +7670,7 @@ bitcointalks.info
 bitcointraf.com
 bitcrypt.info
 bitcryptominer.com
+bite.softp1ne.ru
 biterelish.co.za
 bitgetglobal.club
 bithelp.top
@@ -7852,6 +7867,7 @@ blowfres.altervista.org
 blszs.ru
 blue.ky-4-x.ru
 blue.m1ntflare.ru
+blue.sunsh1ne.ru
 blue.vsmu9.ru
 blueair.com.vn
 bluebolts.pw
@@ -10007,6 +10023,7 @@ chuloworks.org
 chunkgrind.com
 chuphinhgiare.com
 chuza.locker
+chx.darkl1ne.ru
 chyasktutorial.ml
 chykework.site90.com
 ci.kmbo-6.ru
@@ -14997,6 +15014,7 @@ es.mzvo7.ru
 es.xhs-8-e.ru
 es.xrhu7.ru
 es02.xyz
+es4.stormp1ne.ru
 es5.m0tor.ru
 es6-features.org
 es6featureshub.com
@@ -16333,6 +16351,7 @@ field.b1o0dmanneq.ru
 field.bana1ity8ed.ru
 field.bramble-fix.ru
 field.chit-7-a-5-tat.ru
+field.darkl1ne.ru
 field.deep0asis.ru
 field.deepbreez3.ru
 field.f1ippme7re.ru
@@ -21441,6 +21460,7 @@ ibs-express.com
 ibufhhuofouaes.su
 ibzr2.online
 ic.f-42-s.ru
+ic.softp1ne.ru
 ic0nicr1ver.ru
 ic3.wtok2.ru
 ic3ae.l2nd0fenet.ru
@@ -26104,6 +26124,7 @@ linconlskype.ddnsguru.com
 lindakerbakken.no
 lindtmobile.co.za
 line-bears.gl.at.ply.gg
+line.cloudb1rd.ru
 line.deep5ky.ru
 line2.driftl1ne.ru
 lineage2world.pro
@@ -28366,6 +28387,7 @@ micol.date
 miconestaffing.us
 micoservices.duckdns.org
 micozup.ru
+micp.rainf0x.ru
 microcapitalmonitor.com
 microchiip.com
 micromacrotechbase.com
@@ -28635,6 +28657,7 @@ mjuqovvuruldy.com
 mjus.chi1ob5cene.ru
 mk-acmilan.com
 mk.hasefa.ru
+mk1qq.rainf0x.ru
 mk3.k8cr-9b.ru
 mkaksmkgwcwgagsm.xyz
 mkamaiqmksumaaqm.xyz
@@ -29857,6 +29880,7 @@ n7.cedarnova.ru
 n7.cobaltwolke.ru
 n7.fag5.ru
 n7300.no
+n774.rainf0x.ru
 n7bz1.snibblecap.ru
 n7q.quartz-ace.ru
 n7rwr.col1ectfre5h.ru
@@ -30317,6 +30341,7 @@ nexus.cherec0nce7t.ru
 nexus.clearl1ne.ru
 nexus.cloudm1x.ru
 nexus.duzhk2s1ob.ru
+nexus.mistf1eld.ru
 nexus.quartz-mug.ru
 nexus.tinkerstep.ru
 nexus.velvetecho.ru
@@ -32792,6 +32817,7 @@ p5yx.sun-7-k.ru
 p6.0-xv-3i5.ru
 p6.89atr.ru
 p6.top
+p65a.wavec0de.ru
 p6b.plum-wav-ru.ru
 p6b3q.bo8y.online
 p6dv.m2la.online
@@ -33758,6 +33784,7 @@ plixhaven.ru
 pliysew.com
 pljslt.top
 plmyra.com
+plnb3.softp1ne.ru
 ploaiedueaigzefag.top
 ploaiedueaigzefeg.top
 ploaiedueaigzefg.top
@@ -36099,6 +36126,7 @@ raillinesyr.com
 railmirt.isasecret.com
 rain.4i1e2.ru
 rain.br-0-ad-temp-1-ate.ru
+rain.cloudb1rd.ru
 rain.failczar.com
 rain.mistw0rk.ru
 rain.rainrad.ru
@@ -36141,6 +36169,7 @@ range.dr1ftshade.ru
 range.f1rebyte.ru
 range.intrl2bi1e.ru
 range.s0ckthorn.ru
+range.sunsh1ne.ru
 rangemaster777u.ru
 rango.ddns.net
 ranhadinhen.ru
@@ -36272,6 +36301,7 @@ rbg.sj-5-o-5.ru
 rbhdba.net
 rbsfinancials.com
 rc-mailserverdata3.com
+rc.clearb1te.ru
 rc.kj-4-o-0.ru
 rc.tigelie.ru
 rcanecodex.dev
@@ -37866,6 +37896,7 @@ sayaracentral.com
 sayman89.no-ip.org
 sayno2gaymarriage.biz
 sb.fjot.ru
+sb.stormp1ne.ru
 sb.v0xelmint.ru
 sb0vht3nf.localto.net
 sb5g6ku.net
@@ -38618,6 +38649,7 @@ sg-fujitsu.com
 sganieeidiehgihe.ru
 sgauheudbbchaiii.ru
 sgb-sy.com
+sgbvj.cloudb1rd.ru
 sgd.d3-6.ru
 sgdi-6.ru
 sghi.vekoloe8.ru
@@ -39658,6 +39690,7 @@ soft-dns.sejilod7488888.workers.dev
 soft.8oodt1me.ru
 soft.brightst0ne.ru
 soft.cl0udmark.ru
+soft.clearb1te.ru
 soft.f1y5agacious.ru
 soft.ha1fakos0l.ru
 soft.hi8hmu1berry.ru
@@ -42879,6 +42912,7 @@ trace.plixhaven.ru
 trace.razor-plume.ru
 trace.s1nkflare.ru
 trace.snare-plum.ru
+trace.softp1ne.ru
 trace.st3elflare.ru
 trace4.raven-flux.ru
 tracer.rurs.net
@@ -43545,6 +43579,7 @@ u6194635ml.ha004.t.justns.ru
 u688343lib.ha004.t.justns.ru
 u6b.lo9q.online
 u6fer.rec1aimswal1.ru
+u6uek.mistf1eld.ru
 u7.1z57.ru
 u7.cfob-5.ru
 u7423.p0rthopper.ru
@@ -44676,6 +44711,7 @@ uxqbewwdunihwscfl.com
 uxsplooler.online
 uxvbhdtbhth.com
 uy-akwaibom.ru
+uy.cloudb1rd.ru
 uy.jorx.ru
 uy1.lr2y6.ru
 uy2k6.razor-plume.ru
@@ -47391,6 +47427,7 @@ wind.getp0ver7y.ru
 wind.glaciertal.ru
 wind.hawkmast.ru
 wind.i5ch3mref.ru
+wind.mistf1eld.ru
 wind.mounta1npath.ru
 wind.ravenkamm.ru
 wind.ravenkiesel.ru
@@ -47440,6 +47477,7 @@ windsorcourt.testingweblink.com
 windsorsmith-au.com
 windturbine.website
 wine-shop.tk
+wing.rainf0x.ru
 wingofffly.store
 wingor.brightw1ng.ru
 winhelptech.xyz
