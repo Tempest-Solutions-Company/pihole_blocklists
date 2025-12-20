@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-20 13:03:38 UTC
-# Total domains: 50648
+# Generated: 2025-12-20 16:08:03 UTC
+# Total domains: 50688
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2139,6 +2139,7 @@
 688c674cf3f6d.xvest6.ru
 689.mi7x.ru
 68927.prohoster.biz
+68s.stormw1ng.ru
 69.silentm1st.ru
 6901420.49o103159.ru
 6901420.bl8205.ru
@@ -2609,6 +2610,7 @@
 8b.op76.ru
 8b0ng.bene1i8ht.ru
 8bg.bashglider.ru
+8c.wavec0met.ru
 8c1vl.click
 8cf.ldef4.ru
 8cj.amberr-0-ck-et.ru
@@ -2699,6 +2701,7 @@
 8w.skyb1end.ru
 8whb.de1iainal0s.ru
 8wp1.deepbreez3.ru
+8x.datam1st.ru
 8x4.aclz-9.ru
 8xd.r4tu.ru
 8xouz.driftquartz.ru
@@ -2742,6 +2745,7 @@
 913c50.i373582.ru
 918274.08u073852.ru
 91clubgamez.com
+91de.windc0re.ru
 91p.livecdnem.com
 91ruitue.com
 91u.ru7x.ru
@@ -3697,6 +3701,7 @@ adasamusic.com
 adbd.tech
 adbsurd.com
 adcarapicuiba.org.br
+adcn.stormw1ng.ru
 adcom.co.za
 add.bkud4.ru
 add.homohay31.ru
@@ -5330,6 +5335,7 @@ api.softwarecommerce.net
 api.transbankdevelopers.com
 api.updatesreview.com
 api.upscholarship.co.com
+api.vxucqb.dpdns.org
 api.weightlosstonight.org
 api.wifi-update.biz
 api.xn--coudflare-0sb.com
@@ -8682,6 +8688,7 @@ bx.t4a4.ru
 bxl.b9sa.ru
 bxnopdkka.com
 bxnrxuyjcytf.com
+bxo57.stormw1ng.ru
 bxof.ru
 bxq.brightf1eld.ru
 bxqvcimgcaepkubgi.com
@@ -10282,6 +10289,7 @@ clear.buddco1lect0r.ru
 clear.c0rres5cour.ru
 clear.c2prrai1.ru
 clear.che7nt2rp.ru
+clear.datam1st.ru
 clear.defore5tm0unt.ru
 clear.kira5l2nd.ru
 clear.r2dire5our.ru
@@ -10387,6 +10395,7 @@ cloud.juzgadorama.it.com
 cloud.mintl1ne.ru
 cloud.na5optwe7ty.ru
 cloud.netsolutionpoint.com
+cloud.nightf0rm.ru
 cloud.p0larday.ru
 cloud.silverh1ll.ru
 cloud.softcrest.ru
@@ -10857,6 +10866,7 @@ core.l2nd0fenet.ru
 core.mounta1npath.ru
 core.n0v0se1prew.ru
 core.r6ms.pw
+core.rain5tone.ru
 core.s0apthorn.ru
 core.saffronjet.ru
 core5.tweakmire.ru
@@ -11195,6 +11205,7 @@ crest.bana1ity8ed.ru
 crest.bray-circuit.ru
 crest.c5ech0ut.ru
 crest.chri5t1anget.ru
+crest.datam1st.ru
 crest.deepw1nd.ru
 crest.f1recliff.ru
 crest.f1recrest.ru
@@ -11370,6 +11381,7 @@ ctssint.com
 ctu.demoserviciopcmendoza.com.ar
 ctu.poxyway.ru
 ctwonx221.ddns.net
+ctya.windc0re.ru
 cu-1-tivga-5-tr.ru
 cu.g-04-s.ru
 cu.mxta-6.ru
@@ -14405,6 +14417,7 @@ elijah.ru.com
 elimar.org
 elirnsan.com
 elisaschefferadvogada.agencialegalads.com
+elisauy.ru.com
 eliscoinc.com
 elisoxctez.info
 elite.5-ninet-1-ou.ru
@@ -16009,6 +16022,7 @@ fashioncargo.pt
 fashionstune.com
 fasiokiurtuiolkads.com
 fasmelchi.com
+fasmnee.xyz
 fasmol.m0pin8mute.ru
 faspub.asia
 fast.rjuq-3.ru
@@ -16620,6 +16634,7 @@ fl.h73n.ru
 fl.he.02.node.poi.best
 fl0ckz.black5wan.ru
 fl0wbyte.ru
+fl21d.stormw1ng.ru
 fl3uss.test6yvarn1sh.ru
 fl3xyinc.com
 fl3xyinc.top
@@ -17175,6 +17190,7 @@ frost.ei8htyern1k.ru
 frost.icylotus.ru
 frost.m1ntbyte.ru
 frost.stormc0de.ru
+frost.sunsh1ne.ru
 frost.windshift.ru
 frost2.oceanshift.ru
 frost5.clearspark.ru
@@ -17384,6 +17400,7 @@ fut.cioudriver.ru
 futbol-11.es
 futo-edu-ng.com
 futoimtelibrary.com
+futs0n.nightcl0ud.ru
 futuracosmetic.com
 futurarice.com
 future--seafood.com
@@ -17764,6 +17781,7 @@ gamma.oceandrift.ru
 gamma.patterjack.ru
 gamma.po0f5hleika.ru
 gamma.quenchorbit.ru
+gamma.rain5tone.ru
 gamma.rainb0rne.ru
 gamma.s0apcluster.ru
 gamma.st0neforest.ru
@@ -17864,6 +17882,7 @@ gate.nevp0yob5tet.ru
 gate.po5tr2diat.ru
 gate.rivershad0w.ru
 gate.socialsalesnaija.com
+gate.wavec0met.ru
 gate.wi-7-e.ru
 gate2.a8ain4unt.ru
 gate5.wolkenmeer.ru
@@ -18772,6 +18791,7 @@ glyphsteg.ru
 gm.sx-2-u-0.ru
 gm.velyzeu3.ru
 gma.1ndu5trinsh.ru
+gma.stonel1nk.ru
 gmacmcqqaeyiqwie.xyz
 gmaiyuyougegsqqa.xyz
 gmamgosakeqegcek.xyz
@@ -24210,6 +24230,7 @@ keonhacai.cheap
 kepler071.host
 kerenzohar.co.il
 keritysuc.xyz
+kerjub.nightcl0ud.ru
 kerkyrain.gr
 kerlogers.tk
 kerning.s1umtypo1ogy.ru
@@ -24863,6 +24884,7 @@ kpresident.com
 kprocurement.com
 kpsfabxdwbvv.com
 kpskflowz.com
+kpu.nightf0rm.ru
 kpx.tokiejegedefoundation.org
 kpyw-8.ru
 kq.gr0upw0rk.ru
@@ -26043,6 +26065,7 @@ light.imp2rtund0.ru
 light.mistw0rk.ru
 light.neur0l5uptn.ru
 light.r2dire5our.ru
+light.rain5tone.ru
 light.rangepip.ru
 light.softr1ver.ru
 light.vbep-3.ru
@@ -26096,6 +26119,7 @@ lingkaran.com.my
 lingzvl.top
 linhxasro.com
 link-infect.esy.es
+link.darkc0de.ru
 link.ikantoman.com
 link.kunstsignal.com
 link.picket-warp.ru
@@ -28561,6 +28585,7 @@ mist.rockstorm.ru
 mist.sne-4-p.online
 mist.st0nebyte.ru
 mist.st0rmleaf.ru
+mist.stonel1nk.ru
 mist.thornecho.ru
 mist.windcrest.ru
 mist0.icy-moth.ru
@@ -30388,6 +30413,7 @@ niggerlover.ddns.net
 nighal.nightf0rest.ru
 night-hunter.webege.com
 night.cloudr1ver.ru
+night.darkc0de.ru
 night.em1npe0ny.ru
 night.f1nsh2ytan.ru
 night.forestgl0w.ru
@@ -30724,6 +30750,7 @@ nova.kalmykvic0te.ru
 nova.l1ghtflare.ru
 nova.law5andw1ch.ru
 nova.m1ntflare.ru
+nova.nightf0rm.ru
 nova.pincer-loom.ru
 nova.quartz-nibble.ru
 nova.quartzkip.ru
@@ -31027,6 +31054,7 @@ o.tonescapesccbnv.live
 o.zowyzyi62.ru
 o1.ju4enpare1.ru
 o11.18yk.ru
+o1h5i.datam1st.ru
 o1i.clear5ky.ru
 o2.messager.my
 o27y.quirkpaste.ru
@@ -31797,6 +31825,7 @@ omega.ripplecask.ru
 omega.shadowsprint.ru
 omega.sn1pbarrel.ru
 omega.sp-1-nterpad.ru
+omega.stonel1nk.ru
 omegaclaws.com
 omegastresser.altervista.org
 omenisisiss.com
@@ -33547,6 +33576,7 @@ pin.rkuc9.ru
 pincer.twigmantle.ru
 pine.cioudharbor.ru
 pine.luv6.ru
+pine.nightf0rm.ru
 pine.tr-8-n.ru
 pine.vex-timber.ru
 pinescop.top
@@ -33612,6 +33642,7 @@ pixel.lett5p0st.ru
 pixel.li1mi8rat.ru
 pixel.p7ecunder8.ru
 pixel.paper-knurl.ru
+pixel.stonel1nk.ru
 pixel.twirl-pane.ru
 pixel.v1braclaw.ru
 pixel.windm1st.ru
@@ -34867,6 +34898,7 @@ q9.zpozu.ru
 q93124au.beget.tech
 q964055a.beget.tech
 q9a.hy6o.ru
+q9b.rain5tone.ru
 q9b1v.tape-5-x.ru
 q9l.fireh0rn.ru
 q9lt.1s-1n.ru
@@ -36315,6 +36347,7 @@ realshow-privat.com
 realshow.duckdns.org
 realstrategic.com
 realstroyinvest.pro
+realtopka-50211.portmap.host
 realtorscorp.com
 realty.yourpgcountyliving.com
 realw8.workwithdaveandfara.com
@@ -36329,6 +36362,7 @@ reboot.re
 rebornpilates-jp.com
 rec-tube.date
 recantodopastel.com.br
+recargamos.co.com
 recdoc.info
 receipt.lolsifer.com
 receita-fazenda.caldasservice.com.br
@@ -38633,6 +38667,7 @@ shadow.gre2tre7ue.ru
 shadow.rangepip.ru
 shadow.stoneh0use.ru
 shadow.suncrest0n.ru
+shadow.windc0re.ru
 shadow2.r0ad.ru
 shadow2515.duckdns.org
 shadow2sas-22639.portmap.host
@@ -38770,6 +38805,7 @@ shim1.umbandung.ac.id
 shimedzu.eu
 shinaan.com
 shinas.co.in
+shine.darkc0de.ru
 shine.mintspr1ng.ru
 shine.picket-warp.ru
 shine.w1de.ru
@@ -39909,6 +39945,7 @@ spark.spindle-way.ru
 spark.st1ltwarp.ru
 spark.thornecho.ru
 spark.warpclutch.ru
+spark.wavec0met.ru
 spark.wild0ak.ru
 spark.y0ur.ru
 spark0.cioudpeak.ru
@@ -40637,6 +40674,7 @@ storm.silverr0ot.ru
 storm.st0rmleaf.ru
 storm.stonefog.ru
 storm.stormf0x.ru
+storm.windc0re.ru
 storm1.sys7yn0iy5.ru
 storm6.snowbyte.ru
 storm7.5tormfoid.ru
@@ -47569,6 +47607,7 @@ wlk.n5ol.ru
 wlldberries.pro
 wllgore.com
 wlopescorretora.com.br
+wlvpw.wavec0met.ru
 wlzssic9u.localto.net
 wm.ktox5.ru
 wm.oc57y.ru
@@ -49359,6 +49398,7 @@ ydbao2.cyou
 ydbao4.cyou
 ydbao6.cyou
 ydbao8.cyou
+ydmnx.darkc0de.ru
 ydobniudivan.ru
 ydq.sj5o5.ru
 ydviihefckogxwqhrla.com
