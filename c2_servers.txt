@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-21 04:19:19 UTC
-# Total domains: 50764
+# Generated: 2025-12-21 10:24:56 UTC
+# Total domains: 50831
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -210,6 +210,7 @@
 0k.29rs.ru
 0k.5x7u.ru
 0k.a-zon.ru
+0k.fl1ntrelay.ru
 0k.softc0re.ru
 0k353l41u88253.com
 0kd.no4s.ru
@@ -878,6 +879,7 @@
 169.5m9081.ru
 169.i373582.ru
 169nan-63274.portmap.host
+16s.quark-spoon.ru
 17.1z57.ru
 17.jeqr.ru
 17.tcp.cpolar.top
@@ -1290,6 +1292,7 @@
 2tannenpfad.ru
 2tj.fp-0-y-9.ru
 2tkvw.twist-nova.ru
+2to.t0rchmingle.ru
 2tx.kj-4-o-0.ru
 2u.aud1mi5s.ru
 2u8.si9a.ru
@@ -1473,6 +1476,7 @@
 3dw.n2vr.ru
 3e.clears0ft.ru
 3e7u.ru
+3ek56.j1ngleknob.ru
 3ellisburton.zapto.org
 3f.fi0m.ru
 3f.p7li.ru
@@ -2620,6 +2624,7 @@
 89betv2.net
 89pdo.kettlewisp.ru
 8a.duzhk2s1ob.ru
+8a.quark-spoon.ru
 8a.s0ftmint.ru
 8a.tiqk.ru
 8a.u-v9.ru
@@ -2712,6 +2717,8 @@
 8tx1k.silentcrest.ru
 8u2.7-gb.ru
 8u2a9.ru
+8udp8.j-1-ngleknob.ru
+8ux.ambercoil.ru
 8v.njur.ru
 8v.u-v9.ru
 8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com
@@ -3174,6 +3181,7 @@ a9.c34uu.ru
 a9.c70ye.ru
 a9.henyta.ru
 a9.i50m.ru
+a9.j1ngleknob.ru
 a9.m9i5l.ru
 a9.q-0-spi.ru
 a9.se5m.ru
@@ -3632,6 +3640,7 @@ acessibi.victorabrao.com
 acet-belarus.net
 acgfinancial.gq
 acgplug.org
+achievacredit.co.com
 achillharpfestival.ie
 achionline.com
 achoqqe.top
@@ -4737,6 +4746,7 @@ alpen.glaciergrat.ru
 alpeoqa.cyou
 alpha-cinder.ru
 alpha.agr0chem1nter.ru
+alpha.ambercoil.ru
 alpha.crystal0ak.ru
 alpha.dia1ecgoo5e.ru
 alpha.fl-0-wlatch.ru
@@ -4923,6 +4933,7 @@ americar.rs
 americas-tsubaki-nakashima.com
 americovespucci.shop
 amerillia.net
+amerisbank.co.com
 ameropa.gq
 amewywgwciyacsso.xyz
 amfceilings.co.za
@@ -5384,6 +5395,7 @@ app-6-v.online
 app-6-v.ru
 app-microsoft.com
 app-rempe.com
+app-slash.co.com
 app.accarda.com
 app.agencialegalads.com
 app.avasup.com
@@ -6406,6 +6418,7 @@ azasupport.info
 azazaza.zzz.com.ua
 azbdezaeugnungg.su
 azcaringservices.co.uk
+azcw.v0xencrate.ru
 azeaeeaez.altervista.org
 azezezbdndnnnsnag.top
 azezezbdndnnnsneg.top
@@ -6605,6 +6618,7 @@ b3.qeh5.ru
 b3.wuhp.ru
 b3.yy88.ru
 b3fas.c0uperu8nia.ru
+b3g3.j1ngleknob.ru
 b3h7.085-x-89-c.ru
 b3m.q3lo.ru
 b3ry.bounceme.net
@@ -6878,6 +6892,7 @@ banknotice.in
 banksinstruments.online
 banktransactioncorp.net
 banlieuefashion.com
+bannerbank.co.com
 bannermegan2all.ru
 bannersbrasil.com.br
 bano4eva.com
@@ -7324,6 +7339,7 @@ beta.cr2ftedne5s.ru
 beta.crankmuddle.ru
 beta.darkc0re.ru
 beta.darkl1ne.ru
+beta.hollow-fizz.ru
 beta.in5istle5s.ru
 beta.kettlewisp.ru
 beta.m1stybird.ru
@@ -8223,6 +8239,7 @@ br41nx.smartb0x.ru
 bra.k8li.ru
 brack.nl
 brackenloft.ru
+bracket.grit-pillow.ru
 bracomil.com.br
 bracunis.com
 bradlack12.ru
@@ -9312,6 +9329,7 @@ cartatrantap.com
 cartdetails.shop
 carteop.top
 carter-wallace.com
+carterfcu.co.com
 carusoweddings.com
 carvalho.agencialegalads.com
 carve.5-kafaq-7-io.ru
@@ -10632,6 +10650,7 @@ cogov.press
 coguiworld.com
 cohor.icu
 cohort.b2ckymembe7.ru
+coil.v0xencrate.ru
 coilprofil.ro
 coinbase-promo.info
 coinbitbot.ru
@@ -10682,6 +10701,7 @@ come2travel.com
 comeondating.pro
 comercializadoranino.com
 comercializate.es
+comericawebbanking.co.com
 comet.co.hu.technorollshop.hu
 comet.softcr5st.ru
 cometlinde.ru
@@ -10695,6 +10715,7 @@ comixalex.freeiz.com
 comkrast.com
 commedypm.com
 commedypony.info
+commercebank.co.com
 commgxm.qpon
 commi5sfa7t.ru
 commission-lcd.gl.at.ply.gg
@@ -10836,6 +10857,7 @@ controltechnology.com.pk
 conufirmaccounteresolving.xyz
 convac123.duckdns.org
 convention.tintworld.com
+convergepay.co.com
 converterbyonestart.com
 convertpdfplus.com
 convertwithonestart.com
@@ -11183,6 +11205,7 @@ crackhahanono.000webhostapp.com
 crackinforum.info
 crackjack.club
 crackle.a8arichum2n.ru
+crackle.fl1ntrelay.ru
 crackle.quartznibble.ru
 cracktui-34704.portmap.host
 craft.r1verbloom.ru
@@ -12900,6 +12923,7 @@ do.pejy1.ru
 do.pykokiu43.ru
 do.r0-mx.ru
 do.sne4p.ru
+do.t0rchmingle.ru
 do.v7h3.ru
 do.wzhy1.ru
 do.xudofiu02.ru
@@ -12985,6 +13009,7 @@ dolls-f.com
 dolmain.com
 dolu123.ddns.net
 dolush.net
+domain1.sa.com
 domain2222.com
 domainkillz.life
 domainmanagerz.net
@@ -13616,6 +13641,7 @@ e2.q-0-spi.ru
 e2bconsulting.com.my
 e2bet-link.online
 e2cw.r1verstone.ru
+e2etestsworker.localhost
 e2h.s0ftmint.ru
 e2kj.ru7x.online
 e2rv.llim8.ru
@@ -14919,6 +14945,7 @@ ep8.lett5p0st.ru
 epcvl.com.br
 epfe.b1o0dmanneq.ru
 epfindiauan.com
+ephratanational.co.com
 epicpbgloba.zapto.org
 epicpbglobal.zapto.org
 epicport0304km-39818.portmap.host
@@ -16551,6 +16578,7 @@ firn5a.snowroot.ru
 firrma.ru
 firscool.us
 first-walt.gl.at.ply.gg
+firstcitizensonline.co.com
 firstfive.net
 firstidea.org
 firstnamehello.com
@@ -16610,6 +16638,7 @@ fizz.de1iainal0s.ru
 fizz.draft-snip.ru
 fizz.kettle-wisp.ru
 fizz.sp1nterpad.ru
+fizz.v0xencrate.ru
 fizz3.picketcore.ru
 fizzytechs.zz.mu
 fj.dk2o1.ru
@@ -16688,6 +16717,7 @@ fla5h.2-fyzog-201-e.ru
 flac.fozomya6.ru
 flacca.usa.cc
 fladiw.asia
+flagstarbank.co.com
 flagump.top
 flair.firer1dge.ru
 flak8e.frostdrop.ru
@@ -16746,6 +16776,7 @@ flc.fozomya6.ru
 flckarlstad.com
 fleet.t1nkerpove.ru
 fleetmitras.com
+fleetone.co.com
 fleuraison.co.jp
 fleursmontreal.net
 flevin.fu1lneve7.ru
@@ -17436,6 +17467,7 @@ furykris.shop
 furysro.com
 furytanks.net
 fuse5x.fu5i0npeak.ru
+fusebox-elavon.co.com
 fusilierfavourable.site
 fusion.po5tr2diat.ru
 fusionpoint.pk
@@ -17709,6 +17741,7 @@ g8p.glacierbruecke.ru
 g8r.windcrest.ru
 g8v5ru.ger8y5evruga.ru
 g8wy.9ha-t.ru
+g8xs.quark-spoon.ru
 g8y5ru.ger-8-y-5-evruga.ru
 g8z.fk-9-e-2.ru
 g8z1.67tf.online
@@ -17830,6 +17863,7 @@ gamma.s0apcluster.ru
 gamma.st0neforest.ru
 gamma.stormc0de.ru
 gamma.sunsettrai1.ru
+gamma.v0xencrate.ru
 gamtec.com.mx
 gangonv1.beget.tech
 ganhedwakar.tk
@@ -20451,6 +20485,7 @@ he.nxno7.ru
 he.qen-9.ru
 he.qvik5.ru
 he.re-t0.ru
+he.t0rchmingle.ru
 he.tr-8n.ru
 he.visa-8.ru
 he.xmho3.ru
@@ -21006,6 +21041,7 @@ hopluxurys.shop
 hopobtop.hopto.org
 hoppaspringkastelen.be
 hoppers.bet
+horizon-united-cherry.com
 horizonmagazine.com
 horncast.se
 horoscopesbyonestart.com
@@ -22981,6 +23017,7 @@ janqel.period5ty1ed.ru
 january-sitemap.gl.at.ply.gg
 janvilleroofing.com
 jaobhaezrasam.com
+jap7.t0rchmingle.ru
 japanserve.com
 japerindo.com
 jaqeba.com
@@ -24675,6 +24712,7 @@ klon.cc.ua
 klongwan.go.th
 kloptor.ga
 klotzak89.net
+klpjx.grit-pillow.ru
 klpra.com
 kls.lypelya2.ru
 klunnyicat.in.net
@@ -24916,6 +24954,7 @@ kowloonshadow.com
 kox.termofoc.gr
 koyogotit.duckdns.org
 koz.farmia.rs
+koz1.in.net
 kp.ripplerover.ru
 kp.se5m.ru
 kp.sn-0-wmint.ru
@@ -30588,6 +30627,7 @@ nln7n.kos-0-ltyu-4-etey.ru
 nln8.sh2mvi5cous.ru
 nlpaenimonadfueh.su
 nlyoneserver.xyz
+nm1.hollow-fizz.ru
 nmcnknfccghddndnil.com
 nmixer.uphero.com
 nmj.darkc0re.ru
@@ -30786,6 +30826,7 @@ nov-cleaner.gl.at.ply.gg
 nova-mogucnost.lunatik.cloud
 nova-shadow.com
 nova.5h0p.ru
+nova.amber-coil.ru
 nova.aucti0nz7ir.ru
 nova.bramblefix.ru
 nova.brightf1eld.ru
@@ -30980,6 +31021,7 @@ numberpold.com
 numbers-mens.gl.at.ply.gg
 numeqci.bet
 numeric-aire.fr
+numericacredit.co.com
 numerix360.pro
 numogi.in.ua
 nunuraw.apishealth.org
@@ -31053,6 +31095,7 @@ nx3engenharia.com.br
 nxc.moss-owl.ru
 nxe.ci2udforge.ru
 nxjh8396-001-site1.ftempurl.com
+nxu6.amber-coil.ru
 nxys.ru
 nxz.wtok2.ru
 ny.g-04-s.ru
@@ -31414,6 +31457,7 @@ od2nipo.com
 odd-nichinan-4485.lolipopmc.jp
 odd.crank-muddle.ru
 odd.fo0lrati0n.ru
+odd.j1ngleknob.ru
 odd.kettle-wisp.ru
 odd.m4rj.ru
 odd.wtes4.ru
@@ -31865,6 +31909,7 @@ ome-loan-landers-71214.click
 ome-pest-control-9evich.zone
 ome-roofing-wjyjof.live
 omega.1nju5tred.ru
+omega.ambercoil.ru
 omega.ba7bdecep.ru
 omega.chel0be7upt.ru
 omega.chi1ob5cene.ru
@@ -33120,6 +33165,7 @@ patch.snareplum.ru
 patch.sp1nterpad.ru
 patch.updatesapi.com
 patch7.ragmosaic.ru
+patchwork.hollow-fizz.ru
 pate1k.000webhostapp.com
 path.4i1e2.ru
 path.frostlake.ru
@@ -34493,7 +34539,9 @@ ps4akk.ru
 psalm2.b2ptistda7k.ru
 pscmed.com.br
 pse.fkur-8.ru
+psecumember.co.com
 pseuyms.asia
+psh09.grit-pillow.ru
 psicogenealogia.com.br
 psicologowil.com.br
 psjldypo.com
@@ -35549,6 +35597,7 @@ qsywcocgqgommcci.xyz
 qsywwciuauuimugg.xyz
 qsyyowegwywyioiw.xyz
 qt.0u7y.ru
+qt.amber-coil.ru
 qt.wi7o.ru
 qtc.nq-8-e-9.ru
 qtf.glacierbruecke.ru
@@ -36572,6 +36621,7 @@ remproces.casacam.net
 remrer.eu
 renaceconcarino.com
 renagames.xyz
+renasantbank.co.com
 renascent.digital
 renatoluis.com.br
 renebelliveau.myjino.ru
@@ -37695,6 +37745,7 @@ safecs.iqiyi.qpon
 safehardwareuae.com
 safemann.tk
 safepal.in.net
+saferpay.co.com
 saferunater.wang
 safetechme.com
 safetyzone.com.sa
@@ -39295,6 +39346,8 @@ skillnorequired.cc
 skimygukiaugseyi.xyz
 skin-literary.gl.at.ply.gg
 skin-tenant.gl.at.ply.gg
+skinbaaron.com
+skinbaron.co.com
 skincare123tokyo.info
 skinsmonkey.richscents2u.com
 skioeuggawquukug.xyz
@@ -39618,6 +39671,7 @@ snapdealrightnow.com
 snapk.org
 snappis.lat
 snare.sn0cklejar.ru
+snarl.quark-spoon.ru
 snarl.tangleflux.ru
 snatch.services
 snd7go.soundg0.ru
@@ -39945,6 +39999,7 @@ southernse.com
 southgangfree.ooguy.com
 southhillauricpalfrey.com
 southprovesolutions.com
+southstateonline.co.com
 southwestphysiatry.com
 southwoodnigeria.com
 souzaeferro.agencialegalads.com
@@ -40076,6 +40131,7 @@ spektorium.com
 spencer.winegarden.org
 spencergroup.org
 spencerpelvis.com
+spendesk.co.com
 spenoiqcbsymgptcj.com
 spgo2.top
 sphere.he8em0nfated.ru
@@ -41327,6 +41383,7 @@ syndlcatebank.co.in
 synentpbgd.top
 synergieconsulting.biz
 synergix.testingweblink.com
+synovusbank.co.com
 synrxvtd.forum
 syperzina52-35743.portmap.host
 syria-live.ru
@@ -42578,6 +42635,7 @@ title-car.info
 titlexy.my
 tiv.lizusey.ru
 tiv.vrolijkecreaties.nl
+tivimate.co.com
 tiw6q.cioudriver.ru
 tiwahyi6.ru
 tj.gre2tre7ue.ru
@@ -42779,6 +42837,7 @@ topszoneview.com
 topteamover9000.fun
 toptopcop.info
 topwebappdevelopmentcompanies.com
+torch.amber-coil.ru
 torelliandthefuse.aurovine.com
 toria.dev
 torinverwa.ru
@@ -43164,6 +43223,7 @@ trivol.clears0ul.ru
 trk.messager.my
 troickoe22.ru
 trojanonsolbot.com
+tronskan.co.com
 troocea.top
 tropecetin.net
 tropicalbeachhut.com.au
@@ -43350,6 +43410,7 @@ tvaz.dunn-0-en-7-el.ru
 tvecc.org
 tveebsorg.su
 tvergeneration.ru
+tvgiv.fl1ntrelay.ru
 tviewer.ga
 tvlounge.aw
 tvm-systems.uk.com
@@ -45706,6 +45767,7 @@ vacanzaimmobiliare.it
 vackmail.com
 vacompany.co.za
 vacoraa1.ru
+vacuonline.co.com
 vacuuex.asia
 vadykoe7.ru
 vafglobal.com.br
@@ -46211,6 +46273,7 @@ vivid8.kalmykvic0te.ru
 vividcoms.com
 vividerenaz.com
 vivoclubvillas.com
+vixen.ambercoil.ru
 vixmedical.net
 vixqwtroi.com
 viyanet.com
@@ -46676,6 +46739,7 @@ w9s.sj-5-o-5.ru
 w9t3z8.sun-7-k.ru
 w9t7k.pits-burg-2-z.ru
 w9x.llim-8.ru
+wa.grit-pillow.ru
 wa.kujywii.ru
 wa.poxyway.ru
 wa.qecufey7.ru
@@ -46780,6 +46844,7 @@ warm.lilek4au2.ru
 warning-gym.gl.at.ply.gg
 warning-stresser.com
 warp.draftsnip.ru
+warp.fl1ntrelay.ru
 warp.hushcopper.ru
 warp.paperknurl.ru
 warp.siickhorn.ru
@@ -47042,6 +47107,7 @@ websitename.pw
 websitetest.optikl.ink
 websocket.click
 webspace.ph
+websterbank.co.com
 webstyle.net.au
 webtahmin.com
 webtoall.in
@@ -49132,6 +49198,7 @@ xyshvidiova.com
 xyw.che7nt2rp.ru
 xyz.fapigya6.ru
 xz.bb-3-y-5.ru
+xze.hollow-fizz.ru
 xzh.nightwharf.ru
 xzil.d7un4recid.ru
 xzoeg.m1stzone.ru
