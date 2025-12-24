@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-24 17:53:30 UTC
-# Total domains: 51555
+# Generated: 2025-12-24 23:58:36 UTC
+# Total domains: 51611
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1203,6 +1203,7 @@
 2alternative.zapto.org
 2avp8.s0ckthorn.ru
 2b3.di5r.ru
+2b3n1.j1nxbuckle.ru
 2b7.w7tx-3t.ru
 2b9k.ye-t5c.ru
 2becomputers.com
@@ -1474,6 +1475,7 @@
 3c7.nightwharf.ru
 3ccw2.orbitalnip.ru
 3ch.u-v9.ru
+3cnui.v-0-xenridge.ru
 3controller.online
 3controller.ru
 3cuartos.com
@@ -2076,6 +2078,7 @@
 5x.d5-en.ru
 5x.yffl-9.ru
 5x15yrz.bond
+5x80a.amberflint.ru
 5xw.aclz-9.ru
 5y3m.c2shst0sing.ru
 5y4a.ru
@@ -2118,6 +2121,7 @@
 628.torquebud.ru
 62e993f98a75.ngrok-free.app
 62faimi2fjkm.az.pl
+63.amberflint.ru
 631cf.ant1d5ulphur.ru
 633bd53942.nxcli.net
 634rfeds.com
@@ -2708,6 +2712,7 @@
 8n.n6ri.ru
 8n5.xb-4-e-7.ru
 8nbw6.shevypro.com
+8nf25.hushzigzag.ru
 8ny.lano5cho0l.ru
 8o.obvp2.ru
 8o6.halfquark.ru
@@ -4790,6 +4795,7 @@ alpha.dia1ecgoo5e.ru
 alpha.fl-0-wlatch.ru
 alpha.highclasssoftware.ru
 alpha.ironbl0om.ru
+alpha.knurl-pocket.ru
 alpha.lugerd.com
 alpha.mashvortex.ru
 alpha.nuts.kiev.ua
@@ -7023,6 +7029,7 @@ basic-fan.gl.at.ply.gg
 basil.shadowm1nt.ru
 basil9.br1ghtmint.ru
 basilicd.com
+basin.amberflint.ru
 basin2.rockfieid.ru
 basinenstitusudernegi.com
 basis-appropriations.gl.at.ply.gg
@@ -7391,6 +7398,7 @@ beta.darkc0re.ru
 beta.darkl1ne.ru
 beta.darkm1nt.ru
 beta.hollow-fizz.ru
+beta.hushzigzag.ru
 beta.in5istle5s.ru
 beta.kettlewisp.ru
 beta.m1stybird.ru
@@ -8301,6 +8309,7 @@ bra.k8li.ru
 brack.nl
 brackenloft.ru
 bracket.grit-pillow.ru
+bracket.v0xenridge.ru
 bracomil.com.br
 bracunis.com
 bradlack12.ru
@@ -10911,6 +10920,7 @@ content-organisations.gl.at.ply.gg
 content-v2-verisoiu.icu
 content-website-analytics.com
 content.aawe.finance
+content.sentihey.dedyn.io
 contents-douglas.gl.at.ply.gg
 contents-hungarian.gl.at.ply.gg
 contest.3squaredco.com
@@ -11286,6 +11296,7 @@ crackle.a8arichum2n.ru
 crackle.fl1ntrelay.ru
 crackle.quartznibble.ru
 cracktui-34704.portmap.host
+cradle.fl0wmortar.ru
 craft.r1verbloom.ru
 craftmasters.co.uk
 craftmatrix.giize.com
@@ -11907,6 +11918,7 @@ d3c00.duckdns.org
 d3c0d3dd0cx.000webhostapp.com
 d3h7.picket-core.ru
 d3j7.28ae00i7.ru
+d3k.hush-zigzag.ru
 d3l.quartznibble.ru
 d3m.ta4a.info
 d3pf0x.deepf0x.ru
@@ -11960,6 +11972,7 @@ d6qa.j935.online
 d6y1.085-x-89-c.ru
 d7.0y2i.ru
 d7.hyk5.ru
+d72.qu1rkbasin.ru
 d7m0.q3lo.online
 d7mta.1a2e6.ru
 d7q.a-8-xp.ru
@@ -13422,6 +13435,7 @@ drip9y.ra1nbyte.ru
 drissinfo.nl
 dristha.top
 drive.netsolutionpoint.com
+drive.sentihey.dedyn.io
 drivers-softprotect.eu
 drizz.rainv1sta.ru
 drkf1x.darkf1sh.ru
@@ -15289,6 +15303,7 @@ etdtf.org
 etek.club
 etekwuele.in
 eternity-hacks.su
+eternitysoftware.world
 etete.eu
 ethegenesis.com
 ethiopialocal.site
@@ -16976,6 +16991,7 @@ flourmeadowbakery.com
 flow.cloudf0rm.ru
 flow.drift-meadow.ru
 flow.g-1-zmotrail.ru
+flow.knurl-pocket.ru
 flow2.st-0-y-70-renka.ru
 flow3.res4ev7oy1.online
 flow8.1-nyearbo-0-k.ru
@@ -17845,6 +17861,7 @@ g4m.mi7x.online
 g4n0.q-0-spi.ru
 g4ny.37i658094.online
 g4rden.ston3garden.ru
+g4tb.t0ppleseed.ru
 g4v.glimmerstone.ru
 g4v.solarfracht.online
 g4zt.71o9.online
@@ -18675,6 +18692,7 @@ ghi.zicedoo8.ru
 ghjkt6fg.net16.net
 ghogqcav.xyz
 ghost.fumb1eim2ge.ru
+ghost4senator.duckdns.org
 ghost888abc.com
 ghostattackersteam.ga2h.com
 ghostdom.ug
@@ -18942,6 +18960,7 @@ glint.dexlotion.ru
 glint.stormpixei.ru
 glint5.crystalv1be.ru
 glitch.hollowfizz.ru
+glitch.hush-zigzag.ru
 glitch.quirk-paste.ru
 glitch.ripple-cask.ru
 glitchpact.ru
@@ -20880,6 +20899,7 @@ hg.r8li.ru
 hg.wqix.ru
 hg90trash2.besaba.com
 hgamkado.duckdns.org
+hgd7l.hush-zigzag.ru
 hgdm.mistw0rk.ru
 hgfdshgdfdfg.esy.es
 hghlaw.com
@@ -21504,6 +21524,7 @@ hurdln.asia
 hurricanspin.ru
 hurriyetilanservisi.gen.tr
 husaor.hubr1s5ajor.ru
+hush.hush-zigzag.ru
 hush.quartz-mug.ru
 hush2.ciears0ft.ru
 hush2.r1verdusk.ru
@@ -23470,6 +23491,7 @@ jinga.locker
 jingle.hollowfizz.ru
 jino-stell-jino.myjino.ru
 jinqlitinbox.com
+jinx.knurl-pocket.ru
 jinyuanlightings.com
 jiontrusdergaseol.com
 jirb.org.tw
@@ -23728,6 +23750,7 @@ jqp.wi7e.ru
 jqqice.com
 jquery.min-js.site
 jr.minglecrate.ru
+jr33x.amber-flint.ru
 jrcasey.com
 jrdsj.wiki
 jrgdbf.com.cn
@@ -25134,6 +25157,7 @@ knee360.in
 knee360.in.brandstapler.com
 knit.fog-tangent.ru
 knit.ju-5-q.ru
+kno.amber-flint.ru
 knob.sn-1-rlpatch.ru
 knock.free1.asia
 knockknock-jokes.com
@@ -25145,6 +25169,7 @@ knowledgetap.in
 knowledgetap.me
 knt567.xsrv.jp
 kntkuamkkrwaknrusx.com
+knurl.fl0wmortar.ru
 knurl.quenchorbit.ru
 knwns.de
 knyfyrtel.pl
@@ -25821,6 +25846,7 @@ l9e93cf7.justinstalledpanel.com
 l9edc3e9.justinstalledpanel.com
 l9ee38ae.justinstalledpanel.com
 l9f0f9c9.justinstalledpanel.com
+l9o.knurl-pocket.ru
 l9q7.6aiiwi2.ru
 la-supreme.gl.at.ply.gg
 la.c0ffee8rind.ru
@@ -26881,6 +26907,7 @@ loop.bl0bspinner.ru
 loop.picketwarp.ru
 loop.pl0tchisel.ru
 loop.re5onwi1ling.ru
+loop.v-0-xenridge.ru
 loop6.gr0ssgar.top
 loot-chem.com
 lootem.xyz
@@ -27128,6 +27155,7 @@ lv.gdyl2.ru
 lv.quartzmug.ru
 lv.w30g.ru
 lv.we4ex.ru
+lv2.fl0wmortar.ru
 lv5j.l0ng.ru
 lvmrpvkyo.com
 lvo.w1um.ru
@@ -28410,6 +28438,7 @@ mdksimon.su
 mdmuold.com
 mdnetrn.com
 mdolk.ru
+mdt.v0xenridge.ru
 me.9f4s4.ru
 me.bkud4.ru
 me.buno8.ru
@@ -30528,6 +30557,7 @@ nbv201218m.temp.swtest.ru
 nbvhroptghtmsydrfq.com
 nc.dreamc0ast.ru
 nc.plig-5.ru
+nccf0.amber-flint.ru
 nchainwallet.shop
 nchawa.magizz.com
 nchdigitalmedia.com
@@ -31251,6 +31281,7 @@ nova.st-0-bepress.ru
 nova.st-1-lt-forge.ru
 nova.storml1ght.ru
 nova.v0lticrum.ru
+nova.v0xenridge.ru
 nova.zenithsnap.ru
 nova1.gr1tbinder.ru
 nova1.l1festone.ru
@@ -31676,6 +31707,7 @@ oamnohndpiwpicgm.onion
 oanfotograf.com
 oaoeuoouegandsg.su
 oapps.se
+oaq.t0ppleseed.ru
 oase2.net
 oasisfuchs.ru
 oasisvillasmaurice.com
@@ -31859,6 +31891,7 @@ od.pvzi1.ru
 od.xrhu-7.ru
 od2nipo.com
 odd-nichinan-4485.lolipopmc.jp
+odd.amber-flint.ru
 odd.crank-muddle.ru
 odd.fo0lrati0n.ru
 odd.j1ngleknob.ru
@@ -32370,6 +32403,7 @@ onandoffagain.com
 onanothertry.ydns.eu
 onapbienap.net
 onari-aikido.com
+onbet88vn.vip
 onboard.veranobuilders.com
 oncallsolutions.co
 oncapy.tk
@@ -32981,6 +33015,7 @@ oukkqwkuakiwwsse.xyz
 oukmeesqiagoquys.xyz
 oukqaqgeysesaqki.xyz
 ouksmciiqoymieky.xyz
+oul.v0xenridge.ru
 oumimkwggegacgsa.xyz
 oumkuqksmauyyuym.xyz
 oummecouoqueayiy.xyz
@@ -33578,6 +33613,7 @@ pat.microsoft-telemetry.at
 pat.wkej2.ru
 patayka.000webhostapp.com
 patch.5hri1luv.ru
+patch.fl0wmortar.ru
 patch.quartzkip.ru
 patch.snareplum.ru
 patch.sp1nterpad.ru
@@ -34164,6 +34200,7 @@ pix3ly.ragmosaic.ru
 pixe1tu1ip.ru
 pixel-orbit.ru
 pixel.a1mond0prit.ru
+pixel.amber-flint.ru
 pixel.f1ukomki5s.ru
 pixel.fl0wlatch.ru
 pixel.frei1r2tions.ru
@@ -34405,6 +34442,7 @@ po4.rxir9.ru
 poalawoffice.com
 poc-awsfaceid.signo.dev.br
 poc-faceid.signo.dev.br
+pocket.knurl-pocket.ru
 pocketpenguin.net
 pocof.icu
 pocoxxmas.gq
@@ -37304,6 +37342,7 @@ ridge.lakesp1rit.ru
 ridge.prairieforge.ru
 ridge.rapidst0ne.ru
 ridge.rapidstone.ru
+ridge.t0ppleseed.ru
 ridge.wildcr3st.ru
 ridge.wildspark.ru
 ridge1.f2na7under.ru
@@ -37386,6 +37425,7 @@ ripple-regulation.com
 ripple-regulatory.com
 ripple.fur5hst0the.ru
 ripple.ripplecask.ru
+ripple.v0xenridge.ru
 rise.fl0wstone.ru
 rise.st0negate.ru
 riseart.design
@@ -38866,6 +38906,7 @@ sedepases.com.br
 see.ckon0.ru
 see.pi6o.ru
 seeconnectionalive.website
+seed.j1nxbuckle.ru
 seed.wild0ak.ru
 seedvsweeds.co.in
 seejuzd.click
@@ -39210,6 +39251,7 @@ seznam.accesscam.org
 seznam.giize.com
 sezop.com
 sf.deepflash.ru
+sf.fl0wmortar.ru
 sf.kl.com.ua
 sf5.ckyq9.ru
 sfave8ojurshe1.duckdns.org
@@ -40210,6 +40252,7 @@ snfers-56365.portmap.host
 snh.xibovyu5.ru
 snibble.gl1mmerset.ru
 sniffer-tank.comli.com
+snip.j1nxbuckle.ru
 snip.quartz-kip.ru
 snipca.usa.cc
 sniperoujda.zapto.org
@@ -40588,6 +40631,7 @@ spark.f1fthudde7.ru
 spark.fl0wlatch.ru
 spark.flintwerder.ru
 spark.glimmerstone.ru
+spark.hushzigzag.ru
 spark.ine7tinve7.ru
 spark.j-1-ngleknob.ru
 spark.ko1osunde2d.ru
@@ -42147,6 +42191,7 @@ t2.apps.zestforai.com
 t2.bo8y.ru
 t2.mcyz4.ru
 t2.v0xletrill.ru
+t21vc.qu1rkbasin.ru
 t222.vip
 t2constructiontexas.com
 t2gh5.je9t.online
@@ -43594,6 +43639,7 @@ trace.skysh1eld.ru
 trace.snare-plum.ru
 trace.softp1ne.ru
 trace.st3elflare.ru
+trace.v-0-xenridge.ru
 trace4.raven-flux.ru
 tracer.rurs.net
 trachyw.qpon
@@ -43882,6 +43928,7 @@ tsutsuifujiko.com
 tsvigunrat.besaba.com
 tswgqcseq.com
 tsxw.silentl1ne.ru
+tt.hush-zigzag.ru
 tt.nightfl0w.ru
 tt.onmypc.org
 tt.wduh8.ru
@@ -44315,6 +44362,7 @@ u9w.fk9o0.ru
 ua-banki.com
 ua-beton.com
 ua.a-zon.ru
+ua4ch.amberflint.ru
 ua7.st0rmwave.ru
 ua7.z2q2.ru
 uaaaeeougquukwgq.xyz
@@ -45933,6 +45981,7 @@ v201750.hosted-by-vdsina.ru
 v204306.hosted-by-vdsina.ru
 v205557.hosted-by-vdsina.ru
 v205588.hosted-by-vdsina.ru
+v21nv.hushzigzag.ru
 v2a.k8cr-9b.ru
 v2k7.ha0m.online
 v2k7m.67tf.online
@@ -46708,6 +46757,7 @@ vgk.pf-4-i-2.ru
 vgnigeria.com
 vgvfqjfyt.mywww.biz
 vh.emberiake.ru
+vh.j1nxbuckle.ru
 vh.pf4i2.ru
 vh.vwof.ru
 vh0.cl0ckmint.ru
@@ -47496,6 +47546,7 @@ warning-stresser.com
 warp.draftsnip.ru
 warp.fl1ntrelay.ru
 warp.hushcopper.ru
+warp.j1nxbuckle.ru
 warp.paperknurl.ru
 warp.siickhorn.ru
 warp.sk2tear0und.ru
@@ -47835,6 +47886,7 @@ weird.fogtangent.ru
 weird.hollowfizz.ru
 weird.quartz-kip.ru
 weird.twirl-pane.ru
+weird.v-0-xenridge.ru
 weismuseum.org
 weisqkcuskossucm.xyz
 weiss.9reenpath.ru
@@ -48665,6 +48717,7 @@ wpogkco.almostmy.com
 wpy.bh-3-i-6.ru
 wq.cl1ffwood.ru
 wq.qh-1-a-5.ru
+wq.v-0-xenridge.ru
 wq0.o4-lq-8.ru
 wq0n.zm6392.online
 wq1.q7jt-0k.ru
@@ -50075,6 +50128,7 @@ y9lg.9-32p.ru
 y9p.coralglanz.ru
 y9t3.98g-bj.ru
 y9w7.gl-1-tchgarden.ru
+y9z9.t0ppleseed.ru
 y9zqm.m1stycliff.ru
 ya.g-vox.ru
 ya.kfko-3.ru
@@ -51286,6 +51340,7 @@ zi.vihuqau.ru
 zi.we4ex.ru
 zicedoo8.ru
 zig.quench-orbit.ru
+zigzag.amberflint.ru
 zihnyunrui.com
 zijcz.com
 zijozui29.ru
@@ -51532,6 +51587,7 @@ zx.jolm.ru
 zx.pisora.ru
 zx.vem4.ru
 zx2a.cdn-2-45.ru
+zx7d.t0ppleseed.ru
 zx8.a5pirbo0rda.ru
 zxcshop.top
 zxcv112.byethost4.com
