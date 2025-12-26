@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-26 12:31:46 UTC
-# Total domains: 7823
+# Generated: 2025-12-26 18:37:19 UTC
+# Total domains: 7857
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -840,6 +840,7 @@ apple-appcare-service.com
 apple-id-verify.com
 apple-securityiphone-icloud.com
 apple-support-verify.com
+appleaustralia.com
 appledoreholiday.com
 application-document.com
 application-review.org
@@ -1630,6 +1631,7 @@ c2a-ut9fj-2v7m.com
 c4sale12.com
 c6lm.top
 cabdtniq.com
+cabodeagatas.com
 cagremub.ru
 caioriter.com
 calendario.online
@@ -2895,6 +2897,7 @@ elmanysat.com
 elosrah.com
 elula.online
 elwoodpanthers.net
+emac.co.in
 emagrecer.online
 emailreddit.com
 emasound.org
@@ -3529,6 +3532,7 @@ gl-meet2024.com
 glassesrus.com
 glaviso.top
 glbridge.auto
+gleamus.cyou
 glevorcapital.com
 glimzy.shop
 glitzandglamdesign.com
@@ -4104,6 +4108,7 @@ ilovehue.store
 ilrne.top
 im3ls.top
 im5674pankou.com
+imac.co.nz
 image-support.xyz
 imagesfox.com
 imaginativeintellect.store
@@ -4221,10 +4226,12 @@ iowareap.com
 iowastatepatrol.net
 iowastatepatrol.org
 ipaa.org
+ipadaustralia.com
 iperdesk.com
 ipfs-abuse.org
 ipgrabber.ru
 ipgranite.com
+ipod.com.hk
 ipornia.com
 ipsen-med.ch
 iptvadvice.com
@@ -4272,6 +4279,18 @@ itpublishingreviews.com
 itrexmssl.com
 itsalike.com
 itstacktech.com
+itunes.co.th
+itunes.es
+itunes.gr
+itunes.pk
+itunes12days.co.uk
+itunesradio.com.tw
+itunesradio.fm
+itunesradio.jobs
+itunesradio.kr
+itunesradio.mg
+itunesradio.mu
+itunesradio.pw
 iuwvqsarbm.com
 ivysky.site
 iwasben.com
@@ -4668,6 +4687,7 @@ lawsent.com
 layerschi-us.shop
 lazystax.ru
 lbdigitalmarketing.com
+lbmracifhomjs.in
 lbrmh.top
 lciq.net
 lckdwnlv.com
@@ -4852,6 +4872,9 @@ m4free.online
 m8374.net
 maazi.com
 mac-tech.net
+macbookair.com.au
+macbookair.hk
+macbookair.jp
 machinimated.com
 macosx-app.com
 macosx-apps.com
@@ -4900,6 +4923,7 @@ mallfashion.world
 maltiverse.com
 maluisepaul.com
 malware.name
+mamonol.cyou
 mamotsemall.co.za
 mamzouka.net
 man-ex.com
@@ -5407,6 +5431,7 @@ nunez-family.com
 nunomarket.com
 nursalikh.com
 nutiensel.com
+nutlios.cyou
 nuzum.ws
 nv7d.top
 nvidia-update.com
@@ -5933,6 +5958,7 @@ ptcoa.com
 ptrackupdate.com
 puahome.com
 puanpowan.com
+publishingsurvey.com
 pubmetrics.online
 pueblosdecampoymar.cl
 pul-t20.com
@@ -6016,6 +6042,7 @@ quickhookup.site
 quicklegaladvice.space
 quickpcfixer.click
 quickstyle.online
+quicktimestreaming.com
 quicktint.shop
 quilibrium.shop
 quintet.shop
@@ -6084,6 +6111,7 @@ re-tdmsec.software
 re-tdmsec.zone
 reactbanner.com
 readingnews.store
+readyca.cyou
 readyedc.us
 readylander.com
 readysafe.xyz
@@ -6130,6 +6158,7 @@ release.id
 releases.ph
 relojeriatempus.shop
 relysudden.com
+remareq.cyou
 remnantwarrior.org
 remonteck.ru
 remote-keylogger.net
@@ -6158,6 +6187,7 @@ retoninjainmobiliario.com
 reverasuplementos.fun
 rfbnhb.com
 rfdcxz.com
+rfffnahfiywyd.in
 rfqlake.com
 rhcad.com
 rhind.com
@@ -6352,6 +6382,7 @@ sbvhn.com
 scalara.ch
 scale-with-ai.com
 scan2dressingroom.com
+scarleu.cyou
 scarrierpack.com
 scent-florist.com
 schetcik.online
@@ -6448,6 +6479,7 @@ server.de
 serverseistemasatu.com
 service-activity-checkup.site
 serviceupdateaccountinfo.com
+servict.cyou
 sesu.org.uk
 sethkniep.com
 settingfir.com
@@ -7167,6 +7199,7 @@ trellomail.com
 trendingnow.online
 trendseua.site
 trenipono.com
+treponj.cyou
 treycockrum.co
 trib3s.ch
 trifega.com
@@ -7658,6 +7691,7 @@ xn--e1aasb.xn--p1ai
 xn--e1ajbcejcefx.xn--p1ai
 xn--i1aeb2e.xn--p1ai
 xn--i2ej6ba0alj4stb9o.com
+xn--mgbc8f.xn--mgberp4a5d4ar
 xn--skp-lma2h.com
 xn--sukabt-m4a.com
 xoiiasdpsdoasdpojas.com
