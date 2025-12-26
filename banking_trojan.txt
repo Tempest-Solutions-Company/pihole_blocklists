@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-26 00:20:46 UTC
-# Total domains: 7822
+# Generated: 2025-12-26 06:26:18 UTC
+# Total domains: 7823
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2990,6 +2990,7 @@ eventusvermoegensverwaltung.de
 eventvolunteers.org
 everify.com
 everlynx.icu
+everydayisamatchday.com
 evets.jp
 evillab.world
 evin.info
