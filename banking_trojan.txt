@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-26 18:37:19 UTC
-# Total domains: 7857
+# Generated: 2025-12-27 00:42:43 UTC
+# Total domains: 7862
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -255,6 +255,7 @@
 2coolflicks.photography
 2farchive.ph
 2fastclub.com
+2fauthorization.ping
 2fforward.ro
 2hhiv.top
 2interact.info
@@ -2676,6 +2677,7 @@ dtdcpastw.net
 dtdcspost.cc
 dtdcspostb.vip
 dtdcspostc.vip
+dtdcspostv.vip
 dtdcspostx.vip
 dtdcspostz.vip
 dtdczasc.cc
@@ -2994,6 +2996,7 @@ eventvolunteers.org
 everify.com
 everlynx.icu
 everydayisamatchday.com
+everydayismatchday.com
 evets.jp
 evillab.world
 evin.info
@@ -3945,6 +3948,7 @@ hrsd3.top
 hrsinternational.cn
 hrxxlight.com
 hsbc-vnd.cc
+hsbc-vns.cc
 hscxmby.com
 hsgjsgw.com
 hsher.com
@@ -4968,6 +4972,7 @@ maryroesch.com
 masabrothas.com
 masamadreartesanal.com
 mashcloud.org
+mashedlife.com
 massagemastery.online
 master-22.ru
 mastercardkeys.world

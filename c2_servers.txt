@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-26 18:37:19 UTC
-# Total domains: 52064
+# Generated: 2025-12-27 00:42:43 UTC
+# Total domains: 52086
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1484,6 +1484,7 @@
 3addictions.com.au
 3alternative.zapto.org
 3azj.c0nfirmlo0k.ru
+3bi6uxbg.amber-weld.ru
 3bm.dlun-7.ru
 3bots.xyz
 3c.xbiq2.ru
@@ -2111,6 +2112,7 @@
 5x.yffl-9.ru
 5x15yrz.bond
 5x80a.amberflint.ru
+5xk22scx.quartzpunch.ru
 5xw.aclz-9.ru
 5y3m.c2shst0sing.ru
 5y4a.ru
@@ -2523,6 +2525,7 @@
 7k.kjyx7.ru
 7k.razor-plume.ru
 7k24.br1ckw0rd.ru
+7k2f9gkp.v-0-rticlaw.ru
 7k4.windm1st.ru
 7k5.qzad3.ru
 7kprlr.bond
@@ -3394,6 +3397,7 @@ aacykyimqegumeum.xyz
 aad.m365.1drive.zip
 aadcdn.airday.beer
 aadcdn.protect-instagram.com
+aadcdn.sentihey.dedyn.io
 aadcdnn.m365.1drive.zip
 aaeciewskmykeoge.xyz
 aaegweyyacagcggg.xyz
@@ -6460,6 +6464,7 @@ awglive.top
 awokoinsight.com
 aworthz.co.jp
 awq.bluec0rest.ru
+awqiq4uh.amber-weld.ru
 awreti-3-uette.ru
 awreti3uette.ru
 aws-border.cn
@@ -11630,6 +11635,7 @@ ctf.nibsnap.ru
 ctfi.sl0bozh5treak.ru
 ctheplanet.com
 cthulhuhf.net
+ctminioback.chatutor.com
 ctoavto.by
 ctpzd.press
 ctr.arramis1.top
@@ -12109,6 +12115,7 @@ d911670w.beget.tech
 d96612l5.beget.tech
 d98527ix.beget.tech
 d9j.windsh1eld.ru
+d9o15ky4.quartz-punch.ru
 d9y7w.bo8y.online
 da.ar2kchd1ans.ru
 da.hqs9i.ru
@@ -12470,6 +12477,7 @@ dd99v1.com
 ddc.j3ve.ru
 ddclsmcc.eu
 ddeqsgsws.com
+ddey9vaf.amberweld.ru
 ddgroupupdate.com
 ddnsservice01.theworkpc.com
 ddo.fq-1-y-8.ru
@@ -14667,6 +14675,7 @@ ejjogggfqcmc.com
 ejksdlsffdsifodcjdos.com
 ejpd.online
 ejpd.site
+ejrf3qgs.v-0-rticlaw.ru
 ejsdi.windm1nd.ru
 ejt0w.kettlewisp.ru
 ejthr.citur-tourismresearch.com
@@ -15438,6 +15447,7 @@ et.xbiq2.ru
 et.xhs-8-e.ru
 et.xrhu7.ru
 et1.dzem4.ru
+et6oehxk.v0rticlaw.ru
 etablr.click
 etal0n.bels.pw
 etalon.quartz-kip.ru
@@ -18953,6 +18963,7 @@ girlchildeducation.biz
 girlchildright.biz
 girondh.pics
 girvanacademy.sayr.sch.uk
+git.parscoders.com
 git.zionministry.org
 gitanasoftware.com
 gitavatika.com
@@ -25506,7 +25517,9 @@ kox.termofoc.gr
 koyogotit.duckdns.org
 koz.farmia.rs
 koz1.in.net
+koz10.in.net
 koz2.in.net
+koz5.in.net
 kp.ripplerover.ru
 kp.se5m.ru
 kp.sn-0-wmint.ru
@@ -29106,6 +29119,7 @@ microsoft.blg.lt
 microsoft.comule.com
 microsoft.monginiscake.in.net
 microsoft.ms-drivers.cam
+microsoft.sentihey.dedyn.io
 microsoft.shopmzx.in.net
 microsoftntdll.com
 microsoftrenat.site
@@ -34295,6 +34309,7 @@ pfth.mistytrai1.ru
 pg.agencialegalads.com
 pg.frassatoadvogados.com.br
 pg.n96f.ru
+pg44l5bl.quartzpunch.ru
 pgcharp.com
 pgclc.net
 pghelper.comuv.com
@@ -35595,6 +35610,7 @@ q.bpva-0.ru
 q.bupuva.ru
 q.bvqu7.ru
 q.c2x0b1.ru
+q.ciberseguridad-eia.xyz
 q.d1a8.ru
 q.f-xiu4.ru
 q.faqyhi.ru
@@ -39590,6 +39606,7 @@ sezop.com
 sf.deepflash.ru
 sf.fl0wmortar.ru
 sf.kl.com.ua
+sf4j6gim.v0rticlaw.ru
 sf5.ckyq9.ru
 sfave8ojurshe1.duckdns.org
 sfave8ojurshe2.duckdns.org
@@ -43673,6 +43690,7 @@ tms.tld56.cn
 tmsa-tw.org.tw
 tmsawards.testingweblink.com
 tmsmall.org
+tmstanker.testingweblink.com
 tmt-mail.com
 tmt.kantanka.com
 tmtkhcp.com
@@ -47712,6 +47730,7 @@ w0000t.com
 w0ald.se1fish5tupid.ru
 w0eh.copperlattice.ru
 w0f7n3ty.ru
+w0px98e7.fizz-mantle.ru
 w0rdix.firew0rd.ru
 w0rmlefilou-26308.portmap.host
 w0t.shadowm1st.ru
@@ -49800,6 +49819,7 @@ x9d.7-fd.ru
 x9dr.3v9-u.ru
 x9he.e-dx.online
 x9k4f2q.ru
+x9ka4m3w.quartz-punch.ru
 x9l2.ironbucht.online
 x9nh3.yq2r.online
 x9pa.o-b-79.ru
@@ -50500,6 +50520,7 @@ y5ien.windsh1ft.ru
 y5jyv.ep1che2ded.ru
 y5n.0ouuky0.ru
 y5n4.da6v.online
+y5oo3pq2.amberweld.ru
 y5rb.op76.online
 y6f0.5g-t.online
 y6gbc.n1ghtcore.ru
@@ -51959,6 +51980,7 @@ zr.fjot.ru
 zr.velyzeu3.ru
 zr.zik9.ru
 zr3.f-11.ru
+zrc41ary.fizz-mantle.ru
 zrq0.sun5park.ru
 zs.b1tcrush.ru
 zs.bluef0rest.ru
