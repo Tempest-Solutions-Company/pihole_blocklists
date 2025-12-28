@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2025-12-28 01:04:29 UTC
-# Total domains: 7862
+# Generated: 2025-12-28 07:09:44 UTC
+# Total domains: 7863
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2289,6 +2289,7 @@ dagsterlabs-slack.cc
 dahomevalue.com
 daichiinternational.com
 dailymashala.com
+dailyprosper.com
 dalelayton.com
 dalilk4step.com
 dallasonrasolutions.cloud
