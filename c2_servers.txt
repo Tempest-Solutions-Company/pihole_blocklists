@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2025-12-30 01:49:27 UTC
-# Total domains: 52671
+# Generated: 2025-12-30 07:54:50 UTC
+# Total domains: 52674
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10685,6 +10685,7 @@ clavera.cat
 claw.p0rthopper.ru
 claw.racket-loom.ru
 claw.tigerzaun.ru
+clawless-42349.portmap.host
 clawteamwear.com
 clay.luv6.ru
 clay.tr-8-n.ru
@@ -48673,6 +48674,8 @@ weald.softl1ne.ru
 weald.st0rmfield.ru
 weald.storml1ne.ru
 weald3.breezef0x.ru
+wealthandolaedo.ddns.net
+wealthandolaedo1.ddns.net
 wealthruproperty.com
 wealthscope.xyz
 wealthstrategyflow.xyz
