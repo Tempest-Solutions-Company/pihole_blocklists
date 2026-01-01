@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-01 14:45:36 UTC
-# Total domains: 53073
+# Generated: 2026-01-01 20:51:14 UTC
+# Total domains: 53076
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -27207,6 +27207,8 @@ lgbtqwebdesign.com
 lgeohbboqpngfap.com
 lglfev.com
 lgna.windsh1eld.ru
+lgo.kievteplo.in.ua
+lgo.passadisco.com.br
 lgq.entire1y5ming.ru
 lgtadvocacia.com.agencialegalads.com
 lgtskills.com
@@ -27405,6 +27407,7 @@ liquorbot.anondns.net
 liraliralira21.esy.es
 lirionis.com
 lisa-evans.com
+lisakiddo.se
 lisastevenson-42329.portmap.host
 lisgroup.info
 lisir.ru

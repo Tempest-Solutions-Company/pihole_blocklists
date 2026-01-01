@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-01 14:45:36 UTC
-# Total domains: 7946
+# Generated: 2026-01-01 20:51:14 UTC
+# Total domains: 7950
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -429,6 +429,7 @@
 97hjh.cn
 987r.info
 98s.pics
+999slot.media
 999yes.site
 99spedmart.me
 9aec.com
@@ -3907,6 +3908,7 @@ hitentlnch-game4.click
 hitomu.com
 hjasgs.cc
 hkbent.com
+hknhosting.xyz
 hksoft.ca
 hlmarchitects.com
 hlton.co.uk
@@ -7498,6 +7500,7 @@ veic.fr
 venomen.art
 verandainteriors.com
 verathon.com
+veredictum.in.net
 verify-your-limited-here.com
 verifydoclink.com
 verirfied.xyz
@@ -7851,6 +7854,7 @@ yonaga.app
 yooa.africa
 yooniquespace.store
 youhub.com
+youngtechcoorp.com
 youpak.com
 youporn.com.ph
 yourathomevet.com
