@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-01 00:29:09 UTC
-# Total domains: 7944
+# Generated: 2026-01-01 02:33:18 UTC
+# Total domains: 7946
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6763,6 +6763,7 @@ southernindustrial.store
 southernmarinesupply.com
 sow.com
 sowetobynight.online
+soyfix.com
 space-ambiance.com
 spacesdocs.com
 spacesmanagement.com
@@ -7149,6 +7150,7 @@ thetownshipmarathon.com
 thetricyclecollective.com
 theubermask.com
 thewoodystrings.com
+theyounginevitables.com
 thinkkidsusa.com
 thinknigeria.org
 thirdmetrics.com
