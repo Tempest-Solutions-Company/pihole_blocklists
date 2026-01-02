@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-02 12:04:19 UTC
-# Total domains: 7952
+# Generated: 2026-01-02 15:08:44 UTC
+# Total domains: 7955
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -575,6 +575,7 @@ advanced-ip-scanner.cfd
 advanced-ip-scanner.link
 advanced-ip-scanner.xyz
 advanced-ip-sccanner.com
+advancedaiinfrastructures.com
 advancedanalysis.be
 advancedipscannerapp.com
 advancedtherapyservice.com
@@ -4877,6 +4878,7 @@ loofstle.com
 lorimakafrica.com
 lorinash.com
 lorpraditsin.com
+lory473.top
 lose-sign.com
 lovegolf.click
 lovely-race.com
@@ -6686,6 +6688,7 @@ slippersworld.nl
 slmlandscape.com
 slotgemoy138.live
 slowear.me
+slplegalfinance.com
 slsmbchurch.org
 sluitionsbad.tech
 smart-ap.shop
