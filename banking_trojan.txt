@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-02 00:52:31 UTC
-# Total domains: 7950
+# Generated: 2026-01-02 02:57:06 UTC
+# Total domains: 7952
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2276,6 +2276,7 @@ cve-2017-11882.ba
 cvwa.us
 cwpropertyss.com
 cxheerfulriver.pics
+cyber-reborn.com
 cyber-stratops.com
 cyberdnsraven.com
 cyberelectrotech.com
@@ -3768,6 +3769,7 @@ h.domains
 h.name
 h.store
 h.target
+h11uu.com
 h14i.top
 h5dev.xyz
 hackerverse.com

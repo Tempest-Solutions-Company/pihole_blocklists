@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-02 00:52:31 UTC
-# Total domains: 53076
+# Generated: 2026-01-02 02:57:06 UTC
+# Total domains: 53079
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -13645,6 +13645,7 @@ donmachantprograms.tk
 donmega.net
 donmores.com
 donnydonzg123-55083.portmap.host
+donotclick.foo
 donotokar.us
 donp.online
 donperenion.com
@@ -25452,6 +25453,7 @@ kezqer.plume-vortex.ru
 kf.95tbm.ru
 kf.bvuf2.ru
 kf.loxr.ru
+kf.xbwa1.top
 kf2.evermint.ru
 kfc-online.tk
 kfhdx.f1recliff.ru
@@ -38169,6 +38171,7 @@ related-suspended.gl.at.ply.gg
 relatedsinsportycreiwer.site
 relativeplanning.com
 relay.aut0ns2ving.ru
+relayontop.dad
 relays.buziopoasbubu.top
 relayservice.org
 released-temple.gl.at.ply.gg
