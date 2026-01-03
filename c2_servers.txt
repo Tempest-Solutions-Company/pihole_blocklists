@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-03 00:16:01 UTC
-# Total domains: 53209
+# Generated: 2026-01-03 03:21:13 UTC
+# Total domains: 53212
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -9866,6 +9866,7 @@ categories-invest.gl.at.ply.gg
 catelcro.duckdns.org
 catgirls.foundation
 catgirls.network
+cathost.io
 catjogger.win
 catlan.xyz
 catlover-pawpaw504.sbs
@@ -13425,6 +13426,7 @@ dizec.press
 dizzle.3vt.info
 dizzy.quirkpaste.ru
 dj2op.rift-cog.ru
+dj6q.ignorelist.com
 dja.hotelsinjacksonvillefl.com
 dja.vrolijkecreaties.nl
 djaber.synology.me
@@ -23567,6 +23569,7 @@ isolu.5gbfree.com
 isolve-id.com
 isou.xyz
 ispg4tzl.couponforge.qpon
+ispolic.com
 isportdata.com
 ispy.pw
 isrs.tf9.ru
