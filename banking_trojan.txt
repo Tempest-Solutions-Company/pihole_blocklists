@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-04 03:44:32 UTC
-# Total domains: 8007
+# Generated: 2026-01-04 09:49:27 UTC
+# Total domains: 8008
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5592,6 +5592,7 @@ ofertop.shop
 office365-signin.com
 officefilecloudoc.com
 officefiledrivecloud.com
+officelilne.oss-cn-hongkong.aliyuncs.com
 officenotedrivecloud.com
 officews101.com
 offlce.co
