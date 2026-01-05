@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-05 04:07:15 UTC
-# Total domains: 54103
+# Generated: 2026-01-05 10:12:39 UTC
+# Total domains: 54157
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -330,6 +330,7 @@
 1.fe1it.ru
 1.mapdz.ru
 1.netbots.africa
+1.qq88765.online
 1.santaiot.net
 1.tcp.clar.io
 1.tcp.jp.ngrok.io
@@ -342,6 +343,7 @@
 10.glacierbruecke.ru
 10.k59ee.ru
 10.mylitapp.com
+10.qq88765.online
 10.tcp.eu.ngrok.io
 100.0.194.35.bc.googleusercontent.com
 10001togelsip.xyz
@@ -1135,6 +1137,7 @@
 2-pukeg-36-oy.ru
 2-wafij-3-ue.ru
 2.kunb.ru
+2.qq88765.online
 2.s61y5.ru
 2.stasprlt.beget.tech
 2.vqod2.ru
@@ -1417,6 +1420,7 @@
 2zs.7-h9.ru
 3-acc-domain.ru
 3.k59ee.ru
+3.qq88765.online
 3.tiqk.ru
 30.c70ye.ru
 3007812.08u073852.ru
@@ -1716,6 +1720,7 @@
 4.9wb-k.ru
 4.derl.ru
 4.o-a4eu.ru
+4.qq88765.online
 4.r46eu.ru
 40.hb0-e.ru
 40.n-jur.ru
@@ -1974,6 +1979,7 @@
 5-kafaq-7-io.ru
 5-milod-931-o.ru
 5-ninet-1-ou.ru
+5.qq88765.online
 5.tcp.ngrok.io
 5.wugh.ru
 50.1ntrude7truha.ru
@@ -2256,6 +2262,7 @@
 5zp7i.bluel1ght.ru
 6-bbe.ru
 6.nytk.ru
+6.qq88765.online
 6.zzz.com.ua
 60.crju.ru
 60.fkur-8.ru
@@ -2510,6 +2517,7 @@
 7.c70ye.ru
 7.kzg-w-4-y.ru
 7.nytk.ru
+7.qq88765.online
 70.4.voltexpressdelivery.com
 70.b9sa.ru
 70.fk-9-e-2.ru
@@ -2780,6 +2788,7 @@
 7zxnifkk.ecumen1sm0ff.ru
 8.d55u5.ru
 8.mijk.ru
+8.qq88765.online
 8.tcp.clar.top
 8.tcp.cpolar.top
 80.173.153.160.host.secureserver.net
@@ -3029,6 +3038,7 @@
 9-zsy.ru
 9.9.jami.bio
 9.pymz.ru
+9.qq88765.online
 9.v9542.ru
 90.gc0o9.ru
 90.k59ee.ru
@@ -5415,6 +5425,7 @@ amokisymokgkkmuk.xyz
 amokukwqcqcyagsq.xyz
 amokwyskwsciwyse.xyz
 among-mug.gl.at.ply.gg
+among-publisher.gl.at.ply.gg
 among-quick.gl.at.ply.gg
 among3919.com
 amopo-pokofu.sbs
@@ -5761,12 +5772,14 @@ api-logs-b794.onrender.com
 api-master.site
 api-w11c.onrender.com
 api.78win88.co.com
+api.999slot.media
 api.amsd.cl
 api.chimera-hosting.zip
 api.ciberseguridad-eia.xyz
 api.coppsindoor.org
 api.dareck.it.com
 api.dyshop.online
+api.emi.co.com
 api.equisphire.com
 api.f8bet.gr.com
 api.filtergoyrdo.top
@@ -5789,6 +5802,7 @@ api.lkofitjhecvr.top
 api.managerfjo.top
 api.mangawizard.lol
 api.melonity.gg
+api.naturesremedies.uk.com
 api.newshimforjune.top
 api.newshimone.top
 api.nostragand.top
@@ -6727,6 +6741,7 @@ avchennai.edu.in
 avciauto.com
 avddk.top
 avdimio.com
+avefenix35630.duckdns.org
 avekocomputers.com
 aventuragirona.com
 avenutk.shop
@@ -8052,6 +8067,7 @@ bilginyachf.com
 bilibili.osfc.org.cn
 bililbilil.xyz
 bill-bones.com
+bill-lu.gl.at.ply.gg
 bill.4java.ca
 bill.gopetrom.com
 billandcal.com.au
@@ -10365,6 +10381,7 @@ chanjrandalo.com
 chankexpe1.ru
 channel-belly.gl.at.ply.gg
 channel-expectations.gl.at.ply.gg
+channel-think.gl.at.ply.gg
 chaos.bitcialtrone.com
 chaos.blowitup.nl
 chaos.web.thegoodfeeder.xyz
@@ -11035,6 +11052,7 @@ clearpictures2.top
 clears.syc0aq8uy1.online
 clearskybanking.com
 clearskyspark.top
+clearsolutions.uk.com
 cleistg.shop
 clemglobal.com
 clemnor.clears0ul.ru
@@ -11056,6 +11074,8 @@ clicktopump.xyz
 clicktrip.in
 clickuhome.com.hk
 client.defenderblt.com
+client.traumvillen.de.com
+client.virtuoso.uk.com
 client14.herobo.com
 client15.uphero.com
 client24-14.comuv.com
@@ -13610,6 +13630,7 @@ diruroy2.ru
 dirzam.exh2ust8one.ru
 dis.io
 dis5h7gien.ru
+disayts10.top
 discaredforftp.000webhostapp.com
 disclaimermag.com
 discountclicks.info
@@ -17928,6 +17949,7 @@ flux9.l1ghtflare.ru
 fluxegtarp.xyz
 fluzz.ga
 flx.la9q.ru
+fly88-1.com
 fly88-vn01.pro
 flyradiator.com
 flyrecords.fr
@@ -19947,6 +19969,7 @@ globalbmanage.com
 globalbusinessconnect-intl.com
 globalcantractors.com
 globalelectrictools.com
+globaleliteconsulting24.com
 globalex.uz
 globalhrbook.com
 globalipogroup.com.wisefunders.com
@@ -21956,6 +21979,7 @@ hhamay.website
 hhcd.somipaa9.ru
 hhgyqyai.savefalke.qpon
 hhjhrretu.cfd
+hho.uk.com
 hhowujyrcvdrwpdvsck.com
 hhu.uk.com
 hhxe.org
@@ -22640,6 +22664,7 @@ hvhcsgo.000webhostapp.com
 hvhlegendpro.000webhostapp.com
 hvkhytpydqm.com
 hvpri.ine7tinve7.ru
+hvu.uk.com
 hvug.deepvalley.ru
 hw.3u-6.ru
 hw.kdit-5.ru
@@ -23023,6 +23048,7 @@ id.othersepoxfrontier-win.cloud
 id.qvik5.ru
 id.rootvk.messager.my
 id.vhhe9.ru
+id888.pw
 idamanah.com
 idan.work
 idanreclub15.com
@@ -27898,6 +27924,7 @@ liquorbot.anondns.net
 liraliralira21.esy.es
 lirionis.com
 lisa-evans.com
+lisagy25.top
 lisakiddo.se
 lisastevenson-42329.portmap.host
 lisgroup.info
@@ -28017,6 +28044,7 @@ lmarcin.x90x.net
 lmdlm.xyz
 lme.fk-9-o-0.ru
 lmewifrfcrezpawg.ru
+lmfao.school-kids.space
 lmfire.net
 lmg.pot-5.ru
 lmh.rocixaa9.ru
@@ -28122,6 +28150,7 @@ login.10x.co.com
 login.44471.jp.net
 login.bong88.co.com
 login.cdn.tripleclickads.com
+login.danhdeonline.co.com
 login.dviznov.com
 login.easymeo365.store
 login.formall.org
@@ -28129,6 +28158,7 @@ login.infodatasinc.com
 login.irishdance.co.nz
 login.jamesriver-ins.com
 login.jlskincare.com
+login.kk999.net.br
 login.kuban.ru.com
 login.la-beaute.jp.net
 login.maintainertools.com
@@ -28144,6 +28174,7 @@ login.reelshare.in.net
 login.relatec.it.com
 login.sunwinn.earth
 login.twitch.za.com
+login.vidyaayurved.in.net
 login.viewmyinvoice.dpdns.org
 login.vn88a.co.com
 loginii.kelvrion.com
@@ -28155,10 +28186,13 @@ logix.co.za
 logixbrands.com
 logoru.info
 logs-samp.xyz
+logs.999slot.media
+logs.altex.jpn.com
 logs.fttrnas.com
 logs.giftingbuddy.in.net
 logs.koz1.in.net
 logs.koz2.in.net
+logs.kubet.de.com
 logs.mx1.sa.com
 logs.pyeyen.za.com
 logs.remont-center.ru.com
@@ -28209,6 +28243,7 @@ lolo247.com
 lololol.netsons.org
 lolora.ru
 lols-esports.com
+lolxd.713mtauburnctcolumbusoh43085.st
 lolzzmortex.duckdns.org
 lomaka-tree.com
 lomdebips.com
@@ -29442,6 +29477,7 @@ mailorderupgrade.xyz
 mailsecuritysxyz.ru
 main-traveller.gl.at.ply.gg
 main.podcastim.net
+main.vetraproject.site
 mainmenuflo.ydns.eu
 mainseonline.com
 maintainthefeex.duckdns.org
@@ -30410,6 +30446,7 @@ milliam.top
 million-sanyo.gl.at.ply.gg
 million.skgifts.com
 milmgqn.pics
+milolo-44643.portmap.host
 milonestlevevy.com
 miloquilla.ddns.net
 miloquilla.linkpc.net
@@ -31045,6 +31082,7 @@ moricasa.com
 morilloart.com
 morita-consul.com
 morkel.ar2ble0ffend.ru
+morlisanqr02.top
 morning-divorce.gl.at.ply.gg
 morning.5h0p.ru
 morning1.cleardrop.ru
@@ -31310,6 +31348,7 @@ msa-hlnet.net
 msasteelalloys.cc
 mscarbonltd.com
 msdos1982.ru
+msf.uk.com
 msfed.othersepoxfrontier-win.cloud
 msft.sts.abdullah-sharif.com
 msgtrcrane.com
@@ -35918,6 +35957,7 @@ pitbubs.top
 pitchstak.ga
 pitchz.locker
 pitegromab.lat
+pitifed.cyou
 piumondo.com
 piv.laqygye.ru
 pivetamaqfer.com.br
@@ -39122,6 +39162,7 @@ rezoupdate.freehostingking.com
 rezufaa4.ru
 rf.o.leangeeks.am
 rfast.duckdns.org
+rfrfcrfvcrvfrvfrf.duckdns.org
 rfrnfrnj.hk
 rfrz.emberharbor.ru
 rfvlive.help
@@ -40713,6 +40754,7 @@ sdjyu.m-0-on-forger.ru
 sdk-api.messager.my
 sdk-dl-prod.proxiessdk.online
 sdk-dl-production.proxiessdk.store
+sdk1.lolbrogg123424.com
 sdn003kaubun.sch.id
 sdniduhiudvudbucbudb.con-ip.com
 sdnunurulquranbanyuwangi.sch.id
@@ -40933,6 +40975,7 @@ sendi118.hostlife.link
 sendmail003.apps-apple-id.com
 sendmeavoucher.com
 sendtofucs.freeddns.org
+sendyprotecte.click
 senegmx.asia
 senior-affordable.gl.at.ply.gg
 senior-forever.gl.at.ply.gg
@@ -41014,6 +41057,8 @@ server.grupovirtualizate.com
 server.plusloinart.org
 server.schoolofhealthcare.co.uk
 server.tikmaps.com
+server.traumvillen.de.com
+server.virtuoso.uk.com
 server007.website.org
 server04.pusku.com
 server1.chrlerym.com
@@ -42233,6 +42278,7 @@ snatch.services
 snd7go.soundg0.ru
 sndiuenidniueiif.su
 sndpro.com
+sndrsshtvip.vip
 sne.dovagua.ru
 sneax.bplaced.de
 snf.is
@@ -45540,6 +45586,7 @@ top-team.site
 top.asrkala.top
 top.b9ku.ru
 top.chadamaite.com
+top.cloudpub.ru
 top.harekae65.ru
 top.lacarwashjo.waw.pl
 top.ngiz5.ru
@@ -47400,6 +47447,8 @@ urusurofhsorhfuuhp.co
 urusurofhsorhfuuhr.su
 urusurofhsorhfuuhu.cc
 urzone.in
+us-a.gsonx.com
+us-a.keepgo123.com
 us-gateway.google-status.net
 us.1397u6.ru
 us.6h1p7.ru
@@ -49569,6 +49618,7 @@ vzo9h.d0nat1mpenet.ru
 w.5u5vbu6.ru
 w.cup7.ru
 w.d3l4d.ru
+w.maximaforfa.com
 w.myzj.ru
 w.q5z9s.ru
 w.q780.ru
@@ -50075,6 +50125,7 @@ webdisk.tamiltotamil.com
 webdisk.umathurman.org
 webdisk.umeedshiksharath.org
 webdisk.uranium-news.com
+webdowner.com
 webek.co.uk
 webex.bot
 webfenix.no-ip.org
@@ -51103,6 +51154,7 @@ wq9.z-11e.ru
 wq9.z88ae.ru
 wqdtf54y6eu7i87t.ga
 wqfmumga.com
+wqp.uk.com
 wqrwrwqr.myarena.ru
 wqu5.deepcl0ud.ru
 wqwbqa5g.inimit9adin2.ru
@@ -51550,6 +51602,7 @@ x.l-5228.ru
 x.l-70y.ru
 x.m4d8q9.ru
 x.m9i5l.ru
+x.maximaforfa.com
 x.mo-49.ru
 x.n-7sol.ru
 x.n-82o.ru
@@ -53155,6 +53208,7 @@ yttt-52788.portmap.host
 ytyjiehuon.pro
 yu.xvo4.ru
 yu2.ze9y.ru
+yuahdgbceja.sytes.net
 yuanfangwenhuags.com
 yub.wildh1ll.ru
 yubnix.ban9noti0n.ru
