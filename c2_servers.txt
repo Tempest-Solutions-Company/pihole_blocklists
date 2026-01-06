@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-06 12:36:42 UTC
-# Total domains: 54264
+# Generated: 2026-01-06 18:34:56 UTC
+# Total domains: 54297
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -330,6 +330,7 @@
 1.fe1it.ru
 1.mapdz.ru
 1.netbots.africa
+1.qq8875.online
 1.qq88765.online
 1.santaiot.net
 1.tcp.clar.io
@@ -343,6 +344,7 @@
 10.glacierbruecke.ru
 10.k59ee.ru
 10.mylitapp.com
+10.qq8875.online
 10.qq88765.online
 10.tcp.eu.ngrok.io
 100.0.194.35.bc.googleusercontent.com
@@ -1137,6 +1139,7 @@
 2-pukeg-36-oy.ru
 2-wafij-3-ue.ru
 2.kunb.ru
+2.qq8875.online
 2.qq88765.online
 2.s61y5.ru
 2.stasprlt.beget.tech
@@ -1420,6 +1423,7 @@
 2zs.7-h9.ru
 3-acc-domain.ru
 3.k59ee.ru
+3.qq8875.online
 3.qq88765.online
 3.tiqk.ru
 30.c70ye.ru
@@ -1720,6 +1724,7 @@
 4.9wb-k.ru
 4.derl.ru
 4.o-a4eu.ru
+4.qq8875.online
 4.qq88765.online
 4.r46eu.ru
 40.hb0-e.ru
@@ -1979,6 +1984,7 @@
 5-kafaq-7-io.ru
 5-milod-931-o.ru
 5-ninet-1-ou.ru
+5.qq8875.online
 5.qq88765.online
 5.tcp.ngrok.io
 5.wugh.ru
@@ -2262,6 +2268,7 @@
 5zp7i.bluel1ght.ru
 6-bbe.ru
 6.nytk.ru
+6.qq8875.online
 6.qq88765.online
 6.zzz.com.ua
 60.crju.ru
@@ -2518,6 +2525,7 @@
 7.c70ye.ru
 7.kzg-w-4-y.ru
 7.nytk.ru
+7.qq8875.online
 7.qq88765.online
 70.4.voltexpressdelivery.com
 70.b9sa.ru
@@ -2789,6 +2797,7 @@
 7zxnifkk.ecumen1sm0ff.ru
 8.d55u5.ru
 8.mijk.ru
+8.qq8875.online
 8.qq88765.online
 8.tcp.clar.top
 8.tcp.cpolar.top
@@ -3039,6 +3048,7 @@
 9-zsy.ru
 9.9.jami.bio
 9.pymz.ru
+9.qq8875.online
 9.qq88765.online
 9.v9542.ru
 90.gc0o9.ru
@@ -4123,6 +4133,7 @@ adeyqa.net
 adf-food.com
 adfbc0a2-084a-4b7a-8b76-199b04d6c816-00-2bvnr0w3yla5t.picard.replit.dev
 adfs.abdullah-sharif.com
+adfs.vdjhrr.de
 adg-japan.com
 adhcssvuayv.com
 adhymefcryqjfsg.com
@@ -5049,6 +5060,7 @@ aliagacilingirci.com
 alibiz.group
 aliboy.favcc1.com
 aliceprivatehire.com.au
+alien007.my-firewall.org
 alifmedical.shop
 aliibaba.pw
 alik-nikol-eyik.myjino.ru
@@ -5815,6 +5827,7 @@ api.nostragand.top
 api.qtss.cc
 api.rootvk.messager.my
 api.securebootupdatesystem.com
+api.shenzhenschool.fun
 api.shimoneaprel.top
 api.shipensburginvestmentgroup.com
 api.signatureofdocs.cfd
@@ -13461,6 +13474,7 @@ dfcpa.com
 dfcw.info
 dfdfhdhdrgethftrj.duckdns.org
 dfgdfgdfg.dfgdfg
+dfgdfgeiurguer.live
 dfgdfgivetender.com
 dfghr.beget.tech
 dfh.g0ldenspire.ru
@@ -14860,6 +14874,7 @@ eauggoiqgseamcmu.xyz
 eaugsgwaomaeqaog.xyz
 eauikymkckgqeaea.xyz
 eauosyceuucisswc.xyz
+eaupdateservice.ddns.net
 eauwmueyiaemageg.xyz
 eawcgeagqkumwswo.xyz
 eaweasumuecuauac.xyz
@@ -18625,6 +18640,7 @@ futurenaturallistic.com
 futurepacksunlimited.com
 futuresmuseumdubai.sa.com
 futurizmoff.com
+fuu.tfuuuk.com
 fuxb.dicti0nvica1.ru
 fuzz.muddle-oak.ru
 fv.nqyf7.ru
@@ -19146,6 +19162,7 @@ gatehub.online
 gatehub.services
 gatehub.site
 gatehub.tech
+gatemaden.space
 gates.subgiare.vn
 gateway.speed-tech.info
 gatex.70leonardst.com
@@ -20094,6 +20111,7 @@ gm.velyzeu3.ru
 gma.1ndu5trinsh.ru
 gma.stonel1nk.ru
 gmacmcqqaeyiqwie.xyz
+gmail.myddns.me
 gmaiyuyougegsqqa.xyz
 gmamgosakeqegcek.xyz
 gmaomagmqaquiagi.xyz
@@ -20716,6 +20734,7 @@ gru.diraiat.com
 grubyy1999.siteme.org
 grubzskincare.zambosur.com
 gruen.jadeecke.ru
+grufuncinlhar.floresflorcravovermelho.cfd
 grugoncinsom.floresclivia.cfd
 grunaumetals.pairsite.com
 grunbcv.cyou
@@ -23744,6 +23763,7 @@ invictr.com
 invitatie.topmetrology.ro
 invitriol.be
 invitriol.graficly.be
+invoice-statement.com
 invoicing-kyc.com
 invoker.rootxran.com
 invstbs.ezyro.com
@@ -25965,6 +25985,7 @@ ketof.000webhostapp.com
 kets4eki.cc
 kettle.m1xthatch.ru
 kevincheat.com
+kevindavis-58161.portmap.host
 kevinsimnacher.aurovine.com
 kevinus.com
 kevvai.ee
@@ -27428,6 +27449,7 @@ laurent-kefere.duckdns.org
 laurent1961.top
 laurenzanologistica.com.ar
 lauzon-ent.com
+lavender-wallaby-90664.zap.cloud
 lavendercitylaundry.ae
 lavern123.duckdns.org
 lavernecapital.au
@@ -34936,6 +34958,7 @@ ow.ze-lu.ru
 owa.8786.ru
 owa.dmg-tech.com
 owa.lexz.ru
+owais5050-61656.portmap.io
 owen1.pohniq.org.in
 owenewturk.ru
 owenscorming.com
@@ -38522,6 +38545,7 @@ r3.tqxfs.ru
 r3.x-57u.ru
 r349.lakespry.ru
 r353r3f5.cn
+r3dc0d3r.duckdns.org
 r3j5.bo8y.online
 r3k.068xaw.ru
 r3k.fa3y.ru
@@ -40287,6 +40311,7 @@ sadmissed.com
 sads.ml
 sadsadsadadsdsa-61181.portmap.host
 sadurtmjpsad.pw
+sadxssaw-41989.portmap.host
 saeam.com
 saecargomaritime.com
 saedvezdeahfhuea.ru
@@ -40396,6 +40421,7 @@ salesmarking.com
 salespe.cyou
 salesxpert.ml
 salesxpert.xyz
+saliangel.ru
 salihlisemkoder.com
 salisirm.biz
 saliyumakan.club
@@ -42767,6 +42793,7 @@ spark.flintwerder.ru
 spark.g0rico1ormica.ru
 spark.glimmerstone.ru
 spark.hushzigzag.ru
+spark.ilovegrooming.xyz
 spark.ine7tinve7.ru
 spark.j-1-ngleknob.ru
 spark.ko1osunde2d.ru
@@ -43248,6 +43275,7 @@ starmanspo.com
 starmarkt.ru
 starmls1234-61151.portmap.host
 starmoney.cf
+starnhgggf-58632.portmap.host
 starprofessional.info
 starrypocket.com
 stars-beat.gl.at.ply.gg
@@ -45065,6 +45093,7 @@ teste.samtiagoadv.com.br
 testecliente.shop
 testedominio.agencialegalads.com
 testeproducao.kinghost.net
+tester.attackzombie.com
 testerceowebside.com
 testftp.kilu.at
 testhost.no-ip.org
@@ -45790,6 +45819,8 @@ tpa.gtus-4.ru
 tpauser9be.com
 tpended.xyz
 tpi.api-microsoftcom.com
+tpl.kievteplo.kiev.ua
+tpl.tfba.me
 tpleflpokadkeoot.ws
 tploaeieifuebaub.ws
 tpr.hati3ea0.ru
@@ -50592,6 +50623,7 @@ whm.sindangkasihnews.com
 whm.tamiltotamil.com
 whm.umeedshiksharath.org
 whm.uranium-news.com
+whoami.cc.cd
 whoer-vpn.net
 whoizzupp.com
 wholesalechairs.ca
@@ -52067,6 +52099,7 @@ xihilia5.ru
 xiiideath.com
 xijoxou.ru
 xile-group.com
+xillenkillers.ru
 ximyt.run
 xin.hc666.bond
 xinnomix.com
