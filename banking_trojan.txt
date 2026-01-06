@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-06 04:29:34 UTC
-# Total domains: 8051
+# Generated: 2026-01-06 10:35:25 UTC
+# Total domains: 8055
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1682,9 +1682,12 @@ campcanada.store
 camr.online
 camsadultsgetwet.com
 camwirless.top
+canadaimmigrationexpress.live
 canadarail.ca
 canadatokentrd.com
+canadian-relocation.org
 canadianuniform.com
+canadianvisaexpert.store
 canature.su
 canghaugiang.vn
 canhovincity-daimo.com
@@ -6101,6 +6104,7 @@ ptcoa.com
 ptrackupdate.com
 puahome.com
 puanpowan.com
+pub-8bf10830d4fa42d3a538fa7b302d55b3.r2.dev
 publishingsurvey.com
 pubmetrics.online
 pueblosdecampoymar.cl
