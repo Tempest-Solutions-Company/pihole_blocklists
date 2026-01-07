@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-07 12:24:32 UTC
-# Total domains: 8055
+# Generated: 2026-01-07 14:02:19 UTC
+# Total domains: 8058
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -497,6 +497,7 @@ aboveaverageindustries.com
 abscbnfoundation.org
 absnude.com
 absoluteaccommodation.com
+absoluteprintgroup.com
 absoluteradioplayer.com
 abt7.top
 abtech.vn
@@ -4288,6 +4289,7 @@ insuara.com
 insuit.dev
 insulet.com.mx
 insulin.store
+integralsm.cl
 intelagentmedia.com
 intelligentopennetworkingawards.com
 interactive-proltd.com
@@ -6541,6 +6543,7 @@ sbvhn.com
 scalara.ch
 scale-with-ai.com
 scan2dressingroom.com
+scanuae.com
 scarleu.cyou
 scarrierpack.com
 scent-florist.com
