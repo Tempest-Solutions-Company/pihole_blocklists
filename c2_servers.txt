@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-08 00:11:55 UTC
-# Total domains: 54406
+# Generated: 2026-01-08 07:47:33 UTC
+# Total domains: 54422
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5207,6 +5207,7 @@ alphac2.xyz
 alphacentauri.top
 alphacinder.ru
 alphaelectronics.com.ar
+alphalaval.testingweblink.com
 alpharealm.cwsurf.de
 alphatech.eu.com
 alphatradings.co.uk
@@ -12780,6 +12781,7 @@ dadaehirim-ventures.biz
 dadafa.zzz.com.ua
 daddadasd-29521.portmap.host
 dadocreazioniartistiche.it
+dadumaster.co.com
 dadvogados.agencialegalads.com
 daedagheauehfuuhfe.top
 daedagheauehfuuhfk.su
@@ -18174,6 +18176,7 @@ form-saver.gl.at.ply.gg
 form.bluef0rest.ru
 form.canxium.info
 form.cloudb1t.ru
+form.co.com
 form.silentf0rest.ru
 form.wave5tone.ru
 formaboyasdfa.redirectme.net
@@ -19888,6 +19891,7 @@ giw.wallyapp.xyz
 gix.c2nce1rarity.ru
 giz.cloudb1t.ru
 gizmo.skysh1ne.ru
+gizmodo.co.com
 gj.tiqk.ru
 gj2.cloudsh1ft.ru
 gjat.ru
@@ -32610,6 +32614,7 @@ nexus.bytefl0w.ru
 nexus.cherec0nce7t.ru
 nexus.clearl1ne.ru
 nexus.cloudm1x.ru
+nexus.cssc.design
 nexus.duzhk2s1ob.ru
 nexus.mistf1eld.ru
 nexus.n1ghtcore.ru
@@ -42868,6 +42873,7 @@ spark.baib2kcle2r.ru
 spark.bid5.ru
 spark.br1stlefax.ru
 spark.clearspark.ru
+spark.cssc.design
 spark.d0nit7then.ru
 spark.deve1ins0le.ru
 spark.f1fthudde7.ru
@@ -48010,10 +48016,12 @@ v1.cntm.edu.vn
 v1.hab77u.ru
 v1.jaxdrill.ru
 v1.moroccancam.com
+v1.phimmoiz.dev
 v1.q3v8p.ru
 v1.q780.ru
 v1.sk-f0s.ru
 v1.subgiare.vn
+v1.vlxx.net
 v1.yhelwah.net
 v178903.hosted-by-vdsina.ru
 v1i.ka2s.ru
@@ -48281,6 +48289,7 @@ v2.perdre-la-raison.com
 v2.peteralanlloyd.com
 v2.petrnesterov.com
 v2.pf6o2.ru
+v2.phimmoiz.dev
 v2.phuonghoangtv.com
 v2.pidamazonia.com
 v2.pimentowood.com
@@ -48358,6 +48367,7 @@ v2.viktre.com
 v2.vintagerpm.com
 v2.visioncomputer.inleeakali
 v2.visionlossconnections.org
+v2.vlxx.net
 v2.vrafoundation.org
 v2.w-70a.ru
 v2.wapdaonlinebill.com
@@ -48675,6 +48685,7 @@ v3.pacificpie.com
 v3.pascalbiosciences.com
 v3.percyjacksonthemovie.com
 v3.peteralanlloyd.com
+v3.phimmoiz.dev
 v3.pidamazonia.com
 v3.pimentowood.com
 v3.pkaffairs.com
@@ -48741,6 +48752,7 @@ v3.viktre.com
 v3.vintagerpm.com
 v3.visioncomputer.inleeakali
 v3.visionlossconnections.org
+v3.vlxx.net
 v3.w5j7z0.ru
 v3.wagoda.ru
 v3.walkingtoursmanhattan.com
@@ -48835,6 +48847,8 @@ v4.2s84d.ru
 v4.3jw5u.ru
 v4.kd-50.ru
 v4.pav3.ru
+v4.phimmoiz.dev
+v4.vlxx.net
 v42le.fog-map.ru
 v4n.0rbishade.ru
 v4n1.zephyrsteg.online
@@ -49452,6 +49466,7 @@ virusmafia.in
 virwvtz.top
 vishelposat.zzz.com.ua
 visifxs.top
+vision.cssc.design
 visionlossconnections.org
 visionmoneymantra.com
 visionprize.com
@@ -50318,6 +50333,7 @@ web.inforsti.com
 web.ktfs4.top
 web.lisawisse.fh.net.nz
 web.meta-email.online
+web.nutorus.com
 web.phpforms.fh.net.nz
 web.qxfhelp.top
 web.testing.flexihost.co.nz
