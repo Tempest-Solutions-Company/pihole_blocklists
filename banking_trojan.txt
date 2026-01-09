@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-09 02:04:58 UTC
-# Total domains: 8072
+# Generated: 2026-01-09 08:10:27 UTC
+# Total domains: 8074
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -878,6 +878,7 @@ apps-downloads-desktop.com
 apps-downloads-pc.com
 apps-pc-download.com
 apps-pc-downloads.com
+apps-sogou.com
 apps4u.store
 appscriber.net
 appxmacos.com
@@ -4499,6 +4500,7 @@ jjpedhvo.shop
 jjqqyy.com
 jjufc.top
 jk1q.top
+jkemdr.hoyenoy.com
 jkgsdc.com
 jklixi.top
 jksvdavid.com
