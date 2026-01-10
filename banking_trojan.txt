@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-10 02:27:52 UTC
-# Total domains: 8088
+# Generated: 2026-01-10 08:33:23 UTC
+# Total domains: 8091
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -604,6 +604,8 @@ afonoditrixdxcomplany.com
 afri.com.ar
 africanhistory.online
 africasafari.co.za
+afterselves.my
+afterselves.my.id
 ag04vip.com
 ageihehaioeoaiegj.de
 agelessskinbyrachel.com
@@ -4352,6 +4354,7 @@ ipsen-med.ch
 iptvadvice.com
 iptvjungle.online
 ipwebcam.info
+ipwho.org
 iqedupte.sg
 iqykwx.top
 irinameyk.store
