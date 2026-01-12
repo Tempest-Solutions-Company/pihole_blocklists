@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-12 03:14:00 UTC
-# Total domains: 8119
+# Generated: 2026-01-12 09:19:43 UTC
+# Total domains: 8121
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1482,6 +1482,7 @@ bookiesapp.me
 bookify.space
 bookofmormon.online
 boostcoaching.online
+bootcamptg.org
 borizerefeicoes.com
 borosafe.shop
 boss04vip.com
@@ -6994,6 +6995,7 @@ stpatsnorwich.org
 strainsense.store
 stratahq.com.au
 stratimasesstr.com
+stratioai.org
 streamrestoration.com
 streamtecheng.com
 streamxpert.net
