@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-13 00:37:38 UTC
-# Total domains: 54912
+# Generated: 2026-01-13 03:42:18 UTC
+# Total domains: 54916
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5839,6 +5839,7 @@ api.chimera-hosting.zip
 api.ciberseguridad-eia.xyz
 api.coppsindoor.org
 api.dareck.it.com
+api.dns-cloudflare.net
 api.dyshop.online
 api.emi.co.com
 api.equisphire.com
@@ -7657,6 +7658,7 @@ bbj.subozaa7.ru
 bbjj.nageshks.com
 bbl.jyhsolucion.ar
 bbl.whitehallalliance.co.uk
+bbliss898
 bbmalayalam.000webhostapp.com
 bbmfswfgmljwj.com
 bbos.p-e.kr
@@ -22692,6 +22694,7 @@ homesecuritysystemsideas.com
 homesgroups.com
 homesofpalmbeachcounty.com
 homeuhd.top
+homevpn.anondns.net
 homieshing.temp.swtest.ru
 homiletic-submarine.000webhostapp.com
 homorhabu.com
@@ -26922,6 +26925,7 @@ kontinent.tk
 konto-registrar.de
 kontrolreport.com
 kontur-expert.info
+konutbasvuruturkiye.cfd
 koolkiddoj999987654-59833.portmap.host
 koopeson.com
 koowiatire.com
