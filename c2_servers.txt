@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-18 13:00:46 UTC
-# Total domains: 56178
+# Generated: 2026-01-18 18:05:15 UTC
+# Total domains: 56179
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8997,6 +8997,7 @@ bordehx.top
 boreidesign.com
 borgesbrasil.com.br
 borgjoinery.com.au
+borinakis.fun
 boriver.com
 born2win.hol.es
 borneel.com.bd
