@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-18 00:49:50 UTC
-# Total domains: 56160
+# Generated: 2026-01-18 05:54:06 UTC
+# Total domains: 56161
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -52005,6 +52005,7 @@ webapp-mpp2.com
 webawast.xyz
 webbklubben.se
 webbnbinance.xyz
+webcloudplt2.oss-cn-shanghai.aliyuncs.com
 webcombo.ru
 webcrafterscol.com
 webcre8.com
