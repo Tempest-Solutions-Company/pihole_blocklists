@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-19 00:10:22 UTC
-# Total domains: 56212
+# Generated: 2026-01-19 06:15:52 UTC
+# Total domains: 56214
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -35636,6 +35636,7 @@ ontra.live
 onuloanajency.com
 onus-connect.com
 onus-grp.com
+onus.ru.com
 onusida-latina.org
 onvexphone.xyz
 onwadec.000a.de
@@ -47614,6 +47615,7 @@ tr0ff3.cn
 tr0npetal.ru
 tr1pgo.longj0urney.ru
 tr8.z-x0.ru
+tr88.sa.com
 tra.akina.ovh
 tra.amajed.com
 tra.asrkala.top
