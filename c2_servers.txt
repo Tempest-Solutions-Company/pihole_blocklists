@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-20 00:32:45 UTC
-# Total domains: 56247
+# Generated: 2026-01-20 06:38:12 UTC
+# Total domains: 56257
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -11739,6 +11739,7 @@ cndomainreg100.net
 cnedriect.com
 cnet-risk.gl.at.ply.gg
 cng-europ.com
+cngov.cn.com
 cnim.co
 cnn9001.duckdns.org
 cno.uk.com
@@ -17910,6 +17911,7 @@ fazoxxd-45223.portmap.host
 fb.lilacsilo.ru
 fb.vbof.ru
 fb3752ud.bget.ru
+fb888.in.net
 fbbntdkljkvb.com
 fbcentral.net
 fbhtsymefdwstuivosx.com
@@ -18620,6 +18622,7 @@ flomenrinder2.mariadobairro.sbs
 flononconsal.mail-genius.store
 flood-protection.org
 flood.ink
+floorspace.uk.com
 flopdlsofrd.com
 flopride.ml
 floradatextil.kbral.com.br
@@ -36366,6 +36369,7 @@ oxt.lynchstem.ru
 oxwoocat.org
 oxy7.joy-2-way.online
 oxycodone.email
+oxygrapics.zapto.org
 oxzka.chee5eg1ider.ru
 oy.cfob-5.ru
 oy.fj-4-i-6.ru
@@ -39359,6 +39363,7 @@ qopup.icu
 qoqip.com
 qoritravelperu.com
 qou8q.boldf0nt.ru
+qoz.uk.com
 qoze.bet
 qp.cnmnmb.top
 qp.s80ye.ru
@@ -43228,6 +43233,7 @@ shockerracing.com
 shockingpoint.com
 shocvxli.top
 shodesh-chemicals.com
+shoe.eu.com
 shoeb.zapto.org
 shoecaps.su
 shoes-each.gl.at.ply.gg
@@ -48885,6 +48891,7 @@ uk.blyp9.ru
 uk.g-04-s.ru
 uk2.localto.net
 uk3.mylitapp.com
+uk3551.pickx.online
 uka-p.com
 ukabenerji.com
 ukaytrades.tk
@@ -51954,6 +51961,8 @@ wbmpvebw.com
 wbnews.info
 wbs.wbs-france.com
 wbs.zephirenr.com
+wc-ltc.ddns.me
+wc-ltc.myvnc.com
 wc.dabytea7.ru
 wc.f-05-t.ru
 wc18k.comp-0-tsab-3-e.ru
@@ -53381,6 +53390,7 @@ www-161bet.com
 www-vavada.za.com
 www-youtube-com-watchvideo.cfd
 www1.6v7aon.com
+www1.co.com
 www1.t89xy0.org
 www10.gartners.1x.biz
 www2.clv.it
