@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-20 18:50:10 UTC
-# Total domains: 56291
+# Generated: 2026-01-21 02:44:52 UTC
+# Total domains: 56302
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -334,6 +334,7 @@
 1.fe1it.ru
 1.mapdz.ru
 1.netbots.africa
+1.ooocyber.cfd
 1.qq8875.online
 1.qq88765.online
 1.santaiot.net
@@ -1156,6 +1157,7 @@
 2-pukeg-36-oy.ru
 2-wafij-3-ue.ru
 2.kunb.ru
+2.ooocyber.cfd
 2.qq8875.online
 2.qq88765.online
 2.s61y5.ru
@@ -1449,6 +1451,7 @@
 2zs.7-h9.ru
 3-acc-domain.ru
 3.k59ee.ru
+3.ooocyber.cfd
 3.qq8875.online
 3.qq88765.online
 3.tiqk.ru
@@ -10523,7 +10526,9 @@ cd88776.tmweb.ru
 cdasynergy.net
 cdh.lypelya2.ru
 cdkfactory.com
+cdn-css-framework.cfd
 cdn-googlemanager.com
+cdn-js-connection.cfd
 cdn.aref.co.com
 cdn.barracudasec.com
 cdn.dareck.it.com
@@ -12270,6 +12275,7 @@ cpanel.trailsyamahamotor.com
 cpanel.umeedshiksharath.org
 cpanel02.myhostcenter.com
 cpanel30.per.syra.net.au
+cpass.verf-secu4u.art
 cpcalendars.centrocirugiaplastica.com
 cpcalendars.chinabandy.org
 cpcalendars.firingpinjournal.com
@@ -26110,6 +26116,7 @@ jrrevendas.com.br
 jrvbr.com
 jryworld.asia
 jrywrld122.com
+js-framework.cfd
 js.byxly.vip
 js.c2shst0sing.ru
 js.dk2o5.ru
@@ -36100,6 +36107,7 @@ otp.go.th
 otpsoft.ru
 otr.aztu.edu.az
 otr.demoserviciopcmendoza.com.ar
+otraprueba.ddnsfree.com
 ottappmail.com
 ottawabodybuilding.com
 otter.otterweg.ru
@@ -49289,6 +49297,7 @@ update.microsoft-safe.com
 update.pbcollege.in.net
 update.saintfrancoisath.be
 update.ubuntu22c3sl-update.com
+update211.security-ssa-gov.com
 update43x.myvnc.com
 updatecenter.ru
 updatechecker0.zapto.org
@@ -52730,6 +52739,7 @@ wing.rainf0x.ru
 wingofffly.store
 wingor.brightw1ng.ru
 winhelptech.xyz
+winiks.com
 wink3l.sprucewinkel.ru
 winkel.harewinkel.ru
 winluckfb7.com
@@ -53256,6 +53266,7 @@ wseiukeoggiqksoa.xyz
 wsemswaakkuaggcu.xyz
 wseosuogmcwagwse.xyz
 wseowugweegagqss.xyz
+wsergoijnrjewgewr.duckdns.org
 wsewykwcusckwoem.xyz
 wsf2008.net
 wsgaqucquugosgww.xyz
