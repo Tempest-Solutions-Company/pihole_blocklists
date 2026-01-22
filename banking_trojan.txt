@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-22 17:51:25 UTC
-# Total domains: 8173
+# Generated: 2026-01-22 23:56:55 UTC
+# Total domains: 8174
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3279,6 +3279,7 @@ filoonlinemaulling.com
 finaeu.com
 finaeu.org
 finaimigo.com
+finance.com
 financea.site
 financeatom.com
 financebasics.digital
