@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-22 05:24:30 UTC
-# Total domains: 8170
+# Generated: 2026-01-22 11:29:47 UTC
+# Total domains: 8173
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1925,6 +1925,7 @@ chromaguide.icu
 chrome-chn.com
 chrome-googles.com
 chrome-svip.com
+chrome.download-google-chrome.top
 chrrme.top
 chrrome.com
 chrysantathompsett.net
@@ -3712,6 +3713,7 @@ goodlogi.shop
 goodmanid.com
 goodsaltlife.com
 goodsmilecareer.com
+googdownload.googcdngoogleownload.top
 googelchrome.com
 googlachrome.com
 googlcchrome.com
@@ -5725,6 +5727,7 @@ oktrk.com
 ol.com
 olajaj.online
 olarlaw.com
+olekndx.hoyenoy.com
 oliva.co.id
 olivercompanies.net
 omegaproyectos.com
