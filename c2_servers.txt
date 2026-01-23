@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-23 12:09:40 UTC
-# Total domains: 56594
+# Generated: 2026-01-23 18:14:19 UTC
+# Total domains: 56606
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6119,6 +6119,7 @@ app.rev-prot.org
 app.setupcloudos.com
 app.simplifyaihq.com
 app.surrogatesolutions.net
+app.tatatech.co
 app.tizambia.org.zm
 app.visionaryte.org
 app.xinzyun.cn
@@ -8805,6 +8806,7 @@ blog.geometriadescriptiva.com
 blog.gothicangelclothing.co.uk
 blog.gruzotaxi.dn.ua
 blog.incentiv.net
+blog.kevoxtech.com
 blog.l0c4lh0st.pw
 blog.milesfranklin.com
 blog.monbesoin.net
@@ -10513,6 +10515,8 @@ cb3yh.ic3gate.ru
 cb94336.tmweb.ru
 cb94716.tmweb.ru
 cbankng.info
+cbb.borendrokontho.com
+cbb.lidiia.com.ua
 cbc.cards
 cbdcannalife.com
 cbdoilpro.net.nhm.rtt.mybluehost.me
@@ -16206,6 +16210,7 @@ elies.eu.com
 elih-med.enea.it
 elijah.ru.com
 elimar.org
+elimnasir.com
 elirnsan.com
 elisaschefferadvogada.agencialegalads.com
 elisauy.ru.com
@@ -22960,6 +22965,7 @@ helpwud.top
 helpxir.top
 helpyourneighbors.org
 helqat.e9uilyb5opr.ru
+helsibreak.com
 helwan.con-ip.com
 hemnob.quartzjolt.ru
 hen.kvus7.ru
@@ -23274,6 +23280,7 @@ hl.naberui.ru
 hl.oqtx.ru
 hl.qrow6.ru
 hl.w1ndcrest.ru
+hl2k-32291.portmap.host
 hl5n.cl0ckmint.ru
 hlbsiccuspetroleum.net
 hlc.sewumoa.ru
@@ -25735,6 +25742,7 @@ jargonx.asia
 jarnuq.dev0urspon8y.ru
 jarqen.b2rtdenia1.ru
 jarxim.quartz-jolt.ru
+jaskolkki.com
 jasm72mf.vagusbra.ru
 jasmine.by
 jasmyneacannick.com
@@ -29429,6 +29437,7 @@ lmklwnfv.afriteblurbcepes.ru
 lmmhyg3sv27-001-site1.itempurl.com
 lmn.bl1nkswitch.ru
 lmn293498-43963.portmap.host
+lmn990112-54741.portmap.host
 lmpersonaltraining.com
 lmpulsefashion.net
 lmsaedno.acktechnologies.com
@@ -29934,6 +29943,7 @@ lutfi.net
 lutraqdb.qpon
 luv-6.ru
 luvic1de.duckdns.org
+luvxc1de.duckdns.org
 lux0w0w0w.dynuddns.com
 luxecomfortoasis.shop
 luxgames.shop
@@ -29996,6 +30006,8 @@ lynx.f1restone.ru
 lynxdelta.ru
 lyotbch4.ar7aydia1ect.ru
 lyqej.press
+lyra-connect.us
+lyraconnect.xyz
 lyrbem.ha1fsovnarc0m.ru
 lyre5.re5orsymp2th.ru
 lyricmes.com
