@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-24 00:21:00 UTC
-# Total domains: 8174
+# Generated: 2026-01-24 06:26:32 UTC
+# Total domains: 8220
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2414,6 +2414,7 @@ dbltest6.top
 dbltest8.top
 dblxz.lol
 dbmasters.online
+dbprcareers.com
 dbprogram.net
 dbuklondon.com
 dccards.store
@@ -3029,6 +3030,9 @@ entcu.icu
 entrinidad.cfd
 entrueque.com
 entsolutions.icu
+envivio.biz
+envivio.com
+envivio.fr
 envivogratis.com
 enzopenna.com
 ephesus.me
@@ -3045,7 +3049,17 @@ erb.education
 ercationiv.club
 erfahrung.online
 erg-eg.com
+ericpol.com
+ericpol.pl
 ericsmith.star
+ericsson.biz
+ericsson.com.ar
+ericsson.com.au
+ericsson.com.pt
+ericsson.gr
+ericsson.lt
+ericsson.lu
+ericsson.org
 erihudeg.com
 erizo.site
 erjj.top
@@ -3091,6 +3105,7 @@ eventusvermoegensverwaltung.de
 eventvolunteers.org
 everify.com
 everlynx.icu
+everydayamatchday.com
 everydayisamatchday.com
 everydayismatchday.com
 evets.jp
@@ -3248,6 +3263,7 @@ ffm7.top
 fgta.lol
 fharg1.com
 fharg6.com
+fhfs.com
 fhmwinit.com
 fhs-warriors.com
 ficohsa.pa
@@ -3571,6 +3587,7 @@ genshin.locker
 genuinashop.com
 genwindle.com
 geoff-minger.com
+geometry.ru
 geopolcrim.org
 georgmat.com
 geraatualiza.com
@@ -3919,6 +3936,12 @@ hdfc-netbanking.secure
 hdgjgw.com
 hdzfmelf.com
 headlinepost.net
+healthnetfederal.com
+healthnetfederal.net
+healthnetfederalservices.com
+healthnetfederalservices.net
+healthnettricare.com
+healthnettricare.net
 healthrfrt.shop
 healthwise.org
 healthy-habits.online
@@ -4018,6 +4041,8 @@ hmfcrb.com
 hmty163.vip
 hmty236.vip
 hnepay.top
+hnfs.com
+hnfs.net
 hnjunshan.com
 hnprofile.com
 hnthold.com
@@ -4505,6 +4530,7 @@ jawarnutrition.cl
 jaynb.com
 jcc-holland.nl
 jcduffy.com
+jcgeometry.org
 jconnodev.com
 jcpenneyrewards.com
 jdbelle.com
@@ -4803,6 +4829,8 @@ kupumalam.site
 kuripka.com
 kusabi.tech
 kuyperian.com
+kvantik.com
+kvantik.org
 kwartel.io
 kwcgbnz.com
 kwgs.online
@@ -5142,6 +5170,7 @@ mapei.be
 mapei.pl
 maramaravilha.com
 marcomkt.com
+marconi.is
 marcoorlandi2025.it
 mareideias.com
 marfiloceanico.com
@@ -5203,6 +5232,7 @@ mccarthywwa.co.za
 mccsportsnet.com
 mcdreamconcept.ng
 mckinleymortgage.com
+mcnmo.ru
 mcseam.ru
 mdmedicalgroups.us
 meaningfulgames.net
@@ -5353,6 +5383,7 @@ molnlycke.no
 momsplace.shop
 mondiale-relaissupport.com
 moneyfarmltd.com
+moneymail.ru
 moneymate.space
 moneynews.space
 monikaszczesna.com
@@ -5371,6 +5402,7 @@ morvath.com
 mos-prom-service.ru
 mosaicconfirm.com
 moscable77.ru
+mosolymp.ru
 motchillie.io
 motchilltv.how
 motchilltv.you
@@ -5927,8 +5959,17 @@ paultherealtor.com
 paulwadeandassociates.com
 paxosfuture.com
 paying-zw.vip
+paypal-australia.com.au
+paypal-business.co.uk
+paypal-businesscenter.com
+paypal-exchanges.com
+paypal-marketing.co.uk
+paypal-nederland.nl
+paypal-promo.es
 paypal-secure.com
+paypal-sverige.se
 paypal-verify.com
+paypalgivingfund.org
 paysignrewardcard.com
 paytech.cc
 pc-app-desktops.com
@@ -6015,6 +6056,7 @@ phuketdreamect.com
 phxdigitalcapture.com
 phxgolfhomes.com
 physicsbyashutoshkumar.com
+phytosanitary.info
 pi-corp.com
 picktime.live
 picnicliverpool.online
@@ -6375,6 +6417,7 @@ recaptcha-manual.shop
 recaptcha-verify-4h.pro
 recurly-zoom.com
 red1.store
+redbeemedia.biz
 reddit-seeklogo.com
 redepo.site
 rederate.info
@@ -7019,6 +7062,7 @@ stchkr.rest
 steamteamdev.net
 stefvandenheuvel.com
 steprtex.click
+stericsson.com
 sterlingandroyce.com
 stickmangames.click
 stickmanhook.homes
@@ -7756,6 +7800,7 @@ visionair.store
 visitstcloud.com
 visitswellendam.co.za
 visualbasicscript.com
+vitar.moscow
 vivaanmat.com
 vjexperience.com
 vjya.top
@@ -7881,6 +7926,7 @@ whisperingpineslandscaping.ca
 whitesky.us
 whiteskycommunications.com
 whitetrashchronicles.com
+whois.com.ua
 whokilledsallyheet.com
 wholesalerandy.com
 widechanges.best
