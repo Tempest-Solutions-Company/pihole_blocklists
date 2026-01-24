@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-24 06:26:32 UTC
-# Total domains: 8220
+# Generated: 2026-01-24 12:32:13 UTC
+# Total domains: 8250
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -61,6 +61,8 @@
 1000jobs.com
 1001.pics
 1002recept.net
+100california.com
+100californiast.com
 100graduationrateprogram.org
 100millagenda.us
 100mo.net
@@ -101,6 +103,7 @@
 11k.online
 11vationconsult.com
 11windows.pro
+1201nya.com
 120maisonrue.com
 121.report
 121smart.shop
@@ -215,6 +218,7 @@
 2024lexisnexis.com
 20250609microsoft.com
 20250812microsoft.com
+20260124microsoft.com
 206.insure
 208.rentals
 208houses.rentals
@@ -271,6 +275,7 @@
 2xlb.top
 3.msd
 30.email
+309659137251972531231196muid075bfdb1e51861b038d5eb5ae4826038msn.com
 312765048744696431198033muid1d94925bc8086f290531841dc9446e44msn.com
 33776.locker
 360blog.org
@@ -375,6 +380,7 @@
 7b66s.top
 7crm.shop
 7dcrccolorado.com
+7dmsn.com
 7e3w.top
 7lyphhauz.com
 7pyi.top
@@ -422,6 +428,7 @@
 911jackoff.com
 91tbc.com
 91xf.me
+9217250134284831232612137251972531231196usrlocmsn.com
 93934u.com
 95598-app.com
 961222206.xyz
@@ -742,6 +749,7 @@ althouqroastery.com
 altitum.space
 altius-link.com
 altqiye.com
+altriatotalrewards.com
 alveriq.run
 alwahabgarden.pk
 alwaysckain.com
@@ -1950,6 +1958,7 @@ cipipiart.com
 cipka.com
 ciplds.shop
 ciproe.online
+cisco401kplan.com
 ciscocorp.com
 citigroupglobalmarkets.jp
 citiizensbank.com
@@ -2195,6 +2204,7 @@ contentready.com
 contentreadysolutions.com
 contina.com
 contortonset.com
+contributionmaximizer.com
 contx.site
 convergenceai.net
 coogie.top
@@ -2476,6 +2486,7 @@ delreves.me
 delsurgasolineras.com
 deltarune.fun
 demeanor.shop
+demicrosoft.com
 demote.cyou
 dengoudeneend.nl
 deniz-akademi.org
@@ -3399,6 +3410,8 @@ flystonevape.com
 fm818.cf
 fmejrkgn.biz
 fmioffice.com
+fmrbenefits.com
+fmrgstpbs.com
 fmwold.net
 fnbo-access.icu
 fnerhxznytqbzktakgy.shop
@@ -3508,6 +3521,7 @@ fullyfucked.com
 fultoncountyfairmap.online
 fundedinc.com
 fundmanagertalk.com
+fundsnetwork.com
 fungusfreeprotocol.faith
 funplace.site
 furfreect.com
@@ -4006,6 +4020,7 @@ highplainsculinary.com
 highprofitmake.online
 higo063.com
 hihirvi.com
+hikawagardensakasaka.com
 hikojapanesesteaksushiramen.com
 hillcrestramsathleticzone.com
 hillfood.net
@@ -5217,6 +5232,7 @@ mavenradar.com
 mavonixora.com
 maxdim.click
 maximcasinoo.net
+maximilianhofe.com
 maxstevens.st
 mayapp.bnpparibas
 maythammygiasi.com
@@ -5452,11 +5468,13 @@ mudancaagora.site
 muid02b81b41c74769b3361a0d47c60b6833msn.com
 muid02c17820fedf66cd2ee96e26ff5c67admicrosoft.com
 muid02f49f9a7b8c62a83e4c8b817ac06319msn.com
+muid075bfdb1e51861b038d5eb5ae4826038msn.com
 muid0770e54e159d6c5f2ed8f6a314196d21microsoft.com
 muid1d94925bc8086f290531841dc9446e44msn.com
 muid234853724b9a6daa38fb45344a196c71microsoft.com
 muid23f14be6327d61b53e9a580b33316055msn.com
 muid270e7d2cdd9967a00f556937dcd566fbmicrosoft.com
+muid3c24f3b392bb68b117f4e55893776987microsoft.com
 multi-user.target
 multimerse.com
 mundane.co
@@ -5503,6 +5521,7 @@ mythi-epris-fixer.space
 mytrailinvest.net
 myundeadneighbour.com
 myvdo.tv
+myvf401kcalculator.com
 myvirtualdocs.com
 myvmware.com
 mzim-e83ja-5wm.com
@@ -5565,6 +5584,7 @@ netvuebe.shop
 networks-signal.com
 neu-ctf.club
 neubiego.co.kr
+neurosky.jp
 nevadacannabisfarmsforsale.com
 nevanadesigns.com
 nevm.de
@@ -5998,6 +6018,8 @@ peeb.build
 peekskillsmokehouse.com
 peermangoz.me
 pelisplus.online
+pembroke.com
+pembrokere.jp
 pemerimtahx.com
 pemerintah.cc
 pengillymn.xyz
@@ -6240,7 +6262,11 @@ ptcoa.com
 ptrackupdate.com
 puahome.com
 puanpowan.com
+pub-1ec812ea405b44f9976acd137f20fe96.r2.dev
+pub-40f0bc7019cc4cc4af33b722c6d5f182.r2.dev
+pub-74506ace261846d4bfc80d45a1f06b40.r2.dev
 pub-8bf10830d4fa42d3a538fa7b302d55b3.r2.dev
+pub-f3a5f16c0d0b45eab9e2e6a05a61d733.r2.dev
 publishingsurvey.com
 pubmetrics.online
 pueblosdecampoymar.cl
@@ -7179,6 +7205,7 @@ system32x.com
 syty014.com
 szp2.top
 szzps.com
+t-mobiletotalrewards.com
 t.call
 t.data
 t.global
@@ -7460,6 +7487,7 @@ tm-blog.social
 tm-blog.software
 tm-blog.website
 tmo-assistant.com
+tmobiletotalrewards.com
 tmsec-blog.live
 tmsec-blog.online
 tmsec-blog.software
@@ -7577,6 +7605,7 @@ tutorspark.us
 tutuor-priz.ru
 tvpartner.co.il
 tvsplurge.io
+twcsmallbalancepensionbenefit.com
 twinnzztarrz.com
 twisted.mom
 twistscents.com
@@ -8063,6 +8092,7 @@ xr94.xyz
 xs14.top
 xseller.com
 xthnqp.com
+xtracsolutions.com
 xtreamui.org
 xtreme.hr
 xuione.com
