@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-24 18:37:48 UTC
-# Total domains: 8250
+# Generated: 2026-01-25 00:43:34 UTC
+# Total domains: 8251
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3321,6 +3321,7 @@ finansfolk.com
 finatracore.today
 findexp.com
 findfling.click
+findhome.cl
 findlocallocksmiths.com
 fine-dental.net
 finestwords.com
