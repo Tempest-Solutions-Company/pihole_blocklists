@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-26 13:18:30 UTC
-# Total domains: 56859
+# Generated: 2026-01-26 19:23:53 UTC
+# Total domains: 56893
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1011,6 +1011,7 @@
 1h.zo4n.ru
 1haldmdpz.localto.net
 1hi.to1j.ru
+1hitclub.eu.com
 1hj.sx-2-u-0.ru
 1hm2.stormm1nd.ru
 1hx8.maplexenon.ru
@@ -1294,6 +1295,7 @@
 2ah4j4gq.stormh1ll.ru
 2alternative.zapto.org
 2aopzocs.ar7aydia1ect.ru
+2av9bxno.sn1pglacier.ru
 2avp8.s0ckthorn.ru
 2b3.di5r.ru
 2b32noaw.impercepm0no8.ru
@@ -2140,6 +2142,7 @@
 58win1.it.com
 58win8.in.net
 58winn.uk.com
+58winvina.com
 59.227.185.35.bc.googleusercontent.com
 59.zzax-4.ru
 5932ec3f-83d8-43b6.duckdns.org
@@ -2695,8 +2698,14 @@
 777012.49o103159.ru
 777012.bl8205.ru
 777012.u069653.ru
+777x.cn.com
 777x.co.com
+777x.de.com
+777x.in.net
+777x.it.com
+777x.uk.net
 777x.us.com
+777x.us.org
 777zxcvb.com
 77950.30u241207.ru
 77950.8d9691.ru
@@ -11752,6 +11761,7 @@ cloudflarev-pfm.pages.dev
 cloudhub.digital
 cloudlare-lndex.com
 cloudpoddle.com
+cloudshape.us.com
 cloudshielders.com
 cloudstoragebox.com
 cloudstore.cam
@@ -12205,6 +12215,7 @@ cook.tatyziu58.ru
 cookdupagetransportation.com
 cookingbuddy.net.in
 cookiz.org
+cool-hose.sa.com
 cool.zanax6aa1.ru
 coolboy123123431-41087.portmap.host
 cooldark.ml
@@ -14519,6 +14530,8 @@ dndn01.ddns.net
 dnek-6.ru
 dnjob.co.uk
 dnm.nmys-4.ru
+dno.cdcmn.edu.bd
+dno.lidiia.com.ua
 dnraviations.com
 dns.aromatic-salad.sa.com
 dns.digitalneeraj.in.net
@@ -17045,6 +17058,7 @@ etsynapseint.com
 etterfunction.health
 etvidanueva.com
 etworkmodel.net
+eu-central-7075.packetriot.net
 eu-investment.pw
 eu.lalz.ru
 eu.p93z.ru
@@ -22266,6 +22280,7 @@ h-73-n.ru
 h-crime.gl.at.ply.gg
 h-i-c.co.jp
 h-i88.vip
+h-j.jp.net
 h-to-h.mixh.jp
 h.03mr.ru
 h.2p62.ru
@@ -23027,6 +23042,7 @@ heeraconnect.org.ru
 hehua.cookielive.top
 heicebath.club
 heiliao.wiki
+heismanscholarship.com
 hel1o.0-rohyp-5-yu.ru
 hel9ix.spiintforge.ru
 helennguyenpharma.com
@@ -23749,6 +23765,7 @@ hq7b.4-l8u.ru
 hq82.deepvalley.ru
 hqepovopfoskaf.com
 hqk4.silverrun.ru
+hqnq.sa.com
 hqo.pewi2ee5.ru
 hqo.soft5and.ru
 hqo7.con8ratgr2de.ru
@@ -25687,6 +25704,7 @@ j1053162.myjino.ru
 j1063616.myjino.ru
 j1073368.myjino.ru
 j16.windf0x.ru
+j1820wh3.sn1pglacier.ru
 j1bn.crystal0ak.ru
 j1c5p.7d0re6.ru
 j1de9.re7x.online
@@ -29550,6 +29568,8 @@ lmabogado.com
 lmage.2-wafij-3-ue.ru
 lmage1.com
 lmarcin.x90x.net
+lmd.cdcmn.edu.bd
+lmd.lidiia.com.ua
 lmdlm.xyz
 lme.fk-9-o-0.ru
 lmewifrfcrezpawg.ru
@@ -32012,6 +32032,7 @@ mi.wduh8.ru
 mi1d.res4ev7oy1.online
 mi4ny8w7.windb1rd.ru
 mi5st.deane4y5not.ru
+miabiollen.com
 miacata.duckdns.org
 mianbrothers.com.pk
 miaoute.net
@@ -35989,6 +36010,7 @@ onestartpdfs.com
 onestartprint.com
 onestopcashshop.net
 onestopmortgageconsultants.co.uk
+onetime-authentication.cruiserscrib.com
 onetools.pages.dev
 onetto.mobilefoundationrepair.com
 onetwothree.ga
@@ -36720,6 +36742,7 @@ ovesaint.art
 ovideloo.zapto.org
 ovieboss.xyz
 oviesnn.pro
+ovinb.uk.com
 ovisque.com
 ovo368.net
 ovs.amberr-0-ck-et.ru
@@ -44958,6 +44981,7 @@ spcdipslays.com
 spcllt.com
 spearsrnfq.net
 special-practice.gl.at.ply.gg
+special.blainrealtor.net
 specific-dolls.gl.at.ply.gg
 specificrandomness.com
 speckhu.asia
@@ -45878,6 +45902,7 @@ sudhirghate.com
 sue.xb-4-e-7.ru
 suellensoares.agencialegalads.com
 sueweb.testingweblink.com
+sufa.in.net
 sufcompany.ddnsguru.com
 sufficientblessing.com
 sufficientblessings132.duckdns.org
@@ -47435,6 +47460,7 @@ thegroupmedia.com
 theguardian-newspaper.pl
 theguardshield.com
 thehealthypettreatco.com.au
+theheavenofjoy.in.net
 thehenkka.com
 thehowlingtrees.aurovine.com
 theideate.com
@@ -47544,6 +47570,7 @@ thiruvallur.in
 thisisnot24letters.zapto.org
 thislord15.myjino.ru
 thistletal.ru
+thitandaeru.top
 thnf6.top
 thoitrangaodacaocap.com
 thomas-compromise.gl.at.ply.gg
@@ -48330,6 +48357,7 @@ treasurefan.club
 treasuresofeuropetours.com
 treat.kusherp.com
 treavi.top
+trebblay.com
 tredago.com
 tree-assistance.gl.at.ply.gg
 tree.4y3e4.ru
@@ -53754,6 +53782,7 @@ wrbe.0ctave5pairi.ru
 wren.wrenhafen.ru
 wrenobservation.xyz
 wrexhamtf.com
+wri.uk.com
 wrightfeldhusen.info
 wrigwtt.top
 wrike.os.ogilvy.africa
@@ -54615,6 +54644,7 @@ xj8716.top
 xj8qd.g4eyhhar1eq.ru
 xjayj.cloudsh1ft.ru
 xjh.si9a.ru
+xjjvf.ru.com
 xjjvf.za.com
 xjk.luxemyy2.ru
 xjqi.emberhoehle.ru
@@ -54636,6 +54666,7 @@ xla.v3ix.ru
 xla.w1um.ru
 xlabarechinks.anondns.net
 xlapollolxhost.no-ip.biz
+xlge.sa.com
 xlightsfaces.com
 xlightshop.com
 xlnpe-21642.portmap.host
@@ -54990,6 +55021,7 @@ xx.stormf0rm.ru
 xx4444.uphero.com
 xx6.ju8r.ru
 xxblessing2026now.duckdns.org
+xxblessingsbreakthroughs.duckdns.org
 xxblessingsinabundance.duckdns.org
 xxblessingsinabundant.duckdns.org
 xxblessingswealthyblessedman.duckdns.org
@@ -55004,6 +55036,7 @@ xxnx.ddns.net
 xxpeszmtf.localto.net
 xxqr.cobble-yard.ru
 xxv.xyz
+xxx.caoxxip.top
 xxx.hotelsinnewjerseyatlanticcity.com
 xxx.sanctifly.club
 xxx.vrolijkecreaties.nl
@@ -56827,6 +56860,7 @@ zx7d.t0ppleseed.ru
 zx8.a5pirbo0rda.ru
 zx88.ae.org
 zx88.se.net
+zx888.in.net
 zx888.us.org
 zxa96eaf.shadowf1ow.ru
 zxcshop.top
