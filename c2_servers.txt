@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-26 12:13:46 UTC
-# Total domains: 56843
+# Generated: 2026-01-26 13:18:30 UTC
+# Total domains: 56859
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1424,6 +1424,7 @@
 2v2.space
 2v5d82bf.quartzsketch.ru
 2v6tz.skyf0rm.ru
+2vkube.ru.com
 2vlc.l.time4vps.cloud
 2vo6.ar2kchd1ans.ru
 2vv6.adm1rep1ay.ru
@@ -2694,6 +2695,7 @@
 777012.49o103159.ru
 777012.bl8205.ru
 777012.u069653.ru
+777x.co.com
 777x.us.com
 777zxcvb.com
 77950.30u241207.ru
@@ -3917,6 +3919,7 @@ abbasuit.top
 abbeys.asia
 abbeysorchids.com
 abbi.serverpick.trade
+abbie.ru.com
 abc-travels.ru
 abc-yachting.com
 abc-yachting.ru
@@ -3958,6 +3961,7 @@ abletrade.usa.cc
 abltda.cl
 ablu.pro
 abmtwphx4.localto.net
+abnewszamanpaper1.ru.com
 abo7seshaelmkatel-50598.portmap.host
 abo99.net
 aboniaamckdr.com
@@ -18158,6 +18162,8 @@ fdslosart.co.uk
 fdsms.net63.net
 fdsv.ml
 fdvfr.n0uvpu7itan.ru
+fdy.borendrokontho.com
+fdy.lidiia.com.ua
 fe.gyj-0.ru
 fe.jg7ra.ru
 fe.nqju5.ru
@@ -23465,6 +23471,7 @@ hoar2.frostb1te.ru
 hobbymarket69.com
 hobbyrate.com
 hobertbrothers.com
+hobework.com
 hobidevreleri.com
 hobidir.com
 hobmjoi.click
@@ -32178,6 +32185,7 @@ minisolarbot.altervista.org
 ministrycanvapro.com
 minitex.nut.cc
 minjo.info
+minorbegon.com
 minoshis.wekreate.com
 minoutohd.000webhostapp.com
 minoxih.top
@@ -33117,6 +33125,7 @@ mu1ticolop0r.ru
 muatay.live
 muazymaur.tk
 mubashar786.com
+mubasokurso.com
 mubub.press
 mud.wtes4.ru
 muda4dslot.com
@@ -37231,6 +37240,7 @@ pastrzc.courses
 pasyrbe.top
 pat.microsoft-telemetry.at
 pat.wkej2.ru
+patagoniajapan.jp.net
 patayka.000webhostapp.com
 patch.5hri1luv.ru
 patch.fl0wmortar.ru
@@ -37450,6 +37460,8 @@ pedecamisa.com.br
 pedhelp.top
 pedidos.karabe.ddsis.com.mx
 pedikuradoma.cz
+peg.borendrokontho.com
+peg.lidiia.com.ua
 pegasustour.ru
 pegeng-ch.com
 pegot.icu
@@ -37593,6 +37605,8 @@ pex.kievteplo.in.ua
 pex.passadisco.com.br
 pex7in.br-2-qin-5-pect.ru
 pexvur.b0rzvorsink2.ru
+pez.borendrokontho.com
+pez.lidiia.com.ua
 pezinok.cf
 pezqiv.ab5olutsa8ogul.ru
 pezwsv.top
@@ -38475,6 +38489,7 @@ prana-healthproducts.com
 prarol.cuidandote.sbs
 praskoviamoskva.ru
 prassqautor.in
+pratikvivah.in.net
 pratisaad.com
 pravy2.seven5pr2y.ru
 prayers.in.net
@@ -56574,6 +56589,7 @@ zjibingfeng.com
 zjlongiwn.com
 zjomzjom.freehost.pl
 zjr11tft.impercepm0no8.ru
+zjvhvg.za.com
 zk.cgty8.ru
 zk.h9u8w.ru
 zk.p51io.ru
