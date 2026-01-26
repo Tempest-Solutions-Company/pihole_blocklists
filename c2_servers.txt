@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-26 01:06:31 UTC
-# Total domains: 56840
+# Generated: 2026-01-26 07:12:27 UTC
+# Total domains: 56843
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1195,6 +1195,7 @@
 21.mylitapp.com
 21.stormcairn.ru
 21.su4n.ru
+21.tcp.vip.cpolar.cn
 21072206.su
 210main.com
 211.ip.gl.ply.gg
@@ -27914,6 +27915,7 @@ kokoro-koko.jp
 kokoslotlogin.com
 koksfegkosoefh.su
 kokucho.tokyo
+koky.hopto.org
 kokymrgy.hopto.org
 kolbexenterprise.com
 kolesnica.biz
@@ -51445,6 +51447,7 @@ verify.shopmzx.in.net
 verifycrash.mcdir.ru
 verifygmailcom.com
 verizonxbosemusicsweeps.com
+verlyx12345-41388.portmap.host
 vermclta.deepmi5t.ru
 verodsp.ml
 verrasconsulting.com
