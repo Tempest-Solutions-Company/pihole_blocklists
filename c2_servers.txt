@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-27 13:47:27 UTC
-# Total domains: 56924
+# Generated: 2026-01-27 20:02:52 UTC
+# Total domains: 56933
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1213,6 +1213,7 @@
 21n.glacialufer.ru
 21zqurgr.bur9a5erious.ru
 22.c70ye.ru
+22.tcp.cpolar.top
 22.tcp.vip.cpolar.cn
 220520122153.no-ip.org
 2208.165-227-83-163.site
@@ -24371,6 +24372,7 @@ ideas-anniversary.gl.at.ply.gg
 idegeo.centrogeo.org.mx
 iden1930.000webhostapp.com
 identitetsmanual.se
+identity.mulberri.in
 ideofvb.bet
 ideokit.net
 idexoinline.com
@@ -27540,6 +27542,8 @@ kicix49607ekuali.zapto.org
 kickshawproductions.com
 kicksrisejerseysshop.com.co
 kicoo.de
+kid.cdcmn.edu.bd
+kid.lidiia.com.ua
 kidlipsy.cloud
 kidplay.gleeze.com
 kids-peer.gl.at.ply.gg
@@ -28089,6 +28093,7 @@ kraonkelaere.com
 kras-ref.ru
 krasil.sunshift.ru
 krasnoyarsk.logomebel.ru
+krast-30188.portmap.host
 kratheinz.com
 kratosleloks.space
 kraul.aurovine.com
@@ -33426,6 +33431,7 @@ mykutea4.ru
 mykwsemqimimgsuq.xyz
 mylabmed.com.salineehealthcare.com
 mylan.press
+myleingg.ddns.net
 mylokipanel.cf
 mylokipanel.ml
 mylondon.hc0.me
@@ -34677,6 +34683,7 @@ nootpositivo.xyz
 nopirate1990.dynuddns.net
 nor73df.bas9.ru
 nora-bs.com
+norbert-dev1.cydardev.cloud
 nord.amberkliff.ru
 nordiq4.auroragrat.ru
 noreply1.resgatarcupomipirang.org
@@ -44339,6 +44346,7 @@ slantboardguy.testingweblink.com
 slash.gdyl-2.ru
 slate.bluest0ne.ru
 slav.uni-sofia.bg
+slayieure-62635.portmap.host
 slaykings.io
 sleepkids.app
 sleeve.diamantflex.com
@@ -55848,6 +55856,7 @@ younqone.com
 youporn-deutsch.info
 youporn.pt
 youreyecarecenter.com
+yourfearcig.no-ip.biz
 yourgrowthpartner.website
 youris.ru
 yourog.com

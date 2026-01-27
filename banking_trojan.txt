@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-01-27 13:47:27 UTC
-# Total domains: 8251
+# Generated: 2026-01-27 20:02:52 UTC
+# Total domains: 8253
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3430,6 +3430,7 @@ followerformula.com
 followus.services
 fondexglobaltd.com
 fontbit.io
+foo-bar.fish
 foo-foo.bar
 footballmaskshop.com
 footballstudio.online
@@ -5175,6 +5176,7 @@ manaraest.com
 manflle.com
 mangaloreoneschool.com
 manhuascan.online
+manifest.in
 manilanursing.com
 manishwa.com
 manoelimoveiscaioba.com
