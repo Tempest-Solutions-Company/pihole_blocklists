@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-01-28 12:12:54 UTC
-# Total domains: 56968
+# Generated: 2026-01-28 17:17:40 UTC
+# Total domains: 56998
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4188,6 +4188,7 @@ acruzmuzdexuz.net
 acsbaroda.com
 acsmaterialstesting.com
 acstyles.com
+act-tingly.gl.at.ply.gg
 act.cpak0.ru
 act.la9q.ru
 actcuavh.top
@@ -6555,6 +6556,7 @@ asiacounterpart.com
 asialinklogistics.com
 asianartmall.com
 asiandredgecon.com
+asianswitch.gb.net
 asiarisk-gyosei.com
 asieiookgucuiike.xyz
 asigemmcuaewmkai.xyz
@@ -7744,6 +7746,7 @@ bandroxoma.com
 bands33.casacam.net
 bandwidthmeter.online
 bandyban.com
+banengids.com
 bangbenw.com
 bangkokdry.com
 banglikecrazy.com
@@ -8778,6 +8781,7 @@ blagoveshchensk.logomebel.ru
 blaize.in
 blaksdioklery.com
 blancosettlement.com
+blank-carrot.com
 blassu.top
 blast4blaster.com
 blastforcleaningservices.com
@@ -10915,6 +10919,7 @@ changdeacorp.com
 change-america.gl.at.ply.gg
 change-resolution.gl.at.ply.gg
 changegout.com
+changingcanoes.us.com
 changjiu2.com
 chanjrandalo.com
 chankexpe1.ru
@@ -13355,6 +13360,7 @@ d8iw.saffrondent.ru
 d8k3a.j0-e-t.ru
 d8kbeizm.bun8topch2n.ru
 d8w6l.ru
+d8zljb.ru.com
 d9.4a7vci9.ru
 d9.8b-1d.ru
 d90.vj4e5.ru
@@ -13568,6 +13574,12 @@ darmiq.a8riculmarb1e.ru
 darmoedov-steal.site
 darnnlogs.no.ip.org
 darnued.top
+daroughgan.com
+daroughgan8hajous1.duckdns.org
+daroughgan8hajous2.duckdns.org
+daroughgan8hajous3.duckdns.org
+daroughgan8hajous4.duckdns.org
+daroughgan8hajous5.duckdns.org
 darpig.ann0uneterna1.ru
 darrenalawi.info
 darrfbp.top
@@ -21109,6 +21121,7 @@ globaleliteconsulting24.com
 globalex.uz
 globalhrbook.com
 globalipogroup.com.wisefunders.com
+globaljira.com
 globallimitedgroups.online
 globallimitedgroups.space
 globallinkantiques.com
@@ -21384,6 +21397,7 @@ gogo.om-nom-nom.li
 gogod.no-ip.biz
 gogogo-gogogo.hi2.ro
 gogokopolo.com
+gohapel398-62132.portmap.host
 gohithatsandrof.win
 gohorghosrsohgsri.biz
 gohorghosrsohgsri.com
@@ -22040,6 +22054,8 @@ gts.erom-e.com
 gts.zeronoiseclassroom.com
 gtwin9.net
 gtxlpfirefly.000webhostapp.com
+gty.beznervov.com
+gty.cloudvaly.com
 gty6.stonem1nt.ru
 gu.frei1r2tions.ru
 gu.jnfe-1.ru
@@ -23533,6 +23549,7 @@ hohohobase.ru
 hohrn.myjino.ru
 hoi.cozygardenkids.com
 hoi.sofyartist.com
+hoianorchidgarden.com
 hoigiong.net
 hoist.cloudns.asia
 hoiyhead.co.uk
@@ -24741,6 +24758,7 @@ img.livesquare.uk.com
 img.messager.my
 img.s3.masterclasstonewow.com
 img.showermedallions.com
+img2.huorongsec.com
 imgay.ddos.es
 imgs2.messager.my
 imguillorytampa.com
@@ -26588,6 +26606,7 @@ jwad0w.000webhostapp.com
 jwnoynz6l.localto.net
 jwr.m2jo.ru
 jwv8d.top
+jwwp.cn.com
 jx.che7nt2rp.ru
 jx368.com
 jx48.com
@@ -27356,6 +27375,7 @@ keritysuc.xyz
 kerjub.nightcl0ud.ru
 kerkyrain.gr
 kerlogers.tk
+kernel-compass.com
 kerning.s1umtypo1ogy.ru
 kerrylogstics.com
 kerryp.ca
@@ -29139,6 +29159,7 @@ legitvendors.ru
 lehrer.at
 leilanibpro7.myjino.ru
 leisbanmovie.com
+leivistabaltic.eu.com
 lekapopamota.top
 lekkihunterz2.xyz
 lekkimoney.co.in
@@ -30966,6 +30987,7 @@ mail.ojq.cvp.mybluehost.me
 mail.okampogw.com
 mail.oklahomasleepfoundation.com
 mail.oneononefriendship.com
+mail.onetime-authentication.cruiserscrib.com
 mail.opticlimb.com
 mail.optimumfl.org
 mail.ordenshusen.se
@@ -34869,6 +34891,7 @@ nr.le3nsnet7e.ru
 nr.migyvya2.ru
 nr.sj5o5.ru
 nr1.ckyq-9.ru
+nra.uk.com
 nrafth.za.com
 nreum.info
 nrf1living.com
@@ -45284,6 +45307,7 @@ srgsiuhedufiusif.su
 srgsiuhedufiusy.in
 srgsy.za.com
 sri-lanka-traumurlaub.com
+sri.gb.net
 srijonfoundation.org
 srimedhasoft.com
 srisriacademy.org
@@ -45514,6 +45538,7 @@ static.38.171.181.135.clients.your-server.de
 static.72.214.69.159.clients.your-server.de
 static.82.150.216.95.clients.your-server.de
 static.coppsindoor.org
+static.cos-tencent.cloud
 static.death-angel.shop
 static.messager.my
 static.urgaacoffeeroastery.com
@@ -46469,6 +46494,8 @@ sz.n-96-f.ru
 sz0.windc0ve.ru
 sz8.xb4e7.ru
 szccf361.com
+szdxmm-yd0126.com
+szdxmm-ydbaoji0126.com
 szevargrows.com
 szh.saqehyo1.ru
 szhuandxiaomuma-yandi.com
@@ -47533,6 +47560,7 @@ thelb.alwaysdata.net
 thelifepledge.com
 thelinedesigns.com
 thelisteningroom.com
+them-choose.gl.at.ply.gg
 themccoyhome.com
 themembranes.aurovine.com
 themessagemission.org
@@ -49200,6 +49228,7 @@ ubaonlineb.uni.me
 ubazuriri.co.uk
 ubdecp.sa.com
 ubdofr.sa.com
+uber.gr.com
 uberdeltagss.com
 ubiloma.com
 ubjqtmom.5t0rmr1dge.ru
@@ -56450,6 +56479,7 @@ zarnaftdiar.ir
 zarokai9.ru
 zarpi7.m0pin8mute.ru
 zartashakona.com
+zaryef.za.com
 zas.aztu.edu.az
 zas.demoserviciopcmendoza.com.ar
 zatoh.press
