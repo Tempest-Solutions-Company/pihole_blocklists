@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-06 15:56:00 UTC
-# Total domains: 8941
+# Generated: 2026-05-06 22:03:13 UTC
+# Total domains: 8943
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2826,6 +2826,7 @@ dnaacademy.com.tr
 dncnglv.com
 dneero.com
 dnindia.com
+dns-dynamic.net
 dns-verify-me.pro
 dnsindinc.com
 dnsmicrosoftds-data.com
@@ -2918,6 +2919,7 @@ downloadtheproject.xyz
 downloadtube.online
 downloastar.com
 downsave.info
+dpdns.org
 dpds.lol
 dpkgrepo.com
 dpndnc.com
