@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-07 13:20:01 UTC
-# Total domains: 59601
+# Generated: 2026-05-07 16:28:07 UTC
+# Total domains: 59693
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -992,6 +992,7 @@
 1866809.securefastserver.com
 18878.com
 18hhhgh3.justdied.com
+18nnbu.fixionmunici9al.lat
 19.nmys-4.ru
 1911.oss
 1926.165-227-83-163.site
@@ -1018,6 +1019,7 @@
 1c.03e3x.ru
 1c.b2-ra.ru
 1c.bejw.ru
+1ce6-route.fixionmunici9al.lat
 1cher.ru
 1controller.online
 1controller.ru
@@ -1078,6 +1080,7 @@
 1l.j3ve.ru
 1l.s0apthorn.ru
 1lidoo.ml
+1llume-sync.fixionmunici9al.lat
 1lnn4qxu.fr0stmirr0r.ru
 1m.2mq4r.ru
 1m.526r.ru
@@ -1105,6 +1108,8 @@
 1now.wavec0de.ru
 1o.r8li.ru
 1o6y4.ru
+1oc44-span.pastor-publicist.lat
+1oc4l-node.xamir9el.lat
 1ohxr29l.joggedyankedtetrao.ru
 1oi.s7li.ru
 1ojva.g0sslamp.ru
@@ -1747,6 +1752,7 @@
 3o.ussn7.ru
 3o5i.ru
 3o9.b-3-aconz.ru
+3ohr8brt.qen2virex.lat
 3oi.wtok2.ru
 3oil.wolkenmeer.ru
 3pause738gee.com
@@ -2027,6 +2033,7 @@
 4max.xyz
 4me-4you.com
 4mjo.deep0asis.ru
+4mnyykj.pastor-publicist.lat
 4mxlrhcab.localto.net
 4n.darkbreeze.ru
 4n.j8ro.ru
@@ -2058,6 +2065,7 @@
 4r6kbm0t.p2ciftamp0n.ru
 4revergreen.com
 4reverinmymind.com
+4rray-dock.7zorelax.lat
 4rx0l.skyhollow.ru
 4ry8jdls.sparmarkt.qpon
 4s.g4eyhhar1eq.ru
@@ -2132,6 +2140,7 @@
 50millioneur.000a.de
 50oxk787.rainfail.ru
 510.mw2o3.ru
+5107vvgb.tavro4xel.lat
 51b7d1a091.nxcli.net
 51cv.ember-grove.ru
 51ev.lu-7-hichma-7-t.ru
@@ -2553,6 +2562,7 @@
 69t7i1mv.ei8hthyp0.ru
 69xloy.com
 69z.stonec0re.ru
+69zhzd.tavro4xel.lat
 6a.m2la.ru
 6a.not0r5atush.ru
 6a5ib4udgwlkyl3zzeyenedcb7d33j2vq7egpqykr5457uiskeu6zjad.onion
@@ -2775,6 +2785,7 @@
 75.fkur-8.ru
 75.p7li.ru
 75.wave5tone.ru
+75aohwq.qen2virex.lat
 75jng75ufnf.ru
 75nahgyu2.xyz
 75qk.ic3gate.ru
@@ -3710,6 +3721,7 @@ a3j9h.da6v.online
 a3k9.77-6.online
 a3vnt.139z.online
 a3vnt.5-sy77.com
+a3vrjnwj.xamir9el.lat
 a3z.0bj3i.ru
 a3z.7ph88.ru
 a3z.tgmop.ru
@@ -3738,6 +3750,7 @@ a5wnr.co7nrev0ke.ru
 a6.darkfl0w.ru
 a6.nbdsnb2.top
 a614055982.nxcli.io
+a62fkli6.die-reformer.digital
 a64.f1auntre6.ru
 a6gycsh8hr68j.cfc-execute.bj.baidubce.com
 a6il1oyal.ru
@@ -4138,6 +4151,7 @@ abeno-snake.com
 abercrombie.net.co
 abfservice.com
 abgs.co.il
+abh.openlinksys.lat
 abh.rocixaa9.ru
 abiaclassprojectpage.com
 abiamudhanchitfunds.com
@@ -4679,6 +4693,7 @@ aduresi.com
 adv.barceloscorte.com.br
 advance-waterproofing.com
 advancedfundmanagement.xyz
+advancedpatternlab.com
 advancedtransmitart.net
 advancedwelldrilling.com
 advancesagainstaspergillosis.org
@@ -5124,6 +5139,7 @@ agkuqgwqwosueumm.xyz
 aglfreight.com.my
 agmardorecha.pw
 agmceiesyaueoiyo.xyz
+agmdojf.7zorelax.lat
 agmmcecssugequmy.xyz
 agmmkmcqckiysiiq.xyz
 agmu.ru
@@ -6598,6 +6614,7 @@ apiops.verdi7rax.lat
 apiopss.fatovism-r2ccoon.lat
 apiopss.filipen-typograp.lat
 apiopss.lorex7in.surf
+apiopss.openlinksys.lat
 apiopss.sorix7el.lat
 apiopss.ultrashiftnet.surf
 apiopss.zooblob.surf
@@ -6745,6 +6762,7 @@ appsrc.verdi7rax.lat
 appsrch.fatovism-r2ccoon.lat
 appsrch.filipen-typograp.lat
 appsrch.lorex7in.surf
+appsrch.openlinksys.lat
 appsrch.sorix7el.lat
 appsrch.ultrashiftnet.surf
 appsrch.zooblob.surf
@@ -6927,6 +6945,7 @@ arkaiquant.com
 arkanix.pw
 arkbo.kusherp.com
 arkdjltd.com
+arkdraor.mav8loren.lat
 arkfintechgroups.com
 arki.com
 arkinsons-treatment-15707.bond
@@ -7306,6 +7325,7 @@ astrologiahindu.com.br
 astrologyappsuite.com
 astromattel.hopto.org
 astryxrix.com
+asts.datarunkey.lat
 asturiasactiva.es
 astuteplatform.net
 asunflowersmindset.com
@@ -9324,6 +9344,7 @@ bipcharlotte.com
 bipmuh.a8ent5ing.ru
 birajisant.in
 birazsiradan.zapto.org
+birc6-trail.fixionmunici9al.lat
 birch.aurorafels.ru
 birch.awreti-3-uette.ru
 birch.beechmoor.ru
@@ -9488,6 +9509,7 @@ bitkit.scooper5dabria.lat
 bitkit.vexo3nar.surf
 bitkit.vexon4al.surf
 bitkits.captive-portal.lat
+bitkits.linkdevbase.lat
 bitkits.portcry.surf
 bitkits.quantumtechbox.surf
 bitkits.smell-chat.lat
@@ -11387,6 +11409,7 @@ castmart.ga
 castous.cyou
 castra.site
 castro4sucess.biz
+casual-hinge.pastor-publicist.lat
 casuapw.courses
 casuashor.7lorexan.surf
 cat.1a2e6.ru
@@ -12191,6 +12214,7 @@ ci6ef.ru
 ci7.xg5e7.ru
 ci94759.tmweb.ru
 cia.anondns.net
+ciabjdb.mav8loren.lat
 ciarmiellotraslochi.it
 ciceidr.top
 ciceklioglu.com
@@ -14021,6 +14045,7 @@ cwousyauiswaiemy.xyz
 cwoygacokemeuicq.xyz
 cwoyicgaioumyiow.xyz
 cwp.qrow6.ru
+cwpjb6yk.arch-vivarium.lat
 cwpppiblxarfcmqoym.com
 cwqamkwwguoykmku.xyz
 cwqiksmquisuwuay.xyz
@@ -14664,6 +14689,7 @@ dawn.emberfrontier.ru
 dawn.jg-7-ra.online
 dawn.redb1rth.ru
 dawn.tu7q.online
+dawn3-spool.fixionmunici9al.lat
 dawn3.bramble-age.ru
 dawn3.syc0aq8uy1.online
 dawnanker.ru
@@ -15751,6 +15777,7 @@ dolu123.ddns.net
 dolush.net
 dom-reg.xam1riel.surf
 dom-reg.xamir9on.surf
+doma.fastexitnow.lat
 domain1.sa.com
 domain2222.com
 domaingroup.eu.cc
@@ -16407,10 +16434,12 @@ dynamicedge-llc.com
 dynamicsyntax.org
 dynmarkar8.xamir3on.lat
 dynmarkos6.fira6dox.lat
+dynmesh5et.xamir9el.lat
 dypislng.com
 dyslexic-picture.000webhostapp.com
 dysplld.top
 dystrophy.ir
+dyuthiengineering.com
 dyy.raven-flux.ru
 dz.dumx.ru
 dz.quartzweald.ru
@@ -19710,6 +19739,7 @@ filmfilmfilm.studio
 filmmagapp.ir
 filmsdays.top
 filojaspergloplas.com
+filte-path.7zorelax.lat
 filteroceans.club
 fimalthalat.com
 fimntlxswx.com
@@ -20155,6 +20185,7 @@ fmarchzeetequwxtw.wang
 fmeapau3se.com
 fmeoau3pause.com
 fmg.stix2.ru
+fmnnyp.qen2virex.lat
 fmvgtfsjh.localto.net
 fmxkhwlbsvjic.com
 fn.nmys-4.ru
@@ -21826,6 +21857,7 @@ genesisfertility.adskonic.com
 genesisfertility.in
 genesisloperalora09.con-ip.com
 genesisvalorizandoavida.com.br
+genesun.arch-vivarium.lat
 genesysproperties.co.ke
 genetichax.no-ip.biz
 geneticsvsgenomics.com
@@ -22198,6 +22230,7 @@ gitlab.verdi7rax.lat
 gitlabh.fatovism-r2ccoon.lat
 gitlabh.filipen-typograp.lat
 gitlabh.lorex7in.surf
+gitlabh.openlinksys.lat
 gitlabh.sorix7el.lat
 gitlabh.ultrashiftnet.surf
 gits.testingweblink.com
@@ -22653,6 +22686,7 @@ go.v7h3.ru
 go.xrly8.ru
 go.xzb6i.ru
 go1d7k.go1dkamy5hev.ru
+go1d8-core.mav8loren.lat
 go1pro.in
 go31.info
 go88.cz
@@ -23348,6 +23382,7 @@ gsywsoemmmgekyka.xyz
 gsyyceowikisouyy.xyz
 gt.yu5k.ru
 gt155.vip
+gt5kq695.die-reformer.digital
 gta-fast.pro
 gta5.servegame.com
 gtacleo.hol.es
@@ -23739,6 +23774,7 @@ h1d.m1dnightr0ad.ru
 h1gd.y-p-19.ru
 h1hundynotesuom.com
 h1k.2bj82sg.ru
+h1ll-switch.pav1mirex.lat
 h1mg9hf3.repu1sivebrazen.digital
 h1n.nibulu.ru
 h1p.horizonspur.ru
@@ -25354,6 +25390,7 @@ hvhlegendpro.000webhostapp.com
 hvkhytpydqm.com
 hvkxevet.2zavlore.surf
 hvpri.ine7tinve7.ru
+hvr071.pav1mirex.lat
 hvu.uk.com
 hvug.deepvalley.ru
 hvzu.flen4vax.lat
@@ -26100,6 +26137,7 @@ ilvisa.com
 im8.tvil0.ru
 ima0909.com
 image-advantage.gl.at.ply.gg
+image-mesh.xamir9el.lat
 image.duzhk2s1ob.ru
 image.flash.cn.com
 image.sh
@@ -26728,6 +26766,7 @@ irkark.xyz
 irluggage.shop
 irm-my.com
 irmaosmota.tk
+irngvd.pav1mirex.lat
 iro.zzax-4.ru
 irodx.embercross.ru
 ironbucht.ru
@@ -27603,6 +27642,7 @@ jivtep.bunkerle0p2rd.ru
 jix-3.ru
 jix4ul.b7ewer1atif.ru
 jixexyn.tk
+jizeeb.xamir9el.lat
 jizzy.kenal-cn.com
 jizzy.ziraat-helpdesk.com
 jj-tradings.ru
@@ -28079,6 +28119,7 @@ jw.q4zi.ru
 jw.vj4e5.ru
 jwad0w.000webhostapp.com
 jwnoynz6l.localto.net
+jwosviuw.7zorelax.lat
 jwr.m2jo.ru
 jwv8d.top
 jwwp.cn.com
@@ -30347,6 +30388,7 @@ lanhop.scooper5dabria.lat
 lanhop.vexo3nar.surf
 lanhop.vexon4al.surf
 lanhops.captive-portal.lat
+lanhops.linkdevbase.lat
 lanhops.portcry.surf
 lanhops.quantumtechbox.surf
 lanhops.smell-chat.lat
@@ -30421,6 +30463,7 @@ laub.7willowkranz.ru
 lauderteacher.com
 lauedaiednaibduf.to
 laughing-lumiere.35-179-93-188.plesk.page
+launch-point.pav1mirex.lat
 launchcorelabshq.digital
 launchgrowthtoday.download
 launchgrowthtoday1.download
@@ -30752,6 +30795,7 @@ letsgetfreemovies.info
 letstrytomoney.000webhostapp.com
 letter-i.gl.at.ply.gg
 letter.r0cketf2rm.ru
+lettercinema.vexon6ar.lat
 lettyr.auth0r1etter.ru
 leuaueufuanbbgbg.to
 levana.co.ke
@@ -31049,6 +31093,7 @@ lisgroup.info
 lisir.ru
 list-term.gl.at.ply.gg
 listed-revised.gl.at.ply.gg
+listenermacro.pav1mirex.lat
 listhub.ml
 listing-bracelets.gl.at.ply.gg
 listing.co.il
@@ -31283,6 +31328,7 @@ logbin.verdi7rax.lat
 logbins.fatovism-r2ccoon.lat
 logbins.filipen-typograp.lat
 logbins.lorex7in.surf
+logbins.openlinksys.lat
 logbins.sorix7el.lat
 logbins.ultrashiftnet.surf
 logbins.zooblob.surf
@@ -34045,6 +34091,7 @@ mix.mintdr1ft.ru
 mix1456465.com.cp-47.webhostbox.net
 mix3on.fu5i0npeak.ru
 mixaton.000webhostapp.com
+mixblo.xamir9el.lat
 mixfighte2.temp.swtest.ru
 mixy.jp
 mizarstvogregor.si
@@ -34340,6 +34387,7 @@ molazporam.com
 molcarjo.com
 molchanemogugovorit.com
 moldostonesupplies.pro
+moledynam.vexon6ar.lat
 molinolatebaida.com
 molmarsl.com
 moltav.e9uatp2nth.ru
@@ -35785,6 +35833,7 @@ nemty.top
 nemushome.com
 nen.bel1etin7eg.ru
 nenengdsa.ug
+neo-anch0r.7zorelax.lat
 neo-rura1.grov9mira.lat
 neobankdoor.net
 neomarc.com.br
@@ -35865,6 +35914,7 @@ netmans.5dorexin.lat
 netmans.chemistry5till.lat
 netmans.clampe7outback.lat
 netmans.cybermetagrid.surf
+netmans.datarunkey.lat
 netmans.mel2vrax.surf
 netmans.rodrules.surf
 netoflaber.com
@@ -35897,6 +35947,7 @@ networksound.co.uk
 netwow.com.br
 neuaueufuanbbgbg.su
 neumaticoschiclayo.com
+neuralcra.arch-vivarium.lat
 neuro.b0okca7niv.ru
 neurolattice.com
 neurold.pics
@@ -37610,6 +37661,7 @@ oiwqkiiuewcemgis.xyz
 oiwuaauuuweecoug.xyz
 oiwumogkikcwsykc.xyz
 oiwwgouqmwiwkqys.xyz
+oixkxhga.qen2virex.lat
 oixp.aucti0nz7ir.ru
 oiycocswgkkwewou.xyz
 oiycuawakywokkem.xyz
@@ -37920,6 +37972,7 @@ onlysunset.club
 onlytt.pw
 onninien.com
 ono-777-app-download.ws
+onpyo.vexon6ar.lat
 onqukok.top
 onsevadm.sbs
 onstorageline.com
@@ -38113,6 +38166,7 @@ openjet.pw
 openjsc.com
 openlkn.bet
 opennic.geek
+openrelayzone.top
 openvectorstudio.com
 openwebupdate.com
 openworldgames.net
@@ -38184,6 +38238,7 @@ optwebs.5dorexin.lat
 optwebs.chemistry5till.lat
 optwebs.clampe7outback.lat
 optwebs.cybermetagrid.surf
+optwebs.datarunkey.lat
 optwebs.mel2vrax.surf
 optwebs.rodrules.surf
 opulatrix.ch
@@ -38588,6 +38643,7 @@ outbirdrep.com
 outclickstds.com
 outcrol.biz
 outdoorsolutionsmrc.com
+outerlaunch.tavro4xel.lat
 outfiqh.qpon
 outk.fern-estates.com
 outl4w.aurovine.com
@@ -39108,6 +39164,7 @@ paramont-delivery.tk
 paramount.org.np
 paranoidf.com
 paratodos.spamhaussupport.org
+parcboo.vexon6ar.lat
 parcel.b0untf1ush.ru
 pardicshini.com
 paredesdecoura.com
@@ -39792,6 +39849,7 @@ pioneermelilla.com
 pioneerz.com
 pip.draftsnip.ru
 pipecre.com
+pipelin-reach.7zorelax.lat
 piperdalia.com
 pippyheydguide.com
 pipscope.xyz
@@ -40781,6 +40839,7 @@ proxys.vexo3nar.surf
 proxys.vexon4al.surf
 proxyshop.kl.com.ua
 proxyss.captive-portal.lat
+proxyss.linkdevbase.lat
 proxyss.portcry.surf
 proxyss.quantumtechbox.surf
 proxyss.smell-chat.lat
@@ -42723,6 +42782,7 @@ rap.xa5r.ru
 raparanatauro.pw
 rapastitoparito.space
 rapbmprhwwm.com
+rapid-forge.vexon6ar.lat
 rapid.brightridge.ru
 rapidloader.org
 rapidsha.com
@@ -43336,6 +43396,7 @@ rg.slaq.ru
 rg7.5b-c.ru
 rganimalsmx.com
 rgcdictp.com
+rgd2.pastor-publicist.lat
 rghwarmlxmqivfmcs.com
 rgmechanics.fun
 rgqg.sk2tear0und.ru
@@ -43371,6 +43432,7 @@ rice.1a2e6.ru
 rice.vbep-3.ru
 ricestar.xyz
 ricflair-net.cf
+rich-endpo.tavro4xel.lat
 rich.jibiw8aa5.ru
 richard.manemaximus.de
 richardkmet.sk
@@ -43569,6 +43631,7 @@ rkxukunrgvpkgmc.com
 rl-soc-siem.mori.cloud
 rl.d5en.ru
 rl.q3lo.ru
+rl035mt.7zorelax.lat
 rl0mpqyk.t0rchbasil.ru
 rl1.q3lo.ru
 rl7bh.ru
@@ -44620,6 +44683,7 @@ sandbox1.site90.net
 sandboxed.info
 sandivartgallery.com
 sandlefordparade.co.uk
+sandman.qen2virex.lat
 sandstrucks.com
 sandyrelief.aurovine.com
 saner.com.au
@@ -45762,6 +45826,7 @@ shelbus99-30583.portmap.host
 sheldonhui.com
 shelf.invisible-leopard.com
 shell.accarda.com
+shellengi.pastor-publicist.lat
 sheller.net
 shepardsinc.com
 shericandler.com
@@ -45890,6 +45955,7 @@ shopping-administrative.gl.at.ply.gg
 shopping-velvet.gl.at.ply.gg
 shopprice.com.au
 shorduy.top
+shore-leaf.pastor-publicist.lat
 shore.m1stwave.ru
 shore.mistyshore.ru
 shore.sunm0tion.ru
@@ -46078,6 +46144,7 @@ silver2.prariehafen.ru
 silver9.fro5tlane.ru
 silver9.w1ld.ru
 silverk.qpon
+silverlinegereedschap.nl
 silverliningbd.com
 silverpath.shadowstresser.info
 silverquillstone.com
@@ -46279,6 +46346,7 @@ skeld7.p0rthopper.ru
 skemiqiyiekkiqge.xyz
 skesoqyumkqcsgqg.xyz
 sketch.zeromint.ru
+sketchbasic.tavro4xel.lat
 sketchie.ru
 skeuccugwieowmiy.xyz
 skewcqugqsmcmoai.xyz
@@ -46857,6 +46925,7 @@ solarfracht.ru
 solarparkcleaning.co.uk
 solarrmax.com
 solarstorez.com
+solarvine.pav1mirex.lat
 solarviolet.ru
 solarwindturbine.site
 solasolarium.se
@@ -47567,6 +47636,7 @@ sshpros.5dorexin.lat
 sshpros.chemistry5till.lat
 sshpros.clampe7outback.lat
 sshpros.cybermetagrid.surf
+sshpros.datarunkey.lat
 sshpros.mel2vrax.surf
 sshpros.rodrules.surf
 sshy.com
@@ -47785,6 +47855,7 @@ stbl.shutupkissme.com
 stc-com.com
 stc.s3.masterclasstonewow.com
 stcubegames.netxi.in
+steadymeasure.qen2virex.lat
 steakhomereciple.com
 steakhomireciple.com
 steal.cs-servero4ek.ru
@@ -48199,6 +48270,7 @@ subcli.scooper5dabria.lat
 subcli.vexo3nar.surf
 subcli.vexon4al.surf
 subclis.captive-portal.lat
+subclis.linkdevbase.lat
 subclis.portcry.surf
 subclis.quantumtechbox.surf
 subclis.smell-chat.lat
@@ -48389,6 +48461,7 @@ supphouse.minhacasa.tv
 supply-pottery.gl.at.ply.gg
 supplyexpert.ca
 supplyglassess.com
+supplyvau.fixionmunici9al.lat
 supporbt.top
 support-office365.date
 support-onion.club
@@ -48752,6 +48825,7 @@ syskey.verdi7rax.lat
 syskeys.fatovism-r2ccoon.lat
 syskeys.filipen-typograp.lat
 syskeys.lorex7in.surf
+syskeys.openlinksys.lat
 syskeys.sorix7el.lat
 syskeys.ultrashiftnet.surf
 syskeys.zooblob.surf
@@ -49165,6 +49239,7 @@ taksamall.ir
 takublog1976.xsrv.jp
 takublog2020.com
 takvim.serdarozbayrak.com
+tal-linea.tavro4xel.lat
 tal.c1oudmap.ru
 tal.capi1aryhold.ru
 tal.cedarhollw.ru
@@ -49217,6 +49292,7 @@ tallfilm.nut.cc
 tallubk.top
 tally.t1ger.ru
 tallymostfavor.duckdns.org
+talmark5ix.pastor-publicist.lat
 talmoelaquila.agencialegalads.com
 talon2.black0wl.ru
 talon4.nebeltal.ru
@@ -49426,6 +49502,7 @@ tcpcons.5dorexin.lat
 tcpcons.chemistry5till.lat
 tcpcons.clampe7outback.lat
 tcpcons.cybermetagrid.surf
+tcpcons.datarunkey.lat
 tcpcons.mel2vrax.surf
 tcpcons.rodrules.surf
 tcwdivisorias.com.br
@@ -50009,6 +50086,7 @@ thorn.sh4d0wmere.ru
 thorn.stormharrow.ru
 thought-write.gl.at.ply.gg
 thousandan.ml
+thre-thic.pav1mirex.lat
 thread-faq.gl.at.ply.gg
 thread-mark.7toralex.lat
 thread-television.gl.at.ply.gg
@@ -50938,6 +51016,7 @@ trrrr.mcdir.ru
 trs.jyhsolucion.ar
 trs.whitehallalliance.co.uk
 truckperu.com
+true.fastexitnow.lat
 true.thesimplesttruth.com
 truegreen-cn.cam
 truenorth-yachts.com
@@ -51993,6 +52072,7 @@ ultimaspots.co.uk
 ultimate.rjuq-3.ru
 ultimatebloomsandgifts.com
 ultimopublicschool.com
+ultra-narr0.mav8loren.lat
 ultra.mcej-9.ru
 ultra4ktool.com
 ultradatahost1.baby
@@ -52050,6 +52130,7 @@ un.m2jo.ru
 un.qehucuu5.ru
 un.tfba6.ru
 un.xvqy-8.ru
+un1o-loop.tavro4xel.lat
 un3.c0ld.ru
 un5gi16o.skym0ti0n.ru
 unakpn.cyou
@@ -52076,6 +52157,7 @@ unfair.alt-ruist.com
 unfet.locker
 unfill.top
 ung.sewumoa.ru
+unhoq4.arch-vivarium.lat
 unicajese.com
 unicamap.com.au
 uniev.ru
@@ -52548,6 +52630,7 @@ usrgrps.5dorexin.lat
 usrgrps.chemistry5till.lat
 usrgrps.clampe7outback.lat
 usrgrps.cybermetagrid.surf
+usrgrps.datarunkey.lat
 usrgrps.mel2vrax.surf
 usrgrps.rodrules.surf
 usrrsmh-agnv.ru
@@ -53882,6 +53965,7 @@ vbq6.v1b3forge.ru
 vbr.uk.com
 vbsdu8w9ockjhk.in
 vbt-one.biz
+vbv.hidayahnetwork.com
 vbvx.com
 vbwar.com
 vc.5-rt.ru
@@ -54443,6 +54527,7 @@ vmlists.5dorexin.lat
 vmlists.chemistry5till.lat
 vmlists.clampe7outback.lat
 vmlists.cybermetagrid.surf
+vmlists.datarunkey.lat
 vmlists.mel2vrax.surf
 vmlists.rodrules.surf
 vmtx5s3r.ga1axy5ubject.ru
@@ -55320,6 +55405,7 @@ webdoc.verdi7rax.lat
 webdocs.fatovism-r2ccoon.lat
 webdocs.filipen-typograp.lat
 webdocs.lorex7in.surf
+webdocs.openlinksys.lat
 webdocs.sorix7el.lat
 webdocs.ultrashiftnet.surf
 webdocs.zooblob.surf
@@ -55651,6 +55737,7 @@ wfgrma5m.beget.tech
 wfvof3o.boxemoj.surf
 wg.f42s.ru
 wg.gevicii.ru
+wg1wa8.xamir9el.lat
 wgcustom.com
 wgd.slideshowimprison.digital
 wgig.tr2ct0rbuild.ru
@@ -55732,6 +55819,7 @@ whx.mistybyte.ru
 why.z3lu.ru
 whygetready.com
 whymanncroft.com
+whynotebanarot.xyz
 whytepolo.ru
 whyuneedcrackfakesitehaha.000webhostapp.com
 wi.sxqy-9.ru
@@ -56345,6 +56433,7 @@ worldwar5.ga
 worm.ws
 wormleboss-48015.portmap.host
 wormspark.xyz
+wornod.qen2virex.lat
 wornunder.xyz
 woscket.store
 wosdal.re5cuestup1d.ru
@@ -57603,6 +57692,7 @@ xrx.erom-e.com
 xrx.zeronoiseclassroom.com
 xs.alexandraparasca.com
 xs.liberatorpremiercompany.com
+xs2f.fixionmunici9al.lat
 xs785590.xsrv.jp
 xsc6qjzi.joggedyankedtetrao.ru
 xscciae7.fewhtml.surf
@@ -57686,6 +57776,7 @@ xword3.duckdns.org
 xworm0106.duckdns.org
 xworm7000.duckdns.org
 xwormlover69-40917.portmap.host
+xwpw.vexon6ar.lat
 xwu3w4no.n1ghtsh0re.ru
 xx.stormf0rm.ru
 xx4444.uphero.com
@@ -57945,6 +58036,7 @@ ya.to-qa.ru
 ya.tr-8n.ru
 ya.txso-1.ru
 ya.uht3o.ru
+ya15z70c.die-reformer.digital
 ya288.com
 ya4m7.ru
 yabmmkny.r2nkteh2.ru
