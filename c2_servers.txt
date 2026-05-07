@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-07 04:12:39 UTC
-# Total domains: 59494
+# Generated: 2026-05-07 10:19:44 UTC
+# Total domains: 59601
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1188,6 +1188,7 @@
 1yc.commi-5-sfa-7-t.ru
 1yd0a.pulse-knob.ru
 1yjp.ru
+1ymphstoy.digital
 1yoye.chimef2ce1e.ru
 1yqf.c1earwave.ru
 1yvpw8vd.b1ondefi1m.ru
@@ -1532,6 +1533,7 @@
 30bil.us
 30cc.vip
 30ecscc83cig.com
+30vw.mav8loren.lat
 31.getp0ver7y.ru
 31.ip.gl.ply.gg
 31173fd.sytes.net
@@ -2125,6 +2127,7 @@
 50625.client.sudorat.ru
 50625.client.sudorat.top
 507.fl-1-ntrelay.ru
+50cia8-route.3toravix.lat
 50mfsn0s.crumplejet.ru
 50millioneur.000a.de
 50oxk787.rainfail.ru
@@ -2374,6 +2377,7 @@
 5t.s61y5.ru
 5t07uep8.sunfiare.ru
 5t0p.ru
+5t4g3-port.3toravix.lat
 5tar.0zvel.online
 5thelementq8.com
 5tl.sx2u0.ru
@@ -6579,6 +6583,8 @@ apidocs.2zorelin.surf
 apidocs.fewhtml.surf
 apidocs.jesuit5itny.lat
 apidocs.nodespit.surf
+apidocs.puerto-ricans.lat
+apidocs.srvappsite.lat
 apidocs.technovortexhub.surf
 apigo.co
 apiops.barchon-virtue.lat
@@ -6589,6 +6595,7 @@ apiops.primevortextechbox.lat
 apiops.sori7xen.surf
 apiops.sorix2el.surf
 apiops.verdi7rax.lat
+apiopss.fatovism-r2ccoon.lat
 apiopss.filipen-typograp.lat
 apiopss.lorex7in.surf
 apiopss.sorix7el.lat
@@ -6672,6 +6679,7 @@ appboxs.actsdks.surf
 appboxs.ascenderviinka.lat
 appboxs.digitalcloudnet.surf
 appboxs.mowin8single.lat
+appboxs.nethubtop.lat
 appboxs.tonmixin.surf
 appdalilcrm.co
 appedfx.top
@@ -6734,6 +6742,7 @@ appsrc.primevortextechbox.lat
 appsrc.sori7xen.surf
 appsrc.sorix2el.surf
 appsrc.verdi7rax.lat
+appsrch.fatovism-r2ccoon.lat
 appsrch.filipen-typograp.lat
 appsrch.lorex7in.surf
 appsrch.sorix7el.lat
@@ -7593,10 +7602,12 @@ autbox.pavl9ore.surf
 autbox.vertexpointlinknet.lat
 autbox.vertexshifthub.lat
 autboxs.academicunmemo7.lat
+autboxs.inhum2ntendency.lat
 autboxs.pav6lorex.surf
 autboxs.pav8lorex.lat
 autboxs.plsqlnew.surf
 autboxs.primeflowspace.surf
+autboxs.softworkapi.lat
 auth-909-check-142-3895.click
 auth-device-553-security-3314.click
 auth-site.site
@@ -9463,6 +9474,7 @@ bitfoxs.mav2lirex.lat
 bitfoxs.mav3lirex.surf
 bitfoxs.securelinkpoint.surf
 bitfoxs.sixunzip.surf
+bitfoxs.webbitsync.lat
 bitget-passive-income.com
 bitgetglobal.club
 bithelp.top
@@ -9478,6 +9490,7 @@ bitkit.vexon4al.surf
 bitkits.captive-portal.lat
 bitkits.portcry.surf
 bitkits.quantumtechbox.surf
+bitkits.smell-chat.lat
 bitkits.sorix9el.surf
 bitkits.vexon4al.lat
 bitly.digitalcloudsys.lat
@@ -11451,6 +11464,7 @@ cc12978.tmweb.ru
 cc2.vsl.sh
 cc33782.tmweb.ru
 cc999.gay
+cccflknorgnsd.cn
 ccd.yu5k.ru
 cce.co.com
 ccelcl-vacances.com
@@ -12406,6 +12420,7 @@ cl5t1d.c1othwou1d.ru
 cl7twd.c-1-othwou-1-d.ru
 cl86669.tmweb.ru
 clab.davideserena.com
+clacndjsvulnarbi.beer
 clad0n.lynchstem.ru
 cladyn.cl2ddstr1ve.ru
 claeverbrooks.com
@@ -12730,6 +12745,7 @@ cmdsets.fewhtml.surf
 cmdsets.jesuit5itny.lat
 cmdsets.nodespit.surf
 cmdsets.puerto-ricans.lat
+cmdsets.srvappsite.lat
 cmdsets.technovortexhub.surf
 cme.z2hospital.com
 cmevents.live
@@ -13000,10 +13016,12 @@ comweb.pavi1xen.lat
 comweb.vertexpointlinknet.lat
 comweb.vertexshifthub.lat
 comwebs.academicunmemo7.lat
+comwebs.inhum2ntendency.lat
 comwebs.pav6lorex.surf
 comwebs.pav8lorex.lat
 comwebs.plsqlnew.surf
 comwebs.primeflowspace.surf
+comwebs.softworkapi.lat
 con-vent.spb.ru
 con1.jiqubey.ru
 conasevi.gob.sv
@@ -13391,6 +13409,7 @@ cpupros.mav2lirex.lat
 cpupros.mav3lirex.surf
 cpupros.securelinkpoint.surf
 cpupros.sixunzip.surf
+cpupros.webbitsync.lat
 cpw.0pu.ru
 cpxp.0pu.ru
 cpy.f1auntre6.ru
@@ -14703,6 +14722,8 @@ dbinsts.2zorelin.surf
 dbinsts.fewhtml.surf
 dbinsts.jesuit5itny.lat
 dbinsts.nodespit.surf
+dbinsts.puerto-ricans.lat
+dbinsts.srvappsite.lat
 dbinsts.technovortexhub.surf
 dbookstore-1.shop
 dbox-kyusyu.com
@@ -15130,6 +15151,7 @@ devbits.actsdks.surf
 devbits.ascenderviinka.lat
 devbits.digitalcloudnet.surf
 devbits.mowin8single.lat
+devbits.nethubtop.lat
 devbits.tonmixin.surf
 devbox.canon-cumulative.lat
 devbox.lumo3ren.lat
@@ -15598,6 +15620,7 @@ dnswebs.mav2lirex.lat
 dnswebs.mav3lirex.surf
 dnswebs.securelinkpoint.surf
 dnswebs.sixunzip.surf
+dnswebs.webbitsync.lat
 dnv.tonmixin.surf
 dnys.hi2.ro
 do.4f7m3.ru
@@ -15649,8 +15672,10 @@ doclab.scooper5dabria.lat
 doclab.vexo3nar.surf
 doclab.vexon4al.surf
 doclabs.captive-portal.lat
+doclabs.linkdevbase.lat
 doclabs.portcry.surf
 doclabs.quantumtechbox.surf
+doclabs.smell-chat.lat
 doclabs.sorix9el.surf
 doclabs.vexon4al.lat
 docman.club
@@ -15754,6 +15779,8 @@ domreg.shocked-darken.lat
 domreg.telo5reth.lat
 domreg.yellow-obdirk.lat
 domregs.cobble-mortgag.lat
+domregs.fastexitnow.lat
+domregs.hatched-labile.lat
 domregs.masterlogicgrid.surf
 domregs.noopcup.surf
 domregs.xamir3on.lat
@@ -17761,8 +17788,10 @@ envset.scooper5dabria.lat
 envset.vexo3nar.surf
 envset.vexon4al.surf
 envsets.captive-portal.lat
+envsets.linkdevbase.lat
 envsets.portcry.surf
 envsets.quantumtechbox.surf
+envsets.smell-chat.lat
 envsets.sorix9el.surf
 envsets.vexon4al.lat
 enwz.5dorexin.lat
@@ -18577,6 +18606,8 @@ extnet.shocked-darken.lat
 extnet.telo5reth.lat
 extnet.yellow-obdirk.lat
 extnets.cobble-mortgag.lat
+extnets.fastexitnow.lat
+extnets.hatched-labile.lat
 extnets.masterlogicgrid.surf
 extnets.noopcup.surf
 extnets.xamir3on.lat
@@ -20701,8 +20732,10 @@ ftpsrv.slothwhee1s.lat
 ftpsrv.tavro5xel.surf
 ftpsrv.thora5ven.lat
 ftpsrv.torex6lin.surf
+ftpsrvs.cloudtaskgo.lat
 ftpsrvs.godjava.surf
 ftpsrvs.infinitynodesys.surf
+ftpsrvs.poi5oneducation.lat
 ftpsrvs.setting5hoo.lat
 ftpsrvs.tavro6xel.lat
 ftpsrvs.tavro8xel.surf
@@ -21921,6 +21954,7 @@ getcfg.qeni8ral.surf
 getcfg.securestreamnode.lat
 getcfg.sora8lin.lat
 getcfg.zori9vax.lat
+getcfgs.boxvpslog.lat
 getcfgs.cargowhy.surf
 getcfgs.dbuswet.surf
 getcfgs.globaldatastack.surf
@@ -22115,6 +22149,7 @@ gim0hpzu.ce1lsfeste7.ru
 gimcas.es
 gimhon.ml
 gimsgims.ru
+gimtjks.cn
 gimtuganchiki.com
 gin.mzas7.ru
 gin.rkuc9.ru
@@ -22160,6 +22195,7 @@ gitlab.sori7xen.surf
 gitlab.sorix2el.surf
 gitlab.thejohnnysgrill.com
 gitlab.verdi7rax.lat
+gitlabh.fatovism-r2ccoon.lat
 gitlabh.filipen-typograp.lat
 gitlabh.lorex7in.surf
 gitlabh.sorix7el.lat
@@ -22780,6 +22816,7 @@ goodmorninbredrn.net
 goodnessger-50564.portmap.host
 goodnewsland.xyz
 goodnewss4real.com
+goodpix21341.digital
 goods-hilton.gl.at.ply.gg
 goodsoftware.casa
 goodsonbt.biz
@@ -25049,6 +25086,7 @@ hotfix.qeni8ral.surf
 hotfix.securestreamnode.lat
 hotfix.sora8lin.lat
 hotfix.zori9vax.lat
+hotfixs.boxvpslog.lat
 hotfixs.cargowhy.surf
 hotfixs.dbuswet.surf
 hotfixs.globaldatastack.surf
@@ -25321,6 +25359,7 @@ hvug.deepvalley.ru
 hvzu.flen4vax.lat
 hw.3u-6.ru
 hw.kdit-5.ru
+hwd.hidayahnetwork.com
 hwgcksenffubhwqmdal.com
 hwi-in.com
 hwj.sxuj-7.ru
@@ -26454,10 +26493,12 @@ ioflow.pavl9ore.surf
 ioflow.vertexpointlinknet.lat
 ioflow.vertexshifthub.lat
 ioflows.academicunmemo7.lat
+ioflows.inhum2ntendency.lat
 ioflows.pav6lorex.surf
 ioflows.pav8lorex.lat
 ioflows.plsqlnew.surf
 ioflows.primeflowspace.surf
+ioflows.softworkapi.lat
 iolinoddlinkopen.christmas
 ion.je9r.ru
 ion.mi4x.ru
@@ -26522,6 +26563,7 @@ ipnode.qeni8ral.surf
 ipnode.securestreamnode.lat
 ipnode.sora8lin.lat
 ipnode.zori9vax.lat
+ipnodes.boxvpslog.lat
 ipnodes.cargowhy.surf
 ipnodes.dbuswet.surf
 ipnodes.globaldatastack.surf
@@ -27666,8 +27708,10 @@ jobadm.slothwhee1s.lat
 jobadm.tavro5xel.surf
 jobadm.thora5ven.lat
 jobadm.torex6lin.surf
+jobadms.cloudtaskgo.lat
 jobadms.godjava.surf
 jobadms.infinitynodesys.surf
+jobadms.poi5oneducation.lat
 jobadms.setting5hoo.lat
 jobadms.tavro6xel.lat
 jobadms.tavro8xel.surf
@@ -30305,6 +30349,7 @@ lanhop.vexon4al.surf
 lanhops.captive-portal.lat
 lanhops.portcry.surf
 lanhops.quantumtechbox.surf
+lanhops.smell-chat.lat
 lanhops.sorix9el.surf
 lanhops.vexon4al.lat
 laninesolution.com
@@ -30808,8 +30853,10 @@ libsys.slothwhee1s.lat
 libsys.tavro5xel.surf
 libsys.thora5ven.lat
 libsys.torex6lin.surf
+libsyss.cloudtaskgo.lat
 libsyss.godjava.surf
 libsyss.infinitynodesys.surf
+libsyss.poi5oneducation.lat
 libsyss.setting5hoo.lat
 libsyss.tavro6xel.lat
 libsyss.tavro8xel.surf
@@ -31233,6 +31280,7 @@ logbin.primevortextechbox.lat
 logbin.sori7xen.surf
 logbin.sorix2el.surf
 logbin.verdi7rax.lat
+logbins.fatovism-r2ccoon.lat
 logbins.filipen-typograp.lat
 logbins.lorex7in.surf
 logbins.sorix7el.lat
@@ -31611,6 +31659,7 @@ lukf5b1i.ngotln.ru
 lukwany.superweb.ws
 lulalau2025.ddns.net
 lum-cresta.qeniral8.surf
+lum-valeon.3toravix.lat
 lum0ra.clears0ul.ru
 lum1st.starl1ght.ru
 lum3na.iceglow.ru
@@ -31808,6 +31857,7 @@ m00n.s7li.online
 m00n.x-2-lu.ru
 m01a.4y328.online
 m08xkitq.vexon4al.lat
+m0del9-spool.mav8loren.lat
 m0k.3c38h.ru
 m0k.8-f-e8.ru
 m0k2.1lt22.ru
@@ -33562,6 +33612,8 @@ metalts.2zorelin.surf
 metalts.fewhtml.surf
 metalts.jesuit5itny.lat
 metalts.nodespit.surf
+metalts.puerto-ricans.lat
+metalts.srvappsite.lat
 metalts.technovortexhub.surf
 metalurgicaruedams.me
 metanailcomplex.us
@@ -34236,6 +34288,8 @@ modbus.shocked-darken.lat
 modbus.telo5reth.lat
 modbus.yellow-obdirk.lat
 modbuss.cobble-mortgag.lat
+modbuss.fastexitnow.lat
+modbuss.hatched-labile.lat
 modbuss.masterlogicgrid.surf
 modbuss.noopcup.surf
 modbuss.xamir3on.lat
@@ -34487,6 +34541,7 @@ morlisanqr02.top
 morning-divorce.gl.at.ply.gg
 morning.5h0p.ru
 morning1.cleardrop.ru
+moro4tix.digital
 morocco.favcc1.com
 moroziosf.myjino.ru
 morozmyau-658.cfd
@@ -35781,6 +35836,7 @@ netapis.actsdks.surf
 netapis.ascenderviinka.lat
 netapis.digitalcloudnet.surf
 netapis.mowin8single.lat
+netapis.nethubtop.lat
 netapis.tonmixin.surf
 netatekstil.com
 netbiosinterface.ydns.eu
@@ -35806,6 +35862,7 @@ netman.ultradatastack.lat
 netman.ultratechstackweb.lat
 netman.xena4vax.lat
 netmans.5dorexin.lat
+netmans.chemistry5till.lat
 netmans.clampe7outback.lat
 netmans.cybermetagrid.surf
 netmans.mel2vrax.surf
@@ -37415,6 +37472,7 @@ ohh-deq.nl
 ohkmpt.tavro6xel.lat
 ohl.yffl9.ru
 ohmwellbeing.testingweblink.com
+ohn.stainedunstitch.work
 ohnsonpacee.com
 ohpmyviumie.com
 ohsp.luwotaa1.ru
@@ -37987,6 +38045,7 @@ oosqsweokumeyogs.xyz
 oossiwckccwacqiq.xyz
 oossyeskymucasoo.xyz
 ooswmewcicmaoisy.xyz
+ootid.srv-auth-dlt-msh.in.net
 oouaamqygqmkqige.xyz
 oougyaycugqogyma.xyz
 oouicaaaqmguwuoa.xyz
@@ -38097,6 +38156,7 @@ opsmgrs.mav2lirex.lat
 opsmgrs.mav3lirex.surf
 opsmgrs.securelinkpoint.surf
 opsmgrs.sixunzip.surf
+opsmgrs.webbitsync.lat
 opt-web.4dorexal.surf
 opt-web.8dorexin.surf
 optbirdrank.com
@@ -38121,6 +38181,7 @@ optweb.ultradatastack.lat
 optweb.ultratechstackweb.lat
 optweb.xena4vax.lat
 optwebs.5dorexin.lat
+optwebs.chemistry5till.lat
 optwebs.clampe7outback.lat
 optwebs.cybermetagrid.surf
 optwebs.mel2vrax.surf
@@ -38285,6 +38346,8 @@ osbases.2zorelin.surf
 osbases.fewhtml.surf
 osbases.jesuit5itny.lat
 osbases.nodespit.surf
+osbases.puerto-ricans.lat
+osbases.srvappsite.lat
 osbases.technovortexhub.surf
 oscaiwz.top
 oscanpro.favcc1.com
@@ -39841,6 +39904,8 @@ pkgrun.shocked-darken.lat
 pkgrun.telo5reth.lat
 pkgrun.yellow-obdirk.lat
 pkgruns.cobble-mortgag.lat
+pkgruns.fastexitnow.lat
+pkgruns.hatched-labile.lat
 pkgruns.masterlogicgrid.surf
 pkgruns.noopcup.surf
 pkgruns.xamir3on.lat
@@ -40718,6 +40783,7 @@ proxyshop.kl.com.ua
 proxyss.captive-portal.lat
 proxyss.portcry.surf
 proxyss.quantumtechbox.surf
+proxyss.smell-chat.lat
 proxyss.sorix9el.surf
 proxyss.vexon4al.lat
 prozipdownload.com
@@ -40986,6 +41052,8 @@ pwrlog.shocked-darken.lat
 pwrlog.telo5reth.lat
 pwrlog.yellow-obdirk.lat
 pwrlogs.cobble-mortgag.lat
+pwrlogs.fastexitnow.lat
+pwrlogs.hatched-labile.lat
 pwrlogs.masterlogicgrid.surf
 pwrlogs.noopcup.surf
 pwrlogs.xamir3on.lat
@@ -42579,6 +42647,7 @@ railanpaiva.agencialegalads.com
 railing.ba1ustje7ky.ru
 raillinesyr.com
 railmirt.isasecret.com
+railmix.3toravix.lat
 rain.1ntrude7truha.ru
 rain.4i1e2.ru
 rain.br-0-ad-temp-1-ate.ru
@@ -42748,8 +42817,10 @@ rawdat.slothwhee1s.lat
 rawdat.tavro5xel.surf
 rawdat.thora5ven.lat
 rawdat.torex6lin.surf
+rawdats.cloudtaskgo.lat
 rawdats.godjava.surf
 rawdats.infinitynodesys.surf
+rawdats.poi5oneducation.lat
 rawdats.setting5hoo.lat
 rawdats.tavro6xel.lat
 rawdats.tavro8xel.surf
@@ -42968,10 +43039,12 @@ referralwx.com
 refid-1.pavl9ore.surf
 refid-x.pav3lorex.surf
 refid-xs.academicunmemo7.lat
+refid-xs.inhum2ntendency.lat
 refid-xs.pav6lorex.surf
 refid-xs.pav8lorex.lat
 refid-xs.plsqlnew.surf
 refid-xs.primeflowspace.surf
+refid-xs.softworkapi.lat
 refid.authorize5ilky.lat
 refid.brix9mira.lat
 refid.datingu1tra.lat
@@ -43748,6 +43821,7 @@ rotfqxu.cyou
 rotkit.tk
 rotoplast.com.br.caldasservice.com.br
 rottbet562.com
+roughvocal.mav8loren.lat
 rouji.7ban.win
 roukwtmdvelyea.com
 roumanie.sandierrot.fr
@@ -44268,6 +44342,7 @@ s4.zv1a0.ru
 s41p4.lightb0x.ru
 s47hacker.ddns.net
 s4f.zzax-4.ru
+s4frlcnoplw.com
 s4k1.5x7u.online
 s4ndup.quick5and.ru
 s4rfunclan.kilu.biz
@@ -44607,6 +44682,7 @@ sarush.xyz
 sarvim.b1uegras5hia.ru
 sas.kidizue6.ru
 sascihomes.com
+sash.thirstyschnapps.cfd
 sashavpisdu.000webhostapp.com
 sashka.freesite.vip
 saske-uchix.myjino.ru
@@ -46397,6 +46473,8 @@ skyvpns.2zorelin.surf
 skyvpns.fewhtml.surf
 skyvpns.jesuit5itny.lat
 skyvpns.nodespit.surf
+skyvpns.puerto-ricans.lat
+skyvpns.srvappsite.lat
 skyvpns.technovortexhub.surf
 skyxin.ch
 skz.jt4o0.ru
@@ -46638,6 +46716,7 @@ snowagainfearfreezesagainagainitfeelslikeiceisinmyhands.space
 snowcjw.courses
 snowman720.com
 snowpower.xyz
+snowvolt.3toravix.lat
 snpltixygwcpifp.com
 snsgroup.com
 snuff.gr0ssgar.top
@@ -47351,6 +47430,8 @@ srcget.shocked-darken.lat
 srcget.telo5reth.lat
 srcget.yellow-obdirk.lat
 srcgets.cobble-mortgag.lat
+srcgets.fastexitnow.lat
+srcgets.hatched-labile.lat
 srcgets.masterlogicgrid.surf
 srcgets.noopcup.surf
 srcgets.xamir3on.lat
@@ -47423,6 +47504,7 @@ srvhubs.actsdks.surf
 srvhubs.ascenderviinka.lat
 srvhubs.digitalcloudnet.surf
 srvhubs.mowin8single.lat
+srvhubs.nethubtop.lat
 srvhubs.tonmixin.surf
 srvlog.5lorexin.surf
 srvlog.6toralex.surf
@@ -47434,6 +47516,7 @@ srvlogs.actsdks.surf
 srvlogs.ascenderviinka.lat
 srvlogs.digitalcloudnet.surf
 srvlogs.mowin8single.lat
+srvlogs.nethubtop.lat
 srvlogs.tonmixin.surf
 srvupd.com
 srzozkwog.localto.net
@@ -47466,6 +47549,7 @@ sshbin.qeni8ral.surf
 sshbin.securestreamnode.lat
 sshbin.sora8lin.lat
 sshbin.zori9vax.lat
+sshbins.boxvpslog.lat
 sshbins.cargowhy.surf
 sshbins.dbuswet.surf
 sshbins.globaldatastack.surf
@@ -47480,6 +47564,7 @@ sshpro.ultradatastack.lat
 sshpro.ultratechstackweb.lat
 sshpro.xena4vax.lat
 sshpros.5dorexin.lat
+sshpros.chemistry5till.lat
 sshpros.clampe7outback.lat
 sshpros.cybermetagrid.surf
 sshpros.mel2vrax.surf
@@ -47502,6 +47587,7 @@ sslkey.qeni8ral.surf
 sslkey.securestreamnode.lat
 sslkey.sora8lin.lat
 sslkey.zori9vax.lat
+sslkeys.boxvpslog.lat
 sslkeys.cargowhy.surf
 sslkeys.dbuswet.surf
 sslkeys.globaldatastack.surf
@@ -48115,6 +48201,7 @@ subcli.vexon4al.surf
 subclis.captive-portal.lat
 subclis.portcry.surf
 subclis.quantumtechbox.surf
+subclis.smell-chat.lat
 subclis.sorix9el.surf
 subclis.vexon4al.lat
 subdomain.minhaempresa.tv
@@ -48630,10 +48717,12 @@ syncit.pavl9ore.surf
 syncit.vertexpointlinknet.lat
 syncit.vertexshifthub.lat
 syncits.academicunmemo7.lat
+syncits.inhum2ntendency.lat
 syncits.pav6lorex.surf
 syncits.pav8lorex.lat
 syncits.plsqlnew.surf
 syncits.primeflowspace.surf
+syncits.softworkapi.lat
 synclade.net
 synclogs.com
 syncrro.com
@@ -48660,6 +48749,7 @@ syskey.primevortextechbox.lat
 syskey.sori7xen.surf
 syskey.sorix2el.surf
 syskey.verdi7rax.lat
+syskeys.fatovism-r2ccoon.lat
 syskeys.filipen-typograp.lat
 syskeys.lorex7in.surf
 syskeys.sorix7el.lat
@@ -49207,10 +49297,12 @@ taskid.pavi1xen.lat
 taskid.vertexpointlinknet.lat
 taskid.vertexshifthub.lat
 taskids.academicunmemo7.lat
+taskids.inhum2ntendency.lat
 taskids.pav6lorex.surf
 taskids.pav8lorex.lat
 taskids.plsqlnew.surf
 taskids.primeflowspace.surf
+taskids.softworkapi.lat
 taskprohomerepair.com
 taskrunnersrvmod.com
 taspinaryapi.com.tr
@@ -49331,6 +49423,7 @@ tcpcon.ultradatastack.lat
 tcpcon.ultratechstackweb.lat
 tcpcon.xena4vax.lat
 tcpcons.5dorexin.lat
+tcpcons.chemistry5till.lat
 tcpcons.clampe7outback.lat
 tcpcons.cybermetagrid.surf
 tcpcons.mel2vrax.surf
@@ -50146,6 +50239,7 @@ tla.gr1tmodule.ru
 tla.sj5o5.ru
 tlantida-sh.cloud
 tlauren.com
+tlbwfid.3toravix.lat
 tlctechnical.net
 tld56.cn
 tldrhaus.top
@@ -50174,6 +50268,7 @@ tmpdir.qeni8ral.surf
 tmpdir.securestreamnode.lat
 tmpdir.sora8lin.lat
 tmpdir.zori9vax.lat
+tmpdirs.boxvpslog.lat
 tmpdirs.cargowhy.surf
 tmpdirs.dbuswet.surf
 tmpdirs.globaldatastack.surf
@@ -50377,6 +50472,7 @@ topsvcs.mav2lirex.lat
 topsvcs.mav3lirex.surf
 topsvcs.securelinkpoint.surf
 topsvcs.sixunzip.surf
+topsvcs.webbitsync.lat
 topszoneview.com
 topteamover9000.fun
 toptopcop.info
@@ -50590,6 +50686,7 @@ track2cvvshop.biz
 track2shop.cc
 track4.stoner0ck.ru
 trackboxing.dynuddns.net
+trackeglacie.3toravix.lat
 tracking.bubars.com
 tracking.dinos.vn
 tractvin.ml
@@ -51813,8 +51910,10 @@ uidmap.slothwhee1s.lat
 uidmap.tavro5xel.surf
 uidmap.thora5ven.lat
 uidmap.torex6lin.surf
+uidmaps.cloudtaskgo.lat
 uidmaps.godjava.surf
 uidmaps.infinitynodesys.surf
+uidmaps.poi5oneducation.lat
 uidmaps.setting5hoo.lat
 uidmaps.tavro6xel.lat
 uidmaps.tavro8xel.surf
@@ -52446,6 +52545,7 @@ usrgrp.ultradatastack.lat
 usrgrp.ultratechstackweb.lat
 usrgrp.xena4vax.lat
 usrgrps.5dorexin.lat
+usrgrps.chemistry5till.lat
 usrgrps.clampe7outback.lat
 usrgrps.cybermetagrid.surf
 usrgrps.mel2vrax.surf
@@ -54340,6 +54440,7 @@ vmlist.ultradatastack.lat
 vmlist.ultratechstackweb.lat
 vmlist.xena4vax.lat
 vmlists.5dorexin.lat
+vmlists.chemistry5till.lat
 vmlists.clampe7outback.lat
 vmlists.cybermetagrid.surf
 vmlists.mel2vrax.surf
@@ -54429,6 +54530,7 @@ vorqen.circu1arc0pna.ru
 vortex-crystal.com
 vortex.hexwander.ru
 vortex7.spiintforge.ru
+vortexlogicgate.digital
 vorvaleon3.sorix7en.surf
 voscomptesenligne.eu
 votemanateefl.com
@@ -54489,6 +54591,7 @@ vpsruns.mav2lirex.lat
 vpsruns.mav3lirex.surf
 vpsruns.securelinkpoint.surf
 vpsruns.sixunzip.surf
+vpsruns.webbitsync.lat
 vpsx64.duckdns.org
 vputin.pk
 vq.0y2i.ru
@@ -55173,6 +55276,7 @@ webcdnx.actsdks.surf
 webcdnx.ascenderviinka.lat
 webcdnx.digitalcloudnet.surf
 webcdnx.mowin8single.lat
+webcdnx.nethubtop.lat
 webcdnx.tonmixin.surf
 webclient-secure.com
 webcloudplt2.oss-cn-shanghai.aliyuncs.com
@@ -55213,6 +55317,7 @@ webdoc.primevortextechbox.lat
 webdoc.sori7xen.surf
 webdoc.sorix2el.surf
 webdoc.verdi7rax.lat
+webdocs.fatovism-r2ccoon.lat
 webdocs.filipen-typograp.lat
 webdocs.lorex7in.surf
 webdocs.sorix7el.lat
@@ -59192,8 +59297,10 @@ zipark.slothwhee1s.lat
 zipark.tavro5xel.surf
 zipark.thora5ven.lat
 zipark.torex6lin.surf
+ziparks.cloudtaskgo.lat
 ziparks.godjava.surf
 ziparks.infinitynodesys.surf
+ziparks.poi5oneducation.lat
 ziparks.setting5hoo.lat
 ziparks.tavro6xel.lat
 ziparks.tavro8xel.surf
