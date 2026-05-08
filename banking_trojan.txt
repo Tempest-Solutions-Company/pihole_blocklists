@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-08 17:21:04 UTC
-# Total domains: 8952
+# Generated: 2026-05-08 23:32:01 UTC
+# Total domains: 8954
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8459,6 +8459,8 @@ viniyojan.in
 vintashmarket.com
 violins.co.za
 viomisafe.shop
+vipparking.co.il
+vipparkingbristol.co.uk
 vipyrsec.com
 viral-news.online
 viralbeauty.id
