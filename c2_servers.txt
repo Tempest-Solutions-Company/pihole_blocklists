@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-09 18:16:15 UTC
-# Total domains: 61239
+# Generated: 2026-05-10 00:31:17 UTC
+# Total domains: 61396
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2165,6 +2165,7 @@
 3998107.lb3091.ru
 399i6fi7voahk2g.ru
 39gnmg493.com
+39nasm720z98q.cfc-execute.bj.baidubce.com
 39nb1.indig5pir1t.ru
 39o1.oakember.ru
 39tka.bond
@@ -3203,6 +3204,7 @@
 6u.xvo4.ru
 6u1.mt3o4.ru
 6uh.fie-1-dcl-0-se.ru
+6uifuv9c.radio-legitdown.digital
 6us.cl0udtrace.ru
 6uyj.ind1sset5.ru
 6v.jagc.ru
@@ -7085,6 +7087,7 @@ api.bitcoinusdtusdc.xyz
 api.chimera-hosting.zip
 api.ciberseguridad-eia.xyz
 api.coderlap.pics
+api.coderlaptechnical.pics
 api.coppsindoor.org
 api.dareck.it.com
 api.dns-cloudflare.net
@@ -7117,15 +7120,18 @@ api.managerfjo.top
 api.mangawizard.lol
 api.melonity.gg
 api.naturesremedies.uk.com
+api.netinfrahubsys.pics
 api.netnodeset.pics
 api.newshimforjune.top
 api.newshimone.top
 api.nostragand.top
+api.openapiservicehub.pics
 api.qjweb.xyz
 api.qq88.za.com
 api.qtss.cc
 api.rootvk.messager.my
 api.securebootupdatesystem.com
+api.serverdatahub.pics
 api.shenzhenschool.fun
 api.shimoneaprel.top
 api.shipensburginvestmentgroup.com
@@ -7269,6 +7275,8 @@ appbox.diafilm5mour.lat
 appbox.netloghubs.pics
 appboxdata.5toralix.pics
 appboxdata.7toravex.pics
+appboxdata.globalnetviewer.pics
+appboxdatacent.netinfrahubsys.pics
 appboxs.6toralix.lat
 appboxs.7toralex.lat
 appboxs.9toravex.surf
@@ -7496,6 +7504,7 @@ arewajan.xyz
 areyouready.co.za
 areyouserious.usa.cc
 arfisioterapia.com.mx
+arg.argsleg.pics
 argea-ai.org
 argeesportswear.cf
 argent.s1lvergate.ru
@@ -8938,6 +8947,7 @@ back-pain-us-en-3164473.live
 back-trust-aurora.cluster-ctrjumtpbmf.mnl-east-2.timcorpnet.com
 back.gdyl-2.ru
 back.k4tem.ru
+back.looprim.pics
 back.softwarecommerce.net
 back1337.info
 backab.ru
@@ -9201,8 +9211,12 @@ basateen.gsinds.com
 bascovial.cl
 base-archiv.hol.es
 base.death-angel.shop
+base.docsbed.pics
 base.fa1cbrea5t.ru
+base.fastlinkprovider.pics
+base.infrastructurerun.pics
 base.vsmu9.ru
+base.webdataprocess.pics
 base7.d7un4recid.ru
 baseadmin.ddns.net
 baseaistock.com
@@ -9931,6 +9945,7 @@ bimonwz.cyou
 bin.cloudviewtop.pics
 bin.coderlap.pics
 bin.datasrvhub.pics
+bin.serverdatahub.pics
 bin.softwincli.pics
 bin1.kns1.al
 bin88.cyou
@@ -10120,6 +10135,8 @@ bitfox.websyncbox.pics
 bitfoxcore.mav2lorix.pics
 bitfoxcore.mav7voren.pics
 bitfoxcore.radio-technic.lat
+bitfoxcore.technodesupply.pics
+bitfoxcoreunit.webdataprocunit.pics
 bitfoxs.barbos-slimy.lat
 bitfoxs.boxemoj.surf
 bitfoxs.breasted-skoda.lat
@@ -10705,6 +10722,7 @@ bowmend.irish
 box-dealer.gl.at.ply.gg
 box.fastbitbox.pics
 box.kiwisandblasting.com
+box.mailban.pics
 box7ly.b0xlight.ru
 boxandpad.com.cn
 boxoffice.forumreelz.com
@@ -11247,6 +11265,7 @@ burst2.st0neflash.ru
 burst7.c0ld.ru
 burudu.aurovine.com
 burydyu0.ru
+bus.intelcar.pics
 bus.p2om.ru
 bus.x2lu.ru
 busgrab.ml
@@ -11721,6 +11740,7 @@ cable2.ba1ustje7ky.ru
 cabunca.mypets.ws
 cabym.press
 cache.datash1ft.ru
+cache.flushgot.pics
 cacodsq.click
 cactoide.com
 cactusomania.ru
@@ -11794,6 +11814,7 @@ calixzgk.top
 call-history-7cda4-default-rtdb.firebaseio.com
 call-history-ecc1e-default-rtdb.firebaseio.com
 call-sin.gl.at.ply.gg
+call.openapiservicehub.pics
 callatelogs.com.ng
 callnerds.com
 callvaxglobal.com
@@ -11943,6 +11964,7 @@ car-aug.gl.at.ply.gg
 car-dealerships-5002.zone
 car-insurance-companies.cfd
 car.gdyl-2.ru
+car.intelcar.pics
 car.kduk8.ru
 car.loanroad.co.uk
 car.nathan-charvin.fr
@@ -12195,6 +12217,7 @@ cdn-googlemanager.com
 cdn-js-connection.cfd
 cdn.aref.co.com
 cdn.barracudasec.com
+cdn.cloudproxyserv.pics
 cdn.dareck.it.com
 cdn.egestx.ru.com
 cdn.extremepornvideos.com
@@ -12212,6 +12235,7 @@ cdn.ojxqy.sa.com
 cdn.relatec.it.com
 cdn.rs-dns.sbs
 cdn.sentihey.dedyn.io
+cdn.textits.pics
 cdn.zhuqiy.top
 cdn146-reportdump.coupons
 cdndz.messager.my
@@ -12784,6 +12808,7 @@ chinesetasteut.com
 chinij.mom
 chinmayapublicschool.co.in
 chinollek-51048.portmap.host
+chip.intelcar.pics
 chipmanconsulting.com
 chirag.kusherp.com
 chirin-chirin.jp
@@ -13317,6 +13342,7 @@ cloud.amazoncdn.shop
 cloud.bvuf-2.ru
 cloud.cl0udmark.ru
 cloud.cloudkreis.ru
+cloud.cloudproxyserv.pics
 cloud.comp0tsab3e.ru
 cloud.dareck.it.com
 cloud.deepvalley.ru
@@ -13451,6 +13477,7 @@ cmdset.rollers-faced.lat
 cmdsetproc.1zarelin.pics
 cmdsetproc.2zorevin.pics
 cmdsetproc.antisep-unlimite.lat
+cmdsetproc.cloudstackproc.pics
 cmdsets.1zorelin.lat
 cmdsets.2zorelin.surf
 cmdsets.2zorevin.lat
@@ -13567,6 +13594,7 @@ cocorita.cl
 coctrecongtrinh.com
 code-api.site
 code-hub.ml
+code.coderlaptechnical.pics
 code.le3nsnet7e.ru
 code.picket-warp.ru
 code.rainst0rm.ru
@@ -13942,10 +13970,12 @@ cordondating.xyz
 core-allowing.gl.at.ply.gg
 core-land.com
 core.bowin-1-nca-5.ru
+core.fielddie.pics
 core.gl-1-tchgarden.ru
 core.gyrodesk.ru
 core.ha1fakos0l.ru
 core.indi5t0st.ru
+core.infrastructurerun.pics
 core.interk2ts2v.ru
 core.l2nd0fenet.ru
 core.mounta1npath.ru
@@ -13955,6 +13985,7 @@ core.rain5tone.ru
 core.s0apthorn.ru
 core.saffronjet.ru
 core.storml1ght.ru
+core.systemlogicops.pics
 core5.tweakmire.ru
 core9.luc7y5nub.ru
 corecommunityservices.tech
@@ -14130,10 +14161,12 @@ cptchdm.icu
 cptchic.icu
 cpu-pro.mav2terol.surf
 cpu-pro.mav7loren.surf
+cpu.intelcar.pics
 cpu.webcfgbase.pics
 cpu.websyncbox.pics
 cpuevolution.site.nfoservers.com
 cpupro.quirky-shedding.lat
+cpuprocessormgr.webdataprocunit.pics
 cpupros.barbos-slimy.lat
 cpupros.boxemoj.surf
 cpupros.breasted-skoda.lat
@@ -14149,6 +14182,7 @@ cpupros.webbitsync.lat
 cpuprosmgr.mav2lorix.pics
 cpuprosmgr.mav7voren.pics
 cpuprosmgr.radio-technic.lat
+cpuprosmgr.technodesupply.pics
 cpw.0pu.ru
 cpxp.0pu.ru
 cpy.f1auntre6.ru
@@ -14868,6 +14902,7 @@ cybpy.cn
 cyc.rxir-9.ru
 cychefs.com
 cycl1e.windc0de.ru
+cycle.looprim.pics
 cyclonemousery.com.au
 cycvmix.shop
 cygnus.ne.jp
@@ -15335,6 +15370,8 @@ data.kallisti.uk.com
 data.me-2-v.ru
 data.michaelorth.eu
 data.net
+data.textits.pics
+data.webdataprocess.pics
 data.www.moroccancam.com
 data1.fa-1-cbrea-5-t.ru
 data2020.datatechnologies.com.mx
@@ -15489,6 +15526,7 @@ dbinsts.technovortexhub.surf
 dbinsts.tribun-triptych.lat
 dbit.netloghubs.pics
 dbit.netnodeset.pics
+dbms.rowlocks.pics
 dbookstore-1.shop
 dbox-kyusyu.com
 dbry.bel1etin7eg.ru
@@ -15908,6 +15946,7 @@ dev.johnnetcli999.win
 dev.ostra-regal.com
 dev.retirevillage.com
 dev.serrurierwagner.ch
+dev.serverdatahub.pics
 dev.theinstituteofreo.com
 dev.tweethost.com
 dev.united-gs.net
@@ -15925,11 +15964,13 @@ devbits.dimchown.lat
 devbits.dreamer5hrew.lat
 devbits.mowin8single.lat
 devbits.nethubtop.lat
+devbits.netinfrahubsys.pics
 devbits.prepol5oldafon.lat
 devbits.tonmixin.surf
 devbitscfg.5toralix.pics
 devbitscfg.7toravex.pics
 devbitscfg.exclusivefrigidity.pics
+devbitscfg.globalnetviewer.pics
 devbox.canon-cumulative.lat
 devbox.lumo3ren.lat
 devbox.mira4then.lat
@@ -16372,6 +16413,7 @@ dns-web.mav2terol.surf
 dns-web.mav7loren.surf
 dns.aromatic-salad.sa.com
 dns.digitalneeraj.in.net
+dns.globalnodeviewset.pics
 dns.njalla.pl
 dns.njalla.si
 dns.qqq911.dns-cloud.net
@@ -16408,6 +16450,8 @@ dnswebs.webbitsync.lat
 dnswebsrvs.mav2lorix.pics
 dnswebsrvs.mav7voren.pics
 dnswebsrvs.radio-technic.lat
+dnswebsrvs.technodesupply.pics
+dnswebsrvs.webdataprocunit.pics
 dnv.tonmixin.surf
 dnys.hi2.ro
 do.4f7m3.ru
@@ -16440,6 +16484,7 @@ dobyalliance.com
 dobzi7.e9uilyb5opr.ru
 doc-001.filedocshaering.ru
 doc.8thwonderclothing.co.uk
+doc.docsbed.pics
 doc.e-statement.estate
 doc.skyprodoc.pics
 doc.stonemist.ru
@@ -17743,6 +17788,7 @@ edenhillireland.com
 edentista.com
 ederh.za.com
 edfor.partnership-international.com
+edge.cloudproxyserv.pics
 edge.lugerd.com
 edge.onthewifi.com
 edgefortomorrowinvite.com
@@ -20100,6 +20146,7 @@ fasmnee.xyz
 fasmol.m0pin8mute.ru
 faspub.asia
 fast-node.com
+fast.fastlinkprovider.pics
 fast.rjuq-3.ru
 fast7p.fastp1ay.ru
 fastandfastairconditioner.in.net
@@ -20883,6 +20930,7 @@ flawelcome.com
 flc.fozomya6.ru
 flckarlstad.com
 flcsrc.org
+fld.fielddie.pics
 fleet.t1nkerpove.ru
 fleetmitras.com
 fleetone.co.com
@@ -20964,6 +21012,7 @@ flow.cloudf0rm.ru
 flow.drift-meadow.ru
 flow.g-1-zmotrail.ru
 flow.knurl-pocket.ru
+flow.looprim.pics
 flow2.st-0-y-70-renka.ru
 flow3.res4ev7oy1.online
 flow8.1-nyearbo-0-k.ru
@@ -20984,6 +21033,7 @@ flug.owlflug.ru
 fluidsurveys.si
 flurr6.sn0wtrail.ru
 flurry4.frostb1te.ru
+flush.flushgot.pics
 fluss.1ittleriver.ru
 fluss.br-0-ad-temp-1-ate.ru
 fluss.granitekamm.ru
@@ -22825,6 +22875,7 @@ get-the-hindu-link.com
 get-urban-life-dictionary-link.com
 get-web-sale-log.com
 get-x-web-link2.com
+get.flushgot.pics
 get.gesybue11.ru
 get.vo3n.ru
 getactiveex.com
@@ -22844,9 +22895,11 @@ getcfg.qeni8ral.surf
 getcfg.securestreamnode.lat
 getcfg.sora8lin.lat
 getcfg.zori9vax.lat
+getcfghub.cloudstacklogic.pics
 getcfghubs.nomination5yak.lat
 getcfghubs.qen3larex.pics
 getcfghubs.qen9vorel.pics
+getcfghubs.webcfgmanager.pics
 getcfgs.boxvpslog.lat
 getcfgs.cargowhy.surf
 getcfgs.dbuswet.surf
@@ -23071,7 +23124,9 @@ girlchildeducation.biz
 girlchildright.biz
 girondh.pics
 girvanacademy.sayr.sch.uk
+git.coderlap.pics
 git.parscoders.com
+git.serverdatahub.pics
 git.softnetlink.pics
 git.softwincli.pics
 git.zionministry.org
@@ -23300,6 +23355,7 @@ glnsac.com
 gloam.r1verdusk.ru
 gloam5.shad0wmint.ru
 gloam7.duskfield.ru
+glob.globalnodeviewset.pics
 global-api.bomain.ru
 global-defe.swimsuit-unable.lat
 global-production.us
@@ -25954,6 +26010,7 @@ host-94-103-82-73.hosted-by-vdsina.ru
 host-94-103-83-38.hosted-by-vdsina.ru
 host-94-103-94-79.hosted-by-vdsina.ru
 host-winds.com
+host.cloudproxyserv.pics
 host.forestcl0ud.ru
 host.globalinfohost.top
 host.pl-8-a.ru
@@ -26002,6 +26059,7 @@ hotelpostasiracusa.it
 hotels-atmospheric.gl.at.ply.gg
 hotelvillagonug.org
 hotelzlatnazita.com
+hotfix.cloudstacklogic.pics
 hotfix.extremesecureline.lat
 hotfix.pas5eruharsky.lat
 hotfix.potion5vealy.lat
@@ -26013,6 +26071,7 @@ hotfix.zori9vax.lat
 hotfixpack.nomination5yak.lat
 hotfixpack.qen3larex.pics
 hotfixpack.qen9vorel.pics
+hotfixpack.webcfgmanager.pics
 hotfixs.boxvpslog.lat
 hotfixs.cargowhy.surf
 hotfixs.dbuswet.surf
@@ -26179,8 +26238,10 @@ huanle.cn.com
 huanyinxagsxy.fun
 huayang.com
 hub.datasrvhub.pics
+hub.globalnodeviewset.pics
 hub.netw1ng.ru
 hub.pi6o.ru
+hub.textits.pics
 hubfinance.lu
 hubqen.c1otheto0th.ru
 hubrel.clearl1nk.ru
@@ -26734,6 +26795,7 @@ idondo.com
 ids-apple.com
 idsb.m1stysun.ru
 idspvlayto.shop
+idx.rowlocks.pics
 ie-sorts.gl.at.ply.gg
 ie.kaq51.ru
 ie.quartz-mug.ru
@@ -27055,6 +27117,7 @@ imaginecomputing.info
 imanprojects.com
 imap.bldg-envelope.com
 imap.dmg-tech.com
+imap.mailban.pics
 imap.thewisconsinnetwork.com
 imbagacor-rtp.tips
 imbalanceposib.com
@@ -27215,6 +27278,7 @@ inflationperson.com
 inflazz.com
 info-2go.com
 info.jeml.ru
+info.textits.pics
 infobirdrank.com
 infobirdrep.com
 infoblox.de
@@ -27238,6 +27302,7 @@ infosousahost.com
 infotopnews.net
 infoupdator.zapto.org
 infozzle.testingweblink.com
+infra.infrastructurerun.pics
 infres.in
 infuego.ru
 ingfengyun.net
@@ -27422,7 +27487,9 @@ inwkpu.top
 io.bitflowapp.pics
 io.clouditapp.pics
 io.comecola.digital
+io.flushgot.pics
 io.gw.hypersend.my
+io.intelcar.pics
 io7617121.gq
 io8.oqtx.ru
 io9.soft5and.ru
@@ -27519,6 +27586,8 @@ ipnode.zori9vax.lat
 ipnodeclis.nomination5yak.lat
 ipnodeclis.qen3larex.pics
 ipnodeclis.qen9vorel.pics
+ipnodeclis.webcfgmanager.pics
+ipnodeclisys.cloudstacklogic.pics
 ipnodes.boxvpslog.lat
 ipnodes.cargowhy.surf
 ipnodes.dbuswet.surf
@@ -27536,6 +27605,7 @@ ipsc0rp.com
 ipsova.com
 ipstresser.com
 ipu.hy6o.ru
+ipv.networkstackmgr.pics
 ipv4-abschalten.jetzt
 ipv6.eu.com
 ipwhois-shield.net
@@ -28906,6 +28976,8 @@ jshh9s9vs7sdfv.com
 jskeywon.duckdns.org
 jsm.mosatiy4.ru
 jsmufe.bed0kur5noop.ru
+json.openapiservicehub.pics
+json.webdataprocess.pics
 jsr.boldf0nt.ru
 jsrdpgvmu.com
 jsruigbvsikurhgvb.com
@@ -29874,6 +29946,7 @@ kevinus.com
 kevvai.ee
 key-store.rf.gd
 key.la9q.ru
+key.rowlocks.pics
 key.z3lu.ru
 key7hp.keyhope.ru
 keyapp.biz
@@ -31474,6 +31547,7 @@ laxven.datashade.ru
 layclub-win.xyz
 laye-zone.nova7frame.life
 layer.gethe4e.ru
+layer.networkstackmgr.pics
 layer.storml1ght.ru
 layer1.es-ca-1-t-3-ust.ru
 layer3.f2na7under.ru
@@ -32026,7 +32100,9 @@ lingkaran.com.my
 lingzvl.top
 linhxasro.com
 link-infect.esy.es
+link.cloudproxyserv.pics
 link.darkc0de.ru
+link.fastlinkprovider.pics
 link.ikantoman.com
 link.kunstsignal.com
 link.linkrunops.pics
@@ -32078,6 +32154,7 @@ lischorus.5dorexin.lat
 lisgroup.info
 lisir.ru
 list-term.gl.at.ply.gg
+list.argsleg.pics
 listed-revised.gl.at.ply.gg
 listenermacro.pav1mirex.lat
 listhub.ml
@@ -32281,6 +32358,7 @@ localmw.org
 locandasolagna.xyz
 locationphoto-studio.com
 locations-bow.gl.at.ply.gg
+lock.rowlocks.pics
 locked.tech
 locketflock.info
 lockhome.ml
@@ -32305,6 +32383,7 @@ lofty.ml
 log-surplus.gl.at.ply.gg
 log.dogepay.info
 log.livesquare.uk.com
+log.systemlogicops.pics
 logalex.z.gp
 loganwolverin2026.duckdns.org
 loganwolverin2027.duckdns.org
@@ -32338,6 +32417,7 @@ logdz.messager.my
 logger.comuv.com
 loggerkeys.us
 loggonvelvego.com
+logic.systemlogicops.pics
 logic7.go0dsc1ence.ru
 logical-whose-niagara-durable.trycloudflare.com
 logickpack.beget.tech
@@ -32384,6 +32464,7 @@ logisticoceanroute.com
 logithrive.com
 logix.co.za
 logixbrands.com
+logmanagementsys.netinfrahubsys.pics
 logoru.info
 logs-samp.xyz
 logs.999slot.media
@@ -32404,6 +32485,7 @@ logs.orionshipping.co.uk
 logs.pyeyen.za.com
 logs.remont-center.ru.com
 logs.rieege.mx
+logs.serverdatahub.pics
 logs.skillface.xyz
 logs.tczflw.za.com
 logs.veredictum.in.net
@@ -32411,6 +32493,7 @@ logsprivateyt.bid
 logsstars.com
 logstash.in
 logstorage.in
+logviewsys.globalnetviewer.pics
 logya.messager.my
 lohaadvantage.xyz
 lohagoo4.ru
@@ -32499,6 +32582,7 @@ loom5.rumblekin.ru
 loom7.fr0gpulse.ru
 loop.0ctave5pairi.ru
 loop.bl0bspinner.ru
+loop.looprim.pics
 loop.picketwarp.ru
 loop.pl0tchisel.ru
 loop.re5onwi1ling.ru
@@ -33603,6 +33687,7 @@ mail.m2marinemonitor.com
 mail.madnitv.site
 mail.mahaimran.com
 mail.maikamakes.com
+mail.mailban.pics
 mail.makeyoursite.cyou
 mail.mamahdannirwana.com
 mail.management.skuire.com
@@ -33832,7 +33917,10 @@ mailorderupgrade.xyz
 mailparse.retirevillage.com
 mailsecuritysxyz.ru
 main-traveller.gl.at.ply.gg
+main.argsleg.pics
+main.coderlaptechnical.pics
 main.podcastim.net
+main.systemlogicops.pics
 main.vetraproject.site
 mainmenuflo.ydns.eu
 mainseonline.com
@@ -34032,6 +34120,7 @@ manymandyills.duckdns.org
 manythingsilove.duckdns.org
 map-abcdf.com.ph
 map-casio.gl.at.ply.gg
+map.globalnodeviewset.pics
 map.rentspb.ru
 map1e.2-fyzog-201-e.ru
 mapa.dtopublicidade.com.br
@@ -34517,6 +34606,7 @@ mekusmo.biz
 mekyamgeuyyuyqsy.xyz
 mekyaqsmwgoiuqam.xyz
 mekyqseekkeuyqko.xyz
+mel2vrax.digital
 melambn.pics
 melatidanes.com
 melissaallenochrely.com
@@ -34660,6 +34750,7 @@ meta-biiomed.com
 meta-mim.in
 meta-narr0.sorix7el.lat
 meta-tr4c.5doreval.lat
+meta.fielddie.pics
 metakon-zavodru.427.com1.ru
 metal.linkdataproc.pics
 metalac.ca
@@ -35909,6 +36000,7 @@ mrshellz.tk
 mrsillucia.de
 mrslafleursclass.com
 mrsus.ddns.net
+mrtaesh2.radio-legitdown.digital
 mrtksmcwd.com
 mruksha.com
 ms-immigrants.gl.at.ply.gg
@@ -36124,6 +36216,7 @@ mx-uk.com
 mx.55-0p.ru
 mx.downy.pw
 mx.kbral.com.br
+mx.mailban.pics
 mx.puva6ey2.ru
 mx.rv2o5.ru
 mx1.333202.xyz
@@ -36930,7 +37023,9 @@ net-0-prosa.online
 net-man.4dorexal.surf
 net-man.8dorexin.surf
 net.ckon0.ru
+net.infrastructurerun.pics
 net.mcrypto.tech
+net.networkstackmgr.pics
 net.openlogmgr.pics
 net.tatyziu58.ru
 net.vpssysnet.pics
@@ -36946,6 +37041,7 @@ netapiprot.5toralix.pics
 netapiprot.7toravex.pics
 netapiprot.cereal5pesivet.lat
 netapiprot.exclusivefrigidity.pics
+netapiprot.globalnetviewer.pics
 netapis.6toralix.lat
 netapis.7toralex.lat
 netapis.9toravex.surf
@@ -37153,6 +37249,7 @@ nexorxwa.com
 nexovas.web.id
 nexqit.ext0rttramp1e.ru
 next-ace.jp
+next.looprim.pics
 nextaceblog.com
 nextads.io
 nextage-design.com
@@ -37528,6 +37625,8 @@ nod.qvik5.ru
 node.bray-circuit.ru
 node.datasrvhub.pics
 node.digncbe.top
+node.fielddie.pics
+node.globalnodeviewset.pics
 node.hashmonero.com
 node.ky-4-x.ru
 node.skysh1ft.ru
@@ -39243,6 +39342,7 @@ open-amp.gl.at.ply.gg
 open-lat.2zavlore.surf
 open.imazhi.com
 open.ky-4-x.ru
+open.openapiservicehub.pics
 open.openlogmgr.pics
 open88-01.pro
 open88-1.com
@@ -39300,6 +39400,7 @@ opsannonity2.i234.me
 opseccashnts34598lkuf8.net
 opsecsrv.com
 opsmgr.quirky-shedding.lat
+opsmgr.webdataprocunit.pics
 opsmgr.websyncbox.pics
 opsmgrs.barbos-slimy.lat
 opsmgrs.boxemoj.surf
@@ -39316,6 +39417,7 @@ opsmgrs.webbitsync.lat
 opsmgrsvcs.mav2lorix.pics
 opsmgrsvcs.mav7voren.pics
 opsmgrsvcs.radio-technic.lat
+opsmgrsvcs.technodesupply.pics
 opt-web.4dorexal.surf
 opt-web.8dorexin.surf
 opt.skynodecfg.pics
@@ -39762,6 +39864,7 @@ ousuaewmeusicoaw.xyz
 ousuecesskqckkka.xyz
 ousukqcsyaogmcsm.xyz
 out.da5v.ru
+out.flushgot.pics
 out.npoj2.ru
 out.p.socialsalesnaija.com
 outbirdrank.com
@@ -40387,6 +40490,8 @@ patch7.ragmosaic.ru
 patchwork.hollow-fizz.ru
 pate1k.000webhostapp.com
 path.4i1e2.ru
+path.fastlinkprovider.pics
+path.fielddie.pics
 path.frostlake.ru
 path.grim1atin0s.ru
 path.p7s9.com
@@ -41478,6 +41583,7 @@ pop.caodangyduoctphcm.com.vn
 pop.hifeboi3.ru
 pop.journalultv.edu.vn
 pop.k8li.ru
+pop.mailban.pics
 pop.thewisconsinnetwork.com
 pop.wtan.ru
 popapopa-41352.portmap.host
@@ -41839,6 +41945,10 @@ probirdrep.com
 problem-livecam.gl.at.ply.gg
 problem-locking.gl.at.ply.gg
 problemenweg.nl
+proc.argsleg.pics
+proc.intelcar.pics
+proc.systemlogicops.pics
+proc.webdataprocess.pics
 procarsrl.com.ar
 procesos.cinin.es
 process-depression.gl.at.ply.gg
@@ -41979,6 +42089,7 @@ proxey.publicvm.com
 proximns-bg.com
 proxusuallyflip.com
 proxy.bonch.dev
+proxy.cloudproxyserv.pics
 proxy.messager.my
 proxy.vpsgateway.pics
 proxy1pal.shop
@@ -44524,6 +44635,7 @@ ress-room-sky.xyz
 ressources-it.fr
 rest-mlyn.com.ua
 rest-tub.gl.at.ply.gg
+rest.openapiservicehub.pics
 restauradoraoliveira.com.br.estacionariaetracionaria.com.br
 restaurant-do.gl.at.ply.gg
 restaurant-kids-working-naturally.trycloudflare.com
@@ -44739,6 +44851,7 @@ rill.nightspark.ru
 rill.ve1vetc0ves.ru
 rill1.nightf0x.ru
 rilvyn.c0mp5chminka.ru
+rim.looprim.pics
 rim.luv6.ru
 rimalbazaar.com
 rimamarestart.com
@@ -45123,6 +45236,7 @@ rovdit.mintbrook.ru
 rovena.ro
 rovence-metropole-logements.net
 rovenergygroup.com
+row.rowlocks.pics
 rownandcleatco.shop
 rownip.lupends.com
 rownip.mailredirect.ooo
@@ -45270,6 +45384,9 @@ rumordoz.cyou
 rumpwif.club
 run-c-you.online
 run.bavyzeo47.ru
+run.coderlaptechnical.pics
+run.fastlinkprovider.pics
+run.fielddie.pics
 run.gesybue11.ru
 run.linkrunops.pics
 run.openapiserv.pics
@@ -46643,6 +46760,7 @@ sertificatkey.com
 serum.blo0dci7cul.ru
 serv-in.fr
 serv-node4.top
+serv.openapiservicehub.pics
 servb.zzz.com.ua
 serve1.mooo.com
 servecore.today
@@ -46764,6 +46882,7 @@ sessionverificates.com
 sessomania.com
 sestoreinv.com
 set.crank-muddle.ru
+set.docsbed.pics
 set.me2v.ru
 setandforgetwebsites.net
 setauketpitahouse.com
@@ -46786,6 +46905,7 @@ settings-4av.pages.dev
 settingss.pages.dev
 settlemee.com
 setup.digitalpointsec.org
+setup.infrastructurerun.pics
 setupafund.org
 setuprootme.com
 setuyaku.jp.net
@@ -47432,6 +47552,7 @@ singkansard.com
 single-finally.gl.at.ply.gg
 single-routers.gl.at.ply.gg
 singlevendor.ninetysix.in
+sinhvienstore.com
 sinitjq.cyou
 sinjita.space
 sinjita.store
@@ -47782,6 +47903,7 @@ skyvpn.rollers-faced.lat
 skyvpnnode.1zarelin.pics
 skyvpnnode.2zorevin.pics
 skyvpnnode.antisep-unlimite.lat
+skyvpnnode.cloudstackproc.pics
 skyvpns.1zorelin.lat
 skyvpns.2zorelin.surf
 skyvpns.2zorevin.lat
@@ -47969,6 +48091,7 @@ smtp.inkifyme.co.uk
 smtp.iqbal-ahmad.com
 smtp.journalultv.edu.vn
 smtp.laminetjes.nl
+smtp.mailban.pics
 smtp.mx.plex.name
 smtp.rummagewi.com
 smtp.rummagewisconsin.com
@@ -48821,6 +48944,7 @@ sruhsuirghurhgud.su
 srv.coderlap.pics
 srv.netloghubs.pics
 srv.netnodeset.pics
+srv.serverdatahub.pics
 srv1.su
 srv1000.ru
 srv1061577.hstgr.cloud
@@ -48875,6 +48999,8 @@ srvlogs.tonmixin.surf
 srvlogview.5toralix.pics
 srvlogview.7toravex.pics
 srvlogview.cereal5pesivet.lat
+srvnode.netinfrahubsys.pics
+srvnodehub.globalnetviewer.pics
 srvupd.com
 srzozkwog.localto.net
 ss.cybiz.ggff.net
@@ -48910,6 +49036,7 @@ sshbin.zori9vax.lat
 sshbinpath.nomination5yak.lat
 sshbinpath.qen3larex.pics
 sshbinpath.qen9vorel.pics
+sshbinpath.webcfgmanager.pics
 sshbins.boxvpslog.lat
 sshbins.cargowhy.surf
 sshbins.dbuswet.surf
@@ -48967,6 +49094,7 @@ sslkey.zori9vax.lat
 sslkeybase.nomination5yak.lat
 sslkeybase.qen3larex.pics
 sslkeybase.qen9vorel.pics
+sslkeybase.webcfgmanager.pics
 sslkeys.boxvpslog.lat
 sslkeys.cargowhy.surf
 sslkeys.dbuswet.surf
@@ -49035,6 +49163,7 @@ stabil.co.th
 stabletreasure.com
 stableupdater.ru.com
 stachi.ydns.eu
+stack.networkstackmgr.pics
 stack.suf-1-nau-8-h.ru
 stack.variables.below
 stack8.f-2-na-7-under.ru
@@ -50120,7 +50249,9 @@ synap3.sv0orchond0.ru
 synatra-nexus.com
 sync.clouditapp.pics
 sync.dareck.it.com
+sync.flushgot.pics
 sync.juzgadorama.it.com
+sync.networkstackmgr.pics
 syncdusk.mirelax9.life
 synchro.ignorelist.com
 syncit.authorize5ilky.lat
@@ -50160,8 +50291,11 @@ syr3un.e9uatp2nth.ru
 syria-live.ru
 syrianoohacker.esy.es
 syriatelsy.com
+sys.docsbed.pics
+sys.infrastructurerun.pics
 sys.softnetlink.pics
 sys.softwincli.pics
+sys.systemlogicops.pics
 sys.vpssysnet.pics
 sysbirdrank.com
 sysbirdrep.com
@@ -50535,6 +50669,7 @@ ta5.ha0m.ru
 taaz.vacau.com
 tab.ju5q.ru
 tab.rkuc9.ru
+tab.rowlocks.pics
 tabelionatoguaxupe.kbral.com.br
 table.xfello.com
 tablepress.wordt-ontwikkeld.be
@@ -50867,6 +51002,7 @@ tcoolonline.mobi
 tcp-con.4dorexal.surf
 tcp-con.8dorexin.surf
 tcp-free.tunnel4.com
+tcp.networkstackmgr.pics
 tcp.skynodecfg.pics
 tcp.skyprodoc.pics
 tcpcon.decepdisor8anize.lat
@@ -50949,6 +51085,7 @@ teb.rilefoo8.ru
 tebarit.net
 tech-dan.xyz
 tech-vopsire.ro
+tech.coderlaptechnical.pics
 tech.mehmoh.com
 tech.net.cn
 tech247.com.vn
@@ -51139,6 +51276,7 @@ test.admin.topliefer.com
 test.advancedkiosksmarketing.com
 test.agressivex.com
 test.aideshabitat.com
+test.argsleg.pics
 test.beloslav.net
 test.bestavsoft2.com
 test.comcas.ru
@@ -51748,6 +51886,7 @@ tmpdirs.stick-shaped.lat
 tmpdirsets.nomination5yak.lat
 tmpdirsets.qen3larex.pics
 tmpdirsets.qen9vorel.pics
+tmpdirsets.webcfgmanager.pics
 tms.evobot.uz
 tms.tld56.cn
 tmsa-tw.org.tw
@@ -51939,6 +52078,7 @@ topsvc.mira4then.lat
 topsvc.quirky-shedding.lat
 topsvc.smartcloudstorageset.lat
 topsvc.technoglobalnet.lat
+topsvc.webdataprocunit.pics
 topsvcs.barbos-slimy.lat
 topsvcs.boxemoj.surf
 topsvcs.breasted-skoda.lat
@@ -51954,6 +52094,7 @@ topsvcs.webbitsync.lat
 topsvcutil.mav2lorix.pics
 topsvcutil.mav7voren.pics
 topsvcutil.radio-technic.lat
+topsvcutil.technodesupply.pics
 topszoneview.com
 topteamover9000.fun
 toptopcop.info
@@ -52718,6 +52859,7 @@ txapbjdlsrtpea.com
 txgvd-84-84-38-102.a.free.pinggy.link
 txlcare.top
 txso-1.ru
+txt.textits.pics
 txw9b5bd.r2nkteh2.ru
 ty.2bj82sg.ru
 ty.pvzi-1.ru
@@ -52975,6 +53117,8 @@ u8813.biograph-discoball.pics
 u888-com.net
 u888.br.com
 u8886.shop
+u888co.com
+u88o.com
 u89.v1braclaw.ru
 u9.fi0m.ru
 u9.sxuj-7.ru
@@ -53932,6 +54076,7 @@ uririneinigning.su
 uritdinismailov.shop
 urj2bp9a.skyf1ow.ru
 urkemail.in
+url.fastlinkprovider.pics
 url27.shop
 url8uzxf.bi8otz1on.ru
 urmazd.com
@@ -55283,6 +55428,7 @@ vajskiyluwh.com
 vakantieklok.nl
 vakarpishkov.magnaart.ru.fbweb.ru
 vaklid.f0undoutw2y.ru
+val.argsleg.pics
 val.asrkala.top
 val.chadamaite.com
 valcyn.f1ysynchr0n.ru
@@ -55743,6 +55889,7 @@ vietphatjsc.xyz
 viettrust-vn.net
 view-creates.gl.at.ply.gg
 view-point.co.jp
+view.globalnodeviewset.pics
 view.wi-7-e.ru
 viewblood.info
 viewconvert.com
@@ -56128,6 +56275,7 @@ vps-run.mav2terol.surf
 vps-run.mav7loren.surf
 vps-zap812595-1.zap-srv.com
 vps.denissalazar.com
+vps.docsbed.pics
 vps.lefet.ru
 vps.lonk-fort.ts.net
 vps.webcfgbase.pics
@@ -56143,10 +56291,12 @@ vpsrun.mira4then.lat
 vpsrun.quirky-shedding.lat
 vpsrun.smartcloudstorageset.lat
 vpsrun.technoglobalnet.lat
+vpsrun.webdataprocunit.pics
 vpsrun.websyncbox.pics
 vpsrunproc.mav2lorix.pics
 vpsrunproc.mav7voren.pics
 vpsrunproc.radio-technic.lat
+vpsrunproc.technodesupply.pics
 vpsruns.barbos-slimy.lat
 vpsruns.boxemoj.surf
 vpsruns.breasted-skoda.lat
@@ -56812,6 +56962,7 @@ web-telegram.us
 web.3squaredco.com
 web.bitflowapp.pics
 web.clouditapp.pics
+web.coderlaptechnical.pics
 web.eng.ubu.ac.th
 web.inforsti.com
 web.ktfs4.top
@@ -56822,6 +56973,8 @@ web.phpforms.fh.net.nz
 web.qxfhelp.top
 web.serenichron.com
 web.testing.flexihost.co.nz
+web.textits.pics
+web.webdataprocess.pics
 web.webmonero.club
 web.xmlpost.xyz
 web.xvbhelp.top
@@ -56846,6 +56999,8 @@ webcdnstat.5toralix.pics
 webcdnstat.7toravex.pics
 webcdnstat.cereal5pesivet.lat
 webcdnstat.exclusivefrigidity.pics
+webcdnstat.globalnetviewer.pics
+webcdnstat.netinfrahubsys.pics
 webcdnx.6toralix.lat
 webcdnx.7toralex.lat
 webcdnx.9toravex.surf
@@ -58950,7 +59105,9 @@ xmedia1124.ddns.net
 xmegami.store
 xmjmlxiibhblorc.com
 xml-suggestions.gl.at.ply.gg
+xml.docsbed.pics
 xml.streetsscores.us
+xml.webdataprocess.pics
 xmn.clear-fog.ru
 xmode.duckdns.org
 xmpzi.icu
