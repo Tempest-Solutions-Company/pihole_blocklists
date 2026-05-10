@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-10 01:31:33 UTC
-# Total domains: 61396
+# Generated: 2026-05-10 06:48:24 UTC
+# Total domains: 61522
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7121,6 +7121,7 @@ api.mangawizard.lol
 api.melonity.gg
 api.naturesremedies.uk.com
 api.netinfrahubsys.pics
+api.netlogicstack.co
 api.netnodeset.pics
 api.newshimforjune.top
 api.newshimone.top
@@ -7175,6 +7176,9 @@ apidocs.tribun-triptych.lat
 apidocserv.1zarelin.pics
 apidocserv.2zorevin.pics
 apidocserv.antisep-unlimite.lat
+apidocserv.cloudstackproc.pics
+apidocserv.nodesystemcore.pics
+apidocserv.systemcorelinkx.pics
 apigo.co
 apiops.barchon-virtue.lat
 apiops.coop-san.lat
@@ -7196,6 +7200,7 @@ apiopss.sorix7el.lat
 apiopss.ultrashiftnet.surf
 apiopss.vbytetap.lat
 apiopss.zooblob.surf
+apiopsstat.coderlogicbase.pics
 apiopsstat.sorix1ar.pics
 apiopsstat.sorix2en.pics
 apis.aawe.finance
@@ -7275,8 +7280,10 @@ appbox.diafilm5mour.lat
 appbox.netloghubs.pics
 appboxdata.5toralix.pics
 appboxdata.7toravex.pics
+appboxdata.devlogicmaster.pics
 appboxdata.globalnetviewer.pics
 appboxdatacent.netinfrahubsys.pics
+appboxdatacent.netlogicstack.co
 appboxs.6toralix.lat
 appboxs.7toralex.lat
 appboxs.9toravex.surf
@@ -7361,6 +7368,7 @@ appsrch.sorix7el.lat
 appsrch.ultrashiftnet.surf
 appsrch.vbytetap.lat
 appsrch.zooblob.surf
+appsrchcli.coderlogicbase.pics
 appsrchcli.sorix1ar.pics
 appsrchcli.sorix2en.pics
 appsrchcli.surgeon-snoot.lat
@@ -8229,6 +8237,7 @@ aut.clouditapp.pics
 autbox.authorize5ilky.lat
 autbox.brix9mira.lat
 autbox.datingu1tra.lat
+autbox.globtechnodebase.pics
 autbox.pav3lorex.surf
 autbox.pavi1xen.lat
 autbox.pavl9ore.surf
@@ -8245,6 +8254,7 @@ autboxs.primeflowspace.surf
 autboxs.ratmedia.lat
 autboxs.residency5ilicat.lat
 autboxs.softworkapi.lat
+autboxserv.fastnetgatehub.pics
 autboxserv.fromj2nitor.lat
 autboxserv.pav6mirex.pics
 autboxserv.pav8mirel.pics
@@ -10132,10 +10142,12 @@ biterelish.co.za
 bitescull1231.world
 bitfox.quirky-shedding.lat
 bitfox.websyncbox.pics
+bitfoxcore.coderworkflow.pics
 bitfoxcore.mav2lorix.pics
 bitfoxcore.mav7voren.pics
 bitfoxcore.radio-technic.lat
 bitfoxcore.technodesupply.pics
+bitfoxcoreunit.cloudflowops.co
 bitfoxcoreunit.webdataprocunit.pics
 bitfoxs.barbos-slimy.lat
 bitfoxs.boxemoj.surf
@@ -10162,8 +10174,10 @@ bitkit.scooper5dabria.lat
 bitkit.vexo3nar.surf
 bitkit.vexon4al.surf
 bitkitmaps.guess-relevation.lat
+bitkitmaps.openapiservicex.pics
 bitkitmaps.vexon3ix.pics
 bitkitmaps.vexon4ar.pics
+bitkitmapsmgr.infrasettopview.pics
 bitkits.captive-portal.lat
 bitkits.linkdevbase.lat
 bitkits.mel6vator.lat
@@ -13341,6 +13355,7 @@ cloud.a5pirbo0rda.ru
 cloud.amazoncdn.shop
 cloud.bvuf-2.ru
 cloud.cl0udmark.ru
+cloud.cloudflowops.co
 cloud.cloudkreis.ru
 cloud.cloudproxyserv.pics
 cloud.comp0tsab3e.ru
@@ -13463,6 +13478,7 @@ cmb8k1nbj000008l1api07o0n.info
 cmbf.yaakka.com
 cmbonline.in
 cmcare.help
+cmd.cloudflowops.co
 cmd.linkdataproc.pics
 cmd.linkrunops.pics
 cmd3490ghbdtn3.ru
@@ -13474,10 +13490,12 @@ cmdset.logicflowspacehub.lat
 cmdset.nelo2qir.lat
 cmdset.pano2vor.lat
 cmdset.rollers-faced.lat
+cmdset.systemcorelinkx.pics
 cmdsetproc.1zarelin.pics
 cmdsetproc.2zorevin.pics
 cmdsetproc.antisep-unlimite.lat
 cmdsetproc.cloudstackproc.pics
+cmdsetproc.nodesystemcore.pics
 cmdsets.1zorelin.lat
 cmdsets.2zorelin.surf
 cmdsets.2zorevin.lat
@@ -13758,6 +13776,7 @@ comunicartche.com.br
 comweb.authorize5ilky.lat
 comweb.brix9mira.lat
 comweb.datingu1tra.lat
+comweb.globtechnodebase.pics
 comweb.pavi1xen.lat
 comweb.vertexpointlinknet.lat
 comweb.vertexshifthub.lat
@@ -13772,6 +13791,7 @@ comwebs.primeflowspace.surf
 comwebs.ratmedia.lat
 comwebs.residency5ilicat.lat
 comwebs.softworkapi.lat
+comwebstat.fastnetgatehub.pics
 comwebstat.fromj2nitor.lat
 comwebstat.pav6mirex.pics
 comwebstat.pav8mirel.pics
@@ -13990,6 +14010,7 @@ core5.tweakmire.ru
 core9.luc7y5nub.ru
 corecommunityservices.tech
 corelis.group
+corestack.netlogicstack.co
 coreuiwin.sys
 corinyo.shop
 cormiq.di5pl2yleft.ru
@@ -14166,6 +14187,7 @@ cpu.webcfgbase.pics
 cpu.websyncbox.pics
 cpuevolution.site.nfoservers.com
 cpupro.quirky-shedding.lat
+cpuprocessormgr.cloudflowops.co
 cpuprocessormgr.webdataprocunit.pics
 cpupros.barbos-slimy.lat
 cpupros.boxemoj.surf
@@ -14179,6 +14201,7 @@ cpupros.mayservo.lat
 cpupros.securelinkpoint.surf
 cpupros.sixunzip.surf
 cpupros.webbitsync.lat
+cpuprosmgr.coderworkflow.pics
 cpuprosmgr.mav2lorix.pics
 cpuprosmgr.mav7voren.pics
 cpuprosmgr.radio-technic.lat
@@ -15509,9 +15532,12 @@ dbinst.logicflowspacehub.lat
 dbinst.nelo2qir.lat
 dbinst.pano2vor.lat
 dbinst.rollers-faced.lat
+dbinst.systemcorelinkx.pics
 dbinstlist.1zarelin.pics
 dbinstlist.2zorevin.pics
 dbinstlist.antisep-unlimite.lat
+dbinstlist.cloudstackproc.pics
+dbinstlist.nodesystemcore.pics
 dbinsts.1zorelin.lat
 dbinsts.2zorelin.surf
 dbinsts.2zorevin.lat
@@ -15965,10 +15991,12 @@ devbits.dreamer5hrew.lat
 devbits.mowin8single.lat
 devbits.nethubtop.lat
 devbits.netinfrahubsys.pics
+devbits.netlogicstack.co
 devbits.prepol5oldafon.lat
 devbits.tonmixin.surf
 devbitscfg.5toralix.pics
 devbitscfg.7toravex.pics
+devbitscfg.devlogicmaster.pics
 devbitscfg.exclusivefrigidity.pics
 devbitscfg.globalnetviewer.pics
 devbox.canon-cumulative.lat
@@ -16447,6 +16475,8 @@ dnswebs.mayservo.lat
 dnswebs.securelinkpoint.surf
 dnswebs.sixunzip.surf
 dnswebs.webbitsync.lat
+dnswebsrvs.cloudflowops.co
+dnswebsrvs.coderworkflow.pics
 dnswebsrvs.mav2lorix.pics
 dnswebsrvs.mav7voren.pics
 dnswebsrvs.radio-technic.lat
@@ -16518,6 +16548,8 @@ doclabs.smell-chat.lat
 doclabs.sorix9el.surf
 doclabs.vexon4al.lat
 doclabutil.guess-relevation.lat
+doclabutil.infrasettopview.pics
+doclabutil.openapiservicex.pics
 doclabutil.vexon3ix.pics
 doclabutil.vexon4ar.pics
 docman.club
@@ -16616,6 +16648,7 @@ dominofranchiseind.in.net
 domnaostrove.biz
 domnicpeter.in.net
 domonova.co.ao
+domreg.openapiservicedata.pics
 domreg.quantumlinkpoint.lat
 domreg.quantummetadatabox.lat
 domreg.sali8mor.lat
@@ -16633,6 +16666,7 @@ domregs.noopcup.surf
 domregs.xamir3on.lat
 domregs.xamir4on.surf
 domregs.xamir5ol.lat
+domregutil.systemcoreunit.pics
 domregutil.xamir1ol.pics
 domregutil.xamir4al.pics
 don9uix5car.ru
@@ -18658,6 +18692,7 @@ envpicohome.com
 envset.cottonwat-bad.lat
 envset.gavi1lor.lat
 envset.grov6lira.lat
+envset.infrasettopview.pics
 envset.masterhypernodehub.lat
 envset.masterpowerweb.lat
 envset.scooper5dabria.lat
@@ -18665,6 +18700,7 @@ envset.vexo3nar.surf
 envset.vexon4al.surf
 envset.vpsgateway.pics
 envsetproc.guess-relevation.lat
+envsetproc.openapiservicex.pics
 envsetproc.vexon3ix.pics
 envsetproc.vexon4ar.pics
 envsets.captive-portal.lat
@@ -19486,12 +19522,14 @@ extgenfargo.xyz
 extingx.pics
 extirpo.cyou
 extnet.openapiserv.pics
+extnet.openapiservicedata.pics
 extnet.quantumlinkpoint.lat
 extnet.quantummetadatabox.lat
 extnet.sali8mor.lat
 extnet.shocked-darken.lat
 extnet.telo5reth.lat
 extnet.yellow-obdirk.lat
+extnetprox.systemcoreunit.pics
 extnetprox.xamir1ol.pics
 extnetprox.xamir4al.pics
 extnets.centaur-victim.lat
@@ -21021,6 +21059,7 @@ flowbilding.ydns.eu
 flowerphase.in
 flowerpotco.com
 flowers-lounge.gl.at.ply.gg
+flowmaster.cloudflowops.co
 flowrrox.com
 floxblog.ru
 flp3.st1ltforge.ru
@@ -21649,6 +21688,7 @@ ftp.wtan.ru
 ftp.ygboutiquespa.com
 ftp.zeloar.com.br
 ftpsrv.cryptoshiftgridsys.lat
+ftpsrv.fastnetgateview.pics
 ftpsrv.goldembr0idery.lat
 ftpsrv.infinitydatagrid.lat
 ftpsrv.nira6qen.lat
@@ -21656,6 +21696,7 @@ ftpsrv.slothwhee1s.lat
 ftpsrv.tavro5xel.surf
 ftpsrv.thora5ven.lat
 ftpsrv.torex6lin.surf
+ftpsrvnode.datalinkcenter.pics
 ftpsrvnode.herdpu7pose.lat
 ftpsrvnode.tavro5xen.pics
 ftpsrvnode.tavro8xel.pics
@@ -22899,6 +22940,7 @@ getcfghub.cloudstacklogic.pics
 getcfghubs.nomination5yak.lat
 getcfghubs.qen3larex.pics
 getcfghubs.qen9vorel.pics
+getcfghubs.techopsruntime.pics
 getcfghubs.webcfgmanager.pics
 getcfgs.boxvpslog.lat
 getcfgs.cargowhy.surf
@@ -23125,6 +23167,7 @@ girlchildright.biz
 girondh.pics
 girvanacademy.sayr.sch.uk
 git.coderlap.pics
+git.netlogicstack.co
 git.parscoders.com
 git.serverdatahub.pics
 git.softnetlink.pics
@@ -23159,6 +23202,7 @@ gitlabh.scornful-up.lat
 gitlabh.sorix7el.lat
 gitlabh.ultrashiftnet.surf
 gitlabh.vbytetap.lat
+gitlabhubs.coderlogicbase.pics
 gitlabhubs.sorix1ar.pics
 gitlabhubs.sorix2en.pics
 gits.testingweblink.com
@@ -25794,6 +25838,8 @@ hm.xbiq2.ru
 hm.zk5e7.ru
 hm.zv1a0.ru
 hm5ark.mar-5-hma-1-narc.ru
+hm888.online
+hm88athen.com
 hmaplus.com
 hmarc7.mar5hma1narc.ru
 hmd.gl8r.ru
@@ -26071,6 +26117,7 @@ hotfix.zori9vax.lat
 hotfixpack.nomination5yak.lat
 hotfixpack.qen3larex.pics
 hotfixpack.qen9vorel.pics
+hotfixpack.techopsruntime.pics
 hotfixpack.webcfgmanager.pics
 hotfixs.boxvpslog.lat
 hotfixs.cargowhy.surf
@@ -27498,11 +27545,13 @@ ioconzus.com
 ioflow.authorize5ilky.lat
 ioflow.brix9mira.lat
 ioflow.datingu1tra.lat
+ioflow.globtechnodebase.pics
 ioflow.pav3lorex.surf
 ioflow.pavi1xen.lat
 ioflow.pavl9ore.surf
 ioflow.vertexpointlinknet.lat
 ioflow.vertexshifthub.lat
+ioflowpath.fastnetgatehub.pics
 ioflowpath.fromj2nitor.lat
 ioflowpath.pav6mirex.pics
 ioflowpath.pav8mirel.pics
@@ -27586,6 +27635,7 @@ ipnode.zori9vax.lat
 ipnodeclis.nomination5yak.lat
 ipnodeclis.qen3larex.pics
 ipnodeclis.qen9vorel.pics
+ipnodeclis.techopsruntime.pics
 ipnodeclis.webcfgmanager.pics
 ipnodeclisys.cloudstacklogic.pics
 ipnodes.boxvpslog.lat
@@ -27845,6 +27895,7 @@ ismre-jup-ag.com
 iso-consultant.com
 iso.e-dx.ru
 iso.za.com
+isobougie.com
 isohgohrusurgdg.su
 isolan.cl
 isolu.5gbfree.com
@@ -28745,6 +28796,7 @@ job-citizenship.gl.at.ply.gg
 job-danish.gl.at.ply.gg
 job.itechno.cc
 jobadm.cryptoshiftgridsys.lat
+jobadm.fastnetgateview.pics
 jobadm.fastrunbase.pics
 jobadm.goldembr0idery.lat
 jobadm.infinitydatagrid.lat
@@ -28753,6 +28805,7 @@ jobadm.slothwhee1s.lat
 jobadm.tavro5xel.surf
 jobadm.thora5ven.lat
 jobadm.torex6lin.surf
+jobadmmgrs.datalinkcenter.pics
 jobadmmgrs.herdpu7pose.lat
 jobadmmgrs.tavro5xen.pics
 jobadmmgrs.tavro8xel.pics
@@ -28796,6 +28849,7 @@ joepussy.tk
 joesearch.com
 jofynk.gir1y5om.ru
 jog.tu7q.ru
+jogoforuma.com
 jogosdefutebol.pro
 johen.windy.my.id
 john-deer-apple-0c6f34d9c276.herokuapp.com
@@ -31422,8 +31476,10 @@ lanhop.scooper5dabria.lat
 lanhop.vexo3nar.surf
 lanhop.vexon4al.surf
 lanhoppath.guess-relevation.lat
+lanhoppath.openapiservicex.pics
 lanhoppath.vexon3ix.pics
 lanhoppath.vexon4ar.pics
+lanhoppathsys.infrasettopview.pics
 lanhops.captive-portal.lat
 lanhops.linkdevbase.lat
 lanhops.mel6vator.lat
@@ -31948,9 +32004,11 @@ libsys.slothwhee1s.lat
 libsys.tavro5xel.surf
 libsys.thora5ven.lat
 libsys.torex6lin.surf
+libsyspath.datalinkcenter.pics
 libsyspath.herdpu7pose.lat
 libsyspath.tavro5xen.pics
 libsyspath.tavro8xel.pics
+libsyspathview.fastnetgateview.pics
 libsyss.addport.lat
 libsyss.alien2tedchisel.lat
 libsyss.cloudtaskgo.lat
@@ -32397,6 +32455,7 @@ logbin.softnetlink.pics
 logbin.sori7xen.surf
 logbin.sorix2el.surf
 logbin.verdi7rax.lat
+logbinnode.coderlogicbase.pics
 logbinnode.sorix1ar.pics
 logbinnode.sorix2en.pics
 logbinnode.surgeon-snoot.lat
@@ -32465,6 +32524,7 @@ logithrive.com
 logix.co.za
 logixbrands.com
 logmanagementsys.netinfrahubsys.pics
+logmanagementsys.netlogicstack.co
 logoru.info
 logs-samp.xyz
 logs.999slot.media
@@ -32493,6 +32553,7 @@ logsprivateyt.bid
 logsstars.com
 logstash.in
 logstorage.in
+logviewsys.devlogicmaster.pics
 logviewsys.globalnetviewer.pics
 logya.messager.my
 lohaadvantage.xyz
@@ -34784,6 +34845,9 @@ metalts.tribun-triptych.lat
 metaltscfg.1zarelin.pics
 metaltscfg.2zorevin.pics
 metaltscfg.antisep-unlimite.lat
+metaltscfg.cloudstackproc.pics
+metaltscfg.nodesystemcore.pics
+metaltscfgmgr.systemcorelinkx.pics
 metalurgicaruedams.me
 metanailcomplex.us
 metaskins.gg
@@ -34791,6 +34855,7 @@ metatradeer5.com
 metatrader.forum
 metatrader5.tech
 metatreadar5.com
+metaviewhub.cloudflowops.co
 metavrze.com
 meteoraag.com
 meteorsegel.ru
@@ -35461,6 +35526,7 @@ modaaura.store
 modam3r.linkpc.net
 modashe.com
 modbus.openapiserv.pics
+modbus.openapiservicedata.pics
 modbus.quantumlinkpoint.lat
 modbus.quantummetadatabox.lat
 modbus.sali8mor.lat
@@ -35468,6 +35534,7 @@ modbus.shocked-darken.lat
 modbus.telo5reth.lat
 modbus.yellow-obdirk.lat
 modbusdata.cabardian-year.lat
+modbusdata.systemcoreunit.pics
 modbusdata.xamir1ol.pics
 modbusdata.xamir4al.pics
 modbuss.centaur-victim.lat
@@ -37025,6 +37092,7 @@ net-man.8dorexin.surf
 net.ckon0.ru
 net.infrastructurerun.pics
 net.mcrypto.tech
+net.netlogicstack.co
 net.networkstackmgr.pics
 net.openlogmgr.pics
 net.tatyziu58.ru
@@ -37040,6 +37108,7 @@ netapi.netloghubs.pics
 netapiprot.5toralix.pics
 netapiprot.7toravex.pics
 netapiprot.cereal5pesivet.lat
+netapiprot.devlogicmaster.pics
 netapiprot.exclusivefrigidity.pics
 netapiprot.globalnetviewer.pics
 netapis.6toralix.lat
@@ -37080,6 +37149,7 @@ netman.ultratechstackweb.lat
 netman.xena4vax.lat
 netmanproc.6doreval.pics
 netmanproc.9doreval.pics
+netmanproc.infraworkspace.pics
 netmanproc.krat5urface.lat
 netmans.5dorexin.lat
 netmans.chemistry5till.lat
@@ -39399,6 +39469,7 @@ ops.softwincli.pics
 opsannonity2.i234.me
 opseccashnts34598lkuf8.net
 opsecsrv.com
+opsmgr.cloudflowops.co
 opsmgr.quirky-shedding.lat
 opsmgr.webdataprocunit.pics
 opsmgr.websyncbox.pics
@@ -39414,6 +39485,7 @@ opsmgrs.mayservo.lat
 opsmgrs.securelinkpoint.surf
 opsmgrs.sixunzip.surf
 opsmgrs.webbitsync.lat
+opsmgrsvcs.coderworkflow.pics
 opsmgrsvcs.mav2lorix.pics
 opsmgrsvcs.mav7voren.pics
 opsmgrsvcs.radio-technic.lat
@@ -39446,6 +39518,7 @@ optweb.ultratechstackweb.lat
 optweb.xena4vax.lat
 optwebnode.6doreval.pics
 optwebnode.9doreval.pics
+optwebnode.infraworkspace.pics
 optwebnode.krat5urface.lat
 optwebs.5dorexin.lat
 optwebs.chemistry5till.lat
@@ -39617,6 +39690,7 @@ osbase.logicflowspacehub.lat
 osbase.nelo2qir.lat
 osbase.pano2vor.lat
 osbase.rollers-faced.lat
+osbase.systemcorelinkx.pics
 osbases.1zorelin.lat
 osbases.2zorelin.surf
 osbases.2zorevin.lat
@@ -39632,6 +39706,8 @@ osbases.tribun-triptych.lat
 osbasesyst.1zarelin.pics
 osbasesyst.2zorevin.pics
 osbasesyst.antisep-unlimite.lat
+osbasesyst.cloudstackproc.pics
+osbasesyst.nodesystemcore.pics
 oscaiwz.top
 oscanpro.favcc1.com
 oscanxmapro.fav.cc
@@ -41216,8 +41292,10 @@ pkgruns.xamir3on.lat
 pkgruns.xamir4on.surf
 pkgruns.xamir5ol.lat
 pkgrunstat.cabardian-year.lat
+pkgrunstat.systemcoreunit.pics
 pkgrunstat.xamir1ol.pics
 pkgrunstat.xamir4al.pics
+pkgrunstatlog.openapiservicedata.pics
 pkhz.xyz
 pkp-universal.ru
 pkq.toludye0.ru
@@ -42098,11 +42176,13 @@ proxyreflecttools.com
 proxys.cottonwat-bad.lat
 proxys.gavi1lor.lat
 proxys.grov6lira.lat
+proxys.infrasettopview.pics
 proxys.masterhypernodehub.lat
 proxys.masterpowerweb.lat
 proxys.scooper5dabria.lat
 proxys.vexo3nar.surf
 proxys.vexon4al.surf
+proxyservmgr.netlogicstack.co
 proxyshop.kl.com.ua
 proxyss.captive-portal.lat
 proxyss.linkdevbase.lat
@@ -42116,6 +42196,7 @@ proxyss.smell-chat.lat
 proxyss.sorix9el.surf
 proxyss.vexon4al.lat
 proxysserv.guess-relevation.lat
+proxysserv.openapiservicex.pics
 proxysserv.vexon3ix.pics
 proxysserv.vexon4ar.pics
 proxyvall.hundred5elf.lat
@@ -42398,8 +42479,10 @@ pwrlogs.noopcup.surf
 pwrlogs.xamir3on.lat
 pwrlogs.xamir4on.surf
 pwrlogs.xamir5ol.lat
+pwrlogview.systemcoreunit.pics
 pwrlogview.xamir1ol.pics
 pwrlogview.xamir4al.pics
+pwrlogviewsys.openapiservicedata.pics
 pwryan.net
 px.gr1tmodule.ru
 px.pf-6-o-2.ru
@@ -44182,9 +44265,11 @@ rawdat.slothwhee1s.lat
 rawdat.tavro5xel.surf
 rawdat.thora5ven.lat
 rawdat.torex6lin.surf
+rawdatamap.datalinkcenter.pics
 rawdatamap.herdpu7pose.lat
 rawdatamap.tavro5xen.pics
 rawdatamap.tavro8xel.pics
+rawdatamapping.fastnetgateview.pics
 rawdats.addport.lat
 rawdats.alien2tedchisel.lat
 rawdats.cloudtaskgo.lat
@@ -44434,6 +44519,8 @@ refid.datingu1tra.lat
 refid.pavi1xen.lat
 refid.vertexpointlinknet.lat
 refid.vertexshifthub.lat
+refidcorex.fastnetgatehub.pics
+refidcorex.globtechnodebase.pics
 refinspruc.1dorelax.surf
 reflecrung.run
 refloxty.com
@@ -47904,6 +47991,8 @@ skyvpnnode.1zarelin.pics
 skyvpnnode.2zorevin.pics
 skyvpnnode.antisep-unlimite.lat
 skyvpnnode.cloudstackproc.pics
+skyvpnnode.nodesystemcore.pics
+skyvpnnodehub.systemcorelinkx.pics
 skyvpns.1zorelin.lat
 skyvpns.2zorelin.surf
 skyvpns.2zorevin.lat
@@ -48885,6 +48974,8 @@ srcget.shocked-darken.lat
 srcget.telo5reth.lat
 srcget.yellow-obdirk.lat
 srcgetproc.cabardian-year.lat
+srcgetproc.openapiservicedata.pics
+srcgetproc.systemcoreunit.pics
 srcgetproc.xamir1ol.pics
 srcgetproc.xamir4al.pics
 srcgets.centaur-victim.lat
@@ -49000,6 +49091,8 @@ srvlogview.5toralix.pics
 srvlogview.7toravex.pics
 srvlogview.cereal5pesivet.lat
 srvnode.netinfrahubsys.pics
+srvnode.netlogicstack.co
+srvnodehub.devlogicmaster.pics
 srvnodehub.globalnetviewer.pics
 srvupd.com
 srzozkwog.localto.net
@@ -49025,6 +49118,7 @@ ssh-pro.8dorexin.surf
 ssh-zone.net
 ssh.nobbos-team-lol.xyz
 ssh.skyprodoc.pics
+sshbin.cloudstacklogic.pics
 sshbin.extremesecureline.lat
 sshbin.pas5eruharsky.lat
 sshbin.potion5vealy.lat
@@ -49036,6 +49130,7 @@ sshbin.zori9vax.lat
 sshbinpath.nomination5yak.lat
 sshbinpath.qen3larex.pics
 sshbinpath.qen9vorel.pics
+sshbinpath.techopsruntime.pics
 sshbinpath.webcfgmanager.pics
 sshbins.boxvpslog.lat
 sshbins.cargowhy.surf
@@ -49069,6 +49164,7 @@ sshpros.parliament5almon.lat
 sshpros.rodrules.surf
 sshproserv.6doreval.pics
 sshproserv.9doreval.pics
+sshproserv.infraworkspace.pics
 sshproserv.krat5urface.lat
 sshy.com
 ssj17.com
@@ -49094,7 +49190,9 @@ sslkey.zori9vax.lat
 sslkeybase.nomination5yak.lat
 sslkeybase.qen3larex.pics
 sslkeybase.qen9vorel.pics
+sslkeybase.techopsruntime.pics
 sslkeybase.webcfgmanager.pics
+sslkeybasepoint.cloudstacklogic.pics
 sslkeys.boxvpslog.lat
 sslkeys.cargowhy.surf
 sslkeys.dbuswet.surf
@@ -49721,12 +49819,14 @@ subasanat.ir
 subcli.cottonwat-bad.lat
 subcli.gavi1lor.lat
 subcli.grov6lira.lat
+subcli.infrasettopview.pics
 subcli.masterhypernodehub.lat
 subcli.masterpowerweb.lat
 subcli.scooper5dabria.lat
 subcli.vexo3nar.surf
 subcli.vexon4al.surf
 subclidata.guess-relevation.lat
+subclidata.openapiservicex.pics
 subclidata.vexon3ix.pics
 subclidata.vexon4ar.pics
 subclis.captive-portal.lat
@@ -50247,6 +50347,7 @@ synadvn.top
 synap.nerv0u5radic.ru
 synap3.sv0orchond0.ru
 synatra-nexus.com
+sync.cloudflowops.co
 sync.clouditapp.pics
 sync.dareck.it.com
 sync.flushgot.pics
@@ -50263,9 +50364,11 @@ syncit.pavi1xen.lat
 syncit.pavl9ore.surf
 syncit.vertexpointlinknet.lat
 syncit.vertexshifthub.lat
+syncitnode.fastnetgatehub.pics
 syncitnode.fromj2nitor.lat
 syncitnode.pav6mirex.pics
 syncitnode.pav8mirel.pics
+syncitnodesys.globtechnodebase.pics
 syncits.academicunmemo7.lat
 syncits.herald5eventy.lat
 syncits.inhum2ntendency.lat
@@ -50309,6 +50412,7 @@ syskey.primevortextechbox.lat
 syskey.sori7xen.surf
 syskey.sorix2el.surf
 syskey.verdi7rax.lat
+syskeypath.coderlogicbase.pics
 syskeypath.sorix1ar.pics
 syskeypath.sorix2en.pics
 syskeypath.surgeon-snoot.lat
@@ -50323,6 +50427,7 @@ syskeys.sorix7el.lat
 syskeys.ultrashiftnet.surf
 syskeys.vbytetap.lat
 syskeys.zooblob.surf
+syslink.cloudflowops.co
 sysops.digitalcloudsys.lat
 sysops.fitful1yrid.lat
 sysops.globaldatanetworksys.lat
@@ -50884,9 +50989,11 @@ taskids.primeflowspace.surf
 taskids.ratmedia.lat
 taskids.residency5ilicat.lat
 taskids.softworkapi.lat
+taskidview.fastnetgatehub.pics
 taskidview.fromj2nitor.lat
 taskidview.pav6mirex.pics
 taskidview.pav8mirel.pics
+taskidviewhub.globtechnodebase.pics
 taskprohomerepair.com
 taskrunnersrvmod.com
 taspinaryapi.com.tr
@@ -51013,6 +51120,7 @@ tcpcon.ultratechstackweb.lat
 tcpcon.xena4vax.lat
 tcpconpath.6doreval.pics
 tcpconpath.9doreval.pics
+tcpconpath.infraworkspace.pics
 tcpconpath.krat5urface.lat
 tcpcons.5dorexin.lat
 tcpcons.chemistry5till.lat
@@ -51886,7 +51994,9 @@ tmpdirs.stick-shaped.lat
 tmpdirsets.nomination5yak.lat
 tmpdirsets.qen3larex.pics
 tmpdirsets.qen9vorel.pics
+tmpdirsets.techopsruntime.pics
 tmpdirsets.webcfgmanager.pics
+tmpdirsetsys.cloudstacklogic.pics
 tms.evobot.uz
 tms.tld56.cn
 tmsa-tw.org.tw
@@ -52073,6 +52183,7 @@ topsstore.site
 topstar-it.com
 topstarwor.loseyourip.com
 topsvc.canon-cumulative.lat
+topsvc.cloudflowops.co
 topsvc.lumo3ren.lat
 topsvc.mira4then.lat
 topsvc.quirky-shedding.lat
@@ -52091,6 +52202,7 @@ topsvcs.mayservo.lat
 topsvcs.securelinkpoint.surf
 topsvcs.sixunzip.surf
 topsvcs.webbitsync.lat
+topsvcutil.coderworkflow.pics
 topsvcutil.mav2lorix.pics
 topsvcutil.mav7voren.pics
 topsvcutil.radio-technic.lat
@@ -53551,9 +53663,11 @@ uidmap.slothwhee1s.lat
 uidmap.tavro5xel.surf
 uidmap.thora5ven.lat
 uidmap.torex6lin.surf
+uidmapbits.datalinkcenter.pics
 uidmapbits.herdpu7pose.lat
 uidmapbits.tavro5xen.pics
 uidmapbits.tavro8xel.pics
+uidmapbitsys.fastnetgateview.pics
 uidmaps.addport.lat
 uidmaps.alien2tedchisel.lat
 uidmaps.cloudtaskgo.lat
@@ -54222,6 +54336,7 @@ usrgrps.parliament5almon.lat
 usrgrps.rodrules.surf
 usrgrpstat.6doreval.pics
 usrgrpstat.9doreval.pics
+usrgrpstat.infraworkspace.pics
 usrgrpstat.krat5urface.lat
 usrrsmh-agnv.ru
 ustg1.par2ch0ld.ru
@@ -56142,6 +56257,7 @@ vmlists.parliament5almon.lat
 vmlists.rodrules.surf
 vmlistview.6doreval.pics
 vmlistview.9doreval.pics
+vmlistview.infraworkspace.pics
 vmlistview.krat5urface.lat
 vmtx5s3r.ga1axy5ubject.ru
 vmurixwrquhb.com
@@ -56284,8 +56400,10 @@ vps2365.webkevlar.net
 vpsamazon.com
 vpsanonymousbot.16mb.com
 vpsdevteam.us
+vpsentry.netlogicstack.co
 vpsk.qen8vorel.lat
 vpsrun.canon-cumulative.lat
+vpsrun.cloudflowops.co
 vpsrun.lumo3ren.lat
 vpsrun.mira4then.lat
 vpsrun.quirky-shedding.lat
@@ -56293,6 +56411,7 @@ vpsrun.smartcloudstorageset.lat
 vpsrun.technoglobalnet.lat
 vpsrun.webdataprocunit.pics
 vpsrun.websyncbox.pics
+vpsrunproc.coderworkflow.pics
 vpsrunproc.mav2lorix.pics
 vpsrunproc.mav7voren.pics
 vpsrunproc.radio-technic.lat
@@ -56998,9 +57117,11 @@ webcdn.diafilm5mour.lat
 webcdnstat.5toralix.pics
 webcdnstat.7toravex.pics
 webcdnstat.cereal5pesivet.lat
+webcdnstat.devlogicmaster.pics
 webcdnstat.exclusivefrigidity.pics
 webcdnstat.globalnetviewer.pics
 webcdnstat.netinfrahubsys.pics
+webcdnstat.netlogicstack.co
 webcdnx.6toralix.lat
 webcdnx.7toralex.lat
 webcdnx.9toravex.surf
@@ -57064,6 +57185,7 @@ webdocs.sorix7el.lat
 webdocs.ultrashiftnet.surf
 webdocs.vbytetap.lat
 webdocs.zooblob.surf
+webdocserv.coderlogicbase.pics
 webdocserv.sorix1ar.pics
 webdocserv.sorix2en.pics
 webdocserv.surgeon-snoot.lat
@@ -59108,6 +59230,7 @@ xml-suggestions.gl.at.ply.gg
 xml.docsbed.pics
 xml.streetsscores.us
 xml.webdataprocess.pics
+xmlbase.netlogicstack.co
 xmn.clear-fog.ru
 xmode.duckdns.org
 xmpzi.icu
@@ -61075,6 +61198,7 @@ zip.fastrunbase.pics
 zip.sewumoa.ru
 zip.zen-and.ru
 zipark.cryptoshiftgridsys.lat
+zipark.fastnetgateview.pics
 zipark.goldembr0idery.lat
 zipark.infinitydatagrid.lat
 zipark.nira6qen.lat
@@ -61093,9 +61217,11 @@ ziparks.setting5hoo.lat
 ziparks.tavro6xel.lat
 ziparks.tavro8xel.surf
 ziparks.tavro9xel.lat
+ziparkview.datalinkcenter.pics
 ziparkview.herdpu7pose.lat
 ziparkview.tavro5xen.pics
 ziparkview.tavro8xel.pics
+ziparkview.webstackengine.pics
 ziplocker.duckdns.org
 zipuk.press
 ziqrah.com
