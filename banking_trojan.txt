@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-11 07:51:07 UTC
-# Total domains: 8954
+# Generated: 2026-05-11 14:12:53 UTC
+# Total domains: 8955
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8682,6 +8682,7 @@ workbuzz.com
 workday-hubspot.com
 workday-nike.com
 worker.co.kr
+worker.dev
 workforcereadinesscompass.com
 worklifeecologies.org
 worldcupmusic2018.com
