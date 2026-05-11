@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-11 14:12:53 UTC
-# Total domains: 61884
+# Generated: 2026-05-11 20:31:04 UTC
+# Total domains: 61912
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2267,6 +2267,7 @@
 3mu0h.paper-knurl.ru
 3n.ndoq0.ru
 3n64fa05.blueh1ll.ru
+3navorel.digital
 3neko3.com
 3nity.xyz
 3o.ussn7.ru
@@ -3361,6 +3362,7 @@
 777x.uk.net
 777x.us.com
 777x.us.org
+777x.you
 777zxcvb.com
 77950.30u241207.ru
 77950.8d9691.ru
@@ -5161,6 +5163,7 @@ admin.nytk.ru
 admin.ozi.vn
 admin.perfectcircles.com.au
 admin.poly-english.id
+admin.sextop1.cafe
 admin.tamiltotamil.com
 admin.ttqm.com.sg
 admin.voltia.com
@@ -5479,6 +5482,8 @@ af88.cn.com
 af88.co.com
 af88.eu.com
 af88.jpn.com
+af88.life
+af88.run
 af88.uk.net
 af88.us.com
 afaeigaifgsgrhhafd.io
@@ -7154,6 +7159,7 @@ api.netnodeset.pics
 api.newshimforjune.top
 api.newshimone.top
 api.nostragand.top
+api.open-system-infra-logic-base.wiki
 api.openapiservicehub.pics
 api.portimaloter.com
 api.qjweb.xyz
@@ -8298,6 +8304,7 @@ autboxserv.fastnetgatehub.pics
 autboxserv.fromj2nitor.lat
 autboxserv.pav6mirex.pics
 autboxserv.pav8mirel.pics
+autboxserv.scriptnode.pics
 auth-909-check-142-3895.click
 auth-device-553-security-3314.click
 auth-site.site
@@ -9013,6 +9020,7 @@ backend-knwv.onrender.com
 backend.conoeste.cl
 backend.datasystemconsulting.com
 backend.eastkingz.ru
+backend.sextop1.cafe
 backend.thetalentgivenus.com
 backend.zyde.org
 backerweb03.com
@@ -10929,6 +10937,7 @@ bravesttechnology.pw
 braxttp.cyou
 braycircuit.ru
 brazzersseries.com
+brc.loniluekegerman.com
 breadandwine.net
 breaker.br1ghtzone.ru
 breaker1.br1ghtzone.ru
@@ -12313,6 +12322,7 @@ cdn.relatec.it.com
 cdn.rs-dns.sbs
 cdn.sentihey.dedyn.io
 cdn.textits.pics
+cdn.viet69.vg
 cdn.zhuqiy.top
 cdn146-reportdump.coupons
 cdndz.messager.my
@@ -13472,6 +13482,7 @@ cloudflarecache.cfd
 cloudflaredns.duckdns.org
 cloudflarev-pfm.pages.dev
 cloudhub.digital
+cloudinhelper.com
 cloudlare-lndex.com
 cloudpoddle.com
 cloudshape.us.com
@@ -13868,6 +13879,7 @@ comwebstat.fastnetgatehub.pics
 comwebstat.fromj2nitor.lat
 comwebstat.pav6mirex.pics
 comwebstat.pav8mirel.pics
+comwebstat.scriptnode.pics
 con-vent.spb.ru
 con1.jiqubey.ru
 conasevi.gob.sv
@@ -16061,6 +16073,7 @@ dev.ostra-regal.com
 dev.retirevillage.com
 dev.serrurierwagner.ch
 dev.serverdatahub.pics
+dev.sextop1.cafe
 dev.theinstituteofreo.com
 dev.tweethost.com
 dev.united-gs.net
@@ -27353,6 +27366,7 @@ img.livesquare.uk.com
 img.messager.my
 img.s3.masterclasstonewow.com
 img.showermedallions.com
+img.viet69.vg
 img2.huorongsec.com
 imgay.ddos.es
 imgs2.messager.my
@@ -31880,6 +31894,7 @@ ldf7b539.justinstalledpanel.com
 ldgfq.top
 ldl.fozomya6.ru
 ldm.jp
+ldnscreatejs.beer
 ldokja.xyz
 ldx.fireciiff.ru
 ldzmd.shop
@@ -32713,6 +32728,7 @@ logmanagementsys.kernelshift.pics
 logmanagementsys.netinfrahubsys.pics
 logmanagementsys.netlogicstack.co
 logmanagementsys.stackpulse.ink
+logmansys.open-system-infra-logic-base.wiki
 logoru.info
 logs-samp.xyz
 logs.999slot.media
@@ -35251,6 +35267,7 @@ mike-dozens.gl.at.ply.gg
 mike.rivalserver.com
 mikek.in
 mikekaminski.retirevillage.com
+mikelle.beer
 mikeofficer.aurovine.com
 mikescleanoutservice.com
 mikeservers.eu
@@ -35278,6 +35295,7 @@ milisie12-56888.portmap.host
 military-bl.gl.at.ply.gg
 militarygradehosting.com
 militgy.cyou
+milksos.cfd
 mill.vextimber.ru
 milliam.top
 million-acc.gl.at.ply.gg
@@ -41312,6 +41330,7 @@ pi.alexandraparasca.com
 pi.draftus.net
 pi.liberatorpremiercompany.com
 pi.nyfk.ru
+pi.open-system-infra-logic-base.wiki
 pi.q-len.ru
 pi.sne4p.ru
 pi.sqfe6.ru
@@ -44028,6 +44047,7 @@ qz9.zv1a0.ru
 qzec.club
 qzf73dvm.vagusbra.ru
 qzq.zenith-snap.ru
+qzxcwp8k.encryption5hadow.digital
 qzz.va4n.ru
 r-lien.com
 r-s.us
@@ -44781,6 +44801,7 @@ refid.vertexshifthub.lat
 refidcorex.cloudprocmgr.pics
 refidcorex.fastnetgatehub.pics
 refidcorex.globtechnodebase.pics
+refidcorex.scriptnode.pics
 refinspruc.1dorelax.surf
 reflecrung.run
 refloxty.com
@@ -49380,6 +49401,7 @@ srvnode.global-net-admin-service.wiki
 srvnode.kernelshift.pics
 srvnode.netinfrahubsys.pics
 srvnode.netlogicstack.co
+srvnode.open-system-infra-logic-base.wiki
 srvnode.stackpulse.ink
 srvnodehub.devlogicmaster.pics
 srvnodehub.globalnetviewer.pics
@@ -50698,6 +50720,7 @@ syrianoohacker.esy.es
 syriatelsy.com
 sys.docsbed.pics
 sys.infrastructurerun.pics
+sys.open-system-infra-logic-base.wiki
 sys.softnetlink.pics
 sys.softwincli.pics
 sys.systemlogicops.pics
@@ -51299,6 +51322,7 @@ taskidview.fastnetgatehub.pics
 taskidview.fromj2nitor.lat
 taskidview.pav6mirex.pics
 taskidview.pav8mirel.pics
+taskidview.scriptnode.pics
 taskidviewhub.globtechnodebase.pics
 taskprohomerepair.com
 taskrunnersrvmod.com
@@ -55997,6 +56021,7 @@ vazqer.a8ent5ing.ru
 vazyr4ii9.ru
 vb.kpyw-8.ru
 vb.plx5.ru
+vbits.open-system-infra-logic-base.wiki
 vbooter.org
 vbor.in0cubwal1.ru
 vbq6.v1b3forge.ru
@@ -56393,6 +56418,7 @@ vip.googleminigames.com
 vip.xg.frp.one
 viparac.us
 vipbirdrep.com
+vipbookssearch.radio.fm
 vipeshome.com
 vipfilehost.com
 vipfilenet.uni.me
@@ -57467,6 +57493,7 @@ webcdnstat.globalnetviewer.pics
 webcdnstat.kernelshift.pics
 webcdnstat.netinfrahubsys.pics
 webcdnstat.netlogicstack.co
+webcdnstat.open-system-infra-logic-base.wiki
 webcdnstat.stackpulse.ink
 webcdnx.6toralix.lat
 webcdnx.7toralex.lat
@@ -59893,6 +59920,7 @@ xtremestresser.com
 xtremetrax.com.au
 xtroloozyanimailfeeddeals.shop
 xttbd.qen9varol.lat
+xty75g4b.encryption5hadow.digital
 xu.d09r.ru
 xu.kfko-3.ru
 xu.txso-1.ru
