@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-12 13:56:25 UTC
-# Total domains: 8964
+# Generated: 2026-05-12 15:13:54 UTC
+# Total domains: 8966
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2214,6 +2214,7 @@ cloudlifesolutions.com
 cloudmention.icu
 cloudnexushub.com
 cloudrepo.us
+cloudservbr.com
 cloudservicecheck.cc
 cloudwardena.com
 cloudwebstart.net
@@ -4676,6 +4677,7 @@ infos-versand.de
 infosecteam.info
 infoupdatestoday.com
 infowithdecho.net
+infra-telemetry.com
 ing-hilton.com
 ingenieriaelectrica.online
 inkletters.info
