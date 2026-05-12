@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-12 02:44:11 UTC
-# Total domains: 8963
+# Generated: 2026-05-12 08:56:05 UTC
+# Total domains: 8964
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3813,6 +3813,7 @@ g.open
 g.qa
 g.sa
 g.target
+ga6789works.pro
 gabpauto.com
 gabyshomeimprovements.com
 gadellinet.com
