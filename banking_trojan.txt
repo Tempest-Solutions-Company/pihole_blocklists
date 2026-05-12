@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-12 15:13:54 UTC
-# Total domains: 8966
+# Generated: 2026-05-12 21:31:31 UTC
+# Total domains: 8967
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8088,6 +8088,7 @@ tikvok.com
 tikwa-festival.de
 tikwave.site
 timeandthymeagain.com
+timetrakr.cloud
 timhortonssafe.shop
 timing-kings.com
 tinxchpn.quest
