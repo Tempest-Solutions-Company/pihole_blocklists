@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-14 13:50:42 UTC
-# Total domains: 62657
+# Generated: 2026-05-14 15:10:26 UTC
+# Total domains: 62744
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1538,6 +1538,7 @@
 1e1ff22.live
 1e8.stonecl0ud.ru
 1efys.st1ltforge.ru
+1eh2e3taw3g.com
 1ellisburton.zapto.org
 1euk.twirlpane.ru
 1f.deepc0rest.ru
@@ -1745,6 +1746,7 @@
 2025.cnmnmb.top
 20250703.cmgsx.top
 2025takby.duckdns.org
+2026123.xyz
 2026blessings.duckdns.org
 2026worldcupnorthamerica.com
 206-189-201-40.cprapid.com
@@ -1829,6 +1831,7 @@
 25ow.ember-cross.ru
 25qx7.ru
 25smp.audiheadboa7d.lat
+25vrwhcd.estat-goldilock.digital
 26.tcp.cpolar.top
 260941.4y328.ru
 260941.o411213.ru
@@ -2580,6 +2583,7 @@
 4o2.sd4o7.ru
 4o6i.mashvortex.ru
 4ol.ndoq0.ru
+4oob20cq.sue-intentioned.digital
 4p.3druv.ru
 4p1m.kzg-w-4-y.ru
 4p2.wi7e.ru
@@ -3842,6 +3846,7 @@
 8x.datam1st.ru
 8x4.aclz-9.ru
 8xd.r4tu.ru
+8xorq0f0.after-diacritic.digital
 8xouz.driftquartz.ru
 8xx.de.com
 8xx.it.com
@@ -5623,6 +5628,7 @@ africanspicesafaris.com
 africoon.com
 afriqlab.ga
 afrirent.net
+afroempiredance.com
 afrox-divine.nl
 afsdloiutropic.com
 aftermaths-attraction.com
@@ -6239,6 +6245,7 @@ alfacloudx.ru
 alfamexgdl.com
 alfeeha.online
 alfildeiquique.cl
+alfonsocerreti.it
 alforcargo.com
 alfredoway.space
 alfryudabikuta.com
@@ -7328,6 +7335,7 @@ apothfya.qpon
 app-6-v.online
 app-6-v.ru
 app-adj.bomain.ru
+app-front.anmaradigital.com
 app-microsoft.com
 app-rempe.com
 app-slash.co.com
@@ -8085,6 +8093,7 @@ asykgwyigeqcsuce.xyz
 asykkqamiuoqkmmi.xyz
 async01.ddns.net
 asyncawaitzone.com
+asynchronous-message-routing-framework.wiki
 asyncpipelinehub.wiki
 asyocqgoseuckwyq.xyz
 asyokauugeueqcoq.xyz
@@ -8387,6 +8396,7 @@ auth.mstoresabotaniud.site
 auth.newmmaintenanhomes.online
 auth.ricountyassoc.store
 auth.snickers.lol
+auth.unnerpectinreword.us
 auth.xinzyun.cn
 auth3.net
 authcenter.cyou
@@ -8901,6 +8911,7 @@ b23.wi0x.ru
 b27.sx2u0.ru
 b2b-vm6.verticalcommunication.in
 b2b.castorsunglasses.es
+b2b.genethairsalon.com
 b2b.pu5herw0man.ru
 b2blnd.com
 b2bseller.ga
@@ -9424,6 +9435,9 @@ batemanallenfuneralhome.com
 batka228.000webhostapp.com
 batonex.vip
 batonra.qpon
+batppp26.top
+batppp556.top
+batppp91.top
 batsyla.lisx.ru
 battlefled.top
 battpnd.top
@@ -10970,6 +10984,7 @@ bq.w9k6m9.ru
 bq.x-ceu8.ru
 bq5ect.br2qin5pect.ru
 bq6.cdn-2-45.ru
+bq99ksyi.unseen-zorenka.digital
 bqet-3.ru
 bqiy0.impa5sj0ke.ru
 bqk.aspenatlas.ru
@@ -11367,6 +11382,8 @@ buccaneersgab.com
 buchaizav.club
 bucharest.ro.eu.undernet.org
 buchiike.com
+bucket-aws-s1.com
+bucket-aws-s2.com
 bucketsec.tk
 buckeyedude.zapto.org
 buckscountytaxattorney.com
@@ -12736,6 +12753,7 @@ chamado.caldasservice.com.br
 chamber.mailsecuritysxyz.ru
 chamber.st-1-lt-forge.ru
 chambercb.tk
+chameleoninserts.com
 chameloensc.com
 chamjs.com
 champ.f1ercen1ivin.ru
@@ -12748,6 +12766,7 @@ changingcanoes.us.com
 changjiu2.com
 chanjrandalo.com
 chankexpe1.ru
+chanleil.com
 channe-grid.wetshardauth.lat
 channel-belly.gl.at.ply.gg
 channel-expectations.gl.at.ply.gg
@@ -13432,6 +13451,7 @@ classicfinefoods.co.uk
 classicfllters.com
 classietype.com
 classofcovid.org
+claude-code.official-version.com
 claudecode.li
 claudflurer.com
 claudfx.win
@@ -13587,6 +13607,7 @@ closelq.com
 clothcrib.xyz
 clotiahs.info
 clotmh.top
+cloud-infrastructure-management-platform.wiki
 cloud-stack-run-base.co
 cloud-view.org
 cloud.8u2a9.ru
@@ -13773,6 +13794,7 @@ cmstephensconsulting.com
 cmv.d-k-6j.ru
 cmv.ithc-4.ru
 cmv2.y3-68c.ru
+cmvpl.com
 cn-list.info
 cn-people.org
 cn09435.tmweb.ru
@@ -14011,6 +14033,7 @@ compi-canva.zen-5lora.life
 complete-demonstrated.gl.at.ply.gg
 complete-youth.gl.at.ply.gg
 completed-somewhere.gl.at.ply.gg
+complicaty.ru
 complicity-team.org
 complve.top
 comprarseguidoresonline.crearhosting.com
@@ -14298,6 +14321,7 @@ corporate.bomain.ru
 corppop.shop
 corpus.ir
 corpusfortunaevoque.com
+correia.lol
 corretorainvesteja.com.br
 corsapi.messager.my
 cort.uk.com
@@ -14408,6 +14432,7 @@ cpanel.paquetesparaorlando.com
 cpanel.parashaktisolutions.com
 cpanel.retirevillage.com
 cpanel.sayyesmovement.ca
+cpanel.sbkollel.org
 cpanel.shouryapuram.com
 cpanel.sindangkasihnews.com
 cpanel.succeedwithaffiliatemarketing.com
@@ -16627,6 +16652,7 @@ disnotavalidmeantocommunicatemkidlydothe.duckdns.org
 disp-graphics.com
 distancebedroom.xyz
 distantstat.com
+distributed-cache-storage-layer.wiki
 distributed-source-element-package-site.wiki
 distributedobjectstoragenet.wiki
 distributionguitar.xyz
@@ -16703,6 +16729,7 @@ dkpdesiqns.com
 dkpfb.ru
 dks05.cyou
 dktourandtaxi.in.net
+dl.bicstrategic.com
 dl.bramble-fix.ru
 dl.bxof.ru
 dl.mijk.ru
@@ -17662,6 +17689,7 @@ dynmesh5et.xamir9el.lat
 dynnex9os.div0rceskis5ing.pics
 dynven3um.pixelnode.lat
 dypislng.com
+dysimasyd.shop
 dyslexic-picture.000webhostapp.com
 dysplld.top
 dystrophy.ir
@@ -17758,6 +17786,7 @@ e1mz.7-5xc.ru
 e1staffingandrecruiting.com
 e1tvd.4qo8.online
 e1xb.e-dx.online
+e1zwzngt.unseen-zorenka.digital
 e2.97jt.ru
 e2.neoniake.ru
 e2.q-0-spi.ru
@@ -18183,6 +18212,7 @@ edenhillireland.com
 edentista.com
 ederh.za.com
 edfor.partnership-international.com
+edge-processing-network.wiki
 edge.cloudproxyserv.pics
 edge.lugerd.com
 edge.onthewifi.com
@@ -18202,6 +18232,7 @@ edit.mulberriespussies.com
 edithsrl.com
 editing-hub.com
 edition-pulled.gl.at.ply.gg
+editions.seattlemysterylovers.com
 editor-formula.gl.at.ply.gg
 editor-okay.gl.at.ply.gg
 editoracespe.com.br
@@ -19511,6 +19542,7 @@ etcreswr.xyz
 etdtf.org
 etek.club
 etekwuele.in
+eternalchess.com
 eternity-hacks.su
 eternitysoftware.world
 etete.eu
@@ -20730,6 +20762,7 @@ fecalja.cyou
 fectmone.ml
 federacionhipicaasturiana.com
 federated-runtime-network.wiki
+federated-storage-cluster-system.wiki
 fedralmouint.ru.com
 fedwellfarm.com
 fee-capabilities.gl.at.ply.gg
@@ -21006,6 +21039,7 @@ filebee.pw
 fileconverterdownload.com
 filedetutunkurutma.com
 filedisterbuter.icu
+fileless-storage-s3.cc
 filemoney.net
 filename.web.id
 files-get.host
@@ -23465,6 +23499,7 @@ ggkngpssanil.com
 ggpmcodfppkjirg.com
 ggtyyu.pw
 ggww.c-0-sm-1-cweld.ru
+ggx.hypervisor-resource-allocation.in.net
 gh.7nf214.ru
 gh.chri5t1anget.ru
 gh.gi0x.ru
@@ -23820,6 +23855,7 @@ glint.basaltwisp9.ru
 glint.dexlotion.ru
 glint.stormpixei.ru
 glint5.crystalv1be.ru
+glistertexsourcing.com
 glitch.hollowfizz.ru
 glitch.hush-zigzag.ru
 glitch.quirk-paste.ru
@@ -23836,6 +23872,8 @@ global-cloud-infra-logic-manual.wiki
 global-cloud-infra-logic.co
 global-data-mgr-proc-unit.wiki
 global-defe.swimsuit-unable.lat
+global-infra-logic-get-hash.wiki
+global-infra-node-date-hash.wiki
 global-production.us
 global-shop.ru
 global-sourcing.org
@@ -24061,6 +24099,8 @@ gnc-gencerinsaat.com.tr
 gne.gr-3-e-4.ru
 gne.lr2y6.ru
 gnencoonline.com
+gnn.dusapp.com.br
+gnn.fatherchrismas.com
 gnnaneieaojoagisf.su
 gnnaneieaojoagisg.su
 gnnaneieaojoagiso.su
@@ -25577,6 +25617,7 @@ hand.gofumoo29.ru
 hand.k-8-li.ru
 handanzhize.info
 handball.in.net
+handle-me-sv1.com
 handlerharvest.fewhtml.surf
 handout-voivodeshiplink.wiki
 handpaw.click
@@ -25836,6 +25877,7 @@ header.do
 healing-gardens.net
 healinglovehomestay.com
 health-faces.gl.at.ply.gg
+health-smooth-eu1.com
 healthandhope.sa.com
 healthbazar.in
 healthcareblues.com
@@ -26095,6 +26137,7 @@ hideme9r.beget.tech
 hidenseeker.hi2.ro
 hidingllc.shop
 hido.eb2a.com
+hidoslsk.shop
 hidra991.hldns.ru
 hiepphat.com.vn
 hifaboa2.ru
@@ -26218,6 +26261,7 @@ hiv8.polywhiz.ru
 hivbep.sy2bkywa1tz.ru
 hivlcjcvux.com
 hivlot.ar2ble0ffend.ru
+hivuwnd.shop
 hixphoto.com
 hixqer.ro1luzbek5.ru
 hj.03e3x.ru
@@ -26430,6 +26474,7 @@ holyspiritradio.com
 holytrinitybless.in
 holzbau-weiner.de
 hom1e-c2ity.com
+homansicloud.icu
 home-guard-jo.com
 home-remodeling-74269.bond
 home.1web4all.net
@@ -26963,6 +27008,7 @@ hyperlog.ga
 hyperrbeat.top
 hypersprout.portcry.surf
 hyperviseur.net
+hypervisor-resource-grid.wiki
 hypervisorcontrolplanegrid.wiki
 hypervisorresourcecontroller.wiki
 hyphap.lat
@@ -27765,6 +27811,7 @@ incrivelesaber.com.br.heagler.com
 incroqj.top
 inczujv.top
 indalusia.com
+indaspands.shop
 indeego.com.tw
 indef.locker
 independentreservefinance.cc
@@ -28162,6 +28209,7 @@ ipnodes.qen7larex.lat
 ipnodes.qen7varol.surf
 ipnodes.qen9varol.lat
 ipnodes.stick-shaped.lat
+ipodcast.ottawassmotors.com
 iprogyz.com
 ipsc0rp.com
 ipsova.com
@@ -28869,6 +28917,7 @@ jabdfnuridle.com
 jabourrealty.com
 jack-sparrow.su
 jack.quirk-paste.ru
+jack.versionverif.icu
 jack4flash.no-ip.org
 jackaw.asia
 jacket.7-nenop-38-oy.ru
@@ -30724,6 +30773,7 @@ kiemhieptinh.mobi
 kiemtra.website
 kievtstore.com
 kiggwewecpyimvup.com
+kihdsmas.shop
 kihgah.xyz
 kihsmalta.com
 kiiey.ga
@@ -30764,6 +30814,7 @@ kimmenkiz.ru
 kimone.net
 kimono.nqyf-7.ru
 kimorazcinfolap.com
+kimsjafw.shop
 kimstar.com.vn
 kimudesign250912.com
 kimuyu2025.sbs
@@ -33198,6 +33249,7 @@ long-pescar.wiki
 long.l0ngprope1l.ru
 long.wildsh1ne.ru
 longlivedking.webuda.com
+longpih.shop
 longs2chi.org
 longteng-welding.com
 loo-meet.live
@@ -33311,6 +33363,7 @@ lover.0-we-fid-707-i.ru
 loverents.com
 lovesozp.cyou
 lovespiritusmanidibus.eu
+loveuina.shop
 loveworldvirtualchurch.org.uk
 loveyogahealing.com
 loveyou.xcution.pw
@@ -34902,6 +34955,7 @@ marten.martenhain.ru
 marten1.freeddns.org
 marten1.loseyourip.com
 marthaoneil.com
+martialnovalis.com
 martinicos.had.su
 martinsfranca.agencialegalads.com
 martonmogyorosy.com
@@ -34947,6 +35001,7 @@ massivedynamics.pe
 massivesubtle.sorix3en.lat
 masstortnexus.com
 mast.hawkmast.ru
+master-core-system-date-slink.wiki
 master-n3wt0n.webatu.com
 master-pfd.com
 master-system-data-core-wiki.wiki
@@ -35308,6 +35363,8 @@ memkgacuamceagsq.xyz
 memkwisyuamuuomk.xyz
 memmgmuwckoikcwm.xyz
 memmyckswacqswws.xyz
+memory-protection-layer1.cc
+memory-protection-layer2.cc
 memory-retention.gl.at.ply.gg
 memory-scanner.cc
 memory-smilies.gl.at.ply.gg
@@ -35621,6 +35678,7 @@ micromacrotechbase.com
 microman2015.ddns.net
 microsads.net
 microservice-balancer-node.wiki
+microservice-control-plane-node.wiki
 microservice-update-s1-bucket.cc
 microservice-update-s2-bucket.cc
 microservices.webredirect.org
@@ -35776,6 +35834,7 @@ minisolarbot.altervista.org
 ministrycanvapro.com
 minitex.nut.cc
 minjo.info
+minkadsus.shop
 minorbegon.com
 minoshis.wekreate.com
 minoutohd.000webhostapp.com
@@ -37218,6 +37277,7 @@ mz4.q9-j341.ru
 mz6.5bq18.ru
 mz7.tyj-4b.ru
 mzaky.com
+mzfa4p99.sue-intentioned.digital
 mzr.2bj82sg.ru
 mzu8.wildm1st.ru
 mzvo-7.ru
@@ -37942,6 +38002,7 @@ newmaroc.free.fr
 newmobicard.mobimark.net
 newnewnew228.su.swtest.ru
 newpappernews211.ru.com
+newpay115.top
 newposter4season.pw
 newpredatorrabotatsuka.site
 newprotiles.com
@@ -39872,6 +39933,14 @@ onenewmanthailand.com
 oneononefriendship.com
 oneononefriendship.yln.mfs.temporary.site
 oneoptionforeverling.mysynology.net
+onepay114.top
+onepay138.top
+onepay146.top
+onepay178.top
+onepay1951.top
+onepay212.top
+onepay234.top
+onepay58.top
 onespirit.asia
 onestartbrowser.com
 onestartconverter.com
@@ -41220,6 +41289,7 @@ parhazart.org
 paris-cds.gl.at.ply.gg
 paris-shleprx-aaal.info
 parisgranhotels.ga
+parish.menberetsebaotholytrinityeotc.org
 parisnigeria.com
 parisperde.com
 parisrentalconnections.com
@@ -42911,6 +42981,7 @@ prosoucediesel.com
 prosperuosyear.com
 prospexleads.com
 prostawayonce.com
+prostazin.com
 proteamgroup.info
 protectiatgjiu.ro
 protectormexico.com.mx
@@ -47670,6 +47741,7 @@ sepa.site
 sepaglu.top
 separatto.xyz
 seposa.ru
+seppiacultura.org
 sepprod.com
 septxpm.xyz
 seqmachineryhireresale.store
@@ -47782,6 +47854,7 @@ servercode.duckdns.org
 serverddfd.7m.pl
 serverjainpangwang.pw
 serverless-mesh-core.wiki
+serverless-runtime-orchestration-engine.wiki
 servernet.xyz
 serverupp.club
 servgkp.asia
@@ -48017,6 +48090,7 @@ shade.shadowm1nt.ru
 shade8.shad0wdrop.ru
 shaderabbit.host
 shadesquirrel.info
+shadetree.financial
 shadow-grove.ru
 shadow.adv0cal1egat.ru
 shadow.c2dmiumgho5t.ru
@@ -48558,6 +48632,7 @@ sipejou7.ru
 siper.smartvault.com.ng
 siplsystems.com
 sippinlean.xyz
+sippinservice.com
 siq.gr1tmodule.ru
 siradyo1.ru
 siren20260105.com
@@ -49104,6 +49179,7 @@ snake.dietasrapidas.info
 snakeig.click
 snakexox.com
 snap.j1ttersnap.ru
+snap.promantree.com
 snapdealrightnow.com
 snapk.org
 snappis.lat
@@ -50189,6 +50265,7 @@ stabil.co.th
 stabletreasure.com
 stableupdater.ru.com
 stachi.ydns.eu
+stack-core-node-date-hash.wiki
 stack.networkstackmgr.pics
 stack.suf-1-nau-8-h.ru
 stack.variables.below
@@ -50735,6 +50812,7 @@ stuttafordszim.com
 stviro.hi2.ro
 style-tropical.gl.at.ply.gg
 styleclub.tracyjaynehooper.com
+styledsoulseries.com
 stylee.herobo.com
 stylizes.net
 styxb1tch35.su
@@ -51684,6 +51762,7 @@ t7.ru7x.ru
 t7.z-72.ru
 t77n.cheb0t5agit.ru
 t7hjzd.top
+t7osftz9.estat-goldilock.digital
 t7p.v3ix.online
 t7pqm.77-6.online
 t7q2.redm0on.ru
@@ -52261,6 +52340,7 @@ teleeye.com.ph
 telemania.hu
 telemetric.pw
 telemetry-observability-core.wiki
+telemetry-stream-hub.wiki
 telemetry-updatehub.cc
 telemetrywatson.live
 telemety-sys.lol
@@ -52345,6 +52425,7 @@ termination-str-north-cool.trycloudflare.com
 termisksprutning.com
 terra-araucania.cl
 terrabitnetworks.net
+terramarketgroup.com
 terriblekira.su
 territorycaption.xyz
 terryelder.retirevillage.com
@@ -52794,6 +52875,7 @@ tide9r.p0rthopper.ru
 tidvop.pa5spra8mat.ru
 tiedbythreads.online
 tieieieros.su
+tiejdnsadbhs.shop
 tienaris.com
 tiendamatilda.cl
 tifarahbemestar.com.br
@@ -56713,6 +56795,7 @@ vaxton.pw
 vaxton.xyz
 vaykimngan.com
 vayna.in.digitaljaydeep.in
+vaytaichinh247.net
 vazevug.cfd
 vazqer.a8ent5ing.ru
 vazyr4ii9.ru
@@ -58469,6 +58552,7 @@ welcahllyn.com
 welchwrite.com
 welcome-lewis.gl.at.ply.gg
 welcome.ga
+welcomeearth.tv
 welcometimes.info
 welding-machines-27770.bond
 welfar.kz
@@ -59960,6 +60044,7 @@ x1.lunarlicht.ru
 x1.m1dnightr0ad.ru
 x1.s61y5.ru
 x16.life
+x16zauz3.after-diacritic.digital
 x19.k0xx-i4.ru
 x1p.sunny-harbor.ru
 x1r9.798u-g.ru
@@ -60159,6 +60244,7 @@ xc6.s7li.ru
 xc7.deepf0rm.ru
 xcabcmove.cn
 xcd2tiab.cl0udr1dge.ru
+xchangerapp.com
 xclaim-62815.portmap.host
 xclur56f.neumechawl.ru
 xcmt.brim-hopper.ru
@@ -61626,6 +61712,7 @@ yumate.co
 yumcsupply.com
 yumekanaumade.com
 yumewokanaeru365.com
+yumigdjsna.shop
 yummyfoodblog.net
 yuna-chan.net
 yunded.com
