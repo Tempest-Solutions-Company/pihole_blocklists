@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-15 13:04:47 UTC
-# Total domains: 8981
+# Generated: 2026-05-15 16:17:56 UTC
+# Total domains: 8982
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3611,6 +3611,7 @@ firstmeritbank.info
 firstmeritcorp.com
 firstmeritonlinebanking.com
 firstmerittitle.com
+fiscaldocumento.com
 fishermensinn.com
 fishing.me.uk
 fiskemannen.no
