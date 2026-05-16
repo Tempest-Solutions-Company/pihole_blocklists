@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-16 01:27:22 UTC
-# Total domains: 8982
+# Generated: 2026-05-16 04:44:01 UTC
+# Total domains: 8983
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7468,6 +7468,7 @@ silvermoon.co.nz
 simmonsbankarena.com
 simonjohnphillips.co.uk
 simonsignature.com
+simpdocumentos.online
 simple-3-etf-strategy.com
 simplefxmarketonline.com
 simplyfitphilly.com
