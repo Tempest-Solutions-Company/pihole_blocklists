@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-17 13:43:58 UTC
-# Total domains: 8984
+# Generated: 2026-05-17 17:59:09 UTC
+# Total domains: 8998
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4695,6 +4695,10 @@ innovationresearchfocus.org.uk
 innovationsteams.com
 inodly.com
 inphotography.store
+inpsmy.com
+inpsmya.com
+inpsmyi.com
+inpsmyl.com
 inputrreparnt.com
 inr3l.xyz
 insight.tech
@@ -4797,6 +4801,7 @@ istage.online
 istarservice.com
 isun.ch
 it-biz.online
+it-inpsmy.com
 it-loms.ru
 it2gotech.com
 itabit.com.au
@@ -5912,12 +5917,15 @@ my-sharepoint-inc.com
 my-summer-car.com
 my1cloudlive.com
 my2cloudlive.com
+myainps.com
+mybinps.com
 myboeingexpress.com
 mybusinessconnect.com.au
 mycardcare.in
 mycopier.com.my
 mydigitalrevival.com
 myearninbenefits.com
+myeinps.com
 myeviden.com
 myfilepass.com
 myfrance.xyz
@@ -5925,6 +5933,11 @@ mygrammerlab.com
 myhealthybodynow.net
 myhomeservice.pro
 myhypnosishealing.com
+myiinps.com
+myinpsi.com
+myinpsia.com
+myinpsic.com
+myinpsit.com
 myinsights.online
 mykeytakeaway.com
 mylingocoin.com
@@ -5939,6 +5952,7 @@ mysp.shop
 mysterykamchatka.ru
 mystiwlf.xyz
 mythi-epris-fixer.space
+mytinps.com
 mytrailinvest.net
 myundeadneighbour.com
 myvdo.tv
