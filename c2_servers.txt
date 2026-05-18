@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-18 01:16:06 UTC
-# Total domains: 63185
+# Generated: 2026-05-18 06:41:02 UTC
+# Total domains: 63206
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -722,6 +722,7 @@
 0q.p7li.ru
 0q.xvo4.ru
 0q24yb.us
+0q9bvoqh.telemetry-vault.digital
 0qijm.sbs
 0qsir.sbs
 0qt4qd8eckd.com
@@ -1640,6 +1641,7 @@
 1phwsssa.t0rchbasil.ru
 1qb.rk-8-y-6.ru
 1qc.windsh1ne.ru
+1qe4ncxx.runtime-forge.digital
 1qt.st1ltwarp.ru
 1qtbb.aucti0nz7ir.ru
 1r.sx-2-u-0.ru
@@ -2002,6 +2004,7 @@
 2ts4xbdl.inimit9adin2.ru
 2tx.kj-4-o-0.ru
 2u.aud1mi5s.ru
+2u5vvnoh.microservice-pulse.digital
 2u6njk55okdxvrup5feu3wbhyxvlqla7yuj2oz3xkzz27yzc66vcirqd.onion
 2u8.si9a.ru
 2ueuas0z.n1ghtsh0re.ru
@@ -3648,6 +3651,7 @@
 8343.basaltwerk.ru
 835208.cc
 837.bw-6-u-0.ru
+83j6hfza.runtime-forge.digital
 83x6d0ks.compres5text0l.ru
 84.c70ye.ru
 84.d55u5.ru
@@ -8275,6 +8279,7 @@ aud-1-mi-5-s.ru
 audi-vector.centrifuge-four.lat
 audia3i.com
 audicontadores.com
+audio-attenuator-schematic.garden
 audio-soc.gl.at.ply.gg
 audio.aud-1-mi-5-s.ru
 audio5.soundg0.ru
@@ -9189,6 +9194,7 @@ bactergy.cyou
 bacteriopsonin.shop
 bad-dragoon.flowadvertising.ro
 bad.wtes4.ru
+bada-bing-sopranos-lounge.garden
 badaeduahedhhuaag.top
 badaeduahedhhuaeg.top
 badaeduahedhhuag.top
@@ -14273,6 +14279,7 @@ contadoriaporto.com.br
 container-folder-gized-greenhub.garden
 containerfabric.wiki
 containerizedecosystem.garden
+containerizedgardenmesh.garden
 containerizedplantmesh.garden
 containerizedworkflowengine.courses
 containerlocks.co.za
@@ -14881,6 +14888,7 @@ crippoloiutustrope.tk
 criptomaker.com.br
 crisp.cucy.ru
 crispershf.hc0.me
+crispy-chicken-cutlets.garden
 cristianordonez.dev
 cristinacanga.com
 criticalcare-neurotrauma.ca
@@ -15328,6 +15336,7 @@ cyberhex.space
 cyberink.btcsfarm.com
 cyberknull.publicvm.com
 cybermac.co.tz
+cybernetic-prosthetic-lab.garden
 cyberneticodyssey.com
 cyberomer69.no-ip.org
 cyberperficient.com
@@ -18319,6 +18328,7 @@ ecordsuspension.services
 ecosoftdigital.com
 ecostore.co.il
 ecosystemmanagementhub.garden
+ecosystemprocessingcenter.garden
 ecproject.xyz
 ecq0.p1acetit1e.ru
 ecuries-augias.com
@@ -24561,6 +24571,7 @@ got-flexl-distrib-engine.garden
 got.djvirus.kiev.ua
 got.marcialongman.com.br
 gotextileltd.com
+gothic-cathedral-blueprint.garden
 gotimaya.in
 gotmedrovenl.com.haydenconsulting.ca
 goto.166bet.com.br
@@ -34401,6 +34412,7 @@ maginstant.net
 magixvegaspro.com
 magmacreativehub.shop
 magnaki.com
+magnetic-levitation-train.garden
 magnetiqsolutions.com.au
 magnum-movies.com
 magoe.org
@@ -38215,6 +38227,7 @@ netvector.wiki
 netvison-il.net
 netvvork-hinge.cybernode.ink
 networ2-forge.scriptmesh.ink
+network-harbor.digital
 network-lab.info
 network-security-ops-flow-base.wiki
 network.spamhaussupport.org
@@ -40679,6 +40692,7 @@ orbit2.turbo-tap.ru
 orbit5.starf0ld.ru
 orbit8.dup-1-ic-4-ermaph.ru
 orbit9.warpclutch.ru
+orbital-docking-module.garden
 orbitkamm.ru
 orbitkrone.online
 orburi.ru
@@ -46778,6 +46792,7 @@ runnrxl.top
 runtime-atlas.digital
 runtime-control-plane.courses
 runtime-core-fabric-get.garden
+runtime-forge.digital
 runtimebroker.pw
 runtimeexecutionlayer.wiki
 runtimefabric.courses
@@ -48781,6 +48796,7 @@ sicarscarr.co.uk
 sicc-italia.cf
 sicher-de.click
 sicher-online-banking.jobelyn.com.ng
+sicilian-defense-theory.garden
 sidaksodhi.in
 sidecarsafaritours.com
 sideruq.cyou
@@ -51245,6 +51261,7 @@ subclis.sorix9el.surf
 subclis.vexon4al.lat
 subdomain.minhaempresa.tv
 subdvivw.shop
+subfossil-oak-chronology.garden
 subindo.com
 sublupm.top
 submitted-mortality.gl.at.ply.gg
@@ -57214,6 +57231,7 @@ vbr.uk.com
 vbsdu8w9ockjhk.in
 vbt-one.biz
 vbv.hidayahnetwork.com
+vbvfs28b.network-harbor.digital
 vbvx.com
 vbwar.com
 vc.5-rt.ru
@@ -57754,6 +57772,7 @@ vl.goxuxuy4.ru
 vl.lexz.ru
 vl.namenyo.ru
 vl2017.com
+vla2h0e7.microservice-pulse.digital
 vla6j.softw1nd.ru
 vlaarabia.com
 vlad-kharin-2000.myjino.ru
@@ -59591,6 +59610,7 @@ wl.ha5r.ru
 wl.xabz.ru
 wl0pvkbn.bget.ru
 wldpcgpkdxhdhvlpjc.com
+wlede4d3.network-harbor.digital
 wlinscp.org
 wlj.bg4o2.ru
 wlk.n5ol.ru
@@ -61851,6 +61871,7 @@ yj775.top
 yje.myhehaa4.ru
 yje.vexdapper.ru
 yje.xibovyu5.ru
+yjs4ih2y.telemetry-vault.digital
 yju0.c2dmiumgho5t.ru
 yjxm4.ever-mint.ru
 yk.dk9a6.ru
