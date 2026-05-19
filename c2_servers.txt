@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-18 18:59:50 UTC
-# Total domains: 63954
+# Generated: 2026-05-19 01:11:40 UTC
+# Total domains: 63993
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2000,6 +2000,7 @@
 2t1ridv.logicbyte.lat
 2tannenpfad.ru
 2tfg15f1.blu3field.ru
+2tfq28mb.stack-matrix.digital
 2tj.fp-0-y-9.ru
 2tkvw.twist-nova.ru
 2to.t0rchmingle.ru
@@ -2616,6 +2617,7 @@
 4q.rubyraum.ru
 4q.wreckly.ru
 4q3wy64m.runtime-sphere.digital
+4qm7sqpa.cyber-harbor.digital
 4r.bramblestrom.ru
 4r.l2nd0fenet.ru
 4r1i.zenithsnap.ru
@@ -3074,6 +3076,7 @@
 64bc33vp.chequecholeric.digital
 64d-821.ru
 64d.s7li.ru
+64erqqb2.cyber-harbor.digital
 64m.d1sputl2b.ru
 64x.eu
 65.ha7e.ru
@@ -3708,6 +3711,7 @@
 8777vjilrelz0sx7fc1ppzdh0nzoa15ilj8kuk4f.gq
 877zsa.earoauth.life
 879.lo9q.ru
+87e0bbc636999b.lhr.life
 87i.co.uk
 87kd.fl0wstone.ru
 88-pay.cc
@@ -3834,6 +3838,7 @@
 8q7.oceanshift.ru
 8ql.n6ri.ru
 8qs.ravenklause.ru
+8qxg5lyp.logic-pulse.digital
 8r.g-1-zmotrail.ru
 8r.ha0m.ru
 8r.kijx.ru
@@ -9095,6 +9100,7 @@ b3.wuhp.ru
 b3.yy88.ru
 b3fas.c0uperu8nia.ru
 b3g3.j1ngleknob.ru
+b3gl3j28.logic-pulse.digital
 b3h7.085-x-89-c.ru
 b3m.q3lo.ru
 b3ry.bounceme.net
@@ -9164,6 +9170,7 @@ b8c90.ru
 b8q.5u5vbu6.ru
 b9.5bq18.ru
 b9.dlun-7.ru
+b94b6bcfa27554.lhr.life
 b95363d7.beget.tech
 b9c.340-k.ru
 b9c.m074.ru
@@ -11069,6 +11076,7 @@ bot.rehannnap.my.id
 bot.thorcc.net
 bot.windy.wtf
 botan-it-getwork-flow.garden
+botanicalanalyticsengine.garden
 botanicalautomationengine.garden
 botanicalmonitoringengine.garden
 botanicalprocessingengine.garden
@@ -14466,6 +14474,7 @@ container-folder-gized-greenhub.garden
 containerfabric.wiki
 containerizedbloomhub.garden
 containerizedecosystem.garden
+containerizedgardenhub.garden
 containerizedgardenmesh.garden
 containerizedplantmesh.garden
 containerizedplantnetwork.garden
@@ -17014,10 +17023,12 @@ distributed-growth-network.garden
 distributed-petal-network.garden
 distributed-source-element-package-site.wiki
 distributed-storage-layer.courses
+distributedbotanicalnetwork.garden
 distributedcache.courses
 distributedgardencontrol.garden
 distributedgardenresource.garden
 distributedgrowthnetwork.garden
+distributedmeadownetwork.garden
 distributedobjectstoragenet.wiki
 distributionguitar.xyz
 distributiontheory.cfd
@@ -18597,6 +18608,7 @@ ed0c6.gritpillow.ru
 edallionroofrepairs.xyz
 edanurcakmak.com
 edanurjezi.com
+edcf8b03c84634.lhr.life
 edclive.help
 eddw.ru
 eddy-elderventures.com
@@ -19165,6 +19177,7 @@ elisoxctez.info
 elite.5-ninet-1-ou.ru
 eliteacademy.school
 elitealcohol.ru
+elitecheats.live
 elive123go.com
 elixis.br.com
 elizabethpastry.com
@@ -20963,6 +20976,7 @@ fallow.ant1sepgue7.ru
 fallverify.pav9mirel.lat
 falofao.cyou
 falsapa.qpon
+falseflag1.ru
 faltbuecher.de
 faltlsj.top
 falx.ve1vetc0ves.ru
@@ -21208,6 +21222,7 @@ federatedgrowframework.garden
 federatedmeadowcluster.garden
 federatedmeadowsystem.garden
 federatedplantcluster.garden
+federatedplantplatform.garden
 federatedstoragelab.courses
 fedij.com
 fedralmouint.ru.com
@@ -21927,6 +21942,7 @@ flora-processing-framework.garden
 flora-security-base.garden
 floraanalyticsengine.garden
 floraanalyticsresource.garden
+floraautomationnetwork.garden
 floradatextil.kbral.com.br
 floralartandsugarcraft.com
 floraobservabilitysystem.garden
@@ -23296,6 +23312,7 @@ gaquh6ee7.ru
 garden-sugizo.com
 gardenautomationframework.garden
 gardeninfrastructurelab.garden
+gardenresourcecontroller.garden
 gardenworkflowcenter.garden
 garellla-30563.portmap.host
 garex.xyz
@@ -25087,6 +25104,9 @@ greengy.tech
 greenhillmatrix.top
 greenhouse-climate-control-sys.garden
 greenhousecontrolhub.garden
+greenhousecontrolplatform.garden
+greenhousedeploymenthub.garden
+greenhousemanagementengine.garden
 greenhousemonitoringhub.garden
 greenhouseoperationscenter.garden
 greenhouseoperationshub.garden
@@ -26469,6 +26489,7 @@ heavy40.5-juzeb-0-io.ru
 heavylussy.su
 heavywbp.cyou
 hebglasswere.com
+hebsbsbzjsjshduxbs.xyz
 hec.web.id
 heck.qlkwr.com
 hecked-by-brain-krebs.biz
@@ -28988,6 +29009,7 @@ irrigation-resource-system.garden
 irrigationautomationhub.garden
 irrigationmanagementhub.garden
 irrigationprocessingnetwork.garden
+irrigationworkflowsystem.garden
 irrufnv.cyou
 irtrghhgfgerd.xyz
 irtualbuildingstudio.net
@@ -30516,6 +30538,7 @@ k0.pixelstern.ru
 k0.q7y4s.ru
 k0.u49n.ru
 k0.v57eo.ru
+k020e5b3g0h.com
 k0fj3.k9-2g8.ru
 k0h.softshadow.ru
 k0hs.9-32p.ru
@@ -33781,6 +33804,7 @@ logger.comuv.com
 loggerkeys.us
 loggonvelvego.com
 logic-buffer-skills.courses
+logic-pulse.digital
 logic-sphere.digital
 logic.systemlogicops.pics
 logic7.go0dsc1ence.ru
@@ -34224,6 +34248,7 @@ lunbeygenwizxiyn.info
 lund.0cusign.com
 lunexmods.io
 lunkem.com
+lunyrax.com
 luoicongtrinh.com.vn
 luongsontv.io
 luongsontv.tv
@@ -35914,6 +35939,7 @@ meadow.driftmeadow.ru
 meadow.wduh-8.ru
 meadow0.ic0n1cbrook.ru
 meadowautomationplatform.garden
+meadowmanagementcenter.garden
 meadowmonitoringplatform.garden
 meadowprocessingcenter.garden
 meadowworkflowplatform.garden
@@ -38878,6 +38904,7 @@ nf.1yjp.ru
 nf.hpap-6.ru
 nf0g.shad0wmist.ru
 nfbaeiudhaiedhhgf.su
+nfcrackatm.com
 nfdws.shop
 nfmedi.net
 nfml0shm.udmu7tsw2rp.ru
@@ -42568,9 +42595,12 @@ petal-distribution-hub.garden
 petal-routing-platform.garden
 petal7.fr0stpetai.ru
 petal9.ston3garden.ru
+petalautomationplatform.garden
 petaldistributioncenter.garden
 petaldistributionplatform.garden
 petalprocessingplatform.garden
+petalresourceframework.garden
+petalworkflowengine.garden
 petcasalove.site
 peter-appendix.gl.at.ply.gg
 peter.am-strand.de
@@ -46449,6 +46479,7 @@ remote1.gq
 remote1.tk
 remote2.dmg-tech.com
 remotestack.org
+remotev2.falseflag1.ru
 remotev2.whbackend.ru
 remotev2.whpayment.ru
 remove-limited-account.islamichost.org
@@ -48733,6 +48764,7 @@ seringbo.com
 sermarkal8.expo5ejouer.lat
 sermesh7um.didoprotecauth.lat
 serov.logomebel.ru
+serowq.shop
 serpentinelexicon.pro
 serpukhov.logomebel.ru
 serqen.clears0ul.ru
@@ -49421,6 +49453,7 @@ sigaindia.com
 sigalitz.com
 sigdalokanolkas.com
 sightgivers.org
+sightseerdj.com
 sigil.chan8eembr2ce.ru
 sigma-medicare.com
 sigma.calculu5eve7y.ru
@@ -50745,6 +50778,7 @@ sphere.he8em0nfated.ru
 spherewinner.ga
 spiceperfect.org
 spicsxz-52017.portmap.host
+spicynagets.shop
 spider-wamp.com
 spider.fvds.ru
 spideri.pics
@@ -51660,6 +51694,7 @@ storage.westinsinsurance.com
 store-content.net
 store.alignfrisco.com
 store.cloudsdog.top
+store.greendreamcannabis.com
 store.metascrape.com
 store.xinnomix.net
 store101.tk
@@ -55071,6 +55106,7 @@ tutsreports.asia
 tuttodrink.it
 tuttyfrutty.hol.es
 tutvids.ir
+tutymart.com
 tuu.nu
 tuuik.com
 tuvalul.cyou
@@ -57736,6 +57772,7 @@ v9oe2nsym.localto.net
 v9p3.565fit.ru
 v9q3.3u-6.online
 v9r.a-8-xp.ru
+v9rvls59.stack-matrix.digital
 v9rx.4-l8u.ru
 v9tc.7l-0b.ru
 v9x2.lb3091.online
@@ -59999,6 +60036,8 @@ wilder-flow-work-lmsystem.garden
 wildfloracontrolsystem.garden
 wildfloragrowthsystem.garden
 wildflorainfrastructure.garden
+wildfloraintegrationplatform.garden
+wildfloraprocessinghub.garden
 wildfloraprocessingsystem.garden
 wildfloraresourceengine.garden
 wildfloraworkflowsystem.garden
