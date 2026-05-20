@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-20 13:17:12 UTC
-# Total domains: 9012
+# Generated: 2026-05-20 16:50:16 UTC
+# Total domains: 9013
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7478,6 +7478,7 @@ signin-okta.com
 signoflife.com
 signsafe.site
 signsafe.xyz
+signspace.cloud
 signzilla.com
 sigopt.com
 sigopt.org
