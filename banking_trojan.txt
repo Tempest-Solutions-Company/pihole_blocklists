@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-20 16:50:16 UTC
-# Total domains: 9013
+# Generated: 2026-05-20 23:15:42 UTC
+# Total domains: 9016
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2832,6 +2832,7 @@ dksu.top
 dl.aginjector.com
 dlhaika.com
 dlucca.com
+dlxfreights.site
 dly1.top
 dm-betonbohren.de
 dmtmag.com
@@ -3627,6 +3628,7 @@ fivelittlemonkeys.fun
 fiveoakstuscaloosa.com
 fiveonjan6ar.net
 fiwbyjhu.ru
+fixedfloat.inc
 fjcszh.com
 fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion
 fkfjrvfa.cn
@@ -5710,6 +5712,7 @@ memeloop.ai
 memesphere.site
 memgu.ru
 menang-koplo77.com
+mensualgeneratr.com
 menusand.com
 mepunico.com
 merary.com
