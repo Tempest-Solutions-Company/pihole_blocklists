@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-21 01:15:58 UTC
-# Total domains: 9016
+# Generated: 2026-05-21 05:40:22 UTC
+# Total domains: 9018
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2379,6 +2379,7 @@ contortonset.com
 contributionmaximizer.com
 contx.site
 convergenceai.net
+convitemundial2026.com
 coogie.top
 coogl.top
 cool-by-carrier.com.es
@@ -8712,6 +8713,7 @@ window.top
 windowolow.shop
 windows-downloads-app.com
 windows-msg-as.live
+windowsk-cdn.com
 winonavannorman.com
 winredirect.com
 winrler.com
