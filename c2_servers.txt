@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-05-21 18:32:11 UTC
-# Total domains: 64393
+# Generated: 2026-05-22 00:54:14 UTC
+# Total domains: 64414
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -617,6 +617,7 @@
 0fl12tn98ai.top
 0flux.net
 0fnyk111.sbs
+0frduisp.cloud-meridian.digital
 0g.su-4n.ru
 0g3eo.sbs
 0g6xawfs.badabingsopranoslounge.digital
@@ -11938,6 +11939,7 @@ byspotikfy.com
 byt3rx.leafbyte.ru
 byte-horizon-get-hash.courses
 byte-stream-encryption-standard-base.wiki
+byte-vault.christmas
 byte.amy8ep1thet.ru
 byte.b0okca7niv.ru
 byte.b1tcascade.ru
@@ -13965,6 +13967,7 @@ cloud-infrastructure-management-platform.wiki
 cloud-infrastructure.garden
 cloud-sphere.digital
 cloud-stack-run-base.co
+cloud-sync-engine.christmas
 cloud-sync.courses
 cloud-view.org
 cloud.8u2a9.ru
@@ -14034,6 +14037,7 @@ cloudmicro.pro
 cloudmicro.tech
 cloudpoddle.com
 cloudpuput.com
+cloudruntime.christmas
 cloudruntime.courses
 cloudservbr.com
 cloudshape.us.com
@@ -14557,6 +14561,7 @@ contactdisrupwhite.wiki
 contador.visitante-group-new.cf
 contadoriaporto.com.br
 container-folder-gized-greenhub.garden
+container-mesh.christmas
 containerfabric.wiki
 containerized-growth-platform.garden
 containerized-growth-system.garden
@@ -14582,6 +14587,7 @@ content-website-analytics.com
 content.aawe.finance
 content.sentihey.dedyn.io
 content.teamslivesupport.com
+contentprotectiongate.com
 contents-douglas.gl.at.ply.gg
 contents-hungarian.gl.at.ply.gg
 contest.3squaredco.com
@@ -16661,6 +16667,7 @@ dent.twigmantle.ru
 dentalconcernsanswered.com
 dentist-dental-care-99908.bond
 dentistmastercanada.com
+dentmt.us
 dentures-37384.bond
 denvereasthsathletics.com
 deo.ydns.eu
@@ -33697,6 +33704,7 @@ linqr.info
 linux-seminars.gl.at.ply.gg
 linux.docker-update.com
 linuxdeals.ru
+linuxkerneldbs.com
 linxiabeautyworks.com
 lio.vbep3.ru
 lion.web2.0campus.net
@@ -36664,6 +36672,7 @@ microman2015.ddns.net
 microsads.net
 microservice-balancer-node.wiki
 microservice-control-plane-node.wiki
+microservice-hub.christmas
 microservice-update-s1-bucket.cc
 microservice-update-s2-bucket.cc
 microservicecluster.courses
@@ -36671,6 +36680,7 @@ microservicehub.courses
 microservices.webredirect.org
 microservisetrue.vip
 microsharepolnt.store
+microsmeet.xyz
 microsofer.top
 microsofrtonline.com
 microsoft-graphics.ddns.net
@@ -38956,6 +38966,7 @@ netvector.wiki
 netvison-il.net
 netvvork-hinge.cybernode.ink
 networ2-forge.scriptmesh.ink
+network-flow-system.christmas
 network-harbor.digital
 network-lab.info
 network-security-ops-flow-base.wiki
@@ -42265,6 +42276,7 @@ pacificpie.com
 pacificshipping.org
 paciorekradom.pl
 pack-bar.1zorelin.lat
+packet-distribution-core.christmas
 packet-lattice.digital
 packet-relay-engine.courses
 packet-relay-engine.garden
@@ -44213,6 +44225,7 @@ proxies.internetshadow.link
 proxies.internetshadow.org
 proximns-bg.com
 proxusuallyflip.com
+proxy-hub.christmas
 proxy-matrix-kernel-on.courses
 proxy.bonch.dev
 proxy.cloudproxyserv.pics
@@ -45961,6 +45974,7 @@ r1.x3u0s.ru
 r15u.patterjack.ru
 r15yi.fl-0-wmortar.ru
 r18.no-ip.biz
+r1iugua4.cloud-meridian.digital
 r1m.y3-68c.ru
 r1m3k.sa3x.online
 r1m8q.ha0m.online
@@ -49768,7 +49782,9 @@ sigma-medicare.com
 sigma.calculu5eve7y.ru
 sigmaratohio-52009.portmap.host
 signal-bridge.digital
+signal-core-engine.christmas
 signal-late-it-folder.courses
+signal-processing-core.christmas
 signalenzy.mav2lirex.lat
 signamoykloysd.com
 signature.seaskyservices.com
@@ -51640,10 +51656,12 @@ stabletreasure.com
 stableupdater.ru.com
 stachi.ydns.eu
 stack-core-node-date-hash.wiki
+stack-flow.christmas
 stack.networkstackmgr.pics
 stack.suf-1-nau-8-h.ru
 stack.variables.below
 stack8.f-2-na-7-under.ru
+stackbridge.christmas
 stackcoupon.baked5ham.lat
 stackforge.wiki
 stackforgeacademy.courses
@@ -53767,7 +53785,9 @@ telemania.hu
 telembank.com
 telemetric.pw
 telemetrin.com
+telemetry-control-hub.christmas
 telemetry-folder-stream-core.garden
+telemetry-grid.christmas
 telemetry-observability-core.wiki
 telemetry-orbit.buzz
 telemetry-stream-core.courses
@@ -55093,6 +55113,7 @@ trategy-21.net
 traucotravel.com
 traum.hostronavt.ru
 traumadj.cyou
+travel-js-ns.beer
 travel-ustrip.us.com
 travel.bumbleshrimp.com
 travel.thattravelclub.com
