@@ -111,6 +111,17 @@ This blocklist provides protection against:
 - **Storage**: 100MB free space for blocklist cache
 - **Network**: Regular internet connectivity for updates
 
+## Protecting Discord Communities
+
+We are currently developing a discord bot that uses these backlists to prevent malicious links been posted within your communities.
+
+What the discord bot does:
+- Prevents malicious links been posted in discord servers.
+- Logs the removed messages alnong with the username, user id, original message and what link is matched in the blocklist.
+- displays a message to the origial messge poster giving a reason why the message has been deleted and timed removal of the notice messge to keep the discord server channel clean.
+
+Giving your servers admin's and moderators valuable threat inteligence about your servers members.
+
 ## Support
 
 - **False Positives**: [Report here](https://github.com/Tempest-Solutions-Company/pihole_blocklists/issues)
