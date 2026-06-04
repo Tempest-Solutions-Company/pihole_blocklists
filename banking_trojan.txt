@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-05-23 02:06:30 UTC
-# Total domains: 9196
+# Generated: 2026-06-04 09:17:31 UTC
+# Total domains: 9263
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -319,6 +319,7 @@
 4-most.co.uk
 4-personal-injury-lawyer-1.click
 401kmr.com
+404-founders.com
 40arrow.com
 40sjrb.ca
 40verizonbusiness.com
@@ -436,6 +437,7 @@
 888brand.shop
 8bitdosafe.shop
 8coc.com
+8fn4957c5g986jp.xyz
 8h5c.top
 8jcy.top
 8onyourcell.com
@@ -599,11 +601,14 @@ adoniexmar.xyz
 adorgraphics.com
 adorprint.com
 adriot.org
+ads-parkpro.com
 adsco.online
 adsemail.com
 adsku.cyou
 adsmarketart.com
 adsmarks.com
+adsparkpro.net
+adsparkpro.top
 adspowerch.com
 adspowercn.com
 adsservice2.org
@@ -670,6 +675,7 @@ aicoinch.com
 aicoincn.com
 aicure.it
 aida-association.org
+aidm8it5hf1jmtj.xyz
 aigouzhi.com
 aim24care.co.uk
 aimp.day
@@ -697,6 +703,7 @@ ajx291.online
 ak088996.best
 ak088997.best
 ak3z.top
+akamaicloud.com
 akash-dth.com
 akcjdrya.com
 akdisdeposu.com
@@ -738,6 +745,7 @@ alexkokhan.com
 alfatapes.space
 alh.online
 alianzasuma.com
+alibaba.xyz
 alibabaskitchen.com
 aliceweidel.info
 alien1452.com
@@ -782,6 +790,7 @@ alpensattelus.shop
 alperu.top
 alphacam.com
 alphadogprinting.com
+alphamountain.ai
 alphazone.icu
 alpileannn.com
 alpxm.top
@@ -990,6 +999,7 @@ aradecto.uk
 arancal.com
 arazakasoftware.com
 arbollanguages.com
+arbsniper.com
 arcashop.org
 archer-meek.com
 archimedescapitalltd.com
@@ -1119,6 +1129,7 @@ atoztreasure.com
 atp2.top
 atportal-das-financas.com
 atsgen.com
+atsheisdomestic.org
 attendrvaschools.com
 attorneys-au-q.click
 atucasa.store
@@ -1486,7 +1497,9 @@ bitchro.top
 bitchyf.it
 bitcoinvn.io
 bitemebbq.com
+bitget-meeting.com
 bithumbcorp.com
+bitlrewards-app.com
 bitycgb.com
 bixiayd.com
 biz-vanta.online
@@ -1803,6 +1816,7 @@ byggtjanst.se
 byndbit.com
 byonabyangufoundation.org
 bypudge.xyz
+byte-io.us
 byte.com
 bytedeciencia.org
 bytelink.sbs
@@ -1861,6 +1875,7 @@ canghaugiang.vn
 canhovincity-daimo.com
 canli.biz
 canoecubs.com
+canomata.cc
 canta.rr.gov.br
 cante.store
 caornaments.com
@@ -1910,6 +1925,7 @@ carnesmemdesa.com
 carneysandoe.com
 carnivalsafe.shop
 carnivoresbbqsandwichshop.net
+carozule.cc
 carpen82.com
 carpowertools.com
 carrerlilla.com
@@ -2060,6 +2076,7 @@ cheapbeatsbydrevstore.com
 cheapchernobyltour.com
 cheatsiosvip.site
 check-googlle.com
+check02id.com
 checkingsoftwareupdate.at
 checkingupdatesoftware.at
 checkoutrouteprotected.com
@@ -2236,6 +2253,7 @@ closeoutpackaging.com
 closertomydreams.com
 cloud-m32s-center.pro
 cloud-server.store
+cloud-sync.online
 cloudcracia.com
 cloudlifesolutions.com
 cloudmention.icu
@@ -2413,6 +2431,7 @@ coppereducation.com
 coragre.com
 coralmeraki.com
 coramai-vision.com
+corasina.cc
 corbapi.cf
 core-progression.com
 corebassg1.live
@@ -2626,6 +2645,7 @@ das-kombinat.org
 dashboard-salesforce.com
 data-pass.org
 datacloudgen.com
+datahub.ink
 datainsightautomation.com
 datapanel.icu
 datasaur.info
@@ -2675,6 +2695,7 @@ deadpvp.eu
 dealengineai.com
 dealerservices.shop
 dealt.ca
+dearita.cc
 debtsolutions4u.ca
 debuging.com
 decenthat.com
@@ -2687,6 +2708,7 @@ decobolas.com
 decoris.pro
 decreaserid.world
 deepchecks.com
+deepminds.me
 deepsekk.sbs
 defacerhost.ml
 deiceswildrodeo.us
@@ -2757,6 +2779,7 @@ dev3.online
 devanata.shop
 developmentvip.com
 devf4.com
+devicelinkintel.com
 devilspen.com
 devlatsolutions.com
 devlaunch.online
@@ -2993,6 +3016,10 @@ drinkthink.us
 drive-share.com
 drivedanaford.com
 drivemyfile.com
+driver-hub.net
+driver-store.com
+driver-update.io
+driver-updater.net
 driverservices.store
 drivesmartgeorgia.com
 drivingdirections.online
@@ -3014,6 +3041,7 @@ drovenor.today
 droxia.top
 drummerworld.com
 drvidhya.in
+drvstore.com
 drwhitaker.com
 dsfljsdfjewf.info
 dsp-mdf.com
@@ -3374,6 +3402,7 @@ eternalhours.site
 eth64.de
 etherinvest.org
 ethzx8.com
+etoftheappyrince.org
 etradeai.icu
 etradeapi.icu
 etradelogistic.icu
@@ -3388,6 +3417,7 @@ eussownwpyxdw.online
 eva-lu.com
 evaluecrm.com
 eve-come.com
+event.name
 eventbright.com
 eventbrite.biz
 eventespresso.com
@@ -4265,6 +4295,8 @@ hamilton-electric.com
 hamparts.shop
 hamshams.com
 hanaialii.com
+handala-hack.tw
+handala.red
 hangiokul.com
 happy.com
 happyhourjazz.com
@@ -4295,6 +4327,7 @@ hdfc-netbanking.secure
 hdgjgw.com
 hdzfmelf.com
 headlinepost.net
+healightejustb.org
 healthnetfederal.com
 healthnetfederal.net
 healthnetfederalservices.com
@@ -4766,6 +4799,7 @@ insulet.com.mx
 insulin.store
 integralsm.cl
 intelagentmedia.com
+intelcloudinsights.com
 intelligentopennetworkingawards.com
 interactive-proltd.com
 interactvebroker.com
@@ -5071,6 +5105,9 @@ jusl3.top
 justajer.com
 justcasting.pw
 justefood.com
+justicehomeland.info
+justicehomeland.org
+justicehomeland.ru
 justoneday.online
 justoyeco.com
 juventud-luminosidad.site
@@ -5331,6 +5368,7 @@ laratozy.uk
 largofitness.com
 lariclanourt.uk
 larkspuratx.com
+lasotila.cc
 lastpass-login-help.com
 latamics.org
 latestsports.online
@@ -5459,6 +5497,8 @@ listings360insight.com
 listra-waitlist.uk
 litertegfsr.town
 littlekylie.com
+live.ong
+live.org.mx
 liveassistent.online
 livecrickettvapp.site
 livecrickettvhd.online
@@ -5712,6 +5752,7 @@ masylator.org
 matchinaz.com
 matconi.com
 math-lessons.online
+matibasta.cc
 matjrah.online
 matlockslocknkey.com
 mattchampion.co
@@ -5790,6 +5831,7 @@ melissareliefjamaica.net
 melissareliefjamaica.org
 melivaco.uk
 melj.dev
+melotano.cc
 memego.site
 memeloop.ai
 memesphere.site
@@ -5822,6 +5864,7 @@ mhm99.tk
 mhrbronow.online
 miabby.com
 mianfeijiedian.com
+mibleanso.uk
 mic-tests.com
 micareactor.uk
 michael-schuller.de
@@ -5939,6 +5982,7 @@ montereyfinancial.com
 moona.tv
 morablia.uk
 moraleans.uk
+moreavata.cc
 moreazule.cc
 morecoworking.com
 moreofme.site
@@ -5952,6 +5996,7 @@ morvath.com
 mos-prom-service.ru
 mosaicconfirm.com
 moscable77.ru
+mosleanita.cc
 mosolymp.ru
 motchillie.io
 motchilltv.how
@@ -5985,6 +6030,7 @@ mroindustrialequipments.com
 mrpenterprise.in
 ms32-download.pro
 mscsoftware.com.br
+msdeliverycontent.com
 msftconnectfest.com
 msgportal.online
 msing.cc
@@ -6233,6 +6279,7 @@ noaignite.co.uk
 noblece-email.com
 node.media
 noformmicrosoft.com
+nolaunifo.cc
 nomiagrouplimited.com
 nonebeen.net
 noonteam.store
@@ -6938,6 +6985,7 @@ pub-40f0bc7019cc4cc4af33b722c6d5f182.r2.dev
 pub-74506ace261846d4bfc80d45a1f06b40.r2.dev
 pub-8bf10830d4fa42d3a538fa7b302d55b3.r2.dev
 pub-8f57965f8599440e97ac52dbcca4fc58.r2.dev
+pub-95a14d2adf114a9197e294757bf8d7b7.r2.dev
 pub-f3a5f16c0d0b45eab9e2e6a05a61d733.r2.dev
 publishingsurvey.com
 pubmetrics.online
@@ -7266,6 +7314,7 @@ roksit.net
 rol.com
 roleadiey.uk
 romancecristao.net.br
+romarian.cc
 romsii.shop
 roninachain.com
 ronnin-v2.com
@@ -7647,6 +7696,7 @@ simonjohnphillips.co.uk
 simonsignature.com
 simpdocumentos.online
 simple-3-etf-strategy.com
+simple-swap.to
 simplefxmarketonline.com
 simplone.org
 simplyfitphilly.com
@@ -7660,6 +7710,7 @@ singyourlife.club
 sinkronisasicoretax.com
 sinn-mirai.com
 sinousa1.com
+sinterfumesco.com
 siperasul.com
 sirbei.com
 sirishareddy.info
@@ -7689,6 +7740,7 @@ sleepingtabletsuk.shop
 slice.call
 slimmerandthinner.com
 slippersworld.nl
+slktest.live
 slmlandscape.com
 slot168-vip.com
 slotgemoy138.live
@@ -7751,6 +7803,7 @@ softguide.store
 softmintdigital.com
 softradar.net
 softwareupdatechecking.at
+softwe.art
 sokingscrosshotel.com
 solanely.com
 solarrayes.com
@@ -8110,8 +8163,10 @@ tdoxycbf.icu
 tdsworkout.com
 teacheronline.online
 teambeholders.com
+teamicrosoft.com
 teamjandm.com
 teams-meeting.com
+teams.cam
 teamscn.com
 teamsparksfly.com
 teamszv.com
@@ -8337,6 +8392,7 @@ tofukai.cfd
 tojson.call
 tokatiti.com
 tolavias.uk
+tolimeova.cc
 tolstiy-siskastiy.ru
 tomgilissen.nl
 tomolina.top
@@ -8391,6 +8447,7 @@ tralert7.com
 tramincoarabia.com
 transcm.info
 transferanywhere.com
+transporteloggi.com
 trasenanoyr.best
 traumainformediowa.com
 travelingisrael.shop
@@ -8487,6 +8544,7 @@ uab.ca
 uaery.top
 ualarl.net
 uandmearertyasport1.com
+uawwydy3qas6ykv.xyz
 ub66.com
 ub66.io
 ub66.me
@@ -8568,12 +8626,14 @@ ups1.top
 upsl.top
 upstar.pics
 uptowntireandautoservice.com
+ur01webzoom.us
 urbanridgesupplies.com
 ureedge.net
 urldelivery.com
 urlfy.me
 ursamade.space
 urusovgroup.ru
+us03-slack.online
 us3ls.top
 usaglobalnews.com
 usaimmigrationsupport.com
@@ -8594,9 +8654,16 @@ utils-hub.org
 utr-jopass.com
 uujjh.shop
 uupbit.top
+uv01webzoom.us
+uv03webzoom.us
+uv04webzoom.us
 uvm2.top
+uw03webzoom.us
+uw04webzoom.us
+uw05webzoom.us
 uwatchfree.ax
 uwqb.top
+ux06webzoom.us
 uyb1o.top
 uzaloza.site
 v.call
