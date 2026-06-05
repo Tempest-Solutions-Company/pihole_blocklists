@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-05 01:20:04 UTC
-# Total domains: 9264
+# Generated: 2026-06-05 04:33:51 UTC
+# Total domains: 9286
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -380,6 +380,7 @@
 7-zip.day
 7-zip.shop
 7029350073.cyou
+710353.cc
 720nn.cc
 729wl.com
 736512.xyz
@@ -938,6 +939,7 @@ app-trello.com
 app-tt-eighteenplus.pro
 app-windows.com
 appapi.store
+appdownloadhub.com
 apped.site
 appempire.online
 appfit.run
@@ -1976,6 +1978,7 @@ ccescala.com
 cchdb.com
 cchrrome.com
 cckuik.com
+ccpay.cam
 cdavisart.com
 cdeyu.top
 cdl6.top
@@ -2158,6 +2161,7 @@ civictheme.io
 ckcraneservice.com
 ckjacob.com
 ckysp.top
+cl8.net
 clack.su
 claddy.de
 claimeprogressive.com
@@ -2303,6 +2307,7 @@ colorfulsunshine.online
 coloriagewk.online
 colourkeys.digital
 com-inc.cc
+com-x2.es
 combank.top
 combridge.org
 comfeey.com
@@ -2490,6 +2495,7 @@ cpvn-eta.cc
 cq1tw.icu
 cq1tw.top
 cqjprvosrbezwc.shop
+cqpay.cfd
 crackpc4u.com
 craftsjz.com
 craftyorwot.com
@@ -2891,6 +2897,7 @@ dly1.top
 dlyvithera.org
 dm-betonbohren.de
 dmtmag.com
+dmvolk.sbs
 dna-do-gamer.com
 dnaacademy.com.tr
 dncnglv.com
@@ -3156,6 +3163,7 @@ easyshag.com
 easyswift.in
 easyvoyage.co.uk
 eaxwwyr.cn
+ebanking.biz.id
 ebbcharts.com
 ebeltran.me
 eblapp.com
@@ -3453,6 +3461,7 @@ exmail63.com
 exordiumsolutions.com
 expapp.com
 expatexpert.com
+expay.lat
 experiaoan.shop
 experimental-tech.com
 expertaitalia.eu
@@ -3912,7 +3921,9 @@ gamerang.net
 gameroomsuperstores.com
 games10v.com
 gameza.com.br
+gamingfun.me
 ganiirsyadi.com
+gapay.icu
 garbagemoval.com
 garminsafe.shop
 gartenlofti.com
@@ -5295,6 +5306,7 @@ ksowlapw.com
 ktlyy.click
 ktshop4homes.com
 ku6t.top
+kuaisuzhandou.com
 kuaiyin004.com
 kuaiyin006.com
 kugfulyw.ru
@@ -5506,6 +5518,7 @@ livemicrosft.com
 liveroom.net
 livestore.click
 livevideoslots.net
+livezy.click
 livinsie.com
 lizdory.site
 ljhzazutctlesce.live
@@ -5536,6 +5549,7 @@ logourlscan.io
 lohpidarnetdruzey.shop
 loja-should.site
 lojorgepez.it
+lokalna-oferta56894.shop
 loki.com
 lolsx.site
 lombardtyres.com
@@ -6065,6 +6079,7 @@ mur4ev.online
 murphyplacehoa.com
 murunckal.uk
 musclemodz.com
+musicbadbunny.com
 musicfightsals.com
 muskaanbeauty.com
 musoraidutnahui.online
@@ -7300,6 +7315,7 @@ rnsmithinc.com
 roastfiles.info
 roba.store
 robinko.online
+roblox.et
 robobrokerltd.com
 robot-mail.com
 robotcheckily.online
@@ -8186,6 +8202,8 @@ techs.com
 tedbaker-newzealand.com
 teecup.shop
 teenieshopus.com
+teens25.vip
+teens29.vip
 teensnow.com
 teethcare.site
 teiehram.org
@@ -8396,6 +8414,7 @@ tolavias.uk
 tolimeova.cc
 tolstiy-siskastiy.ru
 tomgilissen.nl
+tommmypartner.shop
 tomolina.top
 tomori-vision.com
 tonghuacun.tv
@@ -8640,6 +8659,7 @@ usaglobalnews.com
 usaimmigrationsupport.com
 usau.site
 usbenefitsplanning.com
+usdc082.com
 usedfacts.site
 usehebbia.com
 usejb.com
@@ -8875,6 +8895,7 @@ web3fund.io
 webair.net
 webex-install.com
 webgraos.com.br
+webkr.top
 webmensagens4bb7.com
 weboffices.org
 webomma.tech
@@ -9005,6 +9026,7 @@ wpac-homesa.info
 wqwoynnxgujac.online
 wqz-mall.com
 wrcjngb.com
+wrdvo.top
 writeup.live
 wsnuyt.com
 wteflac.education
