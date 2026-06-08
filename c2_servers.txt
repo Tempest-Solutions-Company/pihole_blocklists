@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-06-08 13:20:36 UTC
-# Total domains: 68159
+# Generated: 2026-06-08 19:31:27 UTC
+# Total domains: 68213
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -15,13 +15,20 @@
 0.nybk.ru
 00.0fv1.ru
 00.lightb0x.ru
+000.hikvision-cctv.su
+000.nvms9000.su
 000.start-men.site
 000.start-men.space
 000.start-men.store
+0000.hikvision-cctv.su
+0000.nvms9000.su
+00000.hikvision-cctv.su
 0000074.xyz
+00000l.nvms9000.su
 00001001.xyz
 000023245.xyz
 000024445.xyz
+0000g7bd7.hikvision-cctv.su
 000124.cc
 00012aee788.com
 0001phoc.jp
@@ -619,6 +626,7 @@
 0fl12tn98ai.top
 0flux.net
 0fnyk111.sbs
+0fqk0ho2.mrbet90.com
 0frduisp.cloud-meridian.digital
 0g.su-4n.ru
 0g3eo.sbs
@@ -1847,6 +1855,7 @@
 22754.ant1er5noos.ru
 22goulm8.runtime-nexus.digital
 22k.g7ve.ru
+22wsnikmydlkyx4cwmiykxis7kjy4ugmlz453amazqhflwo3wjsz5tad.onion
 22x.hl5a6.ru
 22y456.com
 23.heronturm.ru
@@ -3901,6 +3910,7 @@
 888vnd.vip
 889.08u073852.ru
 8899xyj.com
+88aavn.one
 88c2.pyroclay.ru
 88i-mobile.com
 88i.jp.net
@@ -7602,6 +7612,7 @@ api.999slot.media
 api.alexanderprojectmanagement.uk.com
 api.amsd.cl
 api.apifox.top
+api.asn15.com
 api.bitcoinusdtusdc.xyz
 api.chimera-hosting.zip
 api.ciberseguridad-eia.xyz
@@ -8843,6 +8854,7 @@ auonxunxiybkybdcbb.su
 auonxunxiybkybdcbb.ws
 auqustseafood.com
 aur3.l1ghtstorm.ru
+aura-checkpoint.top
 auracorp.cc
 auraleaf.vn
 auralis-advisors.com
@@ -14050,6 +14062,7 @@ chimxik.shop
 china-sec.gl.at.ply.gg
 china-shanfs.com
 china-zzpv.com
+chinabowl.club
 chinadialyuse.com
 chinadtt.gotoip2.com
 chinagrouptraders.xyz
@@ -19275,6 +19288,7 @@ e1zwzngt.unseen-zorenka.digital
 e2.97jt.ru
 e2.neoniake.ru
 e2.q-0-spi.ru
+e20yl90d.parsgoal90.com
 e2bconsulting.com.my
 e2bet-games.org
 e2bet-link.online
@@ -20445,6 +20459,7 @@ emberbucht.ru
 embercloud.ru
 embergrund.ru
 emberhochland.ru
+emberhorizon.top
 emberiake.ru
 emberkiesel.ru
 emberkranz.ru
@@ -20548,6 +20563,7 @@ endlessai.io
 endnra.ru
 endoste.cyou
 endpoint.digitalpointsec.org
+endpoint.xsn10.com
 endpointmapperprocess.com
 endryx.africa
 endzed.asia
@@ -20642,6 +20658,7 @@ entergo.su
 enterki.pics
 enterprise-security-log.courses
 enterprise-solution-buffer-utility-log.wiki
+enterprise1.pages.dev
 entertainment-pirates.gl.at.ply.gg
 entertainok.com
 enterthename16.bbsindex.com
@@ -23244,6 +23261,7 @@ fllegi2j.nanovo5kull.pics
 fllxprint.com
 flmates.com
 flmw6.d7um0wl.ru
+flnntj.persianabet.casino
 flnsyfb.qpon
 flockament.org
 flockrib.ml
@@ -23663,6 +23681,7 @@ fp57ddz7.stormh1ll.ru
 fpaqjul.bahiscom2023.online
 fpbmngh4.fira6dox.lat
 fpbqrouphaiti.com
+fporlgd.penality.bet
 fpqr.voxuzeo8.ru
 fpt.bdkj.com.ng
 fpt.dfp.abdullah-sharif.com
@@ -24362,6 +24381,7 @@ g1d5hv.go-1-dkamy-5-hev.ru
 g1gq.orbshackle.ru
 g1l6m9p.ru
 g1rq.7-09f.ru
+g1rxiw6o.parspoker90.com
 g1s.obvp-2.ru
 g1t4.starmarkt.online
 g1tb.xf7-27.ru
@@ -27342,6 +27362,7 @@ h0me.xa-5-r.ru
 h0p.ckon0.ru
 h0p9.zap-kinetic.ru
 h0pe.0zvel.online
+h0t75jy5.betgopro.com
 h0u7k.top
 h0urly.t1metalk.ru
 h0w4.98g-bj.ru
@@ -28258,6 +28279,7 @@ hex.namenyo.ru
 hex.twirlpane.ru
 hexa.hexapulse.ru
 hexaqon-analytics.com
+hexbear.io
 hexoluy6.ru
 hexqiv.dev0urspon8y.ru
 hexsa.in
@@ -28284,6 +28306,7 @@ hfcv.gi-0-wmarsh.ru
 hfe.windst0ne.ru
 hfegocufjkndwc.com
 hffiahz.asia
+hfgzvf.perfectgameiran.com
 hfhi.m0tivecrib.ru
 hfhlagljsljtls.ml
 hfikf.webrevelem.hu
@@ -28524,6 +28547,7 @@ hkl.sumukye2.ru
 hklmbte.hitsforge.com
 hkngj.spindleway.ru
 hknhosting.xyz
+hknnbq.pablobet90.com
 hkp.kr
 hkpoway.com
 hkrwytn.303-bet.buzz
@@ -28805,6 +28829,7 @@ hor.kaitorinihon.jp
 horbusten.com
 horflpk.pegaadvance.com
 horizon-united-cherry.com
+horizon.nvms9000updates.su
 horizonmagazine.com
 horncast.se
 horodniany.pl
@@ -29710,6 +29735,7 @@ ids-apple.com
 idsb.m1stysun.ru
 idspvlayto.shop
 idwfsf.jamjahani.cash
+idwpuur.ninjafruitcubes.bet
 idx.rowlocks.pics
 idyqkhp.303-bet.buzz
 ie-sorts.gl.at.ply.gg
@@ -29720,6 +29746,7 @@ ie7.nq8e9.ru
 ieahg.edu.co
 ieanubfiuagugng.su
 ieawzs.brandbuilder.hu
+iebtnuo1.parsgoal90.com
 iecjebp.top
 iedaagmofvk.com
 iedttkfpokhgfclsk.com
@@ -29970,6 +29997,7 @@ ik.yjor.ru
 ik1-423-43732.vs.sakura.ne.jp
 ikariajuice.us
 ikaschyn.beget.tech
+ikbnssq.persian.sex
 ike.kenal-cn.com
 ike.medai-gruop.com
 ikebanamaldives.com
@@ -31779,6 +31807,7 @@ jj.xxcc789.com
 jj5czewc.bet90land.com
 jj88.today
 jjc6u.v0rtapouch.ru
+jjgnawd.penalti.website
 jjhomeimprovements.co.uk
 jjis.qute3.ru
 jjjaya.zadc.ru
@@ -32327,6 +32356,7 @@ jw.ktox5.ru
 jw.q4zi.ru
 jw.vj4e5.ru
 jwad0w.000webhostapp.com
+jwfckz.onlineshart.com
 jwm4245f.schleer.hu
 jwnoynz6l.localto.net
 jwosviuw.7zorelax.lat
@@ -34365,6 +34395,7 @@ kylv0n.b2tnikpu1yar.ru
 kyn-sandbox.com
 kyrn87xo.mi5tc0re.ru
 kyrqen.b2nchikwa5te.ru
+kys.botdealers.st
 kys.cx
 kys.li
 kyvaronedge82.com
@@ -35682,6 +35713,7 @@ livo.com.ua
 livusa.locker
 liwamye6.ru
 liweff.eu
+lizablud.shop
 lizadesm.duckdns.org
 lizyf.top
 lj.clearl1ne.ru
@@ -37851,6 +37883,7 @@ market-stats.com
 market.aasabie.com
 marketdarkwebs.win
 marketing.cartli.com.ua
+marketing.gundf.de
 marketingdeptco.biz
 marketings.mysynology.net
 marketmeats.com
@@ -42716,6 +42749,7 @@ ocykyyeuyiauqgym.xyz
 ocysgsiuiekegwuo.xyz
 ocyugwkweiismeky.xyz
 oczl.torex5lin.surf
+oczvda.oxidbet.bet
 od.jzak.ru
 od.pvzi1.ru
 od.xrhu-7.ru
@@ -45227,6 +45261,7 @@ perfect-shut.gl.at.ply.gg
 perfect.f1sslehub.ru
 perfect.ga
 perfectfoodcompany.uk.com
+perfectgameiran.com
 perfectgo.top
 perfectjudge.com.ng
 perfectlearn.org
@@ -45250,7 +45285,10 @@ peropanel.xyz
 perouki.phpnet.org
 perropa.com
 perseepona.com
+persian.sex
+persianabet.casino
 persianprime.net
+persianshart.com
 persio.gq
 persol-wd.co.jp
 person-expansion.gl.at.ply.gg
@@ -47493,6 +47531,7 @@ qcjqcd.geokalk.hu
 qcn6.oak-ember.ru
 qcn6vqsfuvfmkp2u.iloveanimals.shop
 qcq8.pulse-knob.ru
+qcqsin.yasbet90.com
 qcshoeswebsiteuae.com
 qcv.n5ol.ru
 qcwvat.1kickbet90.com
@@ -50873,6 +50912,8 @@ sachiyaari.com
 saclor.cos5acklove1.ru
 sacrakyf.xin
 sacyd.icu
+sad.firesupport.com
+sad.fixsm188.top
 sadadasf-31981.portmap.host
 sadbabbabefnefmf.ru
 sadd.io
@@ -53878,6 +53919,7 @@ soulcirclewellness.rocketrobs.co.za
 souldey.cyou
 souldiggin.com
 soulflower.com.mx
+souljaboynft.io
 soulnxc-62104.portmap.host
 soundtu.sb
 soundtu.sbs
@@ -55837,6 +55879,7 @@ sybxhd9s.stgsolar.hu
 sydneyjoos.com
 syedamahnoorjaffery.com
 syedbrands.latestbedding.com
+syheuby.mangobetfarsi.com
 syhjgg7o.axee.net
 syhmot.l2ckey5mina.ru
 syicollc.com
@@ -56247,6 +56290,7 @@ t7.ctze0.ru
 t7.hasefa.ru
 t7.ru7x.ru
 t7.z-72.ru
+t748i6is.volleyball.vip
 t77n.cheb0t5agit.ru
 t7gjz81d.bet360pro.bet
 t7hjzd.top
@@ -56725,6 +56769,7 @@ te.migyvya2.ru
 te.pvzi-1.ru
 te.vakun.ru
 te.x73r.ru
+te3znaut.parspoker90.com
 te5t-hinge.vexa2-flow.life
 te7ap.ru
 te9d.adm1tdebu8.ru
@@ -61433,6 +61478,7 @@ v6bet.fan
 v6kxb.a6il1oyal.ru
 v6m2a.sip-9ta.ru
 v6n.crystalcavern.ru
+v6o8c9xi.mrbet90.com
 v6r2.fi0m.online
 v6t3x.pe8d.online
 v6yt.fkur8.ru
@@ -61698,6 +61744,7 @@ vd3j.6-0sg.ru
 vd3k.nowc8.ru
 vdbkti.ispilates.hu
 vdbto19wogzwezu.info
+vdchddh.penaltibazi.com
 vdf.f1y5agacious.ru
 vdf.interk2ts2v.ru
 vdj3j.protohush.ru
@@ -62661,6 +62708,7 @@ vvig.cc
 vviissttaa.uk.to
 vvlainw.vip.tennis
 vvp.ke9t.ru
+vvpfsda.pasoor11.bet
 vvuto.bartaenergetika.com
 vvvbk.webermann.hu
 vvvt.vip
@@ -64518,6 +64566,7 @@ wotoken.jpn.com
 wow.je5w.com
 wow.khalidalshawwa.xyz
 wow.kuvuboa29.ru
+wowlowski.icu
 wowow422421xs.dynuddns.com
 wowowa.com.au
 wowtroy.sytes.net
@@ -65230,6 +65279,7 @@ x3o11wkp.signal-bridge.digital
 x3pn.1s-1n.ru
 x3q.q-0-spi.ru
 x3rn.kynh0.ru
+x3v1t7wb.parspoker90.com
 x3wiki.com
 x3wr.mi9q.online
 x3y.st0nesurge.ru
@@ -65496,6 +65546,7 @@ xh5k6k5j.fl1ckerpost.ru
 xh7.fj-2-e-0.ru
 xhamster4.za.com
 xhawk100.site50.net
+xhfecr.jamjahani2026.football
 xhl.cn.com
 xhmns.c0ldstream.ru
 xhost-27542.portmap.host
@@ -67604,6 +67655,7 @@ zebra.fenod.online
 zebras.social
 zebratitties.autblx.xyz
 zebregts.com
+zebswzz.one1xbet.net
 zed.jsuv0.ru
 zed9ra.driftquartz.ru
 zedekus.com.ng
@@ -67682,6 +67734,7 @@ zevs.xyz
 zevs3.xyz
 zevs5.xyz
 zevsol.top
+zexrhdz.penaltibazi.com
 zeyadigital.com
 zezar.icu
 zezinuwe.com
@@ -67820,6 +67873,7 @@ zjlongiwn.com
 zjomzjom.freehost.pl
 zjr11tft.impercepm0no8.ru
 zjtplqi.arabi.poker
+zjuflao.pasur21.com
 zjvhvg.za.com
 zk.cgty8.ru
 zk.h9u8w.ru
