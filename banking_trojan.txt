@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-08 01:46:14 UTC
-# Total domains: 9302
+# Generated: 2026-06-08 06:56:33 UTC
+# Total domains: 9303
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1778,6 +1778,7 @@ burohapopld.com
 burstsafe.shop
 burtleburtle.net
 businesforhome.com
+business-data-leaks.com
 businessannually.com
 businesstalentgroup.com
 bustedbydaddy.com
