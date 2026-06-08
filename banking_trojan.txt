@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-08 06:56:33 UTC
-# Total domains: 9303
+# Generated: 2026-06-08 13:20:15 UTC
+# Total domains: 9305
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4919,6 +4919,7 @@ itaxbook.com
 itbeams.store
 itd1.org
 itdataindustries.com
+itdesk.com
 itechapplcation.com
 itecheg.store
 itelsys.ma
@@ -5551,6 +5552,7 @@ local-mailer.com
 localyelpforbusiness.com
 location.host
 location.search
+lockbit.black
 locketflock.info
 lodash.com
 loetoe.com
