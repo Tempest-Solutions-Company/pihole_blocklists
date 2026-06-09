@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-09 07:52:57 UTC
-# Total domains: 9305
+# Generated: 2026-06-09 13:59:52 UTC
+# Total domains: 9307
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1700,6 +1700,7 @@ broadwing.biz
 broadwingcommunication.com
 broadwingnetworks.net
 brodart01.com
+brokeapt.com
 brokeragepacket.com
 brokercarriersetup.com
 brokerpackets.com
@@ -5436,6 +5437,7 @@ lefthandsuperstructures.com
 legacyeventphotos.shop
 legacyresidential-leasing.com
 legalfortrade.com
+legendarytrendsbay.shop
 legion202.org
 legion470fishers.org
 legiontv.online
