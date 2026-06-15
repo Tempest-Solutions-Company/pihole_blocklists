@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-15 13:57:04 UTC
-# Total domains: 9446
+# Generated: 2026-06-15 20:14:10 UTC
+# Total domains: 9455
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -688,6 +688,7 @@ aimp.pm
 aimp.xyz
 aimp2024.pw
 ainvestinternational.com
+airbnb-ca.com
 airbusco.net
 airconditionercompany-vortps-tta8-asl-us-2.shop
 airfestec.com
@@ -1650,6 +1651,11 @@ bookary.digital
 bookedit.online
 bookiesapp.me
 bookify.space
+booking-cn.com
+booking-hk.com
+booking-jp.com
+booking-zh.com
+bookingni.com
 bookofmormon.online
 bookofthemoment.com
 boostcoaching.online
@@ -3679,6 +3685,7 @@ fidellity-online.com
 fieldscrossing.us
 fieldscrossinghoa.us
 fifabangladesh.site
+fifaticket2026vip.com
 fifi.org
 fifsource.com
 fightingduck.co.uk
@@ -7884,6 +7891,8 @@ skybrud.dk
 skylarr.net
 skylineprodutora.com.br
 skypredict.org
+skyscanners.life
+skyscanners.shop
 slack-signin.com
 sleepingtabletsuk.shop
 slice.call
