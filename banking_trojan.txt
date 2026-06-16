@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-16 01:14:32 UTC
-# Total domains: 9455
+# Generated: 2026-06-16 02:32:39 UTC
+# Total domains: 9491
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -123,6 +123,7 @@
 12stepplanet.org
 12successlaws.academy
 12thmember.us
+1346590.com
 13fwvc7ka.online
 13lxst.store
 140eastistreet.com
@@ -498,6 +499,7 @@ a2zfortextile.com
 a4kh.top
 a7-betlionking.com
 a78p.top
+aa-fifa.shop
 aaaaaaa.aaa
 aaaeieiiioffftr.cc
 aabsher-sds.com
@@ -3684,8 +3686,14 @@ fidelity-login.com
 fidellity-online.com
 fieldscrossing.us
 fieldscrossinghoa.us
+fifa-online.com
+fifa.center
+fifa.gold
+fifa.shopping
+fifa.ski
 fifabangladesh.site
 fifaticket2026vip.com
+fifaworldcup26.sale
 fifi.org
 fifsource.com
 fightingduck.co.uk
@@ -4341,6 +4349,7 @@ guoglechrome.com
 guuglechrome.com
 gwrs.org
 gwynhug.com
+gx-fifa26.shop
 gxmxm.com
 gyglowcq.com
 gyvolnac.ru
@@ -7673,6 +7682,7 @@ scribeemr.com
 scripturesksa.com
 scrub-wow.ca
 scyllagaming.com
+sdf-26fifa.top
 sdfsdfdde.com
 sdghzk.com
 sdpayment.in
@@ -7871,6 +7881,7 @@ sirbei.com
 sirishareddy.info
 sisliguzel.com
 sistemaplastic.com
+site-fifa.site
 siteinprod.com.au
 sitioeletronico.com
 situacionfiscal.online
@@ -9204,6 +9215,7 @@ wu1rn.top
 wuio.de
 wuwu6.cfd
 wvqc.top
+ww-fifa.com
 wwfygid.biz.id
 wwopenclick.space
 www-app-nuova.cc
@@ -9212,6 +9224,29 @@ www-app.cyou
 www-app.xyz
 www-appstore.cc
 www-core.top
+www-fifa.asia
+www-fifa.bar
+www-fifa.bio
+www-fifa.biz.id
+www-fifa.bond
+www-fifa.cfd
+www-fifa.click
+www-fifa.club
+www-fifa.cyou
+www-fifa.digital
+www-fifa.icu
+www-fifa.info
+www-fifa.lol
+www-fifa.monster
+www-fifa.my
+www-fifa.my.id
+www-fifa.one
+www-fifa.qpon
+www-fifa.sbs
+www-fifa.web.id
+www-fifa.work
+www-fifa.xin
+www-fifa.xyz
 www-scarica.cc
 www.google
 www2.online
@@ -9222,6 +9257,7 @@ wxhy-exhaust.com
 wybierajlegalne.pl
 wycliffebrothers.com
 wyzce.cc
+wz-fifa26.shop
 wzlly.top
 x-plus.store
 x-ray-inspection-machine2.click
