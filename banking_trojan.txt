@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-17 03:58:13 UTC
-# Total domains: 9521
+# Generated: 2026-06-17 10:18:14 UTC
+# Total domains: 9526
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1601,6 +1601,11 @@ blueboxstore.shop
 bluecubecapital.com
 blueecho.icu
 bluegoldmine.com
+bluekit.cc
+bluekit.pk
+bluekit.su
+bluekit.ws
+bluekitsmi6sd5mjurh3l7n7oeizbedoe2hw2lsljtb5nbxiul6hzkqd.onion
 bluemodomedia.com
 bluemoonsafe.shop
 bluenetworking.net
