@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-06-22 13:37:26 UTC
-# Total domains: 75255
+# Generated: 2026-06-22 14:44:14 UTC
+# Total domains: 75279
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5347,7 +5347,9 @@ abyssalflowunit.digital
 abyssalkraken.fit
 abz52.s0apthorn.ru
 abzac.in
+ac-api-v3.r0csgo.com
 ac-backend.sarkhsolution.com
+ac-socket.r0csgo.com
 ac.cuzolia9.ru
 ac.pgka-9.ru
 ac.r3j5c.ru
@@ -7871,6 +7873,8 @@ aniellodesiderio.net
 animailshealthyfoodsline.top
 animal-flying.gl.at.ply.gg
 animal-zoo-lake.com
+animal342.duckdns.org
+animal342bk.duckdns.org
 animalrecord.xyz
 animals-geology.gl.at.ply.gg
 animaroc.ma
@@ -8232,6 +8236,7 @@ api.portimaloter.com
 api.qjweb.xyz
 api.qq88.za.com
 api.qtss.cc
+api.r0csgo.com
 api.rootvk.messager.my
 api.securebootupdatesystem.com
 api.serverdatahub.pics
@@ -12571,6 +12576,7 @@ bommgrest.ru
 bon-debarras-paris.fr
 bonandeve.com
 bonanzadesign-my.com
+bonavol.com
 boncaso.com
 bondas-sa.com
 bondixa.qpon
@@ -15511,6 +15517,8 @@ chryslero.servebeer.com
 chrysoevents.com
 chryzju.top
 chsiqp1337.siteme.org
+cht.hitamsm188.top
+cht.utvrent.com
 chu.dc-8.ru
 chubrik.sbs
 chuckbartman.retirevillage.com
@@ -17039,6 +17047,7 @@ copydat.io
 copyline.me
 copyright-closed-communication-monster.trycloudflare.com
 copyright-cnn.gl.at.ply.gg
+copysofort.org
 cor38-loop.7lorexan.surf
 corado-servis.com
 coral.0ceandust.ru
@@ -25506,6 +25515,7 @@ fj.wofelee.ru
 fj.xijoxou.ru
 fjaf-46175.portmap.host
 fjagjlhm.psgnewsiran.com
+fjaoi5is.megaparibet.vip
 fjb9d0fp905cc.cfc-execute.bj.baidubce.com
 fjd.da6v.ru
 fjhk.snowtrace.ru
@@ -29968,6 +29978,8 @@ gwao22x.lol
 gwbdgrlikclhthyivym.com
 gwbq20x.life
 gwe.ac0rnrepr0d.ru
+gwe.hitamsm188.top
+gwe.utvrent.com
 gwec-co.tk
 gweg19x.top
 gwem94x.life
@@ -38589,6 +38601,7 @@ leafleg.qpon
 leafypage.com
 leafz.atwebpages.com
 leak-hub.com
+leakads.com
 leakaryadeen.com
 leake798-38723.portmap.host
 leake798-58959.portmap.host
@@ -39471,6 +39484,7 @@ lobalschoolfinder.net
 lobstaronsol.app
 lobsterrakkos.com
 lobzik.info
+local-api-direct.r0csgo.com
 local2015http.com
 localbbase.in
 localframes.ai
@@ -42111,6 +42125,10 @@ megamegalodon.click
 megaparibet.casino
 megaparibet.games
 megaparibet.poker
+megaparibet.vip
+megaparibet.win
+megaparicom.bet
+megapariwin.casino
 megaplast.co.rs
 megapolisss006.su
 megarebels.com
@@ -44492,6 +44510,7 @@ myrtlebeachdeepseafishing.com
 myrtlebeachdeepseafishing.com.mobimark.net
 myrtler.biz
 myrtleturtlesavingscard.com.mobimark.net
+myrya1hx.megaparicom.bet
 mysa.co.com
 mysaoqaqakaymicc.xyz
 mysaraoutfit.com
@@ -46356,6 +46375,7 @@ ns1.kbral.com.br
 ns1.littllee365c.top
 ns1.mhtmzl.top
 ns1.microoosoft.com
+ns1.msgkg.xyz
 ns1.newchatsits.ir
 ns1.ns-apache.jo3.org
 ns1.nsebseshop.cloud
@@ -46386,6 +46406,7 @@ ns2.jszwfw.com.cn
 ns2.littllee365c.top
 ns2.mhtmzl.top
 ns2.microoosoft.com
+ns2.msgkg.xyz
 ns2.newchatsits.ir
 ns2.nsebseshop.cloud
 ns2.nytk.ru
@@ -55528,6 +55549,7 @@ rudyv.nl
 rueckec.lol
 ruetraverse.com
 ruev6.d0nat1mpenet.ru
+ruffyayeaye.ddns.net
 ruga85.ger8y5evruga.ru
 rugate.pw
 rugbyroar.com
@@ -63378,6 +63400,7 @@ thinkrf.com
 third-placing.gl.at.ply.gg
 thirskk.courses
 thiruvallur.in
+thisisafalsepositive.st
 thisismine.asia
 thisisnot24letters.zapto.org
 thislord15.myjino.ru
@@ -65815,6 +65838,7 @@ ujghw.vikstore.hu
 ujhtrjp.laborfotostudio.hu
 ujitegemea.net
 ujkj.didoprotecauth.lat
+ujlo7o5o.readthisintro.xyz
 ujpwid.dorottyanadorfi.com
 ujunwawire.herobo.com
 ujvdgbtkowj.com
