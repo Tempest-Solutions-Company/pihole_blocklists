@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-23 03:07:09 UTC
-# Total domains: 9567
+# Generated: 2026-06-23 09:17:16 UTC
+# Total domains: 9569
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4161,6 +4161,7 @@ glitzandglamdesign.com
 gloablpcworks.com
 global.net
 globalazure.gr
+globalcart.page
 globalcrossing.com
 globalmoby.xyz
 globalreach.online
@@ -4640,6 +4641,7 @@ hotoffer.online
 hotstep.store
 hotwettube.com
 housegoodbye.com
+houseofbeautyworld.com
 houseofkpop.com
 houseofpavilion.com
 housereviews.xyz
