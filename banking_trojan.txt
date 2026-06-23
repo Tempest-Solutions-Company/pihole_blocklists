@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-23 01:59:00 UTC
-# Total domains: 9562
+# Generated: 2026-06-23 03:07:09 UTC
+# Total domains: 9567
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1322,6 +1322,7 @@ baofyu.shop
 baoguangbu.com
 baotgm.net
 baoxinviec.shop
+baoxis.cc
 baptizein.com
 barabancik.ru
 barberbosssafe.shop
@@ -3489,6 +3490,8 @@ espprofessionalservices.com
 espritbarbecue-fr.com
 essfollett.com
 essorgurufsogusruo.biz
+estatetaxarchives.com
+estatetaxrecords.com
 estretixdex.com
 eta-apple.com
 eternalhours.site
@@ -4905,6 +4908,7 @@ infowithdecho.net
 infra-telemetry.com
 ing-hilton.com
 ingenieriaelectrica.online
+inherittaxpapers.site
 inkletters.info
 inkshop.online
 inmobiliariaarte.com
@@ -8738,6 +8742,7 @@ trumpalert.store
 trust-review.org
 trust-text.com
 trust-walles.com
+trusttaxportal.com
 try-databoss.us
 trybusinesscentral.com
 trytembo.io
