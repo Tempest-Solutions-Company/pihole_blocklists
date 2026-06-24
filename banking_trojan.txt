@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-24 04:25:32 UTC
-# Total domains: 9569
+# Generated: 2026-06-24 10:57:30 UTC
+# Total domains: 9570
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5913,6 +5913,7 @@ masamadreartesanal.com
 masclean.org
 mashcloud.org
 mashedlife.com
+maskasd.com
 masracot.org
 massagemastery.online
 massgames.space
