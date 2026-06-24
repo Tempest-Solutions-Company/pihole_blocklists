@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-24 17:19:04 UTC
-# Total domains: 9570
+# Generated: 2026-06-24 23:26:26 UTC
+# Total domains: 9571
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5520,6 +5520,7 @@ landqck.com
 langfordfinancialservices.com
 lanotea.uk
 lanulsert.uk
+laosji.net
 lapel-pins-source.com
 lapkimeow.icu
 larabet100.com
