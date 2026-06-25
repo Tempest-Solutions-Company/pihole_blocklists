@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-25 17:57:56 UTC
-# Total domains: 9592
+# Generated: 2026-06-26 00:07:44 UTC
+# Total domains: 9619
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -32,10 +32,15 @@
 061clovis.us
 0731ye.net
 0769ydjx.com
+093cc482.buzz
+093cc482.shop
+093cc482.xyz
 0adhost.com
 0asap.com
 0astaffing.com
 0domainresources.com
+0e51009b.buzz
+0e51009b.shop
 0ikrrlyx.com
 0k0.biz
 0key.solutions
@@ -399,11 +404,16 @@
 789jiasuqi.com
 789jsq.cn
 78hats.shop
+7956300d.buzz
+7956300d.shop
+7956300d.xyz
 7at3.top
 7b66s.top
 7crm.shop
 7dcrccolorado.com
 7dmsn.com
+7e3bf414.buzz
+7e3bf414.shop
 7e3w.top
 7lyphhauz.com
 7pyi.top
@@ -449,6 +459,9 @@
 8onyourcell.com
 8uhq3gu2yczruzkup4hf.online
 8vei.top
+90359538.buzz
+90359538.shop
+90359538.xyz
 90888.com
 911jackoff.com
 91tbc.com
@@ -458,6 +471,9 @@
 95598-app.com
 961222206.xyz
 966tfm.net
+97585121.buzz
+97585121.shop
+97585121.xyz
 97hjh.cn
 987r.info
 98s.pics
@@ -469,6 +485,9 @@
 9bleeckerstreet.com
 9cau.top
 9de1.com
+9eee1d0a.buzz
+9eee1d0a.shop
+9eee1d0a.xyz
 9llu.top
 9round.org.ag
 9x999cpf.com
@@ -3233,9 +3252,17 @@ e.open
 e.style
 e.target
 e.tv
+e05f61b7.buzz
+e05f61b7.shop
+e05f61b7.xyz
 e33ecds.store
 e3mail.com
 e53sv.net
+e732a5ae.buzz
+e732a5ae.shop
+e732a5ae.xyz
+e9e92d9c.buzz
+e9e92d9c.xyz
 eablebike.com
 eamix.cn
 earnifi.com
