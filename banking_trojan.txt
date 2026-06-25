@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-06-25 13:43:32 UTC
-# Total domains: 9590
+# Generated: 2026-06-25 17:57:56 UTC
+# Total domains: 9592
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1842,6 +1842,7 @@ butterfingersafe.shop
 butteritaccounting.com
 buttonsplaymusic.com
 buwxkiy.com
+buy-ticket-fifa.com
 buyadvisershop.net
 buycc.shop
 buygreenstudio.com
@@ -3715,6 +3716,7 @@ fidellity-online.com
 fieldscrossing.us
 fieldscrossinghoa.us
 fifa-online.com
+fifa-ticket-26.com
 fifa.center
 fifa.gold
 fifa.shopping
