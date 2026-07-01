@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-01 13:26:11 UTC
-# Total domains: 10141
+# Generated: 2026-07-01 18:42:01 UTC
+# Total domains: 10142
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6196,6 +6196,7 @@ live.org.mx
 liveassistent.online
 livecrickettvapp.site
 livecrickettvhd.online
+livedrivefiles.com
 livemicrosft.com
 liveroom.net
 livestore.click
