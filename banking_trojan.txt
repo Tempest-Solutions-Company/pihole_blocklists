@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-02 07:05:19 UTC
-# Total domains: 10142
+# Generated: 2026-07-02 13:14:15 UTC
+# Total domains: 10149
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -827,6 +827,8 @@ allbetnet.com
 allcompanycenter.com
 allcountylimo.com
 allegracesafe.shop
+allegro-pl.site
+allegro-pl.top
 allergyasthmahqlms.com
 allfreshmall.com
 alliance-bois-tricastine.fr
@@ -2247,6 +2249,7 @@ chaoimhpayah.com
 chaoneka.com
 charge64.de
 charimall.com
+charliesdemons.com
 charlotteplank.com
 charrotrovador.com
 charter-boat-guide.com
@@ -2465,6 +2468,8 @@ clientalalaxp.mn
 clientalnothing.me
 clientes.space
 clintontravelagent.com
+cloaked-demo.com
+cloaked.gg
 closeoutpackaging.com
 closertomydreams.com
 cloud-m32s-center.pro
@@ -2646,6 +2651,7 @@ contina.com
 continuum.net
 contortonset.com
 contributionmaximizer.com
+controlfacturas.site
 contx.site
 convergenceai.net
 convitemundial2026.com
@@ -3878,6 +3884,7 @@ fastpayy-denizbank.com
 fastpool.xyz
 fastqdating.xyz
 fat-doc-online.com
+faturanova.xyz
 fawry.autos
 fawry.baby
 fawry.boats
