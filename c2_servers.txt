@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-07-03 14:11:05 UTC
-# Total domains: 76934
+# Generated: 2026-07-03 20:20:20 UTC
+# Total domains: 76960
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1491,6 +1491,7 @@
 140votes.net
 1410.165-227-83-163.site
 141oppott.com
+1425733911-caaaf5vnxv.ap-guangzhou.tencentscf.com
 142oppott.com
 143biz.cc.md-14.webhostbox.net
 143i.love
@@ -1612,6 +1613,7 @@
 1cm.org.hk
 1controller.online
 1controller.ru
+1cqslawq.1xhot.org
 1csr.cl1ppleap.ru
 1cwm.wildf1re.ru
 1d.71o9.ru
@@ -1828,6 +1830,10 @@
 1xgame.bet
 1xgame.cash
 1xgame.games
+1xgame.live
+1xhot.org
+1xhot.xyz
+1xjet.casino
 1xjet.net
 1xkade.com
 1xlhdd.top
@@ -1842,6 +1848,8 @@
 1xvictoria.com
 1xvip.live
 1xwingo.com
+1xx.bio
+1xx.games
 1xyek.bet
 1y.a1tistt0rt.ru
 1y.fe-k2.ru
@@ -4268,6 +4276,7 @@
 8o6.halfquark.ru
 8o9r.fl-1-ntrelay.ru
 8oc.sprintmold.ru
+8oes4jec.betfakade.com
 8opocc30.1x303.casino
 8oryn.ru
 8ouero1r.compres5text0l.ru
@@ -11602,6 +11611,7 @@ bet360.online
 bet365e.sbs
 bet365persian.com
 bet404.app
+bet777cash.com
 bet808.app
 bet808.bet
 bet808.casino
@@ -11657,6 +11667,7 @@ betbuf.live
 betbuilder.promo
 betcartkade.online
 betcompani.com
+betfakade.com
 betfire90.bet
 betfoot.bet
 betfootbal1.com
@@ -14211,6 +14222,7 @@ c5.y-45s.ru
 c52ih.lomov-stroganal.lat
 c533d8a0-2c69-47ed-b173-0234c17c3989.codepit-rized-denengine.garden
 c5421.top
+c557zanx.1xhot.xyz
 c56qm35r.proxy-orbit.digital
 c56xjoz.represent-skittish.lat
 c5jqq.s64lr5ok.com
@@ -21667,6 +21679,7 @@ dwssa.top
 dwtkz.technologiaiviz.hu
 dwtrade.biz
 dwuxon.za.com
+dwyxchu.megashart.org
 dx.conf1dcorr0de.ru
 dxblg.workoutwithdorci.com
 dxblt.sm188daftar.net
@@ -23984,6 +23997,7 @@ etc.ashcarsales.co.za
 etch.s-2-ly.ru
 etchelpgovtw.top
 etcreswr.xyz
+etddhyf.takbetkade.com
 etdtf.org
 etek.club
 etekwuele.in
@@ -36317,6 +36331,7 @@ jrcasey.com
 jrdsj.wiki
 jrekcyl.pasoor11.bet
 jrfrggyb.crash.promo
+jrfuwpw.megaparii.pro
 jrgdbf.com.cn
 jrkjiooayfdqehmolap.com
 jrlcxt.zooblob.surf
@@ -36401,6 +36416,8 @@ jui.theoptimizedbody.com
 juiaaot.visszateritok.hu
 juicywaves.com
 juixt9f.xamir3on.lat
+juj.jokimecat88.top
+juj.psgiran.news
 jujg2.br1ghtmist.ru
 juk.canamrental.com
 juk.duitsm188.top
@@ -41202,6 +41219,7 @@ lwhkr.press
 lwis.cf
 lwrrvrebt.com
 lwtgiajga.localto.net
+lwunxeob.1xjet.casino
 lwywtkki.winxbet.co
 lx.ji1im.ru
 lx.w8i0h.ru
@@ -41239,6 +41257,7 @@ lyh.tvoj5.ru
 lyhnj1uvf-site.1tempurl.com
 lyingapy.cyou
 lyiqe.torex5lin.surf
+lyjbjin.1xforward.pro
 lyjydau5.ru
 lyk4e.cl0udramble.ru
 lyleboss.retirevillage.com
@@ -43185,6 +43204,7 @@ megarebels.com
 megaretail.cl
 megark.com
 megas.leadtech.vn
+megashart.org
 megasrc.com
 megatech.it.com
 megaterabitessfile.space
@@ -61300,6 +61320,7 @@ spstudio.net
 spt.boosoo.cn
 spt.proksen.com
 sptihuxubpj.com
+sptx.supportrmx.xyz
 spur.gravelwhisk.ru
 spur.quartzweald.ru
 spur8.emberhoehle.ru
@@ -61606,6 +61627,7 @@ ssatdirect.com
 sscaterer.arbrands.in
 sscaterer.com
 sscedif.bahisbey90.com
+sscibrc.pinprobet.com
 sscimails.com
 ssdclearlogs.kl.com.ua
 ssdrd.my
@@ -64840,6 +64862,7 @@ thespeedyhomeoffer.com
 thespitiko.com.au
 thesq.in
 thestable.com.au
+thestudioatbeacon.com
 theswisslaundry.com
 thetalearn.com
 thetalkingpiece.org
@@ -70625,6 +70648,7 @@ vps.lonk-fort.ts.net
 vps.webcfgbase.pics
 vps.x-st.org
 vps2365.webkevlar.net
+vps2v21x.1xgame.live
 vps3000.kozow.com
 vpsamazon.com
 vpsanonymousbot.16mb.com
@@ -71066,6 +71090,7 @@ wacgij.l2ckey5mina.ru
 wacqis.bramblezip.ru
 wadainomori.net
 wadargroup.biz
+wadbrnz.1xx.games
 wadcas.com
 waddyworks.com
 wadebillings.com
@@ -75138,6 +75163,7 @@ yh.qacacoe3.ru
 yh3a.7i091.online
 yh5.db-3-a-4.ru
 yh9512.com
+yhcawcq.1xx.bio
 yhhgff.ydns.eu
 yhkd41e4.savefalke.qpon
 yhlgut.za.com
