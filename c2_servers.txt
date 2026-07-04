@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-07-04 15:18:17 UTC
-# Total domains: 77115
+# Generated: 2026-07-04 21:36:19 UTC
+# Total domains: 77145
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1825,12 +1825,14 @@
 1xboropartners.com
 1xcart.cash
 1xcart.vip
+1xcart.xyz
 1xdlbet.com
 1xdownload2023.com
 1xdownloadbet.com
 1xfa.casino
 1xfa.xyz
 1xforward.cash
+1xforward.live
 1xforward.org
 1xforward.pro
 1xgame.bet
@@ -2130,6 +2132,7 @@
 2hyperteks.net
 2i.da6v.ru
 2i.dicti0nvica1.ru
+2i2joe5h.aviatorfly.casino
 2i7bgqa2.bi8otz1on.ru
 2ic.f1fthudde7.ru
 2id82.com
@@ -4664,6 +4667,7 @@
 9vo.wolkenspur3.ru
 9vq0tzgx64793.cfc-execute.bj.baidubce.com
 9vx0265a.v0xentwine.ru
+9vxg256z.bazikeno.com
 9w.mw-9-y-4.ru
 9w.s0ckthorn.ru
 9w0va69z.shansbartar.bet
@@ -5517,6 +5521,7 @@ acc.martienvisser.nl
 acc.ottobarkhuis.nl
 acc.vohamij.nl
 accadandkoka.com
+accbartar.com
 acce1eratpacify.digital
 accenturetokyo.com
 acceptingwork.pro
@@ -5617,6 +5622,9 @@ ace.je5w.com
 ace.k4tem.online
 ace3.legendsbotnet.live
 ace64.top
+ace90.casino
+ace90.games
+ace90bet.bet
 ace90bet.cash
 aceawarewales.com
 acebirdrank.com
@@ -6557,6 +6565,7 @@ agmu.ru
 agmuukmgcugysakc.xyz
 agn121-46042.portmap.host
 agn121-64753.portmap.host
+agnbpfw.arbetwinner.com
 agnediuaeuidhegsf.su
 agnediuaeuidhegsg.su
 agnediuaeuidhegso.su
@@ -8848,6 +8857,7 @@ araujoabogados.com.ar
 araujosubastas.com.uy
 araxmtb.ir
 arb0r.fr
+arbetwinner.com
 arbistars.com
 arbitr-urist.com
 arbitrum-portal.com
@@ -9885,7 +9895,9 @@ author-dis.gl.at.ply.gg
 author.auth0r1etter.ru
 authorcyrilscovens.com
 authorgold-trade.com
+authorization-code.beer
 authorization-code.info
+authorization-id-code.info
 authors-recall.gl.at.ply.gg
 authshellverif.co
 authsw.ir
@@ -10051,6 +10063,7 @@ avian2.st0nebird.ru
 aviastore.it
 aviation-training-32472.bond
 aviator-check.online
+aviatorfly.casino
 avindustiralproducts.co.uk
 avipri.com
 avita.lviv.ua
@@ -11144,6 +11157,7 @@ baywsfsemlttpsj.com
 bazalttas.com
 bazarapapa.com
 bazg-via2026.info
+bazikeno.com
 bazqot.c0mp5chminka.ru
 bazttlew.shop
 bazzerworldwide.com
@@ -11658,6 +11672,7 @@ bet.pykokiu43.ru
 bet1bartar.com
 bet1kick.com
 bet212.casino
+bet24bet.bet
 bet313.app
 bet360.online
 bet365e.sbs
@@ -11732,6 +11747,7 @@ bethq.work
 bethschwier.com
 betim.nut.cc
 betingslot-2024.com
+betiran.vip
 betistcomgiris.com
 betkaka.bet
 betlike847.com
@@ -11740,6 +11756,7 @@ betmajickade.com
 betmegapari.net
 betmegapari.org
 betmilliard.com
+betmiz.bet
 betmode.casino
 betnet.usa.cc
 betnoise-unionour.cyou
@@ -14870,6 +14887,7 @@ casibomun-resmiadresi.com
 casin0-stake.app
 casineuros.com
 casino-truth.gl.at.ply.gg
+casino888.promo
 casinobcgame.com
 casinogame.it.com
 casinoiran.pro
@@ -18317,6 +18335,7 @@ cstraders.net
 csvd.ru
 csvger.info
 cswatchesservices.online
+cswnawh.accbartar.com
 cswtnpnuhixdwjgm.com
 cswwy.tractor11.com
 csxilwnl7orv6rwfjen5ye3tefk5shjtr4tysuykgxjsyngpvoqrvbid.onion
@@ -21342,6 +21361,7 @@ dream-events.fr
 dream.stormpiece.ru
 dream3.5-ninet-1-ou.ru
 dream5.tuful32io3.online
+dreambet.casino
 dreambigworkharddomore.com
 dreambuildshare.org
 dreamcash.com.ng
@@ -29792,6 +29812,7 @@ goat.tu-7-q.ru
 gob.grantflaskparty.com
 gobd.net.bd
 gobernaciondebolivar.gob.ec
+gobfmmh.casino888.promo
 gobirdrank.com
 gobirdrep.com
 gobustone.az
@@ -33192,6 +33213,7 @@ hvg.ru6q.ru
 hvhboss.000webhostapp.com
 hvhcsgo.000webhostapp.com
 hvhlegendpro.000webhostapp.com
+hvid2q0h.bet24bet.bet
 hvit.sa.com
 hvkhytpydqm.com
 hvkxevet.2zavlore.surf
@@ -45035,6 +45057,7 @@ mpd.pegasus-77.biz.id
 mpefryhfpwhfvj.com
 mpen0d.d0nat1mpenet.ru
 mpfadvocacia.agencialegalads.com
+mpfmdjf.ace90.games
 mpgfy.sakhtemandade.shop
 mpgroup.rs
 mpn22surabaya.sch.id
@@ -45812,6 +45835,7 @@ mz.n-44-s.ru
 mz.sd4o7.ru
 mz1.7kf1u.ru
 mz1.der14i.ru
+mz2qs1j6.1xforward.live
 mz4.q9-j341.ru
 mz6.5bq18.ru
 mz7.tyj-4b.ru
@@ -49802,6 +49826,7 @@ othisanna.com
 othmanesp.ddns.net
 oticiasdamanha.shop
 otis.ga
+otlqkiy.betmiz.bet
 otntjfbp.sorix7en.surf
 oto.africa
 oto60.org
@@ -50083,6 +50108,7 @@ ovo368.net
 ovogod.com
 ovonight.com
 ovoqxk.kpmarketing.hu
+ovrrdtl.ace90.casino
 ovrvijs.takhtebet.com
 ovs.amberr-0-ck-et.ru
 ovz1.winstrool0.67m36.vps.myjino.ru
@@ -54261,6 +54287,7 @@ qn666.us
 qnaru.zom7lirex.in.net
 qnb11.bracket-loam.ru
 qnbtu.quartz-leaf.ru
+qnfqfmh.ace90bet.bet
 qnjutqs.bet303.app
 qns.db-3-a-4.ru
 qnsvnvkk.shartbandi.casino
@@ -68151,6 +68178,7 @@ urokiua.site11.com
 urolab-certified-peptides.com
 urosobradovic.com
 urpwnd.site
+urqvdqc.dreambet.casino
 urs.org.vn
 ursamade.space
 ursamade.today
@@ -70130,6 +70158,7 @@ vhi.j935.ru
 vhjbkc.shop
 vhm7.inf0rmmou7n.ru
 vhngezbf.pleasuredome.hu
+vhnp4ovl.1xcart.xyz
 vhqck.work
 vhr6.ravelmint.ru
 vhsqohyd.hugugdaryayi.xyz
@@ -76921,6 +76950,7 @@ zqon.top
 zqous3223355-30142.portmap.host
 zqq4g.ru
 zqqhyp.sa.com
+zqtjqik.betiran.vip
 zquirtproom.pw
 zqvol7d5.mrbet90.com
 zqxhkfn1.mohasebatadadi.xyz
