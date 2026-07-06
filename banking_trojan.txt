@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-06 05:18:21 UTC
-# Total domains: 10171
+# Generated: 2026-07-06 11:41:48 UTC
+# Total domains: 10194
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3678,6 +3678,7 @@ entcu.icu
 enterprisebanking.com
 entrinidad.cfd
 entrueque.com
+entry.target
 entsolutions.icu
 envivio.biz
 envivio.com
@@ -7781,6 +7782,28 @@ purecure.shop
 puredriveperformance.com
 puregoldpettrackers.com
 pureliving.shop
+puteva.cc
+putevi-srbbqfije.com
+putevi-srbije.help
+putevi-srbije.icu
+putevi-srbijeaf.help
+putevi-srbijeag.help
+putevi-srbijeah.help
+putevi-srbijeah.homes
+putevi-srbijeba.homes
+putevi-srbijebc.homes
+putevi-srbijezt.homes
+putevi-srbile.help
+putevi-srbtrfije.com
+putevie-srbije.help
+putevii-srbije.help
+putevis-srbbije.top
+putevis-srbiiossje.top
+putevismetc.cc
+putevissdeoetc.top
+putevisteetc.cc
+putevs.cc
+putevti-srbije.help
 puthoffco.com
 putul.cyou
 putunesimbah.de
