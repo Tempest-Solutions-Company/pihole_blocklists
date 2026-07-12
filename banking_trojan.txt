@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-12 16:40:23 UTC
-# Total domains: 10413
+# Generated: 2026-07-12 22:47:06 UTC
+# Total domains: 10415
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1221,6 +1221,7 @@ assureeval.com
 assurelabs.com.au
 assurix.run
 astekz.com
+asterdefi.org
 astrameda.space
 astroaisafe.shop
 astromani.click
@@ -3070,6 +3071,7 @@ deepminds.me
 deepsekk.sbs
 defacerhost.ml
 defenderconsultancy.com.au
+deftiuna.org
 deiceswildrodeo.us
 deihin.vip
 deingutachten.berlin
