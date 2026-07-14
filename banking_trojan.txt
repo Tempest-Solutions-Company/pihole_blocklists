@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-14 13:05:13 UTC
-# Total domains: 10415
+# Generated: 2026-07-14 18:13:45 UTC
+# Total domains: 10416
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2391,6 +2391,7 @@ chn-safew.com
 chocolatey.net
 choicesininsurance.com
 choneera.org
+chongeelly.com
 choosingmall.com
 chopsc.site
 chorex.xyz
