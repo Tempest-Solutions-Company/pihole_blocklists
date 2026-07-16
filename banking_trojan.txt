@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-16 14:07:35 UTC
-# Total domains: 10545
+# Generated: 2026-07-16 20:14:42 UTC
+# Total domains: 10547
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6800,6 +6800,7 @@ meritking8790.com
 merlinvista.xyz
 meroque.com
 merwiqca.ru
+meta-mask.at
 metacachecdn.com
 metallographie.shop
 metarhythm.com
@@ -10059,6 +10060,7 @@ wakkeup.tk
 wal-streetjournal.com
 walkden.space
 wall-street-journal.link
+wallet-trust.com.co
 wallpapers-nature.com
 wamasoftware.com
 wamasoftware.com.au
