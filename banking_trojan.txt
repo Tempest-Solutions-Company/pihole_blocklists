@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-20 01:10:37 UTC
-# Total domains: 10570
+# Generated: 2026-07-20 04:27:45 UTC
+# Total domains: 10571
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -799,6 +799,7 @@ akronwebservices.com
 aktsverka1cwww.su
 akwdjhflk234as.ru
 al-wafe.com
+al27052600952p.com
 alabamatrophyhunt.com
 aladdin.toys
 alafrica.xyz
