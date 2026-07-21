@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-21 02:00:14 UTC
-# Total domains: 10591
+# Generated: 2026-07-21 05:06:21 UTC
+# Total domains: 10596
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3452,6 +3452,7 @@ dreig.com.au
 dreigusa.com
 dreyoddu.com
 drifajizo.fun
+drift-protocol.org
 drifthunters.online
 drink-jolt.com
 drinkplain.net
@@ -4228,6 +4229,7 @@ fivelittlemonkeys.fun
 fiveoakstuscaloosa.com
 fiveonjan6ar.net
 fiwbyjhu.ru
+fixedf-loat.com
 fixedfloat.inc
 fiyeli.com
 fjcszh.com
@@ -6830,6 +6832,7 @@ meta-mask.at
 metacachecdn.com
 metallographie.shop
 metarhythm.com
+metemask.com.mx
 methanetomarkets.org
 methtradehub.com
 metritono.com
@@ -8945,6 +8948,7 @@ social-benefit.cfd
 socialismorivoluzionario.it
 socialismorivoluzionario.org
 socialproof.store
+sofi-bnk.to
 sofiy.top
 soft-project.com.pl
 softchoices.co.bw
@@ -9688,6 +9692,7 @@ triumphsic.org
 triviet.news
 trkitok.com
 troense-kajakklub.dk
+tronnilk.com.cn
 tropicalexecutivehotel.com
 troyanh.pw
 troymiddlestores.net
