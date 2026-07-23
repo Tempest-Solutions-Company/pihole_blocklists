@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-23 18:39:54 UTC
-# Total domains: 10622
+# Generated: 2026-07-24 00:47:36 UTC
+# Total domains: 10636
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -735,6 +735,7 @@ agtendelperu.com
 ahantadevnet.org
 ahavasafe.shop
 ahazou.online
+ahdaratlegalservices.com
 ahhfad.com
 ahia.net
 ahjydt.com
@@ -966,6 +967,7 @@ anabolenleveranciers.com
 anactoffaith.com
 analfrik.com
 analytic-s.com
+analyticemailmeter.com
 analytics.analytics
 anamhamza.com
 andersnelab.com
@@ -1298,6 +1300,7 @@ augustarchitects.lk
 augustoshotel.com.br
 aulolloy.com
 aupthree.com
+aurekh.com
 aurrand.shop
 aurum-fix-corp.com
 aurus.co.th
@@ -3786,6 +3789,7 @@ eluoji.com
 elwoodpanthers.net
 emac.co.in
 emagrecer.online
+emailanalytics.com.ua
 emailreddit.com
 emasound.org
 emcnoa.com
@@ -5676,6 +5680,7 @@ isourcecloud.com
 issa-sac.com
 istage.online
 istarservice.com
+istc-cloud.com
 isun.ch
 it-biz.online
 it-inpsmy.com
@@ -6640,6 +6645,7 @@ mahonairport.com
 mailcomplaince.com
 mailjetto.cv
 mailkilter.com
+mailnalysis.com
 mailpad.click
 mailru.com
 mailshan.com
@@ -7736,6 +7742,7 @@ paypal-sverige.se
 paypal-verify.com
 paypalgivingfund.org
 paysignrewardcard.com
+paysolutions.ink
 paytech.cc
 pc-app-desktops.com
 pc-app-download.com
@@ -8665,6 +8672,7 @@ scotwork.co.nz
 scotwork.in
 scpsldann.top
 screalestatemarketnews.com
+screenly.cam
 scribeemr.com
 scripturesksa.com
 scrub-wow.ca
@@ -9259,6 +9267,7 @@ symbietic.com
 symblatic.com
 symbolstore.org
 symdlotic.com
+synacorzimbra.nl
 synbioltic.com
 syncii.co
 syncron.com
@@ -10426,6 +10435,7 @@ xseller.com
 xsfinancial.com
 xthnqp.com
 xtracsolutions.com
+xtrafftrck.net
 xtreamui.org
 xtreme.hr
 xuastyrdqk.love
@@ -10578,6 +10588,9 @@ zhuozhengsoft.com
 ziaintegracion.com
 zibenbang.vip
 ziegelrot-design.de
+zimbra-metadata.com
+zimbrasoft.com.ua
+zimbrastat.com
 zipongo-dev.com
 zippadoo.com
 zirq.top
@@ -10600,6 +10613,7 @@ zlibraryo.online
 zlibraryv.online
 zloirock.ru
 zmail.space
+zmailanalytics.com
 zmsupport.com
 zobrim.us
 zomans.com
