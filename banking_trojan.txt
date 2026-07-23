@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-23 01:10:44 UTC
-# Total domains: 10620
+# Generated: 2026-07-23 06:16:29 UTC
+# Total domains: 10621
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10215,6 +10215,7 @@ westpacone-homesg.info
 westpacone-homesz.info
 westpacrewardshop2025c.click
 westprohvac.com
+westurn.in
 wetotal.net
 wewekikilopsterstakan.com
 wfypainting.com
