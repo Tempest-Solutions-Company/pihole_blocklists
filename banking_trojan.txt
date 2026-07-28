@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-28 01:16:31 UTC
-# Total domains: 10769
+# Generated: 2026-07-28 03:22:50 UTC
+# Total domains: 10775
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -281,11 +281,13 @@
 28hkogln3b.online
 2ahost.com
 2ai.site
+2cfeature.feedback
 2coolflicks.photography
 2farchive.ph
 2fastclub.com
 2fauthorization.ping
 2fforward.ro
+2fnokleen.com
 2hhiv.top
 2interact.info
 2interact.us
@@ -2454,6 +2456,7 @@ chrrome.com
 chrysantathompsett.net
 chscbd.com
 chuacheneguer.com
+chunk.storage
 cialisnn.com
 cialistwo.com
 ciaoby.online
@@ -7395,6 +7398,7 @@ noaignite.co.uk
 noblece-email.com
 node.media
 noformmicrosoft.com
+nokleen.com
 nolaunifo.cc
 nomiagrouplimited.com
 nonebeen.net
@@ -8245,6 +8249,7 @@ qkswlp.com
 ql-vps.com
 qpvp.shop
 qq7t.top
+qrcode.bz
 qrcodelabs.com
 qrvk.top
 qszvcd.com
@@ -10031,6 +10036,7 @@ user.email
 user.name
 useralcliclient.me
 usersatisfactionlab.de
+useshoppaysessiontokenstorage.gd
 usoutlet.store
 utagscript.com
 utami.com
