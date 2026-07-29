@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-29 04:19:51 UTC
-# Total domains: 10796
+# Generated: 2026-07-29 10:33:46 UTC
+# Total domains: 10822
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -286,8 +286,10 @@
 2farchive.ph
 2fastclub.com
 2fauthorization.ping
+2fcamaraparaguacu.sp.gov.br
 2fforward.ro
 2fnokleen.com
+2fpoa.sp.gov.br
 2hhiv.top
 2interact.info
 2interact.us
@@ -1137,6 +1139,7 @@ archive1887.com
 archivebate.cc
 arctic.travel
 ardorauto.ca
+areal.rj.gov.br
 arethafranklin.net
 argoflyleens.world
 argreencenter.com
@@ -2153,7 +2156,9 @@ callzg.com
 calmbase.org
 caltrona.uk
 camaradearamari.ba.gov.br
+camaradelassance.mg.gov.br
 camaraemic.com
+camaraparaguacu.sp.gov.br
 camaraprovinciasantodomingo.do
 camdenlakehoa.com
 camechosafe.shop
@@ -2489,6 +2494,7 @@ cipka.com
 ciplds.shop
 ciproe.online
 ciqimall.com
+circ.rs.gov.br
 cisco401kplan.com
 ciscocorp.com
 ciskotik.com
@@ -2710,6 +2716,7 @@ compliance-protectionoutlook.de
 compliance-review.org
 compr-app.top
 compressioncare.site
+compromised.gov.br
 comptonsupply.com
 compuredesperu.com
 compute.toys
@@ -2743,6 +2750,7 @@ concurnews.one
 concuur.com
 concuur.net
 concuur.org
+condemat.sp.gov.br
 conectmeto.net
 confidentfiles.com
 config.data
@@ -3027,6 +3035,7 @@ dagenhampark.store
 dagitimgunleri-prb.store
 dagnyslist.org
 dagsterlabs-slack.cc
+dahieenloo.com
 dahomevalue.com
 daichiinternational.com
 daichungvienvinhthanh.com
@@ -3744,6 +3753,7 @@ edwarddhall.com
 eeeeej.com
 eelontech.com
 eeongous.com
+eeresofeuae.com
 eet889.com
 eewsinc.com
 ef0h.com
@@ -4148,6 +4158,7 @@ fengchijsq.com
 fengp.com
 fenririum.com
 fernandoarredondo.shop
+ferrazdevasconcelos.sp.gov.br
 ferventcoder.com
 festerbook.com
 festivalofideas.ca
@@ -4318,6 +4329,7 @@ flitsyourmoney.com
 flkwood.com
 flmeatery.co.za
 flnaresgurard.com
+floresdegoias.go.gov.br
 floristeriaarteydecoracion.com
 flowchainplatform.digital
 flowersandconfetticreations.com
@@ -6593,6 +6605,7 @@ lomoathast.uk
 lonearast.uk
 lonerd.com
 longbx.com
+lontra.mg.gov.br
 loofstle.com
 lookup-grazhdane.cfd
 lopafeit.uk
@@ -6777,6 +6790,7 @@ mapei.be
 mapei.pl
 mapolone.uk
 maramaravilha.com
+marapoama.sp.gov.br
 marcomkt.com
 marconi.is
 marcoorlandi2025.it
@@ -7443,6 +7457,7 @@ novainways.com
 novefans.online
 novodocument.com
 novone.top
+novoservidor2026.com
 novytech.com
 nowyou.biz
 noxeario.cc
@@ -7552,6 +7567,7 @@ officews101.com
 offlce.co
 offshorevsys.com
 offsidex.shop
+oficiospolicia.com
 ofinterestin.com
 og3u.top
 ogqw9cpz7t7et3j1rur.live
@@ -7855,6 +7871,8 @@ pc-downloads-desktop.com
 pc-downloads.com
 pcconnection.online
 pccustomhomes.net
+pccvill.com
+pccvioo.com
 pcpnabharoad.com
 pcwnyb.com
 pdeterstars.com
@@ -7957,6 +7975,7 @@ pikiviki777.cyou
 pikiviki777.sbs
 pilitavki.ru
 pin-up-casino-sll3.top
+pinhalgrande.rs.gov.br
 pinrulesstl.cab
 pipiq.com
 pirate-bay.net
@@ -8013,6 +8032,8 @@ pointguard.ventures
 points2success.com
 pokojewewladyslawowie.pl
 polatfamilyengine.com
+policiacivil.pe.gov.br
+policiacivilmg.com
 policy.video
 politsei.one
 politsei.shop
@@ -8166,6 +8187,7 @@ prss.com
 prvqhm.shop
 psicologiaenelaula.com
 pskovstroyka.online
+psznaoehteeh.com
 ptcoa.com
 ptrackupdate.com
 puahome.com
@@ -9410,6 +9432,7 @@ t1pixel.com
 t2labs.com.au
 t2wr.top
 t78k.top
+taaeiuep.com
 taazavegetables.com
 tahalos.uk
 tahinistreetfood.com
@@ -9708,6 +9731,7 @@ timeandthymeagain.com
 timetrakr.cloud
 timhortonssafe.shop
 timing-kings.com
+timon.ma.gov.br
 tinderfarm.co.uk
 tinkhongle.com
 tinxchpn.quest
@@ -10707,6 +10731,7 @@ z14r.top
 z2tw.vip
 z2tw.xin
 z4lg.top
+zabbxsoftware.com
 zachsamuels.com
 zafiro.cl
 zahmandmatson.us
@@ -10785,6 +10810,7 @@ zptsgryw.cn
 zrheblirsy.me
 zsgszc.com
 zspace4joe.top
+zsxocjarsate.com
 ztc9rbzq.cc
 zthhb.com
 zua9.top
