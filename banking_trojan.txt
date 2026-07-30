@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-30 17:41:19 UTC
-# Total domains: 10825
+# Generated: 2026-07-30 23:59:25 UTC
+# Total domains: 10826
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -553,6 +553,7 @@ aasmall.com
 aasystem.online
 aatsh.com
 aave-app.to
+aavedefi.org
 aazeen.com
 ab-resale.shop
 ab19191.xyz
