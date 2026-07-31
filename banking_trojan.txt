@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-07-31 13:45:41 UTC
-# Total domains: 10874
+# Generated: 2026-07-31 18:56:43 UTC
+# Total domains: 10877
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6468,6 +6468,7 @@ legacyresidential-leasing.com
 legalfortrade.com
 legendarytrendsbay.shop
 leggingsmall.com
+legio.name
 legion202.org
 legion470fishers.org
 legiontv.online
@@ -8810,6 +8811,7 @@ sbnk.digital
 sbvhn.com
 scalara.ch
 scale-with-ai.com
+scan-security.top
 scan2dressingroom.com
 scanuae.com
 scarleu.cyou
@@ -8930,6 +8932,7 @@ server.de
 serverseistemasatu.com
 servgate.me
 service-activity-checkup.site
+service-help.top
 serviceupdateaccountinfo.com
 servict.cyou
 serviredes.com.co
