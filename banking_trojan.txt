@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-01 07:18:40 UTC
-# Total domains: 10877
+# Generated: 2026-08-01 13:29:24 UTC
+# Total domains: 10878
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6699,6 +6699,7 @@ luxury-event-rentals.com
 luxuryrentalsminnesota.site
 luxurystore.store
 luxurytravelagent.net
+lv88-03.com
 lvdmall.com
 lvkas.dev
 lvlt.net
