@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-02 01:06:31 UTC
-# Total domains: 10878
+# Generated: 2026-08-02 02:20:35 UTC
+# Total domains: 10879
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10068,6 +10068,7 @@ unlimitedmedia.online
 unougn.com
 unrivaledsports.com
 unrpl.top
+unsiwap-v3.org
 unthrifts.com
 untouchableboygenius.com
 uo8city.com
