@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-06 13:40:48 UTC
-# Total domains: 10889
+# Generated: 2026-08-06 18:50:41 UTC
+# Total domains: 10891
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -559,6 +559,7 @@ ab-resale.shop
 ab19191.xyz
 abalisa.com
 abarrenechea.net
+abb1.life
 abbebuck.com
 abbeycourttrading.com
 abbmall.com
@@ -963,6 +964,7 @@ amplifinder.biz
 amplifye.org
 amscotfinancial.com
 amstratmall.com
+amutes.com
 amuvvoafs.com
 amuvvoafs.me
 amuvvoafs.su
