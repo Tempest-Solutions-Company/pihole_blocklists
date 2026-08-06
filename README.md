@@ -12,7 +12,7 @@ If these blocklists help protect your network, consider supporting the developer
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31HZAUU)
 
-**Last Updated:** 2026-08-06 01:20:58 UTC
+**Last Updated:** 2026-08-06 06:32:38 UTC
 
 ## 📊 Performance Statistics
 
