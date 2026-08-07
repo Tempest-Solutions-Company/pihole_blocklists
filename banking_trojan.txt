@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-07 01:18:03 UTC
-# Total domains: 10891
+# Generated: 2026-08-07 07:33:41 UTC
+# Total domains: 10963
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -629,6 +629,9 @@ acorta.click
 acostmall.com
 acquirefire.net
 actiothreaz.com
+activatemypasskey.com
+activatepasskey.com
+activatepasskeyportal.com
 activebuilding.uk
 activedown.com
 activeu.org
@@ -652,6 +655,12 @@ adaptlf.com
 adatum.com
 adblock2024.shop
 adc30vmjttx.com
+add-passkey.com
+addmypasskey.com
+addoktapasskey.com
+addpasskey2fa.com
+addssopasskey.com
+addyourpasskey.com
 adeptoms.live
 adeptresults.com
 aderean.com
@@ -1248,6 +1257,7 @@ ass-traffic-1.com
 assana.monster
 assana.vip
 assessmentevaluationreport.com
+assignpasskey.com
 assistpro.ae
 assure-tek.net
 assureeval.com
@@ -2427,6 +2437,7 @@ check02id.com
 checkingsoftwareupdate.at
 checkingupdatesoftware.at
 checkoutrouteprotected.com
+checkpasskey.com
 chefchen.online
 chelentano.online
 chemicalacademy.shop
@@ -2909,6 +2920,10 @@ crbug.com
 crcsd.do
 creamwood.net
 create-ink-app.dev
+createmfa.com
+createmypasskey.com
+createpasskey.com
+createssopasskey.com
 creation-vs-evolution.com
 creativcenterwest.at
 creative-itee.com
@@ -3215,6 +3230,7 @@ dentiwhite.de
 denverhousingmarket.org
 deonmall.com
 departurezone.lk
+deploypasskey.com
 depri.shop
 deroze.net
 desaangseri.com
@@ -3862,6 +3878,8 @@ emtg.top
 emtmall.com
 emulatorgames.online
 en-polymarket.com
+enablepasskey.com
+enablepasskey2fa.com
 enago.co.kr
 enchantrixaudios.com
 encompasspeptides.com
@@ -3883,6 +3901,7 @@ enigmaprotector.com
 enjoytahoe.com
 enmicrosoft.com
 enrichk.com
+enrollpasskey.com
 enruta.eu
 ensrl.com
 entcu.icu
@@ -5382,6 +5401,7 @@ huasidok.com
 hub-cargo.com
 hubcitymarketing.site
 hubintent.com
+hubpasskey.com
 huemirae.com
 huertatipografica.com.ar
 huethorst.com
@@ -6194,6 +6214,8 @@ ketquaplus.top
 ketsvpn.com
 keyjotech.com
 keymedla.com
+keyokta.com
+keysyncos.com
 keywealthltd.net
 keyword-salesforce.com
 kfbbjifre.cn
@@ -6796,6 +6818,7 @@ majoor.co
 major.co
 maju69.info
 makemoney.tips
+makepasskey.com
 makingwaves.co.uk
 malagaairport.com
 malakjewelry.com
@@ -7197,6 +7220,7 @@ msing.cc
 mskisdakw.top
 msmwars.com
 msowers.com
+mspasskey.com
 msslnk.com
 mssscardprv.ax
 msteamseyeappstore.com
@@ -7250,12 +7274,14 @@ my-sharepoint-inc.com
 my-summer-car.com
 my1cloudlive.com
 my2cloudlive.com
+myaccountsecurity.com
 myainps.com
 mybinps.com
 myboeingexpress.com
 mybusinessconnect.com.au
 mycardcare.in
 mychargeback.com
+myconnectkey.com
 mycopier.com.my
 mydigitalrevival.com
 myearninbenefits.com
@@ -7278,13 +7304,18 @@ mykeytakeaway.com
 mylingocoin.com
 mymidlandmortgaga.com
 mynewbee.net
+mynewpasskey.com
+myoktasso.com
 myolton.com
+mypasskeyid.com
+mypasskeysso.com
 myprizes.site
 myr7.top
 myrideshares.com
 mysking.info
 mysmartbird.in
 mysp.shop
+myssopasskey.com
 mysterykamchatka.ru
 mystiwlf.xyz
 mythi-epris-fixer.space
@@ -7378,6 +7409,7 @@ new-offer.store
 newcloudhub.site
 newholland-2026nama.com
 newmexicoiada.store
+newpasskey.com
 newphonecare.lk
 newrelic.se
 news-cnn.net
@@ -7621,6 +7653,8 @@ okadacaco.com
 okbangggggg.com
 okbangindo.com
 okta-louisvuitton.com
+oktaenroll.com
+oktaportalsso.com
 oktrk.com
 ol.com
 olajaj.online
@@ -7726,6 +7760,8 @@ orry.world
 orthoperu.com
 oscarlopez.com.py
 osetrkolomna.ru
+oskeyconnect.com
+oskeysync.com
 osogransd.online
 osuperrobo.online
 oteams.com
@@ -7874,6 +7910,31 @@ parviavhuan.icu
 parviavhudn.icu
 parys.cz
 pasaaportes-citas-srre-gob.com
+passkey-check.com
+passkey-connect.com
+passkey-enable.com
+passkey-portal.com
+passkey-setup.com
+passkeyactivation.com
+passkeyadd.com
+passkeycenter.com
+passkeycreate.com
+passkeycreator.com
+passkeydeploy.com
+passkeyenable.com
+passkeyenroll.com
+passkeyhelpdesk.com
+passkeymfa.com
+passkeyokta.com
+passkeyportal.com
+passkeyportalsetup.com
+passkeyregister.com
+passkeyregistration.com
+passkeyrollout.com
+passkeyset.com
+passkeystatus.com
+passkeysupport.com
+passkeyuser.com
 pasteflawwed.world
 pastimaxwin.online
 patmushta.info
@@ -8108,7 +8169,9 @@ portaldasfinancas-pt.org
 portaldasfinancas.org
 portalhondihs.com
 portalonline-simplespgme.online
+portalpasskey.com
 portalreceitafazenda.com
+portalsetuphub.com
 porterranchhomes.com
 portgame.website
 poryadochniy-domen.com
@@ -8511,6 +8574,7 @@ regexper.com
 register-buzzy.store
 registerktp.com
 registerktp.online
+registerpasskey.com
 registrasi-coretax.com
 rehab.shop
 rehlatalkhaleej.com
@@ -8884,7 +8948,9 @@ sectorlink.us
 sectorlinkdigital.com
 secure-acrbtadbeonlinedocs.com
 secure-imrworldwide.com
+secure-passkey.com
 securease.org
+secureauthpasskey.com
 securedocumentsmicrocloudsdrivestorage.com
 securely-setup.com
 securewindows.xyz
@@ -8948,10 +9014,12 @@ servict.cyou
 serviredes.com.co
 sesu.org.uk
 sethkniep.com
+setpasskey.com
 settingfir.com
 setupoldnavy.space
 setupp.es
 setupserver.biz
+setupssopasskey.com
 sevatto.click
 seven-zip.click
 seven77.click
@@ -9248,6 +9316,7 @@ spotxcdn.com
 sppwyil.com
 springslegacy.org
 sprucetreepress.com
+sqfepjvmrd.xyz
 sql-updater-service.com
 sqlsentry.net
 squirtlejam.com
@@ -9264,6 +9333,7 @@ sskimresources.com
 sso-company.com
 sso-tha.com
 sso-tha.net
+ssopasskey.com
 sss-cgov.com
 sss-gov.com
 sss-negov.com
@@ -9286,6 +9356,8 @@ starpointtrading.com
 starspangle200.org
 startcode.co.il
 startmarketinglab.site
+startpasskey.com
+startpasskeysetup.com
 startupbizaud.net
 startupbusiness24.net
 startuptechnologyw.net
