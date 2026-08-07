@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-07 13:44:06 UTC
-# Total domains: 10963
+# Generated: 2026-08-07 20:09:32 UTC
+# Total domains: 10967
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5544,6 +5544,7 @@ idn-pajak-djp.top
 idngov.com
 idnpajak.com
 idnpajakdownload.com
+idokta.com
 idolajp85.net
 idphil.net
 idt911consulting.com
@@ -7312,6 +7313,7 @@ mypasskeysso.com
 myprizes.site
 myr7.top
 myrideshares.com
+mysecurepasskey.com
 mysking.info
 mysmartbird.in
 mysp.shop
@@ -7925,6 +7927,7 @@ passkeyenable.com
 passkeyenroll.com
 passkeyhelpdesk.com
 passkeymfa.com
+passkeyms.com
 passkeyokta.com
 passkeyportal.com
 passkeyportalsetup.com
@@ -9019,6 +9022,7 @@ settingfir.com
 setupoldnavy.space
 setupp.es
 setupserver.biz
+setupsso.com
 setupssopasskey.com
 sevatto.click
 seven-zip.click
