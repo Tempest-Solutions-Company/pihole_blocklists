@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-08-08 01:10:54 UTC
-# Total domains: 89935
+# Generated: 2026-08-08 02:21:56 UTC
+# Total domains: 90003
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1431,6 +1431,7 @@
 13.107.ihireinternationalagency.com
 13.gyj-0.ru
 130.zuole.ml
+1302768123-l3a4w496qm.ap-shanghai.tencentscf.com
 1308344827-4bya137jfj.ap-guangzhou.tencentscf.com
 130oppott.com
 1310084117-cdzk9xw7xy.ap-beijing.tencentscf.com
@@ -3141,6 +3142,7 @@
 4si19z.vip
 4snfemll.luxerabet1000.com
 4sv.cl0udmark.ru
+4szrc49l.hallmarkcarpets.net
 4t.ckyq9.ru
 4t.wugh.ru
 4t2.inc1inedn0n.ru
@@ -3152,6 +3154,7 @@
 4u29.manual1sa1yz.ru
 4u3hglwc.moarefeslami.xyz
 4uagenciamarketing.com
+4uc7neco.abcdbro.com
 4ucredit.ru
 4uw50lrg.5purbu7y.ru
 4v.hyk5.ru
@@ -4637,6 +4640,7 @@
 8q7.oceanshift.ru
 8qh80m8o.shimiskoog.shop
 8qiew2ns.en-bizopp.com
+8qkm1lut.mspa-naperville.com
 8ql.n6ri.ru
 8qs.ravenklause.ru
 8qxg5lyp.logic-pulse.digital
@@ -10438,6 +10442,7 @@ asseccmod.ydns.eu
 asseemqgoggqysiu.xyz
 assenmacher-koeln.de
 asseppn.forum
+asserma.ch
 assertivacriativa.com.br
 assessment-scores.gl.at.ply.gg
 assessoriabr.com
@@ -11197,6 +11202,7 @@ avddk.top
 avdev.net
 avdimio.com
 avduwco.alhilal90.com
+avecpanache.ch
 avefenix35630.duckdns.org
 aveforge.app
 avekocomputers.com
@@ -14354,6 +14360,7 @@ bm8ue2oq.abcdbro.com
 bmagikleak.website
 bmalkids.eu
 bmar5djkr1he.cc
+bmcmdwj.eng-brain-defender.com
 bmconsultoriaetreinamentos.com.br
 bmenergi.co.id
 bmgint.ga
@@ -14571,6 +14578,7 @@ bondas-sa.com
 bondbrandingco.com
 bondixa.qpon
 bondly.site
+bondmelbourne.com.au
 bondprotocol.xyz
 bonfwldgaovmxvvza.footstepsdaycare.com
 bong88.co.com
@@ -19059,6 +19067,7 @@ clwade-base.app
 clwoce8k.runtime-atlas.digital
 clwpuvknw.mumsdebtservice.co.uk
 clwrealestate.com
+clxurg.eng--bpzone.com
 clymor.s1aughttre5s.ru
 clysselw.betkaka.bet
 clzr2h4s.pr2gzigza8.ru
@@ -20524,6 +20533,7 @@ crackle.quartznibble.ru
 cracktui-34704.portmap.host
 cradle.fl0wmortar.ru
 cradton.icu
+craff.ch
 craft.r1verbloom.ru
 craftconstruction.ca
 craftmasters.co.uk
@@ -22972,6 +22982,7 @@ dew.wib8.ru
 dew4ly.mintpeak.ru
 dewa111.de.com
 dewabitsoftware.com
+dewda.com
 dewi.cf
 dewi.tk
 dewii.ga
@@ -24712,6 +24723,7 @@ dualserverz.info
 dualsurvey.com
 dualup.top
 duams.net
+duaozkgx.gtacauto.com
 duasoiree.co.uk
 dubai-chamber-payments.com
 dubai-chambers-payment.com
@@ -26802,6 +26814,7 @@ en-audizenn.com
 en-bitcoinhyper.org
 en-cakewallet.gr.com
 en-echoxen-echoxen.com
+en-en-eng-cognisurge.com
 en-eng-glucotrustbites.com
 en-mymonero.gr.com
 en-phantom.at
@@ -26868,6 +26881,7 @@ energiekraft.at
 energisone.com
 energizermedia.net
 energy4665.duckdns.org
+energy4me.ch
 energyarts.com.br
 energyrefundhelpline.com
 energysave.uk.com
@@ -26889,14 +26903,29 @@ enfejar2.com
 enfejarbahis.com
 enfejarland.com
 enfejwin.com
+eng--bpzone.com
+eng--braindefender.com
+eng--digestistart.com
+eng--echoxen.com
 eng-bettinggods.com
+eng-brain-defender.com
 eng-coinbase.com
+eng-echoxen.us
+eng-en-slimsounds.com
+eng-eng-braindefender.com
+eng-eng-slimsounds.com
+eng-gutdrops.us
 eng-lotterymaximizer.com
 eng-sub.su
 eng-trezor.io
 eng-vertexclub.com
 engageandretainllc.com
 engaugeparts.com.au
+engbpzone.com
+engbraindefender.com
+engcognisurge.com
+engdigestistart.com
+engechoxen.com
 engeforpavimentacao.com.br
 engelabeslami.xyz
 engelabiran.xyz
@@ -27521,6 +27550,7 @@ esale-server.shop
 esattamercovia.live
 esaverepair.fr
 esbydax.tobisha.com
+escalatefud.duckdns.org
 escape2cashflow.org
 escczlv.top
 escencearuba.com
@@ -29558,6 +29588,8 @@ ferzaadvocacia.com.br
 fesold.com
 fespov.den1mp7imad.ru
 fess.online
+festarts.com
+festesmajorsdecatalunya.cat
 festival-rits.com
 festivaldebombayplenatampa.com
 festivaldotorresmo.com.br
@@ -31384,6 +31416,7 @@ fsoufsefenugnuy.in
 fsphwjzi.maharatmodiran.xyz
 fsrm.lilacsilo.ru
 fsrzcnc.com
+fss-bs.ch
 fssshipping.com
 fssuatmti.com
 fst.fl0wstone.ru
@@ -32419,6 +32452,7 @@ gaqcskwuoowsmomo.xyz
 gaqkweawewiyuimg.xyz
 gaqqqccykioaegss.xyz
 gaquh6ee7.ru
+garage-zimmermann.ch
 garagedoordesignandrepairnews.com
 garageplusnw.com
 garden-sugizo.com
@@ -33670,6 +33704,7 @@ giw.wallyapp.xyz
 giwl.highkickstkd.com
 gix.c2nce1rarity.ru
 gixkover.com
+giyypma.dewa111.de.com
 giz.cloudb1t.ru
 gizabtc.com
 gizmo.skysh1ne.ru
@@ -35983,6 +36018,7 @@ h4.aaty4qdy.ru
 h4.k59ee.ru
 h4.n-98.ru
 h40.amberr-0-ck-et.ru
+h431ijjv.dusanperisicmd.com
 h4factor.com
 h4ilnd.5tormfoid.ru
 h4n.phoenixbogen.ru
@@ -37176,6 +37212,7 @@ hightechmecury.favcc1.com
 hightechswiftx.favcc1.com
 hightidesuffolk.com
 highwas.asia
+highwaygrinding.com
 highwaytolline.sbs
 higlaxsolutions.com
 higomanga.info
@@ -37471,6 +37508,7 @@ hn3.jg-7-ra.ru
 hn8ah9qr.pdfteach.ir
 hnainyw.ninjafruitcubes.bet
 hnaq-6.ru
+hnbowps.eng--cognisurge.com
 hncwzapf.5t0rmfail.ru
 hngbkm.wifewithabudget.com
 hnhdl.hazaratbet.bet
@@ -41516,6 +41554,7 @@ jeansporter.xyz
 jebcas.com
 jebclxk.raftarsazmani.xyz
 jebxit.g2un7makeup.ru
+jedecoupe.ch
 jeekd.senorgyros.com
 jeepbastard.com
 jeevesandwoosterplay.com
@@ -41539,6 +41578,7 @@ jehezikh.prozhecart.com
 jeig3sli.brandonstreeservices.com
 jej.nq-8-e-9.ru
 jekky.wlwyb.com
+jektcp.eng-gutdrops.us
 jelas4d.co
 jelbance.com
 jelena-ux.com
@@ -45174,6 +45214,7 @@ kxlv.org
 kxnan.com
 kxqeq.dur2treces5.ru
 kxqxhh.lestyanesfiai.hu
+kxrvczi.echo-xen.us
 kxusdydywsppkdtlxws.com
 kxwuxeow.site-shartbandi-variz-mostagim.com
 kxxpvutsn.derbi.promo
@@ -46360,6 +46401,7 @@ leprintexpress.com
 leprixnet.com
 leqdger.click
 lerawex.com
+lereindeflash.com
 lererikal.org
 lergothelabel.com
 lermanet.org
@@ -47983,6 +48025,7 @@ luremo-olly.ru
 lurn.softcl0ud.ru
 lurowex.com
 lurup.press
+lurxrx.spirosnet.com
 lusecproducts.top
 lushbb.xyz
 lushspa.club
@@ -48025,6 +48068,7 @@ luxurygoodscaree.com
 luxurygs.ro
 luxuryservicesagl.ch
 luxuryshop.su
+luxusbetten24.li
 luxzzc2servers.my.id
 luy6lvmh.site-takhtenard-sharti-betland.com
 luzazai5.ru
@@ -50057,6 +50101,7 @@ mcb.u-v9.ru
 mcbassauthor.com
 mcbelize.com
 mcbt.ru
+mcc-tec.ch
 mccanndublin.com
 mcchphgndpadclga.com
 mccousins.com
@@ -51646,6 +51691,7 @@ ml.mw-9-y-4.ru
 ml.n-44-s.ru
 ml2s.al1ah5natch.ru
 mlampell.com
+mlawfirm.com
 mlbft.com
 mlbmb.bonuszugynokseg.hu
 mlbn.jadoou.makeup
@@ -51675,6 +51721,7 @@ mlvzrpw.betyyy.casino
 mlx-framework.org
 mlydvb.whimsyweddingsco.com
 mlye7rvg.siciliandefensetheory.digital
+mlz3n0k4.elcornerderaulmorote.com
 mlzabnwk6xx.com
 mm-includes.gl.at.ply.gg
 mm.1yjp.ru
@@ -53750,6 +53797,7 @@ nasrev.de
 nasroyalsafaris.com
 nasrviolin.com
 nasscomminc.tk
+nassjojarnvagsmuseum.se
 nastwest.icu
 nastylastgirl.com
 nastyslice.com
@@ -55085,6 +55133,7 @@ nom.zeronoiseclassroom.com
 nomadhouse.io
 nomadicdamon.com
 nomames.gen.in
+nomaos.ecchoxen.us
 nomisfulstore.com
 nomlist.ml
 nomod.es
@@ -55116,6 +55165,7 @@ noone5123-52149.portmap.host
 noone5123-59078.portmap.host
 noonepa.tk
 noonitravel.com
+noopyr.eng--braindefender.com
 nootpositivo.xyz
 nooxhub.pro
 nooxnft.app
@@ -55849,6 +55899,7 @@ nzraw48i.rayegan.net
 nzrhwm99.d0tte1ran.ru
 nzs.d3-6.ru
 nztdbnij.mabanishimi.xyz
+nzvutkh.eng-echoxen.us
 o-bingo.co.jp
 o-tci.xyz
 o-z-o.ru
@@ -58414,6 +58465,7 @@ oyi.bg-4-o-2.ru
 oyine.duckdns.org
 oyishu.com
 oymbwsa.yek90bet.com
+oynxhn.eng-bpzone.com
 oynxty.kovacsago.com
 oyqkr.boutiqbar.com
 oyqqqexh.maharatmodiran.xyz
@@ -59292,6 +59344,7 @@ pcmall.ca
 pcppro.co.uk
 pcraster.nl
 pcremotes.ru
+pcsarm.eng-eng-slimsounds.com
 pctor.link
 pcue.elitesport.ir
 pcwhlb.qummy-group.com
@@ -60694,6 +60747,7 @@ poe154.top
 poel.cba.pl
 poeles-granules-manosque.fr
 poem2-jos.com
+poentjakweg.com
 poeppelmannn.com
 poertywindow.com
 pofuduk.org
@@ -65325,6 +65379,7 @@ reschsc.top
 resckoltd.com
 research.fusenode.net
 research.tizambia.org.zm
+reseau-evangelique.ch
 reseaucupidontogo.org
 resecpovak.com
 reseda.green
@@ -65572,6 +65627,7 @@ rgcecjho.parspoker90.com
 rgconsultingservices.net
 rgd2.pastor-publicist.lat
 rgdqy.lomov-stroganal.lat
+rgengineering.net
 rgeouiqb.schleer.hu
 rghwarmlxmqivfmcs.com
 rgiisgy.thelovebugsband.com
@@ -66585,6 +66641,7 @@ ruelamblot.com
 ruetraverse.com
 ruev6.d0nat1mpenet.ru
 ruffyayeaye.ddns.net
+rufmpt.eng-eng-braindefender.com
 rufrzzcs.betpublic.casino
 ruga85.ger8y5evruga.ru
 rugate.pw
@@ -71353,6 +71410,7 @@ soundsnatural.co.za
 soundtu.sb
 soundtu.sbs
 sounqp.cyou
+soupart.ch
 sourc3.onyxquelle.ru
 source-gtk.gl.at.ply.gg
 sourcingallproductsworldwide.duckdns.org
@@ -74671,6 +74729,7 @@ tall.jibiw8aa5.ru
 tall.moonf1eld.ru
 talledo-serviciomusical.es
 tallfilm.nut.cc
+tallieudiksmuide.be
 tallithix9.mirelax9.life
 talltalesfishing.com
 tallubk.top
@@ -76000,6 +76059,7 @@ thierryarts.com
 thietbidiencongnghiep.com
 thietbikiemdinh.com.vn
 thijsbroekhuizen.nl
+thikatechnical.ac.ke
 thing-stud.gl.at.ply.gg
 things-uses.gl.at.ply.gg
 thingsandinfo.com
@@ -77076,6 +77136,7 @@ trackelevenmag.com
 tracker.colatv88xb.cc
 tracking.bubars.com
 tracking.dinos.vn
+tracklifefit.com.br
 trackmetrica.icu
 tractor.persistfromchicago.com
 tractorradioswholesale.com
@@ -77199,6 +77260,7 @@ trannynet.adgods.uk
 tranpip.com
 tranquilhavenresort.com
 trans-tech.ro
+trans-vision.ch
 transact-news.com
 transactionengineer.com
 transactsureauthority.world
@@ -78588,6 +78650,7 @@ ueusifhsiheadhih.ru
 ueusifhsiheadhih.su
 uewtda.wavelu.com
 uexdex.com
+ueyhxow.eng--echoxen.com
 uf6qo.fr0stciiff.ru
 uf8.qcet8.ru
 ufabet123.me
@@ -81428,6 +81491,7 @@ vctwatchs.shop
 vcv.no-ip.biz
 vcv.v0rt3xlab.ru
 vcxb.xyz
+vcxddac.eng--digestistart.com
 vd-global.vip
 vd-ntds.com
 vd.fk9e2.ru
@@ -82328,6 +82392,7 @@ vmi3474446.contaboserver.net
 vmi3488212.contaboserver.net
 vmidxev.troythebrickmason.com
 vmirejivotnix.website
+vmiyjlp.brain--defender.com
 vmjkew.thelibertytoken.net
 vmkkb.ru
 vmklsfdv.duckdns.org
@@ -84069,6 +84134,7 @@ westcoastwine.co.za
 westech-solar.co
 westechs-inc.com
 westermann-geruestbau.de
+western-city.ch
 western-willow.gl.at.ply.gg
 westernbaysailing.com
 westerrd.cyou
@@ -88651,6 +88717,7 @@ yysopqde.com
 yywem.drdavidzweiback.com
 yywesmeciecsmksk.xyz
 yywyvtur.hor1inka-lonely.digital
+yyxwfsq.buy-ignitra.com
 yyyf168.com
 yyyfiub.1x1.pro
 yyyvzlgy.irantop.bet
@@ -88923,6 +88990,7 @@ zab.hanyasm188.top
 zab.rzrrent.com
 zabaikalsk.logomebel.ru
 zabantehrani.shop
+zabejp.eng-en-slimsounds.com
 zabenkot.top
 zabestgroup.co.za
 zabraz.ru
