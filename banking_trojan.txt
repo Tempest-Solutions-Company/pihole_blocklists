@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-09 03:06:09 UTC
-# Total domains: 10970
+# Generated: 2026-08-09 09:18:06 UTC
+# Total domains: 10971
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10492,6 +10492,7 @@ wefindmyitem.com
 weilei.site
 weirdgames.info
 weitarsgear.shop
+wel1.ru
 welausystem.net
 welcomehome.shop
 welcometopcom.art
