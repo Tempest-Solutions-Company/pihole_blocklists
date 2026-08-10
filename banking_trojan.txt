@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-10 10:14:38 UTC
-# Total domains: 10971
+# Generated: 2026-08-10 10:42:51 UTC
+# Total domains: 10977
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -43,6 +43,7 @@
 0domainresources.com
 0e51009b.buzz
 0e51009b.shop
+0e51009b.xyz
 0ikrrlyx.com
 0k0.biz
 0key.solutions
@@ -428,6 +429,7 @@
 7dmsn.com
 7e3bf414.buzz
 7e3bf414.shop
+7e3bf414.xyz
 7e3w.top
 7lyphhauz.com
 7pyi.top
@@ -2531,6 +2533,7 @@ citytech-solutions.com
 civicalg.com
 civiccore.digital
 civictheme.io
+cj06y9v4xab.com
 cjsjt.com
 ckcraneservice.com
 ckjacob.com
@@ -2605,6 +2608,7 @@ clashzv.com
 claude-setup.com
 claudetee.com
 clbmj.com
+clck-analytics.com
 cleamone.uk
 cleancloud.in
 cleaning-adx-bc7-asl-us-2.cfd
@@ -5655,6 +5659,7 @@ info-change.to
 info3rb.com
 infodatamark.com
 infofloripa.com
+infofreddiemac.com
 infoldium.com
 infopay.com
 inforelic.icu
@@ -7222,6 +7227,7 @@ msgportal.online
 msing.cc
 mskisdakw.top
 msmwars.com
+msonline.help
 msowers.com
 mspasskey.com
 msslnk.com
