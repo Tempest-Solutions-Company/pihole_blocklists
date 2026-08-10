@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-08-10 17:04:33 UTC
-# Total domains: 90792
+# Generated: 2026-08-10 23:24:28 UTC
+# Total domains: 90837
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2168,6 +2168,7 @@
 2844.xzz.cam
 287.hl5a6.ru
 2887k.stormf0rm.ru
+28jk0aeb.eng-slimsounds.com
 28l94n0x.astra1r0pac.ru
 28p.frostn0de.ru
 28ri3ljq.zabanenglishanari.xyz
@@ -3377,6 +3378,7 @@
 59gwy.ic0n1ctrove.ru
 59k3ql4x.akhlagvaahkam.xyz
 59l.frostc0met.ru
+59qxatd0.gtacauto.com
 5a.frost-indigo.ru
 5a0.ember-cross.ru
 5a3s97ps.fitprotracker-campaign.com
@@ -9192,6 +9194,7 @@ aoudizen.com
 aouokogwwygwiiso.xyz
 aouoya.com
 aowickcyqoksieim.xyz
+aoy7vij2.foodpapajobs.com
 aoyamamob.com
 aoyccseqyoiqqema.xyz
 aoygegmukgsguiqg.xyz
@@ -16018,6 +16021,7 @@ bymartin.xxl.lc
 bynbv.ic0n1ctrove.ru
 bynewcrest.ru
 bypmobu.shopprincesshair.com
+bypraqr.get--ignitra.com
 byq3.ru
 byqpgf.digeststart.us
 byquset.com
@@ -27014,6 +27018,7 @@ en-trezr.com
 en-try-echoxen.com
 en-us--neuroxen.com
 en-us--sightfresh.com
+en-us--sleeplean.us
 en-us-bettinggods.com
 en-us-eachwaymultiplier.com
 en-us-echoxen.us
@@ -27030,11 +27035,16 @@ en-us-odizen.com
 en-us-pegasus.com
 en-us-plantsulin.com
 en-us-sightfrresh.com
+en-us-sleep-leans.com
 en-us-slimsounds.com
 en-us-slimsplits.com
 en-us-slimsplitsmethod.com
 en-us-stakecasino.com
 en-us-sugermute.com
+en-us-superbrain.com
+en-us-theenergyrevolution.com
+en-us-theslimsplitsmethod.com
+en-us-thyrafemme-balance.com
 en-us-us-lipogummy.com
 en-us-us-metabodrop.com
 en-us-us-prostadefend.com
@@ -27044,6 +27054,8 @@ en-usechoxen.com
 en-usgold-align.com
 en-usneuroxen.com
 en-ussightfresh.com
+en-ussleeplean.us
+en-web-echoxen.com
 en.fenod.ru
 en.iranphotonics.com
 en.mxta6.ru
@@ -27335,6 +27347,9 @@ enus-sightfresh.com
 enus-sleeplean.us
 enus-slimsounds.com
 enus-spartamax.com
+enus-synaptigen.com
+enus-thyrafemmebalance.com
+enus-tinnitrol.com
 enuvdz.ksfogaszat.hu
 env.vpssysnet.pics
 envelzm.xyz
@@ -27483,6 +27498,7 @@ eokksmqmcqwuyoaa.xyz
 eokoykqkmmimmssw.xyz
 eokyayaeowsowgiw.xyz
 eokyeukeiweawaai.xyz
+eolins.en-us-theenergyrevolution.com
 eomaqosamauywyqu.xyz
 eomcagigcikyeuee.xyz
 eomiceiqssukimss.xyz
@@ -27728,6 +27744,7 @@ erfhytwpgitkpgudo.com
 ergergreefegrher.biz
 erginmakina.com.tr
 ergki.top
+ergo-up.ch
 ergocentre.fr
 ergodown.com
 ergoworksconsulting.com.au
@@ -29957,6 +29974,7 @@ fg777jbg.net
 fg777kito.com
 fg777tasya.net
 fg7za1dh.casinobet.casino
+fgauki.en-us-thyrafemme-balance.com
 fgbojhem.meadowprocessingframework.garden
 fgdd.behtarin-site-shartbandi.com
 fgeszrs.dahdahtoys.com
@@ -30003,6 +30021,7 @@ fhptw.bertifolia.hu
 fhqc.backgammon.download
 fhtre.xyz
 fhu9.softcl0ud.ru
+fhuyul.en-us-superbrain.com
 fhvteyb.kbshavanese.com
 fhwyunu.jet1bet.com
 fi-claim.com
@@ -33518,6 +33537,7 @@ gesundeswasser.co
 geswcagagyaumway.xyz
 geswkimaceskwgus.xyz
 gesz.org
+get--ignitra.com
 get-a-book-lk.com
 get-a-x-links.com
 get-access.to
@@ -33539,8 +33559,10 @@ get-on-processing-engine.garden
 get-pump.today
 get-safe-easy-links3.com
 get-shell-gard-frame-work.garden
+get-sightfresh.com
 get-smartbuyer.com
 get-the-hindu-link.com
+get-thyrafemmebalance.com
 get-topservice.com
 get-trolololo.app
 get-urban-life-dictionary-link.com
@@ -33611,6 +33633,7 @@ getguaranteedincome.com
 getguaranteedincome.southernsummits.com
 gethe4e.ru
 gethopedd.com
+getignitra.com
 getimageinformation.com
 getinone.in.net
 getinstallclient32.live
@@ -33631,6 +33654,7 @@ getreward.cc
 getsaertt.co.uk
 getsafeblog.com
 getscalespilot.co
+getsightfresh.com
 getsmartpdf.com
 getsoft.site
 getstake.pro
@@ -34749,6 +34773,9 @@ gold.vudujiu33.ru
 gold.windsh1ne.ru
 gold.x-3-ri.ru
 gold7y.g0ldfish.ru
+goldalaign.com
+goldalin.com
+goldaling.com
 goldcoasthockey.com
 goldcoastwebsiteshosting.com.au
 goldcoin-trade.com
@@ -37792,6 +37819,7 @@ hlp.wi0x.ru
 hlsre.com
 hltps-roblox.com
 hlxzz.visszateritok.hu
+hlzhpm.en-us-superbrain.com
 hm.0-g845.ru
 hm.0y2i.ru
 hm.4u-rr.ru
@@ -37847,6 +37875,7 @@ hmpiscinas.kbral.com.br
 hms.4k-stream.site
 hms.chadasvendas.com
 hms.xybcaap.my.id
+hmskuzk.get-thyrafemmebalance.com
 hmuhvsjjl.com
 hmvr4u61p.localto.net
 hmwrabs.btyek.cfd
@@ -38896,6 +38925,7 @@ i042.mobi
 i078pt1f7dpiuhl1.iloveanimals.shop
 i0992ejq.5t0rmr1dge.ru
 i0bep9cj.medallionfoodsinctempura.com
+i0bx7ts6.en-en-en-slimsounds.com
 i0g1ci0tu5.ru
 i0gxewzq.webuyurcar.com.au
 i0gxyl9q.betaffiliate.marketing
@@ -41055,7 +41085,9 @@ itrad3r.com
 itredirect.merseine.com
 itrsutwallet.com
 its-nil.gl.at.ply.gg
+its.beras1.com
 its.npoj2.ru
+its.sm188auto.top
 itsallaboutthetubmans.com
 itsamha.com
 itselirose.com
@@ -42281,6 +42313,7 @@ jmgo.mg
 jmhyoffice.com
 jmlhfhrif.derbi.football
 jmlzwn2l.limous-nitout.digital
+jmnttbq.getsightfresh.com
 jmodz.com
 jmompc.com
 jmpbowl.coupons
@@ -42511,6 +42544,7 @@ jorey.ru
 jorjsrfgd.lion1bet.com
 jorqev.cask-wander.ru
 jorqit.c1utter0ver.ru
+jortbrc.goldaling.com
 jorxel.act0rpie7ce.ru
 jorxep.quartzjolt.ru
 josdream.com
@@ -42627,6 +42661,7 @@ jq8ob.bowin1nca5.ru
 jqali1r8.jimmieleeautosales.com
 jqfg2zyi.ehtemalatvaamar.xyz
 jqgpu1.sp2ceba7tie.ru
+jqiltw.enus-tinnitrol.com
 jqjvvqpy.one1x.bet
 jqk.ravenklause.ru
 jql0.dark5hip.ru
@@ -48514,6 +48549,7 @@ lvo.w1um.ru
 lvory7.7-doxok-46-eu.ru
 lvppjubyy.barkerautoms.com
 lvprocurement.com
+lvr1xtam.habbofutbol.com
 lvt.vip1xbet.net
 lvtimaax.usoleamoozesh.xyz
 lvu.xa4p.ru
@@ -55353,6 +55389,7 @@ nkpoor.sa.com
 nkpotu.xyz
 nkqj.behtarin-site-shartbandi-football.com
 nkqzyrf.sm188wing.cyou
+nksdosz.goldalignn.com
 nkskhifhiwgahoehih.ru
 nkstconsmkar.edu.ng
 nkv.gdyl2.ru
@@ -58982,6 +59019,7 @@ ozcocard.melbahis.com
 ozcyajb.sweetserendipitybakeshop.com
 ozenziraat.com
 ozezesx1.couponforge.qpon
+ozfttik.get-sightfresh.com
 ozgurdusleranaokulu.com
 ozibiza.com
 ozkardekorasyon.com
@@ -60390,6 +60428,7 @@ phentermine-institute.gl.at.ply.gg
 phfifdv.rentechglobalsolutions.com
 phgbh6cb.quartz-sketch.ru
 phh4mjzz.missavws.net
+phhqqp5d.grannygshemporium.com
 phiheatings.ir
 phijdnv.sm188login.cyou
 philadelphiarestorationservices.com
@@ -63862,6 +63901,7 @@ qon.ju8r.ru
 qonit.icu
 qooameimygucicum.xyz
 qood-universe.com
+qoommbx.goldalin.com
 qoomswgcsqquyweu.xyz
 qopcas.com
 qopup.icu
@@ -69592,6 +69632,7 @@ sevenjet.com
 severetype.com
 severo.mobilefoundationrepair.com
 severs.webs.pm
+seversin.lol
 severxxx.com
 sevffjdu.jozveyek.com
 sevimfotografcilik.com
@@ -82558,6 +82599,7 @@ vh1oi5hz.rayegan.net
 vh1xr.ju4enpare1.ru
 vh2f.darkf0x.ru
 vh7.xr7a0.ru
+vhdekj.en-web-echoxen.com
 vhe65fgx.skyc0rest.ru
 vhfla.budapesthandmade.hu
 vhfqgi.flybuiltstudio.com
@@ -83496,6 +83538,7 @@ vrouwenvoorfctwente.nl
 vrrkcmgm.com
 vrsecure.app
 vrstudio.life
+vrswff.en-us-theslimsplitsmethod.com
 vru.xapomyo.ru
 vruddhicouplers.com
 vrvid.ru
@@ -85720,6 +85763,7 @@ wnlgghgffr.com
 wnm.chriskendall.media
 wnm.loniluekegerman.com
 wnn.plig-5.ru
+wnplhn.enus-thyrafemmebalance.com
 wnq8bmsb.derbi.promo
 wntgjbu.footbalbet.com
 wntzwdju.betpublic.casino
@@ -88890,6 +88934,7 @@ yn.r8li.ru
 yn.zk-5-e-7.ru
 yn9307x6.7lf.net
 yn9w54gw.springfieldsummerhoops.com
+ynbfqi.enus-synaptigen.com
 ynbr8.online
 ynergdikorjg.com
 yngbloodbranddeals.pro
