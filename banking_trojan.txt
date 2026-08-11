@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-11 01:24:49 UTC
-# Total domains: 10977
+# Generated: 2026-08-11 03:12:05 UTC
+# Total domains: 10978
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2836,6 +2836,7 @@ continuum.net
 contortonset.com
 contributionmaximizer.com
 controlfacturas.site
+controlvps.com
 contx.site
 conuy.de
 conveniomedicoinfantil.vip
