@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-12 13:27:48 UTC
-# Total domains: 10978
+# Generated: 2026-08-12 15:46:57 UTC
+# Total domains: 10979
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4077,6 +4077,7 @@ eyy350.top
 eyysal.top
 eyyww650.top
 ezhongtu.com
+ezslot.cc
 ezstat.ru
 ezytracker.com
 f-fin.store
