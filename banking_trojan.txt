@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-12 15:46:57 UTC
-# Total domains: 10979
+# Generated: 2026-08-12 22:09:54 UTC
+# Total domains: 10980
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3165,6 +3165,7 @@ ddramdisk.store
 ddvmall.com
 de-update.xyz
 deadandco.store
+deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion
 deadline.space
 deadoadow.org
 deadpvp.eu
