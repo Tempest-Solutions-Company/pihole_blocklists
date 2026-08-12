@@ -12,13 +12,13 @@ If these blocklists help protect your network, consider supporting the developer
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31HZAUU)
 
-**Last Updated:** 2026-08-12 01:54:36 UTC
+**Last Updated:** 2026-08-12 03:18:00 UTC
 
 ## 📊 Performance Statistics
 
 - **Phishing Domains:** 925,839
-- **Malware Domains:** 55,421
-- **C2 Server Domains:** 91,077
+- **Malware Domains:** 55,888
+- **C2 Server Domains:** 91,112
 - **Banking Trojan Domains:** 10,978
 - **Update Frequency:** Every 24 hours
 - **False Positive Rate:** <0.01% (1.6M+ legitimate domains filtered)
@@ -28,10 +28,10 @@ If these blocklists help protect your network, consider supporting the developer
 | List | Description | Domains | Download |
 |------|-------------|---------|----------|
 | Phishing | Phishing domains and URLs | 925,839 | [Download](phishing.txt) |
-| Malware | Malware hosting & distribution sites | 55,421 | [Download](malware.txt) |
-| C2 Servers | Command & control servers | 91,077 | [Download](c2_servers.txt) |
+| Malware | Malware hosting & distribution sites | 55,888 | [Download](malware.txt) |
+| C2 Servers | Command & control servers | 91,112 | [Download](c2_servers.txt) |
 | Banking Trojan | Banking trojan & financial malware | 10,978 | [Download](banking_trojan.txt) |
-| All Malicious | All threats combined | 1,060,665 | [Download](all_malicious.txt) |
+| All Malicious | All threats combined | 1,061,164 | [Download](all_malicious.txt) |
 
 ## 🚀 Quick Installation
 
@@ -55,7 +55,7 @@ Add to root crontab (`sudo crontab -e`):
 
 ```bash
 # Update Pi-hole blocklists daily at 3 AM
-0 3 * * * pihole -up
+0 3 * * * pihole -g
 ```
 
 ### Step 2: Monitor Updates (Optional)
@@ -64,7 +64,7 @@ To log the updates, you can redirect output:
 
 ```bash
 # Update Pi-hole blocklists daily at 3 AM with logging
-0 3 * * * pihole -up >> /var/log/pihole-update.log 2>&1
+0 3 * * * pihole -g >> /var/log/pihole-update.log 2>&1
 ```
 
 ### Step 3: Check Update Logs (Optional)
@@ -80,7 +80,7 @@ tail -f /var/log/pihole-update.log
 For weekly updates every Sunday at 3 AM:
 
 ```bash
-0 3 * * 0 pihole -up
+0 3 * * 0 pihole -g
 ```
 
 ## False Positive Prevention
