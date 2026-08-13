@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-13 15:41:24 UTC
-# Total domains: 10991
+# Generated: 2026-08-13 21:50:57 UTC
+# Total domains: 10994
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3997,6 +3997,7 @@ etomall.com
 etradeai.icu
 etradeapi.icu
 etradelogistic.icu
+ettherscin.net
 etx-dongbodulieu.com
 eu-islam.com
 euborders.com
@@ -4377,6 +4378,7 @@ flitsyourmoney.com
 flkwood.com
 flmeatery.co.za
 flnaresgurard.com
+float-fixed.com
 floresdegoias.go.gov.br
 floristeriaarteydecoracion.com
 flowchainplatform.digital
@@ -9362,6 +9364,7 @@ sss-gov.com
 sss-negov.com
 sssnegov.com
 ssstik.online
+stabblee.com
 stadiumview.us
 staffordplaza.com
 staffvirtual.website
