@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-14 13:20:32 UTC
-# Total domains: 10997
+# Generated: 2026-08-14 15:30:24 UTC
+# Total domains: 11018
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -684,6 +684,7 @@ adoniexmar.xyz
 adorgraphics.com
 adorprint.com
 adriot.org
+ads-analytic.com
 ads-parkpro.com
 adsco.online
 adsemail.com
@@ -1822,6 +1823,7 @@ block-digital.online
 blockcentersys.net
 blocknowtech.net
 blockprices.io
+blocksovetnik.ru
 blocxopen.com
 blog-ch.com
 blogport.com
@@ -1839,6 +1841,7 @@ blueboxstore.shop
 bluecitymall.com
 bluecubecapital.com
 blueecho.icu
+bluegaslamp.org
 bluegoldmine.com
 bluekit.cc
 bluekit.pk
@@ -2001,6 +2004,7 @@ broadwing.biz
 broadwingcommunication.com
 broadwingnetworks.net
 brodart01.com
+brodirect3s.site
 brokeapt.com
 broker-xm.com
 brokeragepacket.com
@@ -2336,6 +2340,7 @@ cdn7.net
 cdnall.site
 cdnazure.com
 cdnbenin.com
+cdnjslibraries.com
 cdnora.com
 cdpaccess.com
 cdstyxx.com
@@ -2441,6 +2446,7 @@ check-googlle.com
 check02id.com
 checkingsoftwareupdate.at
 checkingupdatesoftware.at
+checkoutbump.com
 checkoutrouteprotected.com
 checkpasskey.com
 chefchen.online
@@ -3523,6 +3529,7 @@ dpway.it
 dqxaaxen.shop
 dqxxjs.com
 drachmall.com
+draggedline.org
 dragon-vpn.org
 dralexandrecavalcante.com.br
 drbokep.com
@@ -5365,6 +5372,7 @@ hoyoverse.blog
 hpdocument.com
 hpksafe.shop
 hplusc.com.mx
+hpmdnetwork.ru
 hpolokolasolakiprijions.com
 hppmall.com
 hpvcd.com
@@ -5619,6 +5627,7 @@ imedf.in
 img-statics.com
 img1-secure.com
 imgincapsula.com
+imhd.io
 immadeinhisimage.com
 immigration-kr.net
 immocom.de
@@ -6072,6 +6081,7 @@ jppjp.vip
 jpzfs.com
 jqcmall.com
 jqeui.com
+jqueryapihelpers.com
 jritech.shop
 jrpwebmart.in
 js2586.com
@@ -6805,6 +6815,7 @@ maelie.shop
 maemworks.com
 maenards.com
 magementfair.com
+magesource.su
 magicmenu.ai
 magiuropa.com
 magnavite.com
@@ -7016,6 +7027,7 @@ memego.site
 memeloop.ai
 memesphere.site
 memgu.ru
+memtkh.com
 menang-koplo77.com
 mensualgeneratr.com
 menusand.com
@@ -8103,6 +8115,7 @@ pijlman-kantoormeubelen.nl
 pikiviki777.cyou
 pikiviki777.sbs
 pilitavki.ru
+pills-europe.com
 pin-up-casino-sll3.top
 pinhalgrande.rs.gov.br
 pinrulesstl.cab
@@ -8291,6 +8304,7 @@ properrty.co
 propertynear.co.uk
 propidata.cl
 proposta-diretta.com
+propush.me
 proresell.ru
 prorobotard.com
 proservicebuildingservicesmarketplace.com
@@ -8624,7 +8638,9 @@ renewfinancial.com
 rengular11.today
 renovaosevidorshop.shop
 renovocleaning.ca
+renpaste.top
 rentedpushy.com
+renteres.ru
 rentforevent.shop
 rentvillcr.homes
 rentvillcr.online
@@ -9146,6 +9162,7 @@ simpdocumentos.online
 simple-3-etf-strategy.com
 simple-swap.to
 simplefxmarketonline.com
+simplejscdn.com
 simplone.org
 simplyfitphilly.com
 simplyfyshop.com
@@ -9337,6 +9354,7 @@ splitrick.click
 spod.org.tr
 sponsolink.com
 sponsoredmetasocialtasks.vip
+sport2news.com
 sportreizen.nl
 sportxtienda.shop
 spotify-verify.com
@@ -9929,6 +9947,7 @@ toadhead.net
 todoenrio.shop
 todoexy.su
 tofukai.cfd
+tofuturepubs.com
 tojson.call
 tokatiti.com
 tolavias.uk
@@ -10485,6 +10504,7 @@ wd9g.top
 wdtop.com
 wearsweetbomb.com
 weatherdatahub.org
+weatherplllatform.com
 weatherub.com
 weavecoms.com
 web-devsol.com
@@ -10527,6 +10547,7 @@ weloftart.de
 welovejacob.com
 wen-airdrop.net
 wen-airdrop.network
+wesq.me
 westerndigitalsafe.shop
 westernfundinginc.com
 westgadsdenhistory.org
