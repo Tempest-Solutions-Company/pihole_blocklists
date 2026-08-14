@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-14 03:11:23 UTC
-# Total domains: 10995
+# Generated: 2026-08-14 09:20:09 UTC
+# Total domains: 10997
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5859,6 +5859,7 @@ itunesradio.pw
 itwoa.com
 iuwvqsarbm.com
 iuzndfqr.com
+iverify.org
 ivysky.site
 iwasben.com
 iwodemall.com
@@ -8856,6 +8857,7 @@ samsungsafe.shop
 sanatdhir.com
 sanauer.com
 sanctusvir.com
+sandbox-adventure.com
 sandedition.com
 sandelias.com
 sandragoedhart.nl
