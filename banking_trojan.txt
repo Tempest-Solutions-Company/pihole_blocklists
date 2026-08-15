@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-15 01:46:09 UTC
-# Total domains: 11018
+# Generated: 2026-08-15 03:09:49 UTC
+# Total domains: 11019
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6367,6 +6367,7 @@ krkr.xyz
 krona77.ru
 krtmall.com
 krunkimi.info
+krusty-crabs.sbs
 ksicngtw.org
 ksowlapw.com
 kstjz.com
