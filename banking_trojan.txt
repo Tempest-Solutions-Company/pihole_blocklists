@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-17 15:46:06 UTC
-# Total domains: 11019
+# Generated: 2026-08-17 22:00:59 UTC
+# Total domains: 11020
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2675,6 +2675,7 @@ cmvweddings.com
 cn-humancheck.info
 cn-kuaifan.co
 cna.ai
+cnangelly.com
 cncintel.com
 cnckitchen.store
 cneamexpo.com
