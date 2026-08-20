@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-20 03:10:00 UTC
-# Total domains: 11025
+# Generated: 2026-08-20 09:28:36 UTC
+# Total domains: 11072
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -661,6 +661,9 @@ adc30vmjttx.com
 add-passkey.com
 addmypasskey.com
 addoktapasskey.com
+addonslab.com
+addonslab.net
+addonslab.org
 addpasskey2fa.com
 addssopasskey.com
 addyourpasskey.com
@@ -2021,7 +2024,12 @@ browniebell.com
 browning-online.shop
 brownmarketing.hu
 browseez.com
+browser-app.com
 browser-storage.com
+browsertool.com
+browsertools.com
+browsify.co
+browsify.net
 brpsafe.shop
 brsmgt.com
 brucespringsteenuk.store
@@ -2623,6 +2631,7 @@ cleamone.uk
 cleancloud.in
 cleaning-adx-bc7-asl-us-2.cfd
 cleaning-adx-bc7-asl-us-3.cfd
+cleankits.co
 cleanmades.com
 cleansportswomen.com
 clearcreekcolony.com
@@ -3278,12 +3287,15 @@ dev3.online
 devalt.org
 devanata.shop
 devanholo.com
+devblogs.com
 developmentvip.com
 devf4.com
 devicelinkintel.com
 devilspen.com
 devlatsolutions.com
 devlaunch.online
+devplugs.co
+devplugs.com
 dewabitcoin.com
 dewabumi77.net
 dezaula.com
@@ -3679,6 +3691,7 @@ e-djp.com
 e-ikd.com
 e-ogretmenkitap.com
 e-pajak.cc
+e-wl.com
 e.ca
 e.call
 e.fail
@@ -4082,7 +4095,11 @@ extensionphantomisyour.com
 external-sex.com
 externalchecksso.com
 extintorhogar.cl
+extlab.co
+extlab.org
 extractjob.com
+extrakits.co
+extrakits.com
 eyecaremall.com
 eyehospitalcare.shop
 eyesmatch.xyz
@@ -4161,6 +4178,7 @@ fastnext.com
 fastpayy-denizbank.com
 fastpool.xyz
 fastqdating.xyz
+fasttools.co
 fat-contabislitaca.com
 fat-doc-online.com
 faturanova.xyz
@@ -4469,6 +4487,8 @@ foveal.com
 foxacadmy.com
 foxcentral.com
 foxgamer.com
+foxplugin.co
+foxplugin.net
 foxtrem.com
 foxxology.com
 fp5login.com
@@ -4646,6 +4666,7 @@ geelyswedenholdings.com
 geezeo.com
 gekptw.com
 gelonorte.com
+gemachriverdale.org
 gemagray.com
 gemini-setup.com
 gemme-cotti.ru
@@ -6622,6 +6643,8 @@ linkeedservice.com
 linkerseervice.com
 linkinbio.ws
 linkt-bill.cloud
+linktools.co
+linktools.org
 linkxmall.com
 linkyoullc.com
 linomatechnology.com
@@ -6639,6 +6662,7 @@ listra-waitlist.uk
 litertegfsr.town
 littlekylie.com
 liuliu.cyou
+live-scores.com
 live.ong
 live.org.mx
 liveassistent.online
@@ -7422,6 +7446,8 @@ ndm2398asdlw.shop
 ne-rabotaet.site
 neagolate.org
 near-org.top
+neattools.co
+neattools.org
 nebulafiles.com
 negetaway.com
 negratomasa2026.online
@@ -7437,6 +7463,7 @@ netflix-update.com
 netkitconsulting.com
 netlevel.online
 netorknida.org
+netplugs.net
 netvibe-us.click
 netvuebe.shop
 networks-signal.com
@@ -8095,6 +8122,7 @@ phavtom-v2.com
 phavtom-v3.com
 phelpsfan.com
 phenomsec.com
+phishing-domain.xyz
 phit.click
 phoenixhardwoodinc.online
 phomecare.co.uk
@@ -8160,6 +8188,7 @@ plnet77.org
 plnhsyr.com
 plockate.org
 pltsnglslnkp.com
+plugify.co
 plugins-wp.online
 plumbing-adx-bc7-asl-us-1.click
 plumbingexperts.click
@@ -8287,6 +8316,7 @@ private-adobe-client.im
 private-lieferung.de
 privatunis.cfd
 proactiv.events
+proaddons.net
 probizlessons.com
 problemypolakow.de
 procure2excel.org
@@ -8319,6 +8349,8 @@ protect.in
 protectcc.online
 protectedcheckoutroute.com
 protenza-eg.com
+protools.com
+protools.net
 protostar.space
 prototrack.gg
 prototype.ca
@@ -8476,6 +8508,8 @@ quickbazzar.store
 quickcartcheckout.store
 quickdraw3d.com
 quicken-install.com
+quickext.co
+quickext.org
 quickhookup.site
 quicklegaladvice.space
 quickpcfixer.click
@@ -9237,6 +9271,8 @@ smartapp.shop
 smartboardproposal.com
 smartcareerfinder.com
 smartdevildgit.shop
+smartext.co
+smartext.net
 smartfamily.pk
 smartgolf.online
 smartmag.us
@@ -9612,6 +9648,9 @@ t2wr.top
 t78k.top
 taaeiuep.com
 taazavegetables.com
+tabtools.com
+tabtools.net
+tabtools.org
 tahalos.uk
 tahinistreetfood.com
 tahoedev.com
@@ -9969,6 +10008,7 @@ tonicuwl.cyou
 tonilop.uk
 tonycasino.site
 toolhaus.ru
+tools.com
 toothpastesense.xyz
 top-honor.com
 topafrikinternational.com
@@ -10522,9 +10562,11 @@ web071zoom.us
 web3-uniswap.com
 web3fund.io
 webair.net
+webbrol.com
 webcenbilisim.com.tr
 webex-install.com
 webgraos.com.br
+webkits.co
 webkr.top
 webmensagens4bb7.com
 weboffices.org
@@ -10536,6 +10578,11 @@ websitelabsaustralia.com.au
 websitelistbuilder.com
 websitetraffichits.com
 webtimemypeoplenet.com
+webtoolbrowser.com
+webtools.co
+webtools.com
+webtools.net
+webtools.org
 webwanderers.org
 webyseva.com
 wedlore-a.online
