@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-21 01:51:11 UTC
-# Total domains: 11073
+# Generated: 2026-08-21 03:20:46 UTC
+# Total domains: 11079
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2457,6 +2457,7 @@ check-googlle.com
 check02id.com
 checkingsoftwareupdate.at
 checkingupdatesoftware.at
+checkmyschool.org
 checkoutbump.com
 checkoutrouteprotected.com
 checkpasskey.com
@@ -3712,6 +3713,7 @@ e732a5ae.buzz
 e732a5ae.shop
 e732a5ae.xyz
 e9e92d9c.buzz
+e9e92d9c.shop
 e9e92d9c.xyz
 eablebike.com
 eamix.cn
@@ -3808,6 +3810,7 @@ edmgr.com
 edu-great.com
 eduardosport.com
 edubriefings.com
+education-gov.com
 educationgrim.com
 educationtaught.com
 edud.site
@@ -9521,6 +9524,9 @@ ststephenscollege.ca
 sttbet24.com
 sttlink.com
 stuartgillon.com
+studentdiscount.online
+studentloansyyyy.com
+students-portal.com
 studiomarceloteixeira.com.br
 studybindas.com
 studyinghealth.com
