@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-24 16:15:21 UTC
-# Total domains: 11090
+# Generated: 2026-08-24 22:28:08 UTC
+# Total domains: 11095
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -556,6 +556,7 @@ aasystem.online
 aatsh.com
 aave-app.to
 aavedefi.org
+aaveswap.at
 aazeen.com
 ab-resale.shop
 ab19191.xyz
@@ -1084,6 +1085,7 @@ app-pc-windows.com
 app-pc.com
 app-play.cc
 app-trello.com
+app-tronscan.org
 app-tt-eighteenplus.pro
 app-windows.com
 appapi.store
@@ -2412,6 +2414,7 @@ chainanalyser.com
 chainsecure.world
 chalnlizt.org
 championconcretepump.site
+changaly.com
 changelifenow.online
 changgemall.com
 channel-review.org
@@ -4373,6 +4376,7 @@ fiveonjan6ar.net
 fiwbyjhu.ru
 fixedf-loat.com
 fixedfloat.inc
+fixedfloaticfd.com
 fiyeli.com
 fjcszh.com
 fjdjs.com
@@ -7325,6 +7329,7 @@ mur4ev.online
 murphyplacehoa.com
 murunckal.uk
 musclemodz.com
+muscul-shop.com
 musicbadbunny.com
 musicfightsals.com
 muskaanbeauty.com
