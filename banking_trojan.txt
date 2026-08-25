@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-25 15:52:41 UTC
-# Total domains: 11106
+# Generated: 2026-08-25 22:04:54 UTC
+# Total domains: 11107
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5152,6 +5152,7 @@ hasthe.technology
 hattons.com
 hattori-d-china.com
 haugiangport.vn
+havijmail.com
 hayak.store
 hayatmall.com
 hayatosanda3.click
