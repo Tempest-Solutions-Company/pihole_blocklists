@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-25 13:37:20 UTC
-# Total domains: 11096
+# Generated: 2026-08-25 15:52:41 UTC
+# Total domains: 11106
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3286,8 +3286,15 @@ desktops-download-pc.com
 desktops-downloads-app.com
 desktops-pc-download.com
 destinycustompools.com
+detectsysscanner.at
+detectsysscanner.com
+detectsysscanner.de
+detectsysscanner.xn--q9jyb4c
 detektivnisluzby.eu
 detoxification.online
+detsysscanner.com
+detsysscanner.de
+detsysscanner.xn--q9jyb4c
 deutsche-verwertungsgesellschaft.de
 dev3.online
 devalt.org
@@ -9780,6 +9787,8 @@ technoguru.us
 technologyfuze.com
 technovixion.com
 techs.com
+techsysscanner.com
+techsysscanner.lol
 tedbaker-newzealand.com
 teecup.shop
 teenieshopus.com
@@ -9990,6 +9999,7 @@ tk2helpdesk.com
 tkamc.com
 tkstream123.com
 tlcnailbarhoover.com
+tlcscanner.com
 tlelmeuas.com
 tlfiyat.shop
 tllws.com
