@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-26 15:46:37 UTC
-# Total domains: 11108
+# Generated: 2026-08-26 22:00:32 UTC
+# Total domains: 11115
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2853,6 +2853,7 @@ consulta2024.online
 consultar-rfc.online
 consultingsolutionsmh.com
 consumer-products-online.com
+contabilidad.icu
 contactocarrefour.com.ar
 contentinsighthub.com
 contentready.com
@@ -3473,6 +3474,7 @@ docsresearchgroup.com
 doctormalay.com
 doctortrickles.com
 documentnx.storagedrvi.com
+documentodigital.cloud
 documentos-online.com
 documents-sed.com
 docusign-verify.com
@@ -4711,6 +4713,7 @@ germandeli.store
 gersonmauri.com
 gertefin.com
 gesticulatory.xyz
+gestionadocs.me
 gestionmontelavaria2026.online
 get-carrot-zoom.com
 get-centerapp.pro
@@ -4737,6 +4740,8 @@ getintotheaction.co.za
 getjoins.com
 getldrrgoodgame.com
 getmymall.com
+getpdf.digital
+getpdfdigital.cloud
 getseniorbenefit.com
 getslapburger.com
 getsmartstaffing.com
@@ -9374,6 +9379,7 @@ sophiahoule.com
 sophostest.com
 soporte-aclaracion.xyz
 soporte-esp.com
+soportedigital.cloud
 sopotkinnie.com
 soprabanking.com
 sorachatgpts.com
@@ -10482,6 +10488,7 @@ visitstcloud.com
 visitswellendam.co.za
 vistni.com
 visualbasicscript.com
+visualizarpdf.online
 vitar.moscow
 vivaanmat.com
 vive.dk
