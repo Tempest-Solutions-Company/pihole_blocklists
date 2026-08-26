@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-26 03:10:39 UTC
-# Total domains: 11107
+# Generated: 2026-08-26 09:29:25 UTC
+# Total domains: 11108
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7832,6 +7832,7 @@ orange-service.xyz
 orange4g.co.il
 orangemusicru.co.il
 orangeporntube.net
+orapopo.store
 orbiixtrade.com
 orblyx.ai
 orbussoftware.com
