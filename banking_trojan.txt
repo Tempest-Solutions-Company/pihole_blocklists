@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-28 02:23:00 UTC
-# Total domains: 11116
+# Generated: 2026-08-28 03:24:52 UTC
+# Total domains: 11117
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5645,6 +5645,7 @@ ihatevoting.com
 iheartusnf6.com
 ihllmall.com
 iirugby.com
+ijexszhscln27nl263lmcd7tx3jttkhm4wjhd4e3y6r4csdbfyeprvid.onion
 ijzerwarenwinkel.org
 ikadaalmestakbel.com
 ikddigital.online
