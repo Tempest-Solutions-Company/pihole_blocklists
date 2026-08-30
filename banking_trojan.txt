@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-30 13:08:24 UTC
-# Total domains: 11230
+# Generated: 2026-08-30 16:23:45 UTC
+# Total domains: 11231
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5586,6 +5586,7 @@ hygfloor.com
 hyjx2.com
 hymyqt.com
 hyp-365.com
+hyper-info.to
 hyper-trades.pro
 hypertechcenter.com
 hypothequeswestisland.com
