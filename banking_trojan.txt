@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-08-31 03:26:18 UTC
-# Total domains: 11232
+# Generated: 2026-08-31 09:57:41 UTC
+# Total domains: 11241
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1142,6 +1142,7 @@ apps-desktops-pc.com
 apps-download-desktops.com
 apps-downloads-desktop.com
 apps-downloads-pc.com
+apps-metamask.org
 apps-pc-download.com
 apps-pc-downloads.com
 apps-sogou.com
@@ -2332,6 +2333,7 @@ casamanga.xyz
 casamuseoayerbe.co
 casanovarenovations.com
 cascadiaeye.shop
+cases.md
 cashbuds.net
 cashclickmin.online
 cashorix.xyz
@@ -4431,6 +4433,7 @@ fivelittlemonkeys.fun
 fiveoakstuscaloosa.com
 fiveonjan6ar.net
 fiwbyjhu.ru
+fixed-float.exchange
 fixedf-loat.com
 fixedfloat.inc
 fixedfloaticfd.com
@@ -5090,6 +5093,7 @@ grupobedfs.com
 grupocryo.mx
 grupodisa.mx
 grupowcm.com.br
+gryxa.com
 gs-alghamdi.com
 gshyzs.com
 gsimrecycling.com
@@ -5191,6 +5195,7 @@ hanaialii.com
 handala-hack.tw
 handala.red
 handanys.com
+handoff.md
 hangiokul.com
 hanselandgretelsonly.eu
 haoxizhiye.com
@@ -9177,6 +9182,7 @@ security-check-u8a6.com
 security-job3.xyz
 securityservices-nwvrtx-bc7-mks-us-6.shop
 securityservices-vortps-tta8-asl-us-2.shop
+seczio.com
 sed-documents.com
 sedarasecurtiy.com
 seedbeej.pk
@@ -9241,6 +9247,7 @@ sevenemirates.online
 sevenzip.shop
 sevenzip.today
 sevgikresi.net
+sevrz.com
 sex-gaming.com
 sexlinksfree.com
 sexy.com
@@ -9821,6 +9828,7 @@ taste.online
 tastytrader.com
 tatacapital.co.in
 tatukikai.jp
+taunahi.st
 tax-relief-app310.com
 tax-relief-app333.com
 tax-statments2025.com
@@ -10832,6 +10840,7 @@ winrler.com
 winstonandfriendz.ca
 winstonmartin.com
 wintervibestour.com
+wirbe.com
 wireoneinternet.info
 wisedemocrats.com
 wishhotelbahia.com
