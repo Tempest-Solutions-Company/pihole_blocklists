@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-01 03:25:55 UTC
-# Total domains: 11241
+# Generated: 2026-09-01 10:02:51 UTC
+# Total domains: 11250
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1333,6 +1333,7 @@ atsgen.com
 atsheisdomestic.org
 attendrvaschools.com
 attorneys-au-q.click
+attvpn.vip
 atucasa.store
 atuvossafe.shop
 au-ato.com
@@ -2211,6 +2212,8 @@ cahonine.uk
 caihmall.com
 cainamall.com
 caioriter.com
+caixaentradas1boxshop.site
+caixaentradas1inboxshop.site
 calendario.online
 calendly.live
 calibere.store
@@ -2723,6 +2726,7 @@ clyde1.com
 clyde2.com
 cmailer.pro
 cmconstructioninc.net
+cmgovernadorluizrocha.ma.gov.br
 cmkempe.com
 cmvweddings.com
 cn-humancheck.info
@@ -5789,6 +5793,8 @@ industriasfritz.com
 industryengagements.com
 indytosee.com
 inexpress.com
+infect.online
+infectonline.store
 infnet.online
 info-change.to
 info3rb.com
@@ -5839,6 +5845,7 @@ instagram-verify.com
 installationmultipose.ca
 installationsoftware1.com
 installationupgrade6.com
+installscenter.com
 instant-update.online
 instimatch.ch
 institut451.org
@@ -6150,6 +6157,7 @@ jlrandsons.co.uk
 jlsjxjg.com
 jlszsit.com
 jlzjwz.com
+jmcov.gov.py
 jmdev.cyou
 jmnqp.com
 jmpbowl.space
@@ -8444,6 +8452,7 @@ proactiv.events
 proaddons.net
 probizlessons.com
 problemypolakow.de
+procon.go.gov.br
 procure2excel.org
 procurementsoftware.site
 prod-v21-ygg.com

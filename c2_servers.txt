@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-09-01 03:25:55 UTC
-# Total domains: 101842
+# Generated: 2026-09-01 10:02:51 UTC
+# Total domains: 101892
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -682,6 +682,7 @@
 0hju4pn6nf.com
 0hm.info
 0hp8n.sbs
+0hqrb19cyv.workers.dev
 0hz5u1mn.moarefeslami.xyz
 0i.a-zon.ru
 0i.frostwilder.ru
@@ -795,6 +796,7 @@
 0q9bvoqh.telemetry-vault.digital
 0qa0xgkt.retinaclr.com
 0qam1x6q.alobet.pro
+0qepx6f4.cdn-jbgroup.com
 0qijm.sbs
 0qsir.sbs
 0qt4qd8eckd.com
@@ -2219,6 +2221,7 @@
 26cfgoj140825ckg.cfd
 26e.j0tchamber.ru
 26grp.com
+26seodg1pp.workers.dev
 26ua1zzb0204268s.cfd
 26unexpected.workers.dev
 26x.nm0e2.ru
@@ -3115,6 +3118,7 @@
 47ytdzjs.economywindowsparts.com
 48.mjg1.ru
 4802jkshdp.duckdns.org
+480peumx1e.workers.dev
 482.99y401874.ru
 482.r46eu.ru
 4823.4y328.ru
@@ -3901,6 +3905,7 @@
 635k6cma.uniquetilingsa.com.au
 6362karrah.workers.dev
 6387d1b32553.sabujswapna.org
+63ksxix5.shop-prostafense.com
 63mkau.deryuga-sablist.garden
 63oi.wild5ky.ru
 64.d55u5.ru
@@ -4942,6 +4947,7 @@
 8m7qs0tb.eng--glycofree.com
 8magicalmage.zapto.org
 8mime2et.healthfoodzone.com
+8mpvpdgn.shop-lungexpandpro.us
 8mr.71o9.ru
 8msv1-23655.portmap.host
 8n.ha0m.ru
@@ -4998,6 +5004,7 @@
 8scom.link
 8secretsofsuccess.com
 8services2point0.com
+8skntjcxvt.workers.dev
 8sl.pf-4-i-2.ru
 8stcb44l.frostm1nd.ru
 8t.b0untf1ush.ru
@@ -17369,6 +17376,7 @@ bumboxik.asia
 bumboxik.bar
 bumboxik.casa
 bumboxik.club
+bumilago.workers.dev
 bumpon.fun
 bunchm.com
 bundimshelbwala.com
@@ -19013,6 +19021,7 @@ cbsan-coinbase.com
 cbsmainchain.xyz
 cbsprime.org
 cbtlecmkc.nextbahis.one
+cbuod47726.workers.dev
 cbvav.brssolar.hu
 cbvfrd.shop
 cbzr-98pq1.ydns.eu
@@ -19127,6 +19136,7 @@ cdn-compress-image.sbs
 cdn-css-framework.cfd
 cdn-d57299.cloudflareinsight.com
 cdn-googlemanager.com
+cdn-jbgroup.com
 cdn-js-conhost.click
 cdn-js-conhost.icu
 cdn-js-connection.cfd
@@ -19648,6 +19658,7 @@ chair.5-juzeb-0-io.ru
 chairmanbkk.com
 chaitanyagroupindia.com
 chakracleansetherapy.com
+chalet-araucaria.com
 chalet-event.ch
 chalkc.asia
 chalkieandthechippy.com
@@ -19975,6 +19986,7 @@ chekbrow.beer
 chekker-team.de
 cheloks.pro
 chelseamobiletyrefitting.co.uk
+chelseatbaldeagle.com
 chelsoto.cf
 chelu.webege.com
 chemeclo.com
@@ -24715,6 +24727,7 @@ davuchi.eroea.com
 daw.gl-1-tchgarden.ru
 dawahthreads.com
 dawateislamikzn.co.za
+dawelyxi.workers.dev
 dawgonllc.com
 dawn-mirror.ru
 dawn.brightf1eld.ru
@@ -31459,6 +31472,7 @@ eukkaooguggmiims.xyz
 eukooycososmowou.xyz
 eukuokmsuuigeyai.xyz
 eukwmcwswmiiuwmg.xyz
+eulenhof.swiss
 eulerfinance.live
 euls.behtarin-site-shartbandi-football.bet
 eumacsgkmocqweoc.xyz
@@ -31883,6 +31897,7 @@ exim111.casacam.net
 exipogreen-ventures.com
 exitlife.xyz
 exjijcjhjlatkplnfol.com
+exjui68915.workers.dev
 exloro.com
 exlt.behtarin-site-shartbandi.com
 exmo.co.in
@@ -33135,6 +33150,7 @@ fdslosart.co.uk
 fdsms.net63.net
 fdsv.ml
 fdtextil.es
+fdtujzrt.shop-lipovive.us
 fdvfr.n0uvpu7itan.ru
 fdxs9160425ogi.cfd
 fdy.borendrokontho.com
@@ -36868,6 +36884,7 @@ gayssoawioymwyuk.xyz
 gaz.12naga.org
 gaz.138sportlogin.org
 gaz.bgp.ch
+gaz.sm188dvlv.lol
 gazabot.eb2a.com
 gazacoin.pro
 gazaltours.com
@@ -37581,6 +37598,7 @@ geysckgyiiqaaqek.xyz
 geysooywggeeemug.xyz
 geyswcqeumycawag.xyz
 geyyegoaguiyakoq.xyz
+gezajoqa.workers.dev
 gezame.workers.dev
 gezowex.com
 gf.g7ve.ru
@@ -42164,6 +42182,7 @@ hkc.support
 hkcanopus.com
 hkckpom.aoudizen.com
 hkd.138sportlogin.org
+hkd.sm188dvlv.lol
 hkdcvzivw.site-shartbandi-khareji.com
 hkdjuilkwwq2t.com
 hkenngr.com
@@ -42396,6 +42415,7 @@ hoigiong.net
 hoist.cloudns.asia
 hoiyhead.co.uk
 hoj-investgard.com
+hojaheno.workers.dev
 hojd-finoryx.com
 hojokk.com
 hojumbilvard.se
@@ -44104,6 +44124,7 @@ ifuhaeiuaeuigrif.su
 ifuhaeiuaeuigry.in
 ifumbled.vip
 ifuntv.co
+ifuqpatr.com
 ifvtbgbf.maharatmodiran.xyz
 ig-nopps.ch
 ig.plig-5.ru
@@ -46347,6 +46368,7 @@ j1nxfyr3.su
 j1o0.li1mi8rat.ru
 j1p7q.b6je.online
 j1r.hushdr0pper.ru
+j1tkppsh.en-hero-up.com
 j1xayyip.bordbett10.com
 j1yidzep.boombasket.bet
 j2.sne-4-p.ru
@@ -49279,6 +49301,7 @@ kevinus.com
 kevsplumbing.com.au
 kevvai.ee
 kevwo.akonyvelod.hu
+kevyn94.workers.dev
 kewsrs.com.au
 kewuqibu.workers.dev
 kexelado.workers.dev
@@ -52382,6 +52405,7 @@ lepetitmondestories.com
 lepidry.asia
 lepitzg.top
 lepontdumas-camping.fr
+lepotafo.workers.dev
 lepotentiel.bj
 leprintexpress.com
 leprixnet.com
@@ -62073,6 +62097,7 @@ niursosokforhoht.ru
 niursosokforhoht.su
 nival3.snowdr1ft.ru
 nivexy.workers.dev
+nivovubo.workers.dev
 niwosatu.workers.dev
 niwuhu.workers.dev
 nixoniptv.com
@@ -63193,6 +63218,7 @@ nwseafoods.uni.me
 nwt3dtisk.cz
 nwtca6gs.schleer.hu
 nwumcm.igni--tra.com
+nwuor63200.workers.dev
 nwwwbkkv.network-horizon.digital
 nwynfhre.com
 nx.hi8hmu1berry.ru
@@ -63254,6 +63280,7 @@ nygieiieiihhigis.ws
 nygyrowillmar.com
 nygz.run
 nyheder.fusiondigest.com
+nyhj91bw.shop-neurovera.us
 nyitbg.thebutlerspantrykitchenandhome.com
 nykaa.cloud
 nylefe.workers.dev
@@ -67119,6 +67146,7 @@ pdaxingyuanko.com
 pdbrpnf.penaltibazi.com
 pdbxq1z3.eng-us-puraboost.us
 pdcdcwjwrqsq.com
+pdejstkd.shop-neuro-sharp.com
 pdeterstars.com
 pdf-central.com
 pdf-kiosk.net
@@ -68737,6 +68765,7 @@ poemsaboutmydeath.com
 poentjakweg.com
 poeppelmannn.com
 poertywindow.com
+pofoga.workers.dev
 pofuduk.org
 pogoda.messager.my
 poh.10001slot.org
@@ -70281,6 +70310,7 @@ puffyclaw2008.shop
 pufnar.r1dsheet5et.ru
 pufunyo3.ru
 pugyqi.workers.dev
+puhihylo.workers.dev
 puhkfmfrances.trade
 pujavi.workers.dev
 pukeju.workers.dev
@@ -71464,6 +71494,7 @@ qlaston.net
 qlczenyon.gdcpemasaranbekasi.com
 qlgaminggroup.com
 qlggges.penaltibazi.com
+qlhha28177.workers.dev
 qlhsnt.lifealigned.hu
 qlibasketball.com
 qliccx.mclennancotxgenweb.org
@@ -74704,6 +74735,7 @@ rkhdesign.com
 rkhud95517.workers.dev
 rkmbba.org
 rkme.ru
+rkny771c.shop-memorylift.com
 rkoldagehome.org
 rkrse.be5isg2uze.ru
 rkuepjvspjokrqjehy.nygyrowillmar.com
@@ -74957,6 +74989,7 @@ roesforum.com
 roesn.vrtigo.hu
 roexca.es
 roficienttransportservices.com
+rofileji.workers.dev
 rofingsanjose.com
 rofsaw.snaptigen.com
 rogeralarcon.life
@@ -75498,6 +75531,7 @@ rubykarenproject.com
 rubyscoeicm.com
 rubysen.com
 rubytuesdayscoupons.org
+rucequ.workers.dev
 rucgev.fi7erup2ca.ru
 rucuxpv.acbet.poker
 rudemath.com
@@ -76767,6 +76801,7 @@ santuariodelmontelussari.it
 santuariosdeagua.com
 santuru.com.au
 santvielnewver.in
+sanujedu.workers.dev
 sanukk-train.biz
 sanxiashe.net
 sanxin-cn.com
@@ -78817,10 +78852,17 @@ shop-gutdrops.com
 shop-gutdrops.us
 shop-gutlite.com
 shop-keyslimdrops.com
+shop-lipovive.us
+shop-lungexpandpro.us
 shop-magnamund.com
+shop-memorylift.com
 shop-mochalean.com
+shop-nervealive.com
+shop-neuro-sharp.com
+shop-neurovera.us
 shop-nitrilean.com
 shop-pegasus.com
+shop-prostafense.com
 shop-sightfresh.us
 shop-slimsplits.us
 shop-sugarmute.com
@@ -79487,6 +79529,7 @@ six.lxb.monster
 six.ngiz5.ru
 six.xiaoshabi.cc
 sixaupk.asia
+sixepatu.workers.dev
 sixoro.mobilefoundationrepair.com
 sixpacksbnonye.eu
 sixpences.xyz
@@ -84143,6 +84186,7 @@ szh.saqehyo1.ru
 szhuandxiaomuma-yandi.com
 szhyxdz.com
 sziget.dupsiteszta.hu
+szlqgs89.shop-nervealive.com
 szo.ynbr-8.ru
 szonlline.net
 szpf.pl0tchisel.ru
@@ -84697,6 +84741,7 @@ taloustuki.fi
 taltideis8.currencysn0ut.pics
 talus3.rapidstone.ru
 tam8re.a8riculmarb1e.ru
+tamagewu.workers.dev
 tamajailroster.org
 tamarisknave.co
 tamartiantv.x10.mx
@@ -88655,6 +88700,7 @@ typingone.xyz
 typrat.club
 tyq.intr0dki5h.ru
 tyqaqanu.workers.dev
+tyqeca.workers.dev
 tyr2to6g.cl0udpath.ru
 tyrafast.se
 tyro.bet
@@ -90907,6 +90953,7 @@ uwhfdsndcjdn.tk
 uwielbienie.com
 uwiiiwyagicqcqoi.xyz
 uwiomsmcougegqgk.xyz
+uwkac56907.workers.dev
 uwkuoauwgqaiqwiy.xyz
 uwkx2xdq.zaribbala.bet
 uwmumeuemmcwyyii.xyz
@@ -93510,6 +93557,7 @@ vog.akasia988.net
 vog.cau777.org
 vog.peluangsm188.top
 vog.popi999.net
+vogebene.workers.dev
 vogel-no0t.com
 vogeleyedekparca.com
 vogos.press
@@ -95496,6 +95544,7 @@ wgtpfakz.akhlagvaahkam.xyz
 wguigkwsksgqueek.xyz
 wgukuiiukkmyagww.xyz
 wgwkugwmcsiyywiw.xyz
+wgx2w28e.chelseatbaldeagle.com
 wgxdvlm.en-synaptigen-us.com
 wgyeiykqkucumcqy.xyz
 wgygacwseemuaqwq.xyz
@@ -101823,6 +101872,7 @@ zyxyqie.ru
 zyy93.miststone.ru
 zyz.q4zi.ru
 zyzdto.storia-riferimenti.org
+zyzimy.workers.dev
 zz-1.muhanfrp.cn
 zz.aass654.com
 zz.jeml.ru
