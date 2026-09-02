@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-02 16:15:18 UTC
-# Total domains: 11250
+# Generated: 2026-09-02 22:40:17 UTC
+# Total domains: 11252
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7821,6 +7821,7 @@ oddmossstudio.com
 odenwaldkreis.info
 oder.autos
 odhb.top
+odinclient.dev
 odl2.top
 odyssey-st.com
 oeannon.com
@@ -9661,6 +9662,7 @@ stratimasesstr.com
 stratioai.org
 stratusinternational.com
 streambubble.com
+streamrat.in
 streamrestoration.com
 streamtecheng.com
 streamxpert.net
