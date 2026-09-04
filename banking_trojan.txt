@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-04 03:28:41 UTC
-# Total domains: 11256
+# Generated: 2026-09-04 09:43:14 UTC
+# Total domains: 11257
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10271,6 +10271,7 @@ tron-scan.at
 tronnilk.com.cn
 tronscan-en.net
 tronscan-v.io
+tronscan.org.im
 tronskan.tech
 tropicalexecutivehotel.com
 troyanh.pw
