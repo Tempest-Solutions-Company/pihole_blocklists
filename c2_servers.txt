@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-09-05 01:29:27 UTC
-# Total domains: 102808
+# Generated: 2026-09-05 03:26:24 UTC
+# Total domains: 102829
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3985,6 +3985,7 @@
 66bkuneu3hkgqpqf.onion
 66chat3.org
 66eff2f0.myjino.ru
+66gpqygz.us-en-us-darkreset.com
 66lotteryappdownload.com
 66ne34xh.spikeslavage.ru
 66nx.bep0ver7y.ru
@@ -4008,6 +4009,7 @@
 67b0njwj.velorix.life
 67betapp.com
 67hvtslok5a4cwjxfmidbgbunsvckypf2dwkpxg3y2sabar5b4jidmyd.onion
+67sixcebeh.surf
 68.snowtrace.ru
 68042.prohoster.biz
 68054.prohoster.biz
@@ -4950,6 +4952,7 @@
 8iyp.entert2inru8.ru
 8j08o.top
 8j6dt21smgcw0.cfc-execute.su.baidubce.com
+8jdjpwka.baby
 8jfd7.bond
 8jjbetgame.net
 8jt1f2hv.wellcome-c-store.com
@@ -7804,6 +7807,7 @@ agrologsa.com
 agronew.duckdns.org
 agronewbk.duckdns.org
 agrosk.kz
+agrou68423.workers.dev
 agrowealthsavings.pro
 agrupacionestrella.net
 ags.vn
@@ -10078,6 +10082,7 @@ apcollege-edu.com
 apdft.net
 apdft.online
 apdfty.net
+apdhlhs3.xyz
 apdlive.top
 ape.bkud4.ru
 ape.qvik5.ru
@@ -14054,6 +14059,7 @@ bds1.umemarketingagency.com
 bdsmkitstore.online
 bdsphatphat.com
 bdupdate24.com
+bduwih8.pro
 bdwjk37712.workers.dev
 bdyea.org
 bdyfs84973.workers.dev
@@ -26386,6 +26392,7 @@ diriyah.me
 dirolchiks.tplinkdns.com
 dirone3rl3vvq64ckcnrvhe2ogrhjrwu5u7hqzrlotu3rfvmqmmbsuqd.onion
 dirongseal.com
+diroqavu.workers.dev
 dirtbgone.ie
 dirtdsbv.top
 dirtynightmare92.icu
@@ -28430,6 +28437,7 @@ e2kj.ru7x.online
 e2rv.llim8.ru
 e2rw.6-0sg.ru
 e2rx.nowc8.ru
+e2u8o9ap.us-en-us-levium.com
 e2u97o8c.betbuf90.com
 e3.wildspark.ru
 e31.stormblink.ru
@@ -33351,6 +33359,7 @@ fbnmoon.xyz
 fboudin.com
 fboymydk.com
 fbr3s.myjino.ru
+fbuytf67.click
 fbvxbuzt.questionsmotor.xyz
 fby6y3nd.illuigiitaliancuisine.com
 fbytz48156.workers.dev
@@ -33413,6 +33422,7 @@ fdl-int.ch
 fdlhjb.pro
 fdlkewebsite.icu
 fdmyrhjq.jadoobet.vip
+fdofw36596.workers.dev
 fdp.sk
 fdsai.xyz
 fdsfddfgdfgdf.ru
@@ -36865,6 +36875,7 @@ garagedoorstexas.com
 garageduvignoble.fr
 garagemattmueller.ch
 garageplusnw.com
+garagope.workers.dev
 garanti-sans-virus.com
 garciabrotherspestcontrol.com
 garciazarza.es
@@ -46843,6 +46854,7 @@ j960484.myjino.ru
 j962822.myjino.ru
 j97463d7.beget.tech
 j98z.vip
+j9af4sr.guru
 j9m3z.fi0m.online
 j9o9f.windsh1eld.ru
 j9pc.bvum6.ru
@@ -49653,6 +49665,7 @@ kerjub.nightcl0ud.ru
 kerkyrain.gr
 kerlogers.tk
 kerluku.lol
+kernel-87.com
 kernel-azur.represent-skittish.lat
 kernel-beacon.digital
 kernel-cascade.digital
@@ -64900,6 +64913,7 @@ okdoekeoehghaoek.ws
 okdoekeoehghaoem.top
 oke88.org
 okegass.net
+okekjaiw.click
 okelly.se
 okeuwwwiogcioami.xyz
 okey.haoldd.com
@@ -69598,6 +69612,7 @@ popo.party
 popolifratelli.org
 poppingb.com
 poppingx.com
+poppyevolutionary.workers.dev
 poppyonmain.com
 poprockenlinea.com
 popshues.top
@@ -72668,6 +72683,7 @@ quartz.wqix-5.ru
 quartz3.quartz-flip.ru
 quartz5prism.veloria.garden
 quartzdamm.ru
+quartzdraft.com
 quartzousadefensesolution.com
 quartzraven.ru
 quarz.ashenkrone.ru
@@ -76479,6 +76495,7 @@ rxgpfyy.vonshiprock.com
 rxpvcd.ksfogaszat.hu
 rxqy.brain-bright.net
 rxsjd.bartendersclub.net
+rxsvjmwu.us-en-us-theeloncode.com
 rxt0h93a.1xforward.com
 rxtar.app
 rxtypnpc.b1ondefi1m.ru
@@ -91279,8 +91296,10 @@ us-en-us--puraboost.com
 us-en-us-bizopp.com
 us-en-us-bloodarmor.com
 us-en-us-cognisurge.com
+us-en-us-darkreset.com
 us-en-us-geniusbrainsignal.com
 us-en-us-keyslimdrops.com
+us-en-us-levium.com
 us-en-us-nervearmor.com
 us-en-us-nitrilean.com
 us-en-us-pegasus.com
@@ -91289,6 +91308,7 @@ us-en-us-sightfresh.com
 us-en-us-slimsounds.com
 us-en-us-spartamax.com
 us-en-us-synaboost.com
+us-en-us-theeloncode.com
 us-eng-sightfresh.com
 us-eng-us-gutdrops.com
 us-enkeyslimdrops.com
@@ -96487,6 +96507,7 @@ whitebit-web.at
 whitebt.click
 whitecl-oud5.to6varil.in.net
 whiteclouds.edu.in
+whitedierdre.workers.dev
 whitedoorstudio.com
 whitefort.top
 whitegoldgivenbestthingsangelbabygirlinm.duckdns.org
