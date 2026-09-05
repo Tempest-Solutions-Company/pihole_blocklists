@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-05 13:43:22 UTC
-# Total domains: 11314
+# Generated: 2026-09-05 16:13:25 UTC
+# Total domains: 11315
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -756,6 +756,7 @@ agencyadvantageins.com
 agencyofpoly.com
 agentauthentication.org
 agentclientclient.me
+agenticera.club
 agentnode.org
 agentpoints.co.za
 agggtm.com
