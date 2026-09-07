@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-07 14:58:10 UTC
-# Total domains: 11316
+# Generated: 2026-09-07 21:41:29 UTC
+# Total domains: 11317
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1259,6 +1259,7 @@ asbuiltsafety.com
 ascanellisa.com.ar
 asce7hazardtool.online
 ascotsafe.shop
+asd-schaefer.de
 asdamall.com
 asdrjswer678.com
 asesoresabreusuriel.com
