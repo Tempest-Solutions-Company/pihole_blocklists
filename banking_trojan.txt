@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-07 03:43:59 UTC
-# Total domains: 11315
+# Generated: 2026-09-07 09:59:01 UTC
+# Total domains: 11316
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7986,6 +7986,7 @@ oreiva.biz
 orenhimtorg.ru
 orgo.cc
 orgyvids.info
+oringosmod.com
 orinneamoure.com
 orionhatch.autos
 orlandoscreenenclosure.net
