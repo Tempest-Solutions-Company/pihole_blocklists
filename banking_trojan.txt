@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-16 13:02:03 UTC
-# Total domains: 11380
+# Generated: 2026-09-16 16:16:56 UTC
+# Total domains: 11383
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2224,6 +2224,7 @@ c0ncuur.com
 c0okiejar.org
 c0oncur.com
 c2a-ut9fj-2v7m.com
+c2iznja.com
 c2labs.com.au
 c4sale12.com
 c6lm.top
@@ -2494,6 +2495,7 @@ charteredarena.org
 chascloud.com
 chasingscratch.store
 chat-gpt.online
+chat5188.tk
 chateaudeau.com
 chateauinnandsuites.ca
 chatgptitalia.net
@@ -5706,6 +5708,7 @@ ibrmall.com
 ibuxd.com
 ibuytech.pk
 icafe.se
+icanihazip.com
 icareupmc.site
 icbt.online
 iceartsnorthwest.org
