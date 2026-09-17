@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-17 13:27:10 UTC
-# Total domains: 11448
+# Generated: 2026-09-17 15:37:09 UTC
+# Total domains: 11449
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2265,6 +2265,7 @@ camaraprovinciasantodomingo.do
 camdenlakehoa.com
 camechosafe.shop
 camerapro.store
+cameril.com
 cameronandsonwelldrilling.com
 camisetasdefutbolbaratas.shop
 campanole.com
