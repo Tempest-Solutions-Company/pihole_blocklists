@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-21 01:18:47 UTC
-# Total domains: 11486
+# Generated: 2026-09-21 03:15:53 UTC
+# Total domains: 11487
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -7311,6 +7311,7 @@ meorivsp.org
 mepunico.com
 merary.com
 meravilo.uk
+meritbetgir.org
 meritking8719.com
 meritking8790.com
 merlinvista.xyz
