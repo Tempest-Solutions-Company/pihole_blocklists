@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-09-21 03:15:53 UTC
-# Total domains: 112099
+# Generated: 2026-09-21 09:50:51 UTC
+# Total domains: 112135
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2498,6 +2498,7 @@
 2n.b3aconz.ru
 2n.dr1ftpanda.ru
 2n0.qh1a5.ru
+2n37l2e6.us-tupitea.com
 2n4.yq2r.ru
 2n62w.ma-shrift.ru
 2n6w.v0rt3xlab.ru
@@ -4411,6 +4412,7 @@
 6wz.skyf0rge.ru
 6x.primiertech.com
 6x2x5hvx.syndentix.net
+6x45taub7u.workers.dev
 6x79j.bracket-loam.ru
 6xbjz1e7.1xfa.bio
 6xelt3vl.shartplus.com
@@ -4483,6 +4485,7 @@
 71f9.fr0gpulse.ru
 71kxr.cogwhittle.ru
 71ovhjko.cocoricobeachbar.com
+71t3btzj.zcode--system.com
 71vb3uq6.byte-foundry.digital
 71xfky6dmujmoi5.com
 72.em1npe0ny.ru
@@ -5037,6 +5040,7 @@
 87jcg6w8.everestpointnorthglenn.org
 87kd.fl0wstone.ru
 87khq5gx.ravabetensani.site
+87x94lk6.en-en--enerflow.com
 88-pay.cc
 88.212.109.208.host.secureserver.net
 88.fe9v.ru
@@ -5457,6 +5461,7 @@
 9505.cl0ckmint.ru
 952k.shop
 953.games
+953k25jr.kcmotorsllc.com
 953sensible.workers.dev
 954.da6v.ru
 954591cm.nyashsens.top
@@ -23261,6 +23266,7 @@ cloudflare.12aim.com
 cloudflare.alegria-productions.com
 cloudflare.avicforging.com
 cloudflare.bchedu.net
+cloudflare.bot
 cloudflare.cooltheburn.com
 cloudflare.fentonph.com
 cloudflare.wzznswlxs.com
@@ -23909,6 +23915,7 @@ colobiad.live
 cologic.be
 colombacresco.com
 colombia.embajada.gob.ve
+colombiacocajo.cc
 colombiaeslibre9889.dynuddns.com
 colombiajudiciales.store
 colomndead.xyz
@@ -27041,6 +27048,7 @@ data-flow-ops-mgr.co
 data-hub-2312.com
 data-image-svg--base64.b-cdn.net
 data-protection-test.com
+data-recovery-melbourne.com.au
 data-service.da.signifly.io
 data-stack-node.co
 data-startssllink.com
@@ -33629,6 +33637,7 @@ entretien-toiture.ch
 entroelektronik.com
 entropai.de
 entropiastudios.com
+entry-code-cdn.codes
 entry-moonshot.com
 entry.sbs
 entsorger-circle.org
@@ -36597,6 +36606,7 @@ feilstil.de
 feine-vanille.de
 feiyuwei.com
 fekajyzy.workers.dev
+fekydi.workers.dev
 felawi.workers.dev
 felceconserve.com
 feld.harewinkel.ru
@@ -38598,11 +38608,13 @@ fr-be.bomain.ru
 fr-ca.bomain.ru
 fr-ch.bomain.ru
 fr-connexion-espace-client.com
+fr.1betasia.org
 fr.bb-3-y-5.ru
 fr.cdn.ahmadarief.com
 fr.cdn.riannarusu.com
 fr.d42n.ru
 fr.ha0m.ru
+fr.hg77.org
 fr.litemailzone.space
 fr.qzad-3.ru
 fr.saunapolo56.pt
@@ -40744,7 +40756,9 @@ gdtuyoor.gamehazarat.com
 gdvi.janatcosmetics.com
 gdxai3cp.shart.casino
 ge-s4.ru
+ge.1betasia.org
 ge.ghostnod.h4ck.me
+ge.hg77.org
 ge.jnfe-1.ru
 ge.lj3u5.ru
 ge.quasarorchid.ru
@@ -42481,6 +42495,7 @@ go.devy-3.ru
 go.dihijio22.ru
 go.fe1it.ru
 go.for-it.de
+go.hg77.org
 go.hmvu4.ru
 go.jytoceo30.ru
 go.lage-2.ru
@@ -47839,6 +47854,7 @@ i-like-ele-phants-verification.live
 i-smartworld.com
 i-v-c.ca
 i-water.ae
+i.131422.com
 i.aerocenters.com
 i.goklobtogether.net
 i.peer4you.net
@@ -51015,6 +51031,7 @@ j543wvuu.packet-orbit.digital
 j56d50s1q53v.com
 j5a.fe7a.ru
 j5aw9.9r3s.online
+j5hbvp9a.gideonconstructioninc.com
 j5oz3iqp.powershart.com
 j5qn.6-w0y.ru
 j60.ic0n1cvalley.ru
@@ -52885,6 +52902,7 @@ jyc.qa
 jycajame.workers.dev
 jycakezi.workers.dev
 jycatdj.echoxien.com
+jycolano.workers.dev
 jydiadog.eng-nitrilean.com
 jyg77562.usa-puraboost.us
 jyhdzq.eng-us--goldalign.com
@@ -53912,6 +53930,7 @@ kckossiegaqwkyas.xyz
 kckswcuwiiquuioi.xyz
 kclivetheater.com
 kclujyvd.jadoou.one
+kcmotorsllc.com
 kcosiayamoocqowy.xyz
 kcosmetics.kr
 kcpj.bahigo.casino
@@ -54522,6 +54541,7 @@ kiciqckgmqykuksy.xyz
 kicix49607ekuali.zapto.org
 kick1bet.com
 kickfair.org
+kickoffkingdom.com
 kickora.website
 kickshawproductions.com
 kicksrisejerseysshop.com.co
@@ -56706,6 +56726,7 @@ lagerraum-mieten-luzern.ch
 laggdr7f.crownconnectpk.com
 lagginfo.com
 laghenhetgoteborg.se
+lagigiri.workers.dev
 lago.deep5tone.ru
 lagodivinoabitte.com.br
 lagomstressad.se
@@ -56968,6 +56989,7 @@ larmentybadup.com
 larmogicsvp.org.br
 larosadejerico.es
 larot.com.mx
+laroverestore.com
 larpfxs.top
 larrelalcanar.com
 larrydaves.cf
@@ -70776,7 +70798,9 @@ ohtaare.info
 ohtvwmv.keyslimdrops-com.com
 ohzmh.bninolimit.com
 ohztowdn.burn--flow.com
+oi.1betasia.org
 oi.bracket-fern.ru
+oi.hg77.org
 oi.plasm-about.ru
 oi.rvni2.ru
 oi.vakun.ru
@@ -90771,6 +90795,7 @@ statsseotraff.xyz
 statswpmy.com
 stattcheck-intuiit.com
 statueforada.com
+status.creek-place.one
 status7.skypress.click
 statusplan.com
 stauniverseqp.com
@@ -92720,6 +92745,7 @@ syqwmkmwuyemakiu.xyz
 syqxxqi.riyaziyattajrobi.xyz
 syr3un.e9uatp2nth.ru
 syracusefertilitycenter.com
+syrawilu.workers.dev
 syria-live.ru
 syrianoohacker.esy.es
 syriatelsy.com
@@ -105648,6 +105674,7 @@ wilsonkumar.duckdns.org
 wiltsi.de
 wiltumbusiness.com
 wilxot.cask-wander.ru
+wimanamo.workers.dev
 wimqaz.gir1y5om.ru
 win-mph.gl.at.ply.gg
 win-post.pw
@@ -105881,6 +105908,7 @@ wiouy.visszateritok.net
 wipdistribuzioni.it
 wipe-global.ch
 wipe-global.com
+wipeoutpestcontrol.co.nz
 wipper.co.in
 wipt.icu
 wir-heiraten-in.bayern
@@ -107507,6 +107535,7 @@ x3y.st0nesurge.ru
 x4.ripplerover.ru
 x40.mistyflare.ru
 x41eexzh.1xcart.net
+x4227u7g.ewagajewskamd.com
 x46oo826.memap.me
 x4d.8-f-e8.ru
 x4d2.w7tx-3t.ru
@@ -107770,9 +107799,11 @@ xcx.fro5tlane.ru
 xcx.vumarifa.com
 xczhopt.kreativkiteljesedes.hu
 xczy.barcelona11.com
+xd.1betasia.org
 xd.bb3y5.ru
 xd.br1ckw0rd.ru
 xd.darkh1ll.ru
+xd.hg77.org
 xd.su4n.ru
 xd.t-65-p.ru
 xd5.rxir9.ru
@@ -109099,6 +109130,7 @@ y7m2.k9-2g8.ru
 y7m4.lweaq9b.ru
 y7m9sw9mvw.workers.dev
 y7mf.3j5-y.ru
+y7muyebir6.workers.dev
 y7n.c34uu.ru
 y7n.i50m.ru
 y7n.m9i5l.ru
@@ -109555,6 +109587,7 @@ yffsoksss888.com
 yfgufxk.muveszetiirasok.hu
 yfhrnyh.ac90bet.com
 yfma9er2.drrobertoiturralde.com
+yfpdz41265.workers.dev
 yfps3ls.cn
 yfqxbnsz.en-usa-sightfresh.com
 yft.toludye0.ru
@@ -109761,6 +109794,7 @@ yje.myhehaa4.ru
 yje.vexdapper.ru
 yje.xibovyu5.ru
 yjkjr.westinvesteuropa.hu
+yjkm9tsv.libertytokan.com
 yjpo.footstepsdaycare.com
 yjrbnmoc.casinomhub.bet
 yjs4ih2y.telemetry-vault.digital
@@ -110159,6 +110193,7 @@ yp.amin0mer3ges.ru
 yp.frostsh1ft.ru
 yp.qrow6.ru
 yp.rijo6oe1.ru
+yp1f3wpv.kickoffkingdom.com
 yp7s.lusy.ink
 ypa.clear5ky.ru
 ypairkaitcljoq.com
@@ -111392,6 +111427,7 @@ zienixpropertyservices.com
 zifcfqf.salesventure.co
 zig.quench-orbit.ru
 zigbee.eastus.cloudapp.azure.com
+zigelpi12.life
 zigeoavk.jadoou.click
 zigfree.eastus.cloudapp.azure.com
 zignalor-at.com
