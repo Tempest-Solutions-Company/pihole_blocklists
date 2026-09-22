@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-22 03:14:43 UTC
-# Total domains: 11487
+# Generated: 2026-09-22 09:27:17 UTC
+# Total domains: 11489
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3635,6 +3635,7 @@ dowloadstake.com
 down-loadmpajakidn.com
 downdetector.hk
 download-app-pc.com
+download-app.us
 download-apps-desktop.com
 download-apps-pc.com
 download-apps-windows.com
@@ -8501,6 +8502,7 @@ politseii-ee.shop
 pollymaniya.ru
 poloniaero.com
 polovoiinspektor.shop
+polse.us
 poltavka-555.online
 poltavka-555.ru
 poltavka555.ru
