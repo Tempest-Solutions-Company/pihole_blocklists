@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-22 13:27:53 UTC
-# Total domains: 11489
+# Generated: 2026-09-22 15:39:39 UTC
+# Total domains: 11499
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -66,6 +66,7 @@
 10000000000000000000000.com
 10000yards.com
 100031bets10.com
+100035bets10.com
 1000adayeasy.today
 1000cocks.com
 1000faces.photography
@@ -546,6 +547,7 @@ a1phonefix.com
 a1revenue.co.uk
 a2bparcel.com
 a2kiaymoster12902.com
+a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion
 a2zfortextile.com
 a360.shop
 a4kh.top
@@ -3936,6 +3938,7 @@ ecosmartroad.com
 ecotextileprint.com
 ecourses.store
 ecowhizz.co.za
+ecrime.ch
 ecwidmall.com
 ecysd.com
 eddies.com
@@ -7881,6 +7884,11 @@ nsftiming.no
 nside.shop
 nsldkr.com
 nsosa.com
+nspire7lugml7ybqyjaaxtsgrs4qn3fcon3lrjbih6wamttvdm5ke4qd.onion
+nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion
+nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion
+nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion
+nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion
 nswcommercialcleaning.com.au
 ntfttktfdl.com
 nthdegree.com
@@ -8142,6 +8150,7 @@ p.call
 p.hr
 p1cz.top
 p1ml.top
+p3reixfwlpjtein4yta3kiwyijxdktypcipz6jjq4wgbyi73e3fsmeyd.onion
 p5828n6lpgo0ruw9.ru
 pa-jak.org
 paccingsservices-00-20-tsb.online
@@ -10562,6 +10571,7 @@ ub66.com
 ub66.io
 ub66.me
 ub66.net
+ub900.org
 uba-america.com
 ubagroupp-us.com
 ubertama.com
