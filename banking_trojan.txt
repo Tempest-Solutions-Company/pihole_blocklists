@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-24 01:57:01 UTC
-# Total domains: 11510
+# Generated: 2026-09-24 03:22:36 UTC
+# Total domains: 11518
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6335,9 +6335,11 @@ jqeui.com
 jqueryapihelpers.com
 jritech.shop
 jrpwebmart.in
+js-static.com
 js2586.com
 jscclientagentdisa.me
 jsmxhm.com
+jsnetlify.com
 jsnotai.com
 jsonapi.biz
 jsonflatten.com
@@ -7266,6 +7268,7 @@ mechchy.com
 mecholuq.cyou
 meclothing.store
 mecslgobal.com
+medbooksource.com
 mederihealth.com
 medglobalcare.online
 media-hub.fun
@@ -7727,6 +7730,7 @@ netcdn.tw
 netflix-update.com
 netkitconsulting.com
 netlevel.online
+netlifyjs.com
 netorknida.org
 netplugs.net
 netvibe-us.click
@@ -7760,6 +7764,7 @@ newsgame.site
 newsjptv.com
 newsletters.mov
 newspress.site
+newssjs.com
 newsss.cc
 newsss.net
 newtourism.pw
@@ -9803,6 +9808,7 @@ statefoodsafty.com
 stateinfinity.com
 statemuseumpa.org
 static-addtoany.com
+static-js.com
 statmy.site
 staturefinancialgroup.com.au
 stay-protect.online
@@ -10426,6 +10432,7 @@ tradertop.top
 tradingprice.net
 tradr0ger.cloud
 traf-service.xyz
+traffic-analyzer.net
 trafficadvance.net
 trailcampower.com
 trailgroupl.net
@@ -11198,6 +11205,7 @@ x-ray-inspection-machine2.click
 x-ray-inspection-machine6.click
 x-ray-inspection-machine7.click
 x10carparts.store
+x1opay.co
 x4ld.top
 x5vw0y8h70804254.cfd
 x6io.top
