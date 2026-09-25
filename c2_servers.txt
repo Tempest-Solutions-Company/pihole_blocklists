@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-09-25 13:44:30 UTC
-# Total domains: 116287
+# Generated: 2026-09-25 15:56:58 UTC
+# Total domains: 116333
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2957,6 +2957,7 @@
 3fbkahzk.coinsgame.pro
 3fg2gfwrdks46drwvejpgpak5klrflclsjjo35dxtqfk3poeez6oezad.onion
 3fj89h5i.dive9uoht2.ru
+3flhcehm.kaarenorge.com
 3fp.glacierbruecke.ru
 3frnhzcnlkjnw5q3tm6elzizinm2k3bmrtf2xwqjzpcxzeqwn2tv6wyd.onion
 3fw3dkexe1.workers.dev
@@ -4080,6 +4081,7 @@
 5ye8.n0rthw1nd.ru
 5yohaely.betexper.bet
 5ytgzg4j.love5w0rd.ru
+5yuj1m1rfv.workers.dev
 5yvw9e40.behtarin-site-shartbandi-football.com
 5z.lumentwist.ru
 5z.sx2u0.ru
@@ -4278,6 +4280,7 @@
 69d.ykgw-2.ru
 69gnv9zp.shadowf1ow.ru
 69gqzj0b.cartbahis.com
+69i8pi14.tobisha.com
 69t7i1mv.ei8hthyp0.ru
 69tec.com
 69vn15.top
@@ -5656,6 +5659,7 @@
 9c93qxj2vi020426nw.cfd
 9ca6.cl0ckmint.ru
 9cc0ohnr54.workers.dev
+9ciuaa7dc8.workers.dev
 9cm.rockbyte.ru
 9controller.online
 9controller.ru
@@ -5823,6 +5827,7 @@
 9w9ntvyw.usa-bloodarmor.us
 9wf.re1iabteady.ru
 9wk.bluef0rm.ru
+9wouxjwy.prozhedownload.shop
 9x.bo8y.ru
 9x.windl1nk.ru
 9x2.v3ix.ru
@@ -5879,6 +5884,7 @@ a.8g89.ru
 a.9-ck6.ru
 a.ahz-ya.ru
 a.bc.285ef6f2.web.mail.cargopaa.com
+a.bc.6a73dbe.www.aioperao.com
 a.bpva0.ru
 a.cgty8.ru
 a.d44yy.ru
@@ -12401,16 +12407,23 @@ aryalalexsh.com
 aryasamaj.site
 arziiddos.altervista.org
 arztpraxis-seebach.ch
+as.bulkz.sbs
 as.c8i0.ru
 as.elsq.top
 as.havz.top
 as.lage2.ru
 as.newk.top
 as.pl-8a.ru
+as.quats.sbs
 as.s2-ly.ru
+as.sxlid.sbs
 as.tiqn.top
 as.ty1un.ru
 as.vakun.ru
+as.vbizd.sbs
+as.viaqs.sbs
+as.wordz.sbs
+as.zends.sbs
 as23.de
 as59n9n3.photoshopvn.net
 as9e2wvl.leswap.store
@@ -13122,6 +13135,7 @@ atmmoinulhaque.com
 atmodrive.top
 atmsistemica.com.br
 atmtest.ezar.ru
+atmyworst.xyz
 atnvjyj.emroze.bet
 atoll-uk.com
 atomento10.icu
@@ -16364,6 +16378,7 @@ bet120.games
 bet1bartar.com
 bet1betyek.bet
 bet1kick.com
+bet1roulette.com
 bet1xboro.bet
 bet1xyek.bet
 bet1yek.bet
@@ -16372,8 +16387,11 @@ bet1yekbet.bet
 bet212.casino
 bet24bet.bet
 bet303.bio
+bet303.cash
+bet303.casino
 bet303.games
 bet303.site
+bet303bet.bet
 bet303iran.org
 bet313.app
 bet360.online
@@ -29955,6 +29973,7 @@ diasporaenligne.net
 diastudio.pl
 diayazilim.com
 diazepo.com
+dibardo.net
 dibellaorologi.it
 dibrax.luz7it5tretch.ru
 dibs-project.eu
@@ -30833,6 +30852,7 @@ dock.plume-anchor.ru
 dock.tu7q.online
 dock.yourbodybydesign.me
 docker.smashingboss.com
+dockmemoir.co
 dockoo3kooname-i.com
 dockoo4kooname-i.com
 docktan-flexo-avastpig-engine.garden
@@ -32641,6 +32661,7 @@ e57ra5jx.plinkobet.casino
 e5aild1m.fr0stw1ng.ru
 e5ch1.ru
 e5say.4-pytim-30-ua.ru
+e5ufcx9x6e.workers.dev
 e5w.cleardawn.ru
 e5wy6a5o.oncloudllc.com.mx
 e5xwaq5b.en-us-men-balancepro.com
@@ -36144,6 +36165,7 @@ estudiovegapinto.com.ar
 estui12.com
 estyrenics.com
 esum.org.in
+esunager.net
 esunteec.com
 esurveys.fr
 esvenca.com.ve
@@ -43726,6 +43748,7 @@ giotuipo.at
 giovannapapa.com
 giovanniniadvogados.agencialegalads.com
 giowrust.ru
+giperon.net
 gipoja.workers.dev
 gipqen.f0undoutw2y.ru
 gipsykingdonk.su
@@ -48640,6 +48663,8 @@ hixqer.ro1luzbek5.ru
 hizcs86157.workers.dev
 hizula.workers.dev
 hj.03e3x.ru
+hj.1jp88.org
+hj.234-e.com
 hj053.com
 hj223.top
 hj263krt.daro7vex.bet
@@ -49566,6 +49591,7 @@ hqtzavl.mangobetfarsi.com
 hqvgwxfu.hugugedari.xyz
 hqwgki.habbofutbol.com
 hqzblmr.90pishbini.com
+hqzjyi9b.bet120x.net
 hr-rs00131engagesolarnikalkulator.com
 hr.bqet3.ru
 hr.crju.ru
@@ -51408,6 +51434,7 @@ imenmehrdayan.com
 imep.com.mx
 imercyaye.xyz
 imersaodhe.vasconcelossolucoes.com.br
+imersion4cf.site
 imexinsurance.com
 imf1.com
 imfssd.biz
@@ -51686,6 +51713,7 @@ indiceconsultoria.com
 indicequalitesols.ch
 indiestickerpack.com
 indieviewtv.com
+indigo-finch-misgoaen.life
 indigo2forjoy.com
 indigocrest.top
 indigomarin.com
@@ -54267,6 +54295,7 @@ jet90betyek.bet
 jetbahis.win
 jetbahis2023.xyz
 jetbahis733.com
+jetbaz.ir
 jetbet1.live
 jetbet1.online
 jetbet1.pro
@@ -54341,6 +54370,7 @@ jgypzot.overtheitgirl.com
 jgyqxldn.leaguejazire.com
 jh-athletics.de
 jh-mortgages.com
+jh10s83825.workers.dev
 jh89g.shadowl1nk.ru
 jhab.qapyfyi0.ru
 jhafinancial.com
@@ -57426,6 +57456,7 @@ kiriaccounting.com
 kiribati.dev.kdmc.pl
 kirill0v.beget.tech
 kirim-mobil.com
+kirk.velyra.ru
 kirkcharlie.com
 kirkmanbespokewoodworking.co.uk
 kirkuc.com
@@ -61690,6 +61721,7 @@ loganwolverin2026.duckdns.org
 loganwolverin2027.duckdns.org
 loganwolverin2028.duckdns.org
 loganwolverin2040.duckdns.org
+loganwolverin2042.webredirect.org
 logbasesky.com
 logbin.barchon-virtue.lat
 logbin.coop-san.lat
@@ -65641,6 +65673,7 @@ medmark.sa
 mednart.com
 medo5120.no-ip.biz
 medocheime.com
+medonaz.net
 medoratechlabs.com
 medow.rainv1sta.ru
 medowex.com
@@ -72631,6 +72664,7 @@ ntwireds.com
 nty.10001slot.org
 nty.sm188dadu.top
 ntypt547.zen-zensulin.com
+nu.234-e.com
 nu.fenod.ru
 nu.n2-ke.ru
 nu.pvzi1.ru
@@ -77135,6 +77169,7 @@ pbcx.jadoou.lat
 pbdb.bet303.site
 pbgphilanthropy.org
 pbgskytq.persianeducation.ir
+pbgz2mgx.bet303bet.bet
 pbh3hti8.gavaedfagahe.xyz
 pbhwzixj.boro1.bet
 pbhx.azautotraders.com
@@ -80619,6 +80654,7 @@ prozhe.shopping
 prozhe.vip
 prozhe24.com
 prozhedownload.net
+prozhedownload.shop
 prozipdownload.com
 prozirk.com
 proznith.us
@@ -81218,6 +81254,7 @@ pxbhgsn.bahiscom2023.online
 pxe51lm9.frostm1nd.ru
 pxi.bandifer.us
 pxic.bet1xegypt.com
+pxinb13757.workers.dev
 pxjhjx.com
 pxjms26158.workers.dev
 pxknfth.bakhtazmaeii.com
@@ -84104,6 +84141,7 @@ rb.d42n.ru
 rb.wsit4.ru
 rb.yffl9.ru
 rb2.5t0p.ru
+rb33u1g7.jetbaz.ir
 rb54.kqag6.ru
 rb55.0-1gc.ru
 rb56.qihs8.ru
@@ -84873,6 +84911,7 @@ remproces.casacam.net
 remrer.eu
 remtel62.ru
 remudago.workers.dev
+remuloz.net
 remus.su
 renaceconcarino.com
 renagames.xyz
@@ -88221,6 +88260,7 @@ saporidimaredelsalento.com
 sappec-dz.com
 sapphire8825.workers.dev
 sapphirelinenapparel.com
+sapphiremallory.workers.dev
 saprwbu.lavorcollective.com
 sapzq.xn--ker3-ioa.hu
 saqehyo1.ru
@@ -93002,6 +93042,7 @@ sotavpn.shop
 soteezy.com
 sotelproperties.com
 sothym.com
+sotikan.net
 sotirov-service.com
 sotn.igemagency.com
 sotod2ao6.ru
@@ -99431,6 +99472,7 @@ tillcuh.top
 tillivilli.website
 tilliwp.courses
 tillman.biz
+tilovoxo.workers.dev
 tilt.wiwgf.workers.dev
 tiltdesigns.com
 tilth2.clears0il.ru
@@ -99450,6 +99492,7 @@ timbresdepaques.easterseals.ca
 timdavisclucebs.retirevillage.com
 time-check.ru
 time-talk.co.uk
+time-travel.club
 time.austriaeast.cloudapp.azure.com
 time234wa234rper346465432.ug
 time2sleep99.com
@@ -99519,6 +99562,7 @@ tinuthomas.com
 tiny-queen-ada8.mowal67825.workers.dev
 tiny.kuryc7yy1.ru
 tinybet.bio
+tinybetayni.com
 tinybetkade.com
 tinyhub.vip
 tinymeshway.sporesyncnode.garden
@@ -113901,6 +113945,7 @@ yiyyciceiwuoscoe.xyz
 yiyygiicayumqkuy.xyz
 yiyyuyusykeqikgg.xyz
 yj.cl0udfall.ru
+yj6cuwo1.bet1betyek.bet
 yj775.top
 yjdyqbk.bearriverchiropractic.com
 yje.myhehaa4.ru
@@ -115319,6 +115364,7 @@ zeit.cranezeit.ru
 zeitgeistguard.xyz
 zeitnahsurvey.com
 zeitzaatar.com
+zejaziri.workers.dev
 zejlnzmy.maharatmodiran.xyz
 zejyqeba.workers.dev
 zekerzit.nl
