@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-25 15:56:58 UTC
-# Total domains: 11518
+# Generated: 2026-09-25 22:15:22 UTC
+# Total domains: 11519
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3025,6 +3025,7 @@ costacars.es
 cottagesofdeervalley.com
 couponxplanet.shop
 courseir.com
+courtsidelogic.com
 covalent.com
 covenwars.com
 coveo.cc
