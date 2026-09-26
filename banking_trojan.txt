@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-26 01:15:54 UTC
-# Total domains: 11519
+# Generated: 2026-09-26 03:13:53 UTC
+# Total domains: 11520
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10484,6 +10484,7 @@ tripmall.online
 triumphsic.org
 triviet.news
 trkitok.com
+trocken.cl
 troense-kajakklub.dk
 tron-scan.at
 tronnilk.com.cn
