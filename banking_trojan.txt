@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-09-27 15:57:38 UTC
-# Total domains: 11520
+# Generated: 2026-09-27 22:18:03 UTC
+# Total domains: 11521
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8002,6 +8002,7 @@ ogqw9cpz7t7et3j1rur.live
 ohlytec.de
 oilerbanking.com
 oillie.us
+oj44472.com
 okadacaco.com
 okbangggggg.com
 okbangindo.com
