@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-02 13:39:34 UTC
-# Total domains: 11537
+# Generated: 2026-10-02 15:45:52 UTC
+# Total domains: 11538
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8316,6 +8316,7 @@ passkeyset.com
 passkeystatus.com
 passkeysupport.com
 passkeyuser.com
+password-whamola.net
 pasteflawwed.world
 pastimaxwin.online
 patmushta.info
