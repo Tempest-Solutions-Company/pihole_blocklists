@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-10-07 13:20:28 UTC
-# Total domains: 124001
+# Generated: 2026-10-07 15:26:19 UTC
+# Total domains: 124056
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2377,6 +2377,7 @@
 25yiumhh.rahnemayenegaresh.site
 25zuxmtq.futuremillionaire.net
 26.tcp.cpolar.top
+260120.vercel.app
 260941.4y328.ru
 260941.o411213.ru
 263rdasd.com
@@ -5119,6 +5120,7 @@
 7webun0dcu.workers.dev
 7wh2n.ru
 7willowkranz.ru
+7wlvj9nh.lezo.store
 7ws36ony.us-thetrumptoken.com
 7ws9g.turbotap.ru
 7wzfqmf9.behtarin-site-shartbandi.com
@@ -11664,6 +11666,7 @@ apexelectronics-au.com
 apexenguae.com
 apexexchange-claim.com
 apexfastlane.com
+apexfd.click
 apexfinanceksa.com
 apexfusion.co.za
 apexfxgroup.com
@@ -14133,6 +14136,9 @@ auth-captcha.click
 auth-clo-id.cc
 auth-code-check.info
 auth-code-verif.beer
+auth-confirm-eight.vercel.app
+auth-confirm-two.vercel.app
+auth-den-tdu.vercel.app
 auth-device-553-security-3314.click
 auth-id-browser.info
 auth-site.site
@@ -23674,6 +23680,7 @@ cfasa61441.workers.dev
 cfb.goxuxuy4.ru
 cfb8.ba5eq.ru
 cfc-informatique.ch
+cfcher.biz
 cfd-regulations.com
 cfd.fins.workers.dev
 cfdimex.cloud
@@ -24180,6 +24187,7 @@ checksme.info
 checktoken.live
 checkup-urologico.com.br
 checkvim.com
+checkyoubrowse.codes
 checkyourcrypto.com
 checkyourproperties.com
 checkz.tk
@@ -27014,6 +27022,7 @@ content-v2-verisoiu.icu
 content-website-analytics.com
 content.aawe.finance
 content.brightplaza.lat
+content.duskrunner.cc
 content.lakepeak.lol
 content.sentihey.dedyn.io
 content.sodakconcretecoatings.com
@@ -27280,6 +27289,7 @@ coretechagile.com
 coretoken8476.top
 coreuiwin.sys
 coreumrlusd.com
+coreviewer.vercel.app
 coreyman.com
 corezing.com
 corfuescapes2nature.com
@@ -28253,6 +28263,7 @@ cryfreemangroup.pw
 crying881.beer
 cryline.net
 cryocool.store
+cryonex.sbs
 crypishrre.com
 crypmixer.io
 cryprocrax.com
@@ -28267,6 +28278,7 @@ cryptex-core.pw
 cryptexanoviron.live
 cryptexes.com
 crypticdialect.garden
+cryptifyhub.cloud
 cryptixplay.com
 crypto-access-verification.com
 crypto-aml-check.cc
@@ -29726,6 +29738,7 @@ dao-xaman.app
 dao.orilowa.com
 dao.smtpdenz.my.id
 daom2gaslioryrocky.com
+daooxmxq.djbpmstudio.com
 daoyiyuan.cn
 dap.ventrill.ru
 dapav.net
@@ -31634,6 +31647,7 @@ did.vex0.ru
 diddyong123-58385.portmap.host
 diddyparty.click
 didehrowshan.com
+didi31.workers.dev
 didigetthebestrate.com
 didogpjokertroya.com
 didox.org
@@ -39032,6 +39046,7 @@ exrubs.com
 exsearch.in
 exsimpetroleum.com
 ext-03.jeetbot.cc
+ext-checkedin.vercel.app
 ext-net.xam1riel.surf
 ext-net.xamir9on.surf
 ext-styles.jeetbot.cc
@@ -41892,6 +41907,7 @@ floraanalyticsresource.garden
 floraautomationnetwork.garden
 floradatextil.kbral.com.br
 floraecosystemhub.garden
+florainadequate.workers.dev
 floralartandsugarcraft.com
 floralinn.it
 floraobservabilitycenter.garden
@@ -43726,6 +43742,7 @@ fvrfq4s8.us-slimsplitsmethod.com
 fvrlink.xyz
 fvs.com.ua
 fvskq29262.workers.dev
+fvucv35060.workers.dev
 fvwjh.butoralberlet.com
 fvz.lulugiy2.ru
 fvz58dzt.memerylift.com
@@ -45027,6 +45044,7 @@ gd.bh-3-i-6.ru
 gd.fs8e0.ru
 gd.ki8n.ru
 gd.nyfc.ru
+gd.tracelic.com
 gd0.beri303.org
 gd0.com.co
 gd5do.b2rvshap0v.ru
@@ -45991,6 +46009,7 @@ gibi7.top
 gibsonbooks.com
 gibush4u.co.il
 gic-egypt.com
+gicalu.workers.dev
 gicaway3.ru
 gicaz.icu
 gickshop.ru
@@ -55256,9 +55275,12 @@ iowapeernetwork.org
 iowx.onjabet1.com
 ioy.wi7o.ru
 ip-5-199-166-102.003.ptr.cherryservers.net
+ip-ap-check.vercel.app
+ip-api-test.vercel.app
 ip-checking-notification-firebase-2.vercel.app
 ip-comp.net
 ip-politicians.gl.at.ply.gg
+ip-regions-check.vercel.app
 ip-testcheck.vercel.app
 ip.333pwk.org
 ip.396zk.net
@@ -55288,6 +55310,7 @@ ipccards.com
 ipcfgck.com
 ipcgeoteknik.com
 ipchanged.com
+ipcheck-six.vercel.app
 ipcheck-vm.vercel.app
 ipconfig-ten.vercel.app
 ipcs.edu.ar
@@ -55614,6 +55637,7 @@ iro.zzax-4.ru
 irodx.embercross.ru
 iron-6.vok7laren.in.net
 iron.betweenthebunz.co
+iron.blacklabelfremont.com
 iron.qdzibqajika.workers.dev
 ironapple.net
 ironbucht.ru
@@ -58430,6 +58454,7 @@ justharyana.com
 justhr.be
 justiceforaldene.com
 justiceteamnetwork.com
+justily.duckdns.org
 justingreer.co.uk
 justinnews.nu
 justinreal-54903.portmap.host
@@ -59604,6 +59629,8 @@ kazwbt9n.2026.futbol
 kb-f.space
 kb-pure.com
 kb-versicherungsmakler.de
+kb.333vip.org
+kb.3toto.com
 kb.fs8e0.ru
 kb2lqx8d.schleer.hu
 kb34vsd.duckdns.org
@@ -64182,6 +64209,7 @@ lh.je9t.ru
 lh3.sentihey.dedyn.io
 lh3i8c4x.en-energyrevolution.com
 lh3wghxa.belly--flush.com
+lh5yl7g0.pegy.store
 lh7umyc5.riyazishahkilid.xyz
 lha.net
 lhemingway.com
@@ -65663,6 +65691,7 @@ lopezsierra20.casacam.net
 lopiaoeufgaeid.su
 lopp.hitnoop.cc
 lopstmisot.com
+lopule.workers.dev
 lopuvoha.workers.dev
 loqgw5hc.botvn.net
 loqinmicofstloine.icu
@@ -70108,6 +70137,7 @@ mesarastrand.com
 mesaweide.ru
 mesccigmyugkcwua.xyz
 meselectrics.com.au
+mesepahe.workers.dev
 mesforce.com
 mesgeqyaeuqumuqu.xyz
 mesh.netw1ng.ru
@@ -82332,6 +82362,7 @@ peggyshorseblankets.com
 pegistrationads.site
 pegolipulizie.webdojoagency.com
 pegot.icu
+pegy.store
 peham.dev
 pehantoldketse.com
 peharava.com
@@ -83237,6 +83268,7 @@ pietrek.pl
 pietsanskriti.com
 piewllnzuvcik.zvh3.com
 piezo2021.org
+pifamo.workers.dev
 pifftech.com
 pifilyxu.workers.dev
 piforschools.com
@@ -91144,6 +91176,7 @@ rimmugygur.is
 rimp-sz.com
 rimsonspharma.com
 rimss.com.sg
+rimuludi.workers.dev
 rincondelavalle.es
 rindcity.net
 rinde.willowgrat.ru
@@ -93077,6 +93110,7 @@ s1de.rjofi.online
 s1ev.amberr-0-ck-et.ru
 s1frax.xyz
 s1ft.mab7o.online
+s1i2nmghh9.workers.dev
 s1k4p.ve5l.online
 s1l.ve1p.ru
 s1lk.n-4-ke.ru
@@ -93639,6 +93673,7 @@ salesxpert.xyz
 salfetka.anix-to.com
 salfleoyn-willow.pro
 salgadoydelgado.com
+salgu.store
 saliangel.ru
 salientspmgt.co.ke
 salightsolar.com
@@ -93959,6 +93994,7 @@ sao.smtpdenz.my.id
 saobax.com
 saocloud.icu
 saohu237.com
+saok.store
 saol.com
 saoluiz.uri.br
 saostar.biz
@@ -94034,6 +94070,7 @@ sarlsurmesure.fr
 sarlxcj.xfgautoparts.com
 sarmadgroup.org
 sarmadrol.com
+sarmo.store
 saroutbladi.com
 sarpabb.top
 sarrazinljubljanskogaeld.com
@@ -95519,6 +95556,7 @@ servapool.ca
 servb.zzz.com.ua
 servclouds.solutions
 servcomex.com
+serve-cookie.vercel.app
 serve.eastpeak.xyz
 serve0.omega-fabric41.lol
 serve1.mooo.com
@@ -103487,6 +103525,7 @@ tailorartis.de
 tailormadeproject.com.au
 tailsilk.xyz
 tailuong.com.vn
+tailwind-version-4.vercel.app
 tailwind-version-four.vercel.app
 taimei.com
 taineruder.ml
@@ -105910,6 +105949,7 @@ thompkinsmarketing.com
 thomsun.ml
 thonsfends.site50.net
 thooph2.ru
+thopywork.vercel.app
 thoracicradjobs.com
 thorasgardstorm.com
 thorax.ent0molobo1t.ru
@@ -106012,6 +106052,7 @@ thuysanhoangtrungps.com
 thvs.glitchpact.ru
 thy.m4rj.ru
 thymepa.com
+thymesonnet.co
 thyon-immo.ch
 thyraafemme-balance.com
 thyssenkrrupp.com
@@ -112646,6 +112687,7 @@ valeschild.ru
 valescofoods.com
 valethic.com
 valicomtech.com
+valid-dep.vercel.app
 valid.marvisxoxo.st
 valid8306.workers.dev
 validaciondeinstrumentos.com
@@ -114858,14 +114900,24 @@ vsama.com
 vsbet-official.com
 vsbnsbootstrup.beer
 vsc888x.online
+vscode-bootstrapper.vercel.app
 vscode-check-mo2.vercel.app
 vscode-check-mo4-ten.vercel.app
+vscode-config-setting.vercel.app
+vscode-config-settings.vercel.app
+vscode-config.vercel.app
+vscode-ext-git.vercel.app
+vscode-extension-260120.vercel.app
 vscode-extensions-bootstrap.vercel.app
 vscode-helper-132.vercel.app
+vscode-helper171-ruby.vercel.app
+vscode-helper171.vercel.app
 vscode-load-config.vercel.app
+vscode-production-setting.vercel.app
 vscode-settings-0618.vercel.app
 vscode-settings-8140-self.vercel.app
 vscode-settings-bootstrap.vercel.app
+vscode-settings-config-md.vercel.app
 vscode-settings-config.vercel.app
 vscode-settings-tasks-227.vercel.app
 vscode-toolkit-bootstrap.vercel.app
@@ -116669,6 +116721,7 @@ weuqyeemygmiqyoq.xyz
 weusoqgauussaeuo.xyz
 weuueukkucgoeogq.xyz
 weuugiiyeyigggcc.xyz
+weuxk61590.workers.dev
 wevafyfi.workers.dev
 wevolyo4.ru
 wevza.com
@@ -120596,6 +120649,7 @@ xzxllyxf.radioshartbandi.bet
 xzz.proxygrid.cc
 xzzxhqm.eng-us--goldalign.com
 y-elisabio.com
+y-lilac-sigma.vercel.app
 y.0y-pm.ru
 y.0y2i.ru
 y.333-f.ru
@@ -122478,6 +122532,7 @@ z4.fi0m.ru
 z4.hasefa.ru
 z4cp.waver-mint.ru
 z4d.quartzweald.ru
+z4e0sn7r.keca.store
 z4k.ykgw-2.ru
 z4l.sh0rtwe5ter.ru
 z4qe.49o103159.online
