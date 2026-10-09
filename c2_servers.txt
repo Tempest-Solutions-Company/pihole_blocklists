@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-10-09 03:15:37 UTC
-# Total domains: 124762
+# Generated: 2026-10-09 09:21:47 UTC
+# Total domains: 124795
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1559,6 +1559,7 @@
 133exchangevip.com
 133exchangex.com
 133oppott.com
+134.116.205.35.bc.googleusercontent.com
 134oppott.com
 13586721moon.1a2e6.ru
 135oppott.com
@@ -20744,6 +20745,7 @@ bu.q5z9s.ru
 bu.xoreniu7.ru
 bu383.krify.co
 bu5.je5w.com
+bu6l986k.rihan.store
 bu7nil0q.couponforge.qpon
 buachedhsp.com
 buanaeaglegroup.com
@@ -24110,6 +24112,7 @@ check-dev.learnstore.vip
 check-here.duckdns.org
 check-list.jp
 check-mdfcf.pw
+check-pdf-image.com
 check-time.ru
 check-your-file.gq
 check.2-wafij-3-ue.ru
@@ -24279,6 +24282,7 @@ checkgps.lv
 checkgps.net
 checkgps.org
 checking-aml.org
+checkingdrive-october.com
 checkingsite.site
 checkinguscapgo.com
 checkmrobot.site
@@ -33567,6 +33571,7 @@ dreambet.casino
 dreambigworkharddomore.com
 dreambuildshare.org
 dreamcash.com.ng
+dreamcastlegacy.cfd
 dreamcommun.com
 dreamdigitalmedia.com
 dreamfields.com.sg
@@ -33693,6 +33698,7 @@ drivecleaning.com
 driveclickone.com
 drivefolder-photo7392.info
 drivefolderphoto.info
+driveinformation-octob.com
 driveinformation.com
 drivelegit.com
 drivelivelime.com
@@ -35878,6 +35884,7 @@ ehtemalatdelavar.xyz
 ehtiraf-print.com
 ehtpff9z.mav3torel.surf
 ehu.bramblestrom.ru
+ehvrou8y.sarmo.store
 ehwpw90826.workers.dev
 ei.a-5-t-1-gstudy.ru
 ei.je9t.ru
@@ -49774,6 +49781,7 @@ hablaportafolio.com
 habs.uk.com
 habutaetofu.com
 habyg.press
+habysilo.workers.dev
 habzi4.sp0rt5updat.ru
 hacdop.com
 hacgy.d0ubletr2ffic.ru
@@ -50792,6 +50800,7 @@ helensa.com
 helensmithjeweller.co.uk
 helentzouganatos.com
 heleqoja.workers.dev
+helianthus.ch
 helicobactercolombia.com
 helij.icu
 helimodee.com
@@ -52226,6 +52235,7 @@ hospy.co.jp
 hospycare.com
 host-109-234-35-62.hosted-by-vdsina.ru
 host-195-2-93-148.hosted-by-vdsina.ru
+host-89-241-13-228.as13285.net
 host-94-103-82-73.hosted-by-vdsina.ru
 host-94-103-83-38.hosted-by-vdsina.ru
 host-94-103-94-79.hosted-by-vdsina.ru
@@ -54241,6 +54251,7 @@ ikonicv.com
 ikonki.besaba.com
 ikoqicamegmugoyo.xyz
 ikosygiikgkgoeco.xyz
+ikovrsps.com
 ikpanel.tk
 ikpeego.biz
 ikponmwosa.aveyrichard.us
@@ -57315,6 +57326,7 @@ jc7.di5r.ru
 jcadventures.xyz
 jcagence.com
 jcas.top
+jcbsx68590.workers.dev
 jcchristianson.com
 jcdestinostravel.com
 jcdlhks8.node-pulse.digital
@@ -63148,6 +63160,7 @@ lajojidu.workers.dev
 lajourneedesreseaux-cci.fr
 lajpalimpex.com
 lajurnews.com
+lajuteco.workers.dev
 lak3on.brightlake.ru
 lak3sh.s1lentlake.ru
 lakatoslegal.com
@@ -64219,6 +64232,7 @@ lemonova.pl
 lemonvcnetwork.com
 lemowex.com
 lemyjyhu.workers.dev
+lemyvi.workers.dev
 lena-geissler.de
 lenabud.pl
 lenabwvtialpopito.com
@@ -67485,6 +67499,7 @@ machine-vitamin.gl.at.ply.gg
 machine.cavalchalet.ch
 machine.cu.ma
 machine.ncsgo.workers.dev
+machine628.baby
 machinelearningaimod.onrender.com
 machineryclub.com
 machinetest.hoztox.in
@@ -68939,6 +68954,7 @@ marion-lacan.com
 marionalberge.com
 mariposa-wedding.com
 mariposaleadership.com
+mariquillalime.workers.dev
 mariseaverguyglobal.com
 mariseaverguyglobalbackup1.com
 mariseaverguyglobalbackup2.com
@@ -77471,6 +77487,8 @@ nqxtbf.oopsboobs.com
 nqxuvd.za.com
 nqzp.jadoou.mom
 nr-7releases.com
+nr.333vip.org
+nr.3toto.com
 nr.d5en.ru
 nr.le3nsnet7e.ru
 nr.migyvya2.ru
@@ -82629,6 +82647,8 @@ pdcdcwjwrqsq.com
 pdejstkd.shop-neuro-sharp.com
 pdeterstars.com
 pdf-central.com
+pdf-check-now.com
+pdf-check-online.com
 pdf-kiosk.net
 pdf-kiosks.net
 pdf-srv.pdfbamaa.com
@@ -84605,6 +84625,7 @@ poalawoffice.com
 poalex.com
 pobahyvnjua.shop
 pobieranie.amper.pl
+pobruog.wiki
 poc-awsfaceid.signo.dev.br
 poc-faceid.signo.dev.br
 poc.123230.xyz
@@ -89638,6 +89659,7 @@ rajproperties.com
 rajrainwater.org
 rajrk49961.workers.dev
 rajstonex.com
+rajylazu.workers.dev
 rakason.ru
 rakatami.hostkda.com
 rake-bit.es
@@ -91324,6 +91346,7 @@ rex.sm188dadu.top
 rex.sm188daftar.mom
 rexarcade.com.vn
 rexhahmetaj.ch
+rexifo.workers.dev
 rexilafu.workers.dev
 rexkom.de
 rexlogistics.com.vn
@@ -91419,6 +91442,7 @@ rgwshtif.ushealthlaboratories.com
 rgx5w3o2.orbitaldockingmodule.digital
 rh-dienstleistung.de
 rh.vgof.ru
+rh3et1zh.sawah.store
 rh6.gl8r.ru
 rha.beras1.com
 rha.sm188auto.top
@@ -95700,10 +95724,13 @@ sefuhsuifhishffo.ru
 sefuhsuifhishfif.su
 sefuhsuifhishfy.in
 sefv.nochargeforawesome.com
+segadreamcasthub.cfd
+segagamingnexus.cfd
 segalcorp.com
 segami.ga
 segami.ml
 seganag.com
+segaretrocorner.cfd
 segaup.store
 segeertsoft.com
 segel.pumaschiff.ru
@@ -98131,6 +98158,7 @@ skgzwxo.bonuliautoparts.com
 skhoh.westinvesteuropa.hu
 ski-snowboardvancouver.ca
 ski.awansm188.top
+ski.blacklabelfremont.com
 ski.jsuv0.ru
 ski.matriculadores.com
 skiadasfamily.com
@@ -101344,6 +101372,7 @@ statswpmy.com
 stattcheck-intuiit.com
 statueforada.com
 status.creek-place.one
+status.fernhollow.cc
 status.russetmoor.cc
 status7.skypress.click
 statusplan.com
@@ -101488,6 +101517,7 @@ stellarhomeinspection.com
 stellartem.com
 stellartrail.net
 stellas.nu
+stellaspicy.org
 stellatosolutions.com
 steller1.epizy.com
 stellob.top
@@ -113149,6 +113179,7 @@ v6kxb.a6il1oyal.ru
 v6m2a.sip-9ta.ru
 v6n.crystalcavern.ru
 v6o8c9xi.mrbet90.com
+v6pggtfljylf5cekfssrdhcyaxsk6m5xoudrqnvskw73iueyvaexsnad.onion
 v6r2.fi0m.online
 v6sjo9pv.omec.store
 v6t3x.pe8d.online
@@ -114153,6 +114184,7 @@ vfzkj.f1owreci7at.ru
 vg.lightst0rm.ru
 vg.plig-5.ru
 vg2tw8iq.unseen-zorenka.digital
+vg5sgxv.lol
 vgatogel.org
 vgatoto.org
 vgavoile.org
@@ -118610,6 +118642,7 @@ wolkr.2tannenpfad.ru
 wolkr.c1earpeak.ru
 wolpek.pa1mi5trythat.ru
 wolrdcup2026202620262026.dynuddns.net
+woluqeny.workers.dev
 wolverinasbball.com
 wolverinelawn.com
 wolverinlogan2025.duckdns.org
