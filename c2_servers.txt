@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-10-10 15:19:09 UTC
-# Total domains: 126174
+# Generated: 2026-10-10 21:29:23 UTC
+# Total domains: 126201
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1706,6 +1706,7 @@
 16s.quark-spoon.ru
 16sondra.workers.dev
 16store.ru
+16t38k5v.rtp-k86sportop.site
 17.1z57.ru
 17.aa.4t.com
 17.jeqr.ru
@@ -2342,6 +2343,7 @@
 24377710093445.su
 243news.net
 24411244.com
+245.178.156.34.bc.googleusercontent.com
 245368925.xyz
 247.kiev.ua
 247de.xyz
@@ -3501,6 +3503,7 @@
 4cplkpvzzr.workers.dev
 4cr9o29p.darkf0rm.ru
 4ctohaaw.roseanne.id
+4cuissch.wcimbali2016.org
 4cv.sd4o7.ru
 4cv6c.ru
 4cz3yc22.en-us-theslimsplitsmethod.com
@@ -6317,6 +6320,7 @@ a24.nbdsnb2.top
 a263.com
 a27.jcof9.ru
 a2ahyvmwbfcw7vvdnaddwbvezlpcjvfszdnuer3l6aqnwdzermm7csyd.onion
+a2czenco6n.workers.dev
 a2de.fr
 a2ecommerce.com
 a2gzs9iw.dr2nudmu7t.ru
@@ -9085,6 +9089,7 @@ aidem.tokyo
 aidemengstore1.com
 aidentyx.com
 aidevmaster.com
+aidigi.store
 aidmarketsex.com
 aidmier.com
 aidomain.icu
@@ -15355,6 +15360,7 @@ aws.se5m.ru
 awsapi.xyz
 awsel.ma
 awstester.de
+awtad.biz
 awtar.co.il
 awv389zkti.workers.dev
 awvz.backgammon.download
@@ -19544,6 +19550,7 @@ blog.wordpress-catalog.com
 blog.worldcuptickets.io
 blog.xcnya.cn
 blog.xinzyun.cn
+blog.xlab.qianxin.com
 blog.yourdelivery.ie
 blogadmin.postud.io
 blogajum.com
@@ -24181,6 +24188,7 @@ cefaz-notazsp.click
 cefaz-notazsp.help
 cefaz-notazsp.icu
 cegadrone.es
+cegazy.workers.dev
 cegeasoycqoyaiim.xyz
 cegefop.com
 cegeqamckumugkco.xyz
@@ -35301,6 +35309,7 @@ e-konutbasvuru.sbs
 e-konutbasvuruekran.sbs
 e-kuma.de
 e-labelqr.com
+e-learning.fly-and-film.com
 e-learningcentre.com.ng
 e-lisa.de
 e-mates.eu
@@ -42893,7 +42902,9 @@ flightfitness.ca
 flightplanoriginal.com
 flightriskofficial.com
 flindersfringe.com.au
+fling-trainer.com
 flingeverx.live
+flingtrainer.io
 flins.org
 flint-32.com
 flint-jade.com
@@ -43158,6 +43169,7 @@ fm.ziqa.ru
 fm9rks0204268x.cfd
 fmanmachines.com
 fmarchzeetequwxtw.wang
+fmbaj52595.workers.dev
 fmbuzp.josephmichaelnh.com
 fmconseils-formations.com
 fmdigit.com
@@ -43297,6 +43309,7 @@ fogueteiro.webhop.biz
 foh.aww88.net
 foh.luckyturbo88.top
 fohf.ru
+foipwjgt.paketmalam.vip
 foivs.highkickstkd.com
 foizelanv.live
 fokentoken.com
@@ -51926,6 +51939,7 @@ herzfabrik-vogtland.de
 herzkristall.com
 herzstueck-schweinfurt.de
 hesabdarishabahang.xyz
+hesadyse.workers.dev
 hesenhuseyindeniz.ch
 hesentech.com.tw
 heska240.no-ip.org
@@ -53625,6 +53639,7 @@ hubspotfy.com
 hubster.io
 hubusontour.de
 huck-spain.net
+hucukoly.workers.dev
 hucx.fortworthfarm.com
 hud2.com.vn
 hudaaldosari.com
@@ -59800,6 +59815,7 @@ jycakezi.workers.dev
 jycatdj.echoxien.com
 jycolano.workers.dev
 jydiadog.eng-nitrilean.com
+jydyciry.workers.dev
 jyg77562.usa-puraboost.us
 jygadule.workers.dev
 jygbvdefx.click
@@ -61106,6 +61122,7 @@ kelmeshon.airport-clar.lat
 kelnexet4.qorivault.life
 kelolacode2849.duckdns.org
 kelops.info
+kelp.camp-cantina.com
 kelpstone.cc
 kelpun.sp0rt5updat.ru
 kelsandsons.info
@@ -76491,6 +76508,7 @@ nejoommuwaileh.com
 nejyd.icu
 nejyvahe.workers.dev
 nekdncv.usa2026.bet
+nekizuzy.workers.dev
 neko.ltd
 nekomoonkai.top
 nelan.com.pe
@@ -79107,6 +79125,7 @@ nynashanti.ch
 nynashanti.com
 nync.g0ldnest.ru
 nynoj.icu
+nyp67fb4.rtpk86sport-happy.click
 nyprince.us
 nyq.orbitalnip.ru
 nyqixu.workers.dev
@@ -79139,6 +79158,7 @@ nyxxb.com.cn
 nyxycbnc.xenburn.us
 nyyhahsslkflyhulcgl.com
 nyzemebu.workers.dev
+nz.54toto.org
 nz.echozig.ru
 nz.vuzojiu9.ru
 nz35c8aefo.workers.dev
@@ -86519,6 +86539,7 @@ praxis-barthel.de
 praxis-garm-deutschmann.de
 praxis-harmonie.ch
 praxis-homeopathie.ch
+praxis-koerperquelle.ch
 praxis-schuster.ch
 praxis-siegeris.de
 praxis-uruska.de
@@ -102574,6 +102595,7 @@ statewidelegal.com.au
 stathub.quest
 stati-fy.sbs
 statibusiness.net
+static-host119-73-101-199.link.net.pk
 static-hotjar.com
 static-js.com
 static-mtpjoriqkv.cn-beijing.fcapp.run
@@ -109283,7 +109305,9 @@ tqz1f4kokbbylgih.iloveanimals.shop
 tr-binancelogin.com
 tr-botnet.esy.es
 tr.27trans.org
+tr.4-win.org
 tr.5-rt.org
+tr.54toto.org
 tr.aidexcel.co.uk
 tr.childrenstorybook.eu
 tr.d.thejackdawsfly.in
@@ -117165,6 +117189,7 @@ vyjinygo.workers.dev
 vykzqwol.gamefarma.com
 vylgor.b1uesgr2mp.ru
 vylodo.workers.dev
+vyloxosi.workers.dev
 vynen.icu
 vynkra.c2rb0lduty.ru
 vyponeindia.com
@@ -117887,6 +117912,7 @@ wcb.uge.mybluehost.me
 wcbpdfpgwffjs.com
 wcbradley.duckdns.org
 wcer.top
+wcimbali2016.org
 wclaheuy.akhbarirani.com
 wcmfioc9.mi5tpath.ru
 wcmqweka.bunos.bet
@@ -122074,6 +122100,7 @@ xo.prli-1.ru
 xo.v-96-g.ru
 xo.y8-8.ru
 xo199.life
+xo98poker.com
 xoa01tps.gut--drops.com
 xobyqo.workers.dev
 xocademy.com
