@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-10 01:38:16 UTC
-# Total domains: 11546
+# Generated: 2026-10-10 03:06:20 UTC
+# Total domains: 11547
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -11187,6 +11187,7 @@ www-app.cc
 www-app.cyou
 www-app.xyz
 www-appstore.cc
+www-castrocvv.com
 www-core.top
 www-fifa.asia
 www-fifa.bar
