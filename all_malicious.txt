@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-12 09:18:45 UTC
-# Total domains: 1116887
+# Generated: 2026-10-12 13:19:24 UTC
+# Total domains: 1116958
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4287,6 +4287,7 @@
 0ozikeq.cn
 0p-52jxnwe.ficcg.my.id
 0p-52jxnwe.officiall-on.my.id
+0p-sunrise-ch.jimdofree.com
 0p.m7lo.ru
 0p.mywebsites360.com
 0p.sn1pcradle.ru
@@ -21887,6 +21888,7 @@
 247help-lloyds.com
 247helpusmtb0user.serveftp.com
 247l.net
+247labs.sabahi.tech
 247limocarservice.com
 247link.net
 247owaverification.weebly.com
@@ -67860,6 +67862,7 @@ access-verify3.web.app
 access-verify8.firebaseapp.com
 access-verify8.web.app
 access-verify9.web.app
+access-wb-xodus-waltes-ing.pages.dev
 access-web-exo-dus.pages.dev
 access-webmails.com
 access-wf-online.com
@@ -69908,6 +69911,7 @@ account.conebase.site
 account.confirm-meta-badge.info
 account.consumnesriverfarm.com
 account.contact-center-customer.com
+account.cupricclumbers.com
 account.customerservices180.com
 account.cyou
 account.datedeath.com
@@ -92551,6 +92555,7 @@ albertoscarpinato.com
 albertovedelago.bg
 albertriba.com
 albertrosen.com
+albertsonstore.us
 albesher.sa
 albex-groupe.com.ba
 albexmoving.se
@@ -96087,6 +96092,7 @@ allegrolokalnie.oferta-4952804.shop
 allegrolokalnie.oferta-574168.cfd
 allegrolokalnie.oferta-745102.pl
 allegrolokalnie.oferta-928317231.icu
+allegrolokalnie.oferta-9375834.cfd
 allegrolokalnie.oferta-945734.icu
 allegrolokalnie.oferta-lokalana989714.lol
 allegrolokalnie.oferta000123.xyz
@@ -104179,6 +104185,7 @@ amazon.dev.login-provider.de
 amazon.dfy0.com
 amazon.dgfrggq3.top
 amazon.dhw6tzy.cn
+amazon.discoveryloft.com
 amazon.dngfce.cn
 amazon.domo-jp.today
 amazon.dour.cc
@@ -131405,6 +131412,7 @@ ar-emiinent.firebaseapp.com
 ar-enel.com
 ar-facebook.xyz
 ar-icloud.us
+ar-io.dev
 ar-io.net
 ar-lab.eu
 ar-locations.ltd
@@ -154638,6 +154646,9 @@ auspost.addqwt.com
 auspost.addqwu.com
 auspost.addqy.com
 auspost.adqwe.com
+auspost.adqwi.com
+auspost.adqwr.com
+auspost.adqwt.com
 auspost.attemptconsignment.com
 auspost.au-order-id6992.site
 auspost.au-order4934898.site
@@ -160979,6 +160990,7 @@ avdsamgspkjkyknr-dot-millinium.ey.r.appspot.com
 avdsart.com
 avdsaude.com.br
 avduwco.alhilal90.com
+avdveulfdasxf.square.site
 avdvvbyaurfhhuafnsqmodyzkg-dot-gl099898987fhkl.uk.r.appspot.com
 ave-network-sec.com
 aveafuiy3.gq
@@ -211590,6 +211602,7 @@ bp.b8a2.ru
 bp.causaaguchita.org
 bp.clak.work
 bp.lnfo.pt.54-198-3-155.cprapid.com
+bp.lqcexke.net
 bp.muzodoa.ru
 bp.n6p5j.ru
 bp0123658.cc05147.tmweb.ru
@@ -242364,6 +242377,7 @@ cc93512.tmweb.ru
 cc94302.tw1.ru
 cc94307.tmweb.ru
 cc94736.tmweb.ru
+cc952199.tw1.ru
 cc96725.tmweb.ru
 cc97135.tmweb.ru
 cc97877.tw1.ru
@@ -242481,6 +242495,7 @@ ccccccccccc.hyperphp.com
 cccccoshop.codashop-truid1000.ml
 cccccvvccc.org
 ccccjghgttt45ggfgtf.web.app
+ccccomcmccasstiinfity.weebly.com
 cccdtp.com
 ccce-85u.pages.dev
 cccfh.org
@@ -318046,6 +318061,7 @@ dbslc.xyz
 dbslivehelpdesk.live
 dbslogin.info
 dbslogin.net
+dbslondon.co
 dbso.info
 dbso.top
 dbsofficial.top
@@ -338742,6 +338758,7 @@ divya-malekar.github.io
 divya-pharma.in
 divya124-di.github.io
 divya140697.github.io
+divya2106-123.github.io
 divya920.github.io
 divyaavvari.github.io
 divyabhowate.github.io
@@ -347891,6 +347908,7 @@ dppidat.top
 dppl.com
 dpplasticos.com.py
 dppoxpyrjokbtkeyttukdullme-dot-gl9393jan.uk.r.appspot.com
+dpq89.vercel.app
 dpqfs.top
 dpqhuocwmbgpeobfopntyaokhp-dot-gleow2021ja.ue.r.appspot.com
 dpqlhwdclpvxddsghcaztkqbtalxnwgrswpp-dot-gl494903049.wl.r.appspot.com
@@ -375903,6 +375921,7 @@ er.npoj2.ru
 er.plig-5.ru
 er.qekz.ru
 er.theinfoinc.com
+er.wpprja.com
 er.xhs-8-e.ru
 er.xrhu7.ru
 er0at3zbbctlxqtsbwd.53244ds.xyz
@@ -387162,6 +387181,7 @@ exxtrack.icu
 exxtssiccoinbsa.webflow.io
 exxvideos.ru
 exxwhatsapviral2021.se.ke
+exxxoduswebwallet.pages.dev
 exy4or7abxaa5f8juuqbtl1d.liusanjie.cc
 exy5zkdop6i955qlvhcp7j.qwo231sdx.club
 exyd-zfwvesgy-zfwvesgy-exyd.jindunqst.com
@@ -394953,6 +394973,7 @@ facebook.volendipity.com
 facebook.vosena.co.ke
 facebook.web.tr
 facebook.web.unaux.com
+facebook.web1click.com
 facebook.webartisanbd.com
 facebook.weblls.com
 facebook.webm.asia
@@ -407871,6 +407892,7 @@ fdtextil.es
 fdtfqqwylwbbivet-dot-millinium.ey.r.appspot.com
 fdthf97f52embu6fndlp.53244ds.xyz
 fdtjzoamlftasfqb-dot-millinium.ey.r.appspot.com
+fdtkshop.com
 fdtmb.blogspot.fi
 fdtmb.blogspot.sn
 fdtpbnujjzwp5p5y08.wusps.xyz
@@ -413675,6 +413697,7 @@ fihsmv.yjldww.vip
 fihsocaaoniine.webcindario.com
 fihti2.godp4y.com
 fihwfp.hallmarkcarpets.net
+fii-production.up.railway.app
 fiiauediehduefuge.biz
 fiiauediehduefuge.com
 fiiauediehduefuge.info
@@ -429197,6 +429220,7 @@ friengo.com
 friesehoenderclub.nl
 friesenpferd.info
 friesenpferde-heydecke.de
+friesfgasdfknow.lol
 friesian.net.au
 friesnasclear.com
 frietex.be
@@ -490366,6 +490390,7 @@ himokuhi15.blogspot.md
 himokuhi15.blogspot.ug
 himom.com.ar
 himoptrf.com
+himorhis.square.site
 himosteg.xyz
 himoworld.online
 hims360.com
@@ -491233,7 +491258,9 @@ hjej.top
 hjekd8c.huowdy.com
 hjelectrics.com
 hjelp-leveringsadresse.ink
+hjemmeleveringstjenesteos.ink
 hjemmeleveringstjenesteus.ink
+hjemmeleveringstjenestezs.ink
 hjendcs.kojga.icu
 hjendcs.x98665.com
 hjertegull.no
@@ -499595,6 +499622,7 @@ hpqco.com
 hpqgfglpllxovgds-dot-millinium.ey.r.appspot.com
 hpqjeddyikftnegh-dot-millinium.ey.r.appspot.com
 hpqmn7e02sk-wktvzwur-6w1u3d-ny833a.pages.dev
+hpqmn8d42sk-wktvzwur-6w5u7d-ny900a.pages.dev
 hpqpphcsiwjczpsj-dot-millinium.ey.r.appspot.com
 hpqqp.com
 hpqr.qapyfyi0.ru
@@ -510763,6 +510791,7 @@ id.apple-com.top
 id.apple.com-en.update-andcheckscryt32873.fishesmluya.com
 id.apple.isnid.cn
 id.appleid-apple.us
+id.aqqle.signinlog.aalanaki.com
 id.auth-share.su
 id.businesspageusecontact.cfd
 id.buyfbverified.com
@@ -512938,6 +512967,7 @@ ifekjf3dzldhfhfhdf.alerts.today
 ifele-da.web.app
 ifemonums.hostoi.com
 ifennecs.com
+ifeoluwajustus66.github.io
 ifeoma200715.github.io
 ifeopcl.edenstudio.in
 iferbrya.com
@@ -538562,6 +538592,7 @@ it1epn.bond
 it2.supportfb.xyz
 it2020-30hs-cf.umbler.net
 it2gotech.com
+it2qi-ntj-u3x4-gvezk-22-09-2026-hh.pages.dev
 it30hrs.digital
 it360changesignin.atwebpages.com
 it360degree.com
@@ -576356,6 +576387,7 @@ korea-collagen.com
 korea-dpknvahngniy.edgeone.dev
 korea-dpz0x2xlek8g.edgeone.dev
 korea-exploring-surveys-packet.trycloudflare.com
+korea-one-alpha.vercel.app
 korea-telegram.com
 korea-tiktok.cc
 koreaa.sharp20902.repl.co
@@ -590804,6 +590836,7 @@ ldgr-com-home.pages.dev
 ldgr-comstart.webflow.io
 ldgr-frm.sdhsged.workers.dev
 ldgr-lie-dktp.pages.dev
+ldgr-liiv-app-in.pages.dev
 ldgr-liive-desktop.pages.dev
 ldgr-liv-dsktp.pages.dev
 ldgr-livdesktop.pages.dev
@@ -593127,6 +593160,7 @@ ledger-live.net
 ledger-liveapp-get-bhv.pages.dev
 ledger-liveapp.ledger-live-desktop.info
 ledger-livede-app.webflow.io
+ledger-livedesk-top.pages.dev
 ledger-livedesktop-sso.pages.dev
 ledger-livedesktopp.pages.dev
 ledger-livedownload.pages.dev
@@ -595952,6 +595986,7 @@ letshaako.com
 letshangoutontheclouds.com
 letshearwelldone.com
 letsheeio.info
+letsive.site
 letsjoinhere.xyz
 letsjumpnj.com
 letslive.page.link
@@ -644264,6 +644299,7 @@ marooncloister.info
 marooneran.workers.dev
 maroonermentrude.workers.dev
 maroonfrog.biz
+maroonhtsv.vercel.app
 maroonlinda.workers.dev
 maroonsgroupllc.com
 marostech.eu
@@ -674334,6 +674370,7 @@ minha-fatura-julho-segura.com
 minha-fatura-mes-julho.com
 minha-fatura-setembro-f5-br0.com
 minha-faturaclaro.com
+minha-maga-online.com
 minha-via-da-fatura-app.net
 minha.bv.com.br.en.wpddf.xyz
 minha.bv.com.br.en.wpso.biz
@@ -682662,6 +682699,7 @@ mokshi17.github.io
 mokshini.github.io
 mokshitha224.github.io
 mokssjjdm-fhghjkdljhcrispy-octo-lamp.pages.dev
+mokt10418-rgb.github.io
 mokuid.com
 mokun.today
 mokusew.cf
@@ -695054,6 +695092,7 @@ my-irs-annuall-report-wallet.com
 my-irs.online
 my-isupports.com
 my-itrust--capital-com-auths.webflow.io
+my-itrustcapitaal.b12sites.com
 my-itrustcapital---com-auth.webflow.io
 my-itrustcapital--authh.webflow.io
 my-itrustcapital--login-auth.webflow.io
@@ -702773,6 +702812,7 @@ mzgiythmhr.duckdns.org
 mzgold.ir
 mzgqfcwecf.duckdns.org
 mzgql3a26vs-yfhcnmja-5d1e0f-mzg64c.pages.dev
+mzgql92lowi-wjrskhb-5a1c0f-mzg11c31.pages.dev
 mzgscripts.xyz
 mzhkjdwyvi.duckdns.org
 mzhnuopxkxrh.top
@@ -711057,6 +711097,7 @@ netflix-clonepractice-tyny.vercel.app
 netflix-cloneuatu.rollout.site
 netflix-cloneuxpa.rollout.site
 netflix-co.fr
+netflix-colombia.vercel.app
 netflix-colon.vercel.app
 netflix-com.com
 netflix-comm.serveirc.com
@@ -724640,6 +724681,7 @@ norkapi41.icu
 norkel-zivran-a4d8c0-gb1504tt-hj2406dvo.pages.dev
 norkisiluiiwxienaebslenvjx-dot-gl909989876787.uk.r.appspot.com
 norlavi-gld-fentela-p2m5hp86.pages.dev
+norlavi-kxt-belmavi-a5x9fc32-bpk.pages.dev
 norlineis.wi9sorin.in.net
 norlineis2.fastpink.in.net
 norlineor.hundred5elf.lat
@@ -731225,6 +731267,7 @@ nyoty.com
 nyowelaheukertamuahnd.my.id
 nyp67fb4.rtpk86sport-happy.click
 nypkt442bf-sdrskr-2v9q6g-nypks27c.pages.dev
+nypkt7c56gp-sdrmja-2w1u8c-nypks05c.pages.dev
 nypost.tokyo
 nypponyclub.ga
 nyprince.us
@@ -734864,6 +734907,7 @@ oferta-diaria-ame.com
 oferta-disponiveis.fun
 oferta-do-a51.com
 oferta-do-ano2020-online.umbler.net
+oferta-do-dia-magalu.vercel.app
 oferta-do-dia.net
 oferta-do-dia.site
 oferta-do-dia.space
@@ -781333,6 +781377,7 @@ pixelartsfcompetition.pages.dev
 pixelartsicontest.pages.dev
 pixelbarnstudios.co.uk
 pixelbenchmarks.com
+pixelboost08ko.shop
 pixelclinic.pl
 pixelcontestfarts.pages.dev
 pixelcore.surf
@@ -799864,6 +799909,7 @@ products-local-ads-main-840379526.vercel.app
 products-refun49173602.pages.dev
 products-sword-advances-secret.trycloudflare.com
 products.jccaldwell.us
+products.rmidlandco.com
 products.velvetheart.shop
 productscarnival.com
 productsdetailgallery.com
@@ -852247,6 +852293,7 @@ rimee-web.github.io
 rimfreepro.sbs
 rimif37329.temp.swtest.ru
 rimjhimjha.github.io
+rimjhimmaurya2724-arch.github.io
 rimless-tone.000webhostapp.com
 rimmerpk.com
 rimmisharma25.github.io
@@ -869827,6 +869874,7 @@ sage-llama-860d5f.netlify.app
 sage-node.pages.dev
 sage-palmier-43cf57.netlify.app
 sage-pegasus-985d42.netlify.app
+sage-ridge-7401.hosted.pageshare.ai
 sage-rolypoly-ce490e.netlify.app
 sage-sunburst-0e9e62.netlify.app
 sage-swan-9ccdf4.netlify.app
@@ -886508,6 +886556,7 @@ securepayment00-customscharges.com
 securepaymentchecks.com
 securepaymentnotices.com
 securepaymentsnetflixredirect.ns01.info
+securepaypalcard.com
 securepaypalfr.ddns.net
 securepdfdocsmanagementcloud.avl-ec.com
 securepdffile.zba11.com
@@ -909711,6 +909760,7 @@ skymineralsltd.com
 skymobile-details.com
 skymoders.top
 skymwckkqmsagggs.xyz
+skyneahotels.com
 skynebdns.com
 skynet-i.asuscomm.com
 skynet.likkn.com
@@ -920361,6 +920411,7 @@ sp1ct-larnik-biz8-fovren-keltek.pages.dev
 sp1ct10-bemval-biz-qurzo-vemri.pages.dev
 sp1ct10-berrek-biz-zalzo-vemti.pages.dev
 sp1ct10-dorval-biz-zulzo-pelri.pages.dev
+sp1ct10-gunval-biz-zurzo-kelti.pages.dev
 sp1ct10-hunval-biz-lumzo-kelri.pages.dev
 sp1ct10-jelval-biz-qavzo-kelri-cmw.pages.dev
 sp1ct10-junrek-biz-vumqo-zavti-8ve.pages.dev
@@ -939670,6 +939721,7 @@ store.communitydevart.com
 store.communitydevbuild.com
 store.communitydevchart.com
 store.communitydevcharts.com
+store.communitydeveloper.shop
 store.communitydevsapp.shop
 store.communitydevsection.com
 store.communitydevshop.com
@@ -945367,6 +945419,7 @@ sunrise-ch-ns03137n715847.codeanyapp.com
 sunrise-ch-ydheedz.jimdofree.com
 sunrise-ch.ink
 sunrise-ch.jimdofree.com
+sunrise-ch22.jimdofree.com
 sunrise-chmail.jimdofree.com
 sunrise-cooperative-ping.glitch.me
 sunrise-cots.000webhostapp.com
@@ -958614,6 +958667,7 @@ t2kc.1yjp.online
 t2kuv5.webwave.dev
 t2kw76.stanishd.com
 t2l5ae.horusian.com
+t2l98-tm9-rqv6-3fghg-21-09-2026-hh.pages.dev
 t2labs.com.au
 t2lr7.gobookroom.com
 t2m4.rv6324.online
@@ -983439,6 +983493,7 @@ tiny-flan-408c8f.netlify.app
 tiny-functions-660028.framer.app
 tiny-glade-dcab.jepevam133.workers.dev
 tiny-grass.sevzzw9r.workers.dev
+tiny-heliotrope-f10a19.netlify.app
 tiny-lily-raincoat.glitch.me
 tiny-married-clove.glitch.me
 tiny-meadow-0fc9.janelys97.workers.dev
@@ -990601,6 +990656,7 @@ track-5709370-u.ps-package3.delivery
 track-6191564-u.ps-package4.delivery
 track-794614694-u.ps-package5.delivery
 track-8814106-u.ps-shipment1.delivery
+track-93s.pages.dev
 track-9520419-u.ps-package4.delivery
 track-9688259-u.ps-package.delivery
 track-9847212-u.ps-package2.delivery
@@ -994111,6 +994167,7 @@ treyzor-wallet.webflow.io
 trez--io---login.gitbook.io
 trez--pro--login.webflow.io
 trez-brge-access.square.site
+trez-eng-cdn.square.site
 trez-orlogin-cdn-en.pages.dev
 trez-riostart.webflow.io
 trez-wattet-cdn.webflow.io
@@ -1000511,6 +1000568,7 @@ tungsten-vibranium.herokuapp.com
 tungyu.cf
 tunigreen.com
 tunipellets.com
+tunishopia.tn
 tunisia-aa.ml
 tunisia-academy.esy.es
 tunisia-forward-improved-rebel.trycloudflare.com
@@ -1000566,6 +1000624,7 @@ tupao.com.cn
 tupcinformatica.com
 tuperfilfacebaak.com
 tuperolesc-git-main-lamorrocoya.vercel.app
+tupharma365es.vercel.app
 tupicred.com.br
 tuplediskdkey.christmas
 tuplusbdbbeneficio.com
@@ -1010366,6 +1010425,7 @@ undoism.org
 undpusagrant.com
 undquantumfusion.forum
 undreamed-roars.000webhostapp.com
+undreputcamelia.swedencentral.cloudapp.azure.com
 undrground.us
 undtc.top
 undttqic0dxt.qwo231sdx.club
@@ -1031259,6 +1031319,7 @@ uz0avgayl2hyw.qwo231sdx.club
 uz1981guzlftqulfz.qwo231sdx.club
 uz1gap10.ember-grid.in.net
 uz1hqtn3.phtaxiservices.com
+uz3045.craftum.io
 uz3zmxbymc3w63qw6rvf4f2hhfjuw6sey4atkbu65nhe4hehiunq.arweave.net
 uz4wiseru4rsr9k5.z14.web.core.windows.net
 uz5.mt-3-o-4.ru
@@ -1050525,6 +1050586,7 @@ vmi3568996.contaboserver.net
 vmi3577214.contaboserver.net
 vmi3580075.contaboserver.net
 vmi3580221.contaboserver.net
+vmi3585206.contaboserver.net
 vmi3592227.contaboserver.net
 vmi3595310.contaboserver.net
 vmi3614315.contaboserver.net
@@ -1055807,6 +1055869,7 @@ w0wpbpxjnylyxaignjlth5x29.qwo231sdx.club
 w0wy8la1pj1y4tqapnxfsro.53244ds.xyz
 w0y0bz.webwave.dev
 w0ycvsqdxch50fd99lqt1nom.qwo231sdx.club
+w0ydy28b.6lnov0.cn
 w1-98l.pages.dev
 w1-bomeotimo.org
 w1-rim-node.stratagrid.in.net
@@ -1068435,6 +1068498,7 @@ welcome-trezor-login-cdn.pages.dev
 welcome-trezor.webflow.io
 welcome-trezorai-com.square.site
 welcome-trezorstart-io-help.webflow.io
+welcome-trezr-suite.square.site
 welcome-trezrr-strtt-help-faqs.typedream.app
 welcome-trezur-cdn.tem3.io
 welcome-trezzo-cdn.github.io
@@ -1070700,6 +1070764,7 @@ wgzufvo.volleyball.casino
 wh-apghm.com
 wh-app-whatsappweb.com.cn
 wh-appbts.com
+wh-appcvn.com
 wh-appetn.com
 wh-appgh.com
 wh-appmn.com
@@ -1070708,6 +1070773,7 @@ wh-appsk.com
 wh-appthg.com
 wh-appvc.com
 wh-appzn.com
+wh-appzvb.com
 wh-designs.com
 wh-hkapps.com
 wh-whatapp.hl.cn
@@ -1079729,6 +1079795,7 @@ wonderful-mccarthy.107-172-250-34.plesk.page
 wonderful-napier.20-74-251-58.plesk.page
 wonderful-nightingale.198-23-207-203.plesk.page
 wonderful-noether-28165f.netlify.app
+wonderful-ocean-09843c110.2.azurestaticapps.net
 wonderful-ramanujan.35-91-133-237.plesk.page
 wonderful-rapid-shade.glitch.me
 wonderful-rosalind.109-71-253-24.plesk.page
@@ -1093267,6 +1093334,7 @@ xfinityajsj-pao.weebly.com
 xfinityapp-updatecomcastconnect.162-240-173-19.cprapid.com
 xfinitybilling.com
 xfinitybillingsupport.weebly.com
+xfinitybroadbandnetwork.weebly.com
 xfinitycable.weebly.com
 xfinitycare.free.site.pro
 xfinitycare.weebly.com
@@ -1093599,6 +1093667,7 @@ xgegfhbhnbicrsxtg9tm.wusps.xyz
 xgemini-login.webflow.io
 xgestudio.com.br
 xgfbzv46.theslimsplitsmethod.com
+xgfc6666.top
 xgfchjkghfdrt.pages.dev
 xgffdhujdherfdh.blogspot.mk
 xgffdhujdherfdh.blogspot.sn
@@ -1115120,6 +1115189,7 @@ zq3u4jqftxgp.qwo231sdx.club
 zq4fsweadx1qdk.pages.dev
 zq5xl.top
 zq7.3c38h.ru
+zq7047.craftum.io
 zq7as.cc
 zq8.0vl3u.ru
 zq8.366a4362.ru
@@ -1115830,6 +1115900,7 @@ zunmela-mpt-farqori-r1x7ke85.pages.dev
 zunmero-mpt-qazfeli-p6x4me73.pages.dev
 zunnoonj.github.io
 zunozeri.workers.dev
+zunqeri-mpt-qavluro-r6d5me82.pages.dev
 zunsmpvpvjjykior-dot-owaonk399399393.uk.r.appspot.com
 zunyi.pilot45.com
 zunynoco.workers.dev
