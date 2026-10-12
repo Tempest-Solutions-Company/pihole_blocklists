@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-10-12 03:11:47 UTC
-# Total domains: 126412
+# Generated: 2026-10-12 09:18:45 UTC
+# Total domains: 126473
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3488,6 +3488,7 @@
 4a4cn2sm.perkmeister.qpon
 4a8u6.ru
 4alternative.zapto.org
+4aq2w5u1fe.workers.dev
 4aqsbhe9vh44.cfc-execute.bj.baidubce.com
 4b.cloudpeak.ru
 4b.ge7kom0ley.ru
@@ -3734,6 +3735,7 @@
 4vhdn6ve.cognigenpluss.com
 4voy0soi.t0gglefern.ru
 4vp.xyz
+4vr5sxshsx6se4qixnrvbqyikqtknfjhe4ybitp2zhjjzazm4ohawbid.onion
 4vvkeuy6.bet120xpro.com
 4vxdasln.brand5calpel.lat
 4wdtechpr.com
@@ -3826,6 +3828,7 @@
 52.t4mox.ru
 521mc6ro.melbettr.co
 522bmwhj.cl0udr1dge.ru
+522jsf6oyx.workers.dev
 522warm.workers.dev
 5242ursula.workers.dev
 526vx22m7w.workers.dev
@@ -5206,6 +5209,7 @@
 7xk.dc-8.ru
 7xlu446x.subar.store
 7xonfe62.en-usa-sugarmute.us
+7xum1r5l.lunza.store
 7xupsxdd.m0tionpo7t.ru
 7xv8nzfg.josephmichaelnh.com
 7y.qo1s.ru
@@ -5814,6 +5818,7 @@
 93y3usks.cl0ud5tream.ru
 93z6dlrwq3.workers.dev
 943jljae.ydns.shop
+944i66mcky.workers.dev
 9474amethyst.workers.dev
 94924.town
 949837crypto.com
@@ -7508,6 +7513,7 @@ acrj.org.br
 acrjb033vq.workers.dev
 acrku.org
 acroadovw.com
+acrob.my-adobe-plugins-update.top
 acrobatupdatesystem.com
 acromrr.top
 acronis.aspirindrained.digital
@@ -17489,6 +17495,7 @@ bedym.ru
 bedzvnbo.ecosystemresourceplatform.garden
 bee-padel.com
 bee-viral.com
+bee.beachcafemb.com
 bee.je9r.ru
 bee.midorilashes.net
 bee.wtes4.ru
@@ -18253,6 +18260,7 @@ bfagzzezgaegzgfair.su
 bfagzzezgaegzgfais.top
 bfagzzezgaegzgfaiu.cc
 bfagzzezgaegzgfaiw.top
+bfb.6666k.org
 bfb.yu5k.ru
 bfcg5.ru.com
 bfdibp.dahdahtoys.com
@@ -20037,6 +20045,7 @@ bojaks.com
 bojilovu.workers.dev
 bojk.bossynailspa.com
 bojut.press
+bok.6666k.org
 bokahem.se
 bokehtests.com
 bokengratis.se
@@ -21151,6 +21160,7 @@ brno-byty.cz
 brns.be
 brnug49883.workers.dev
 bro-pdffiller.lat
+bro.6666k.org
 bro.v-panel.asia
 broad.0-rohyp-5-yu.ru
 broaderperspectives.com.sg
@@ -21284,6 +21294,7 @@ brsppaxh.psgnewsiran.com
 brt.velyzeu3.ru
 brtad84102.workers.dev
 brther-group.com
+bru.6666k.org
 bru.kataksm188.top
 bru.omni-signage.com
 bru5h.5-juzeb-0-io.ru
@@ -30547,6 +30558,7 @@ dalzonlexia.eu
 dama.manizales.unal.edu.co
 damac-suncity.in.net
 damacosmetics.com
+damacyra.workers.dev
 damagedskull.xyz
 damagex.qpon
 damanworld1.com
@@ -30917,6 +30929,7 @@ data.net
 data.nomadhive.cc
 data.textits.pics
 data.unpkg.com
+data.vaceditions.com
 data.webdatapoint.co
 data.webdataprocess.pics
 data.www.moroccancam.com
@@ -34485,6 +34498,7 @@ drheclinic.com
 drhorine.com
 drhossambarbary.com
 drhulse.com
+dri.6666k.org
 driearquitetos.com
 driff7.st0rmshade.ru
 drift-bay.ru
@@ -36577,6 +36591,7 @@ efuheruhdehduhgg.to
 efuheruhdehduhgk.ws
 efuheruhdehduhgm.top
 efuihaihueifnnnvnd.ru
+efunmilowoonline.top
 efuvwqjgzc.workers.dev
 efvdww.dravencoffee.hu
 efwfwe-51463.portmap.host
@@ -41528,6 +41543,7 @@ fe.jg7ra.ru
 fe.nqju5.ru
 fe.vqod2.ru
 fe.xx-os.ru
+fe29jf323.kesug.com
 feabihc.cyou
 feafetoboary.lol
 feamleys.com
@@ -45421,6 +45437,10 @@ gagner-mieux.eu
 gagodu.workers.dev
 gagymo.workers.dev
 gahay.visszateritok.net
+gahour5lamo1.duckdns.org
+gahour5lamo2.duckdns.org
+gahour5lamo3.duckdns.org
+gahour5lamo4.duckdns.org
 gahtaro.com
 gai1ehyu.jetboro.fun
 gaia-network-foundation.lol
@@ -47466,6 +47486,7 @@ gkb-transit.com
 gkdtl.lampaoszlopbolt.hu
 gkh.wqix5.ru
 gkholyjchymn.com
+gki.6666k.org
 gkkma-glcaks-summ.pages.dev
 gklazer.com.tr
 gkmulq.dimamma.hu
@@ -54274,6 +54295,7 @@ i6.kqag-6.ru
 i6.windsh1ft.ru
 i6.wz3a7.ru
 i62yv.bel1etin7eg.ru
+i67d9ppi.b00kself.com
 i6gx6.s0ftfern.ru
 i6kod8i.sp2ceba7tie.ru
 i6s46ndy.site-takhtenard-sharti-betland.com
@@ -56015,6 +56037,7 @@ iniciativa21.cz
 iniiivan.ydns.eu
 iniiivanbk.ydns.eu
 inindustry.eu
+inini.kesug.com
 ininox.com
 ininternetonline.com
 iniosmiaw.pw
@@ -56383,6 +56406,7 @@ internet-uni.gl.at.ply.gg
 internetandcableservicesatgadget.com
 internetbellenentv.nl
 internetcasinolobby.com
+internetlouisiana.com
 internetowa.tv
 internetserchinkas.co
 interplast.com.au
@@ -57627,6 +57651,7 @@ ixx0976dnh.workers.dev
 ixxrzs3zo57qhbscszen2nvx6hgav5zrx6tjs7lq6unsphwcadeadlid.onion
 ixy9.ru
 iy1wc825fz.workers.dev
+iy5iikmqxercpdjk5swzib2m2f3sn6o3o7khivgul4f47nweflusqiqd.onion
 iyabet.xyz
 iyamahmpa.info
 iyana.co.za
@@ -58335,6 +58360,10 @@ jbiyqacd.bcgame.shop
 jblcontracting.com
 jblfestival.com
 jbltradersbd.com
+jbnowclassprojecttoday.com
+jbnowclassprojecttodaybackup.com
+jbnowclassprojecttodaybackup1.com
+jbnowclassprojecttodaybackup2.com
 jboqfo.sonnysdetailshop.com
 jbp.icetap.ru
 jbpqui.usslimsounds.com
@@ -58998,6 +59027,8 @@ jnlcenter.tn
 jnlysj.com
 jnoon.site
 jnsp5pfi.fishersace.com
+jnt.5tr.org
+jnt.6666k.org
 jnwkm.visszateritok.hu
 jnxetp.sa.com
 jnyut.zsatom.hu
@@ -59568,6 +59599,7 @@ jtcy.oltigergely.hu
 jtd.lanternbrook.ru
 jtd3m9p0.jurni.store
 jtdi6w23.biabet90.com
+jte.6666k.org
 jtemlhyz.enfej.casino
 jteqecd8.en-flashbrn.com
 jteqjafoxw.workers.dev
@@ -61818,6 +61850,7 @@ kijfer.ext0rttramp1e.ru
 kijkinfo.com
 kik-kreuzlingen.ch
 kik.088idr.org
+kik.6666k.org
 kik.gagahsm188.top
 kik.glamisdunesrentals.com
 kik.sm188cuan.top
@@ -62624,6 +62657,7 @@ kohxiv.com
 kohyhe.workers.dev
 koi-art-photography.com
 koi-fotografie.de
+koi.6666k.org
 koibrand.es
 koid-49965.portmap.host
 koiffqfm.enfejarkade.online
@@ -65087,6 +65121,7 @@ leb.5tr.org
 leb.erom-e.com
 leb.iakmialor.web.id
 leb.zeronoiseclassroom.com
+lebang.si
 lebanonlutheranchurch.com
 lebenclinic.com
 lebenslaudatio.de
@@ -67199,6 +67234,7 @@ loretiservice.it
 lorex7in.digital
 lorgeschool.org
 loricaic.ca
+lorine.workers.dev
 loritoexpresss.dynuddns.com
 lornumerique.live
 lorqes.pa5spra8mat.ru
@@ -67459,6 +67495,7 @@ lreindia.com
 lrevenements.com
 lrfrzrt.vicsaboveallgrillsbbq.com
 lrfuu94169.workers.dev
+lrg.6666k.org
 lrm-presets.com
 lrmobi.com
 lrneta.nl
@@ -67468,6 +67505,7 @@ lronman4x4.com
 lrs-statementviewer.sbs
 lrucuzu.rika90.bet
 lrvizgxp.lincoplus.xyz
+lry.6666k.org
 ls-dify.net
 ls-endo.com
 ls-rappresentanze.com
@@ -72389,6 +72427,7 @@ mihalkovicskupa.hu
 mihancsi.org
 mihesfitons.ru
 mihp.pro
+mii.6666k.org
 miilteksport.com
 miincomejobloss.com
 miit-s.com
@@ -72508,6 +72547,7 @@ milosherrymedia.com
 milpl8xr.eng-neuroxen.com
 miluashikguer.ru
 milux-my.com
+mim.6666k.org
 mim.bahcesehir.edu.tr
 mimapabook.com
 mimay.it
@@ -73519,6 +73559,7 @@ mogute.site
 moguti.site
 moguto.site
 mogutse.site
+moh.6666k.org
 mohade.se
 mohade.se.khani.dev
 mohamed1231-31554.portmap.host
@@ -75186,6 +75227,7 @@ mxx.123230.xyz
 mxx.sekershuk.com
 my-abaya.nl
 my-accounts-gooogle.com
+my-adobe-plugins-update.top
 my-api-lol.xyz
 my-apii.sbs
 my-client.duckdns.org
@@ -75569,6 +75611,7 @@ mysuggmuesawsuum.xyz
 myswapscollection.com
 myswewuwckssuuey.xyz
 mysyv.icu
+myt.6666k.org
 mytab.co.il
 mytcad.com
 mytcs.net
@@ -78649,6 +78692,7 @@ npo-aura.com
 npo.wi0x.ru
 npoaouq.oviedoflhandyman.com
 npoxns.pinellascountyroofers.com
+npq.6666k.org
 npqxzvny.m2p5uck.ru
 npromo.world
 npukpk.fodraszoktatas.eu
@@ -82491,6 +82535,7 @@ ownqs.com-info.bid
 ownthetop.space
 ownvitality.xsrv.jp
 ownzonline.com
+owo.efunmilowoonline.top
 owonikoko.su
 owonla.com
 owoonmymind.co.uk
@@ -84199,6 +84244,7 @@ pepesbodega.se
 pepeshop.net
 pepesigmarespect.servemp3.com
 pepesnix.org
+pepezunu.workers.dev
 pepgateway.com.au
 pepgauge.com
 pepguides.com
@@ -87597,6 +87643,7 @@ proxy-matrix-kernel-on.courses
 proxy-orbit.digital
 proxy-stream.christmas
 proxy-us-east006-cip16.ahrefs.net
+proxy-us-east008-cip6.ahrefs.net
 proxy.am
 proxy.bonch.dev
 proxy.cloudproxyserv.pics
@@ -94199,6 +94246,7 @@ rrgodshsf.ug
 rrhp.ie
 rrinfanticidal.com
 rritelh.one1xbet.net
+rrj.6666k.org
 rrkttoken.com
 rrla.us
 rrn.cau777.org
@@ -94301,6 +94349,7 @@ rto.codecog.ru
 rtohomesandland.com
 rtolife.com
 rtotqmw.teamchaosky.com
+rtp-k86sportop.site
 rtpdemo.com
 rtpjackcash.com
 rtpk-karlstad.se
@@ -98968,6 +99017,7 @@ sikkerhedsdoere.dk
 sikkimgamepro.in.net
 sikousakugo.sbs
 sikul-wsb.de
+sikyxuxo.workers.dev
 sil-api-js.click
 sil.chriskendall.media
 sil.loniluekegerman.com
@@ -100949,6 +100999,7 @@ solid.mwbwu.workers.dev
 solid5lowly.digital
 solidactivate.com
 solidarityinsaya.com
+solidebi.workers.dev
 solidefilabs.com
 solidenergies.com
 solidfitnessclub.gr
@@ -104831,6 +104882,7 @@ sxgxhc.com
 sxhuada.com
 sxid.basicwhitegirlforgunrights.com
 sxkset-39222.portmap.host
+sxmaytinhdientu.devs.surf
 sxohnfj3.shop-blinzador.com
 sxp.nm0e2.ru
 sxqy-9.ru
@@ -106627,6 +106679,7 @@ teklynx.eu.com
 tekn0tes.net
 tekniko.ir
 teknikoptik.com
+teknnovationbyobaid.teknnovation.com
 teknoartia.com
 teknoda.com.tr
 teknofestdronesampiyonasi.com
@@ -108100,6 +108153,7 @@ three.followfromapps.icu
 threebrothersandsiding.com
 threebrothersram.com
 threedollars.net
+threejrev.com
 threenetragroup.kusherp.com
 threepublic.com
 threeql.top
@@ -108600,6 +108654,7 @@ tl.xibovyu5.ru
 tl9afxug.bahsegel90.com
 tla.gr1tmodule.ru
 tla.sj5o5.ru
+tlakj14995.workers.dev
 tlantida-sh.cloud
 tlauren.com
 tlbwfid.3toravix.lat
@@ -115053,6 +115108,7 @@ varqin.che6u7therm.ru
 varsolar.com
 varuna.uk
 varygo.workers.dev
+varynuky.workers.dev
 varzcommunity.abrdns.com
 varzesh303.com
 varzeshitime.ir
@@ -116696,6 +116752,7 @@ vo.sgdi-6.ru
 vo472a21.eng-aqua-burn.com
 vo5.dr1ftpanda.ru
 vo7.v4-z.ru
+vo8.6666k.org
 voabnu.femeso.hu
 voafww1e.1xcart.pro
 voando.in
@@ -116766,6 +116823,7 @@ voipinfo.sk
 voipone.ch
 voirtaclasse.com
 vojds.xyz
+vok.6666k.org
 vokner.c0lombve8et.ru
 voksenasenmusicacademies.com
 vokxur.howi2unbe1.ru
@@ -117300,6 +117358,7 @@ vva5dqlz.en-en-us-zensulin.com
 vvagyu.xyz
 vvcbgf.spareing.com
 vvdliv.cf
+vve.6666k.org
 vvh3el-crest.cloudvector.ink
 vvhindia.com
 vvhvidpeog.com
@@ -117777,6 +117836,7 @@ walkingbook.tw
 walkingholidays.co.za
 walkthenight.com
 walkusa.dev
+wall.casajuanchos.com
 wall1.shadowf0x.ru
 wall5.5t0p.ru
 wall6.shadowf0x.ru
@@ -126333,6 +126393,7 @@ zxcshop.top
 zxcv112.byethost4.com
 zxe9u0st.sigaribetkade.com
 zxerm.com
+zxi.6666k.org
 zxjfcvfvhqfqsrpz.onion
 zxliuf.com
 zxokl.mabaninazaridelavar.xyz
