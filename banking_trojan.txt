@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-12 15:24:49 UTC
-# Total domains: 11547
+# Generated: 2026-10-12 21:30:32 UTC
+# Total domains: 11550
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1552,6 +1552,8 @@ banamexunopaboti.run
 bancaporinternetbbmx.online
 banco-casino.click
 bancocr.com
+bancoecuadorcentral.online
+bancovenezuelacentral.online
 bandeorch.com
 bange.store
 banglasexvideo.com
@@ -7379,6 +7381,7 @@ michael-schuller.de
 michaeljohnhome.co.uk
 michalmaayandon.com
 mickstatham.com
+micredito-hn.online
 microcloudfiles.com
 microcloudfilesstorage.com
 microcloudfilestorage.com
