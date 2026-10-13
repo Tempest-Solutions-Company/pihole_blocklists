@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-13 13:15:52 UTC
-# Total domains: 11550
+# Generated: 2026-10-13 15:21:50 UTC
+# Total domains: 11551
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3053,6 +3053,7 @@ cpay.locker
 cpc-ads.com
 cpgek.com
 cpiz.top
+cprlme.com
 cpvn-eta.cc
 cq1tw.icu
 cq1tw.top
