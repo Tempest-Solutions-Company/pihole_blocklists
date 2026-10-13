@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-13 03:09:13 UTC
-# Total domains: 1117283
+# Generated: 2026-10-13 09:15:09 UTC
+# Total domains: 1117316
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3122,6 +3122,7 @@
 09dmus2g6g6u2vb4uuw37t4o.dns-dns.com
 09e4f43b.ljdjd83jdks.com.cn
 09eb5c3ba.shoprenter.hu
+09f9wqsm.kaarenorge.com
 09fb236558d7818a7499afb40d24c6c4-dot-dbenitonline.ey.r.appspot.com
 09fbd3.icefactory.cl
 09fec22f.89dduvdjsi.shop
@@ -13589,6 +13590,7 @@
 178-62-213-188.cprapid.com
 178-83-121-204.cprapid.com
 178-tk.safefile.icu
+178.126.22.34.bc.googleusercontent.com
 178.128.110.146
 178.128.116.112
 178.128.116.186
@@ -35860,6 +35862,7 @@
 4i3lqas7.en-us-en-prostawive.com
 4i4.gj-2-i-3.ru
 4i73kz8qcv0eucok.wusps.xyz
+4i7i.com
 4i8.fat-fly.com
 4i8jc.hp.peraichi.com
 4ia.fk9e2.ru
@@ -46623,6 +46626,7 @@
 6af83293c698fc.lhr.life
 6afe7890.lv163.com.cn
 6agidu9ij5mhxku18doz2up.qwo231sdx.club
+6ah8ena1.kulonprogo.org
 6ahdbuiabda.vercel.app
 6ajg.v0ltmorrow.ru
 6ak-tehnik.si
@@ -57162,6 +57166,7 @@
 98usps270ps.cc
 98vn70vnn.jimdofree.com
 98win.army
+98win.fast
 98wqaiuyerdguyowergfhiyuwesdrgf7t9wertwerewt-2501.vercel.app
 98xykk27miljue58gq3m1wulgzarrc.qwo231sdx.club
 98yhj.godaddysites.com
@@ -62355,6 +62360,7 @@ aafcu.myftp.biz
 aafcu3.firebaseapp.com
 aafcu3.web.app
 aafdsrtrgd.weebly.com
+aafesorder.com
 aaffpublicitario.com
 aaffttaple.com
 aafinc.com
@@ -133347,6 +133353,7 @@ arientalscapital.com
 aries-m96.com
 ariesflexo.com
 ariesgrupoconstructor.com
+ariesit.in
 arieslogistics.lk
 ariesmusic.com
 arietiseducation.com
@@ -185610,6 +185617,7 @@ beamservers.info
 beamss4.tokyo
 beamss5.tokyo
 beamtech-tw.com
+beamtechmacros.com
 beamwex.com
 bean-living-island-pop.trycloudflare.com
 bean.369bbqsifangonline.com
@@ -226268,6 +226276,7 @@ bvlybf.top
 bvm-india.com
 bvm9kxn7.gut--drops.com
 bvmaaoexport.com
+bvmatqnam.com.vn
 bvmmcellodemeler.tk
 bvmvbmtgyhkj568568vbncvn.co.vu
 bvn.pages.dev
@@ -302263,6 +302272,7 @@ csgowallet.ru
 csgowfire-skins.ru
 csgowolves.com
 csgoznlkylkllirl-dot-millinium.ey.r.appspot.com
+csgroup.host
 csgroup.zip
 csgshiv.icu
 csgteamwork.com
@@ -328904,6 +328914,7 @@ dev.bahusande.com
 dev.ballibay.com
 dev.banglikab.go.id
 dev.barb-art.fr
+dev.basquecountrycom.online
 dev.biasigns.com
 dev.biymu.com
 dev.blaqbiz.com
@@ -390387,6 +390398,7 @@ f7a353.arcadejafet.cl
 f7a673.icefactory.cl
 f7a69e99c7e2ee9df6c5c24b3fff35e.pages.dev
 f7a8faef.sz-cdl.cn
+f7a91683.b00kself.com
 f7a9f96a-d824-4c38-ac9e-3bdc929bcc72-00-2dqm2bbmog1s1.pike.replit.dev
 f7ac.zip-locks.workers.dev
 f7ae3650-f5a2-11ed-b243-592a49d5775.glitch.me
@@ -422151,6 +422163,7 @@ fomdomfimfbd.com
 fomed.azurewebsites.net
 fomee.duckdns.org
 fomeisa.com
+fomeweli.workers.dev
 fomezy.workers.dev
 fomi-8kw.pages.dev
 fommachiapas.org
@@ -496751,6 +496764,7 @@ hook-coinbase.com
 hook-relay.xyz
 hook.alwaysdata.net
 hook.datavence.sbs
+hook.ftp21.cc
 hook4thelook.net
 hookandgotrailers.com
 hookandlager.us
@@ -520647,6 +520661,7 @@ indigohealthinnovations.com
 indigojute.co.uk
 indigomarin.com
 indigomemo.ch
+indigonan.workers.dev
 indigoonelat.com
 indigopage.000webhostapp.com
 indigoprotocoldesktop.live
@@ -562478,6 +562493,7 @@ jywsvtcdlphyoypf-dot-millinium.ey.r.appspot.com
 jyx.monster
 jyx7jwja.blue128cinder.digital
 jyxali.workers.dev
+jyxigy.workers.dev
 jyxp4-rutronik.ghjigclbopy.es
 jyxxk-nqaaa-aaaad-qdepq-cai.raw.ic0.app
 jyyqutdvguciwcnk-dot-millinium.ey.r.appspot.com
@@ -596001,6 +596017,7 @@ letancoxz.letancoz.cloudns.ph
 letandrent.co
 letar.ml
 letartima2.temp.swtest.ru
+letaryzipthone.ddns.net
 letasetappealforyou.vercel.app
 letasetappealforyous.vercel.app
 letbookws.com
@@ -603261,6 +603278,7 @@ livina.loopesportm7.com
 livina.molelu.com
 livinao.live
 livinbymandiri.ambilkuponundian.biz.id
+livincredible.workers.dev
 livineasyyoga.com
 livinfast.org
 living-aquamarine-inch.glitch.me
@@ -625578,6 +625596,7 @@ mafadenimaganbaa.vpndns.net
 mafanikioyadktmwinyi.or.tz
 mafatehaljinan.net
 mafazrahman.github.io
+mafchik.lobby-join.cc
 mafcolicorice.lotesalaventa.com
 mafdkfsfoawjjbzz-dot-millinium.ey.r.appspot.com
 mafe1.000webhostapp.com
@@ -643113,6 +643132,7 @@ maringuttercleaning.com
 marinha.com
 marinhoassessoria.com
 marinioloupi2024.serv00.net
+marinnamilitary.workers.dev
 marinoalfani.com
 marinohonda556.lpages.co
 marinov.zzz.com.ua
@@ -704518,6 +704538,7 @@ nagrywamy-ttv.pl
 nagshae.com
 nagsslgpxu6zva.qwo231sdx.club
 nagts.org
+nagukato.workers.dev
 nagusa.info
 nagwurngulbdlr.l21.dev
 nagycsomag.futar.hu
@@ -704917,6 +704938,7 @@ namec.jujufe.ggff.net
 namecampus.com
 namecheap-dashboard.codeanyapp.com
 namecheapllc1.odoo.com
+namecheaps.duckdns.org
 namecheapsupport-wobzem727434.codeanyapp.com
 nameerfood.sa
 namegetamq.weeblysite.com
@@ -786678,6 +786700,7 @@ polimova.com
 polinaiduganta.com
 polinatingstopclimatechange.com
 polinelli.com
+polinex.org
 polinexclient.org
 polinezia.tora.ru
 polinokij-b9379a.ingress-florina.ewp.live
@@ -829128,6 +829151,7 @@ rabopas-vervangen.info
 rabopassen.info
 raboservicedesk-2023.10web.site
 rabosrl.it
+rabota-nazavode-panel.lol
 rabotatruck.work
 raboveiligheid-financien.me
 rabovervangen-zakelijk.xyz
@@ -862632,6 +862656,7 @@ rtpk-karlstad.se
 rtpk86sport-happy.click
 rtpkhff.enus-sightfresh.com
 rtpkids.com
+rtplive-miliarbet.online
 rtplive-miliarbet.store
 rtpliveslotworld.com
 rtpolb228gacor.pro
@@ -887348,6 +887373,7 @@ security-amazonhelpmail.amazon-accountsecurityappmail.com
 security-americafirst.firebaseapp.com
 security-americafirst.web.app
 security-amfcu.web.app
+security-analyze.ltd
 security-app-confirmation-pages-apps75486573352358657334.46s0vlirfx-zqy3jw5qy6kg.p.runcloud.link
 security-app-payee.com
 security-app.cfd
@@ -916153,6 +916179,7 @@ software.chlc3.com
 software.cybersecurity-training.org
 software.mcdir.ru
 software.saadpetroleum.com
+software.security-analyze.ltd
 software1.esy.es
 software3d.com.br
 softwareagil.co
@@ -934047,6 +934074,7 @@ stat-portal.axiomforge.in.net
 stat-portal.downpredict.in.net
 stat-render.analyticaengine.in.net
 stat-render.analyticvector.in.net
+stat.bestcompliance.net
 stat.cm
 stat.com
 stat.fastworknode.lat
@@ -953668,6 +953696,7 @@ sxshixin.com.cn
 sxshjskjjsnbdna.ns10.us.kg
 sxskziokoy.duckdns.org
 sxsxmuejdikwmsndb.weebly.com
+sxtbd04071.workers.dev
 sxtd1.com
 sxteamcotmmunity.com
 sxtxhcenccxvm74q.wusps.xyz
@@ -1007215,6 +1007244,7 @@ udtonlin.net
 udtxj9bv46ah816n.jimpike.com.au
 udufviwazh.duckdns.org
 uduiandind.vercel.app
+uduka.duckdns.org
 udul8boym9bk402.top
 udunculoud.com
 udupipropertys.com
@@ -1060278,6 +1060308,7 @@ warzss.github.io
 was-logistics.com
 was-rand.gl.at.ply.gg
 was.bdren.net.bd
+was.cantdown.su
 was.weeba.cyou
 was1-101433.square.site
 wasabiwallet.app
@@ -1105499,6 +1105530,7 @@ ym2q8nrpye.myveroangel.com
 ym5dtob.qwo231sdx.club
 ym6lea9b2hnwxpge8t876nekue.we9ixzz.co
 ym88gu70.nazariyeyadgiri.xyz
+ym8ey0u71i.workers.dev
 ym9tbz1.cn
 yma-law.com
 yma.wawpi.icu
@@ -1114445,6 +1114477,7 @@ zmmsneiaskedbrfhd.weebly.com
 zmn.djb.temporary.site
 zmnatural.com
 zmneq.csb.app
+zmngfjl.fun
 zmnins.oa-helpdesk.me
 zmnniojjrr.duckdns.org
 zmnrfyvt.vanatarsim.xyz
