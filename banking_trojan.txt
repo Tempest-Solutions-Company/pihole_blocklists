@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-14 03:12:29 UTC
-# Total domains: 11551
+# Generated: 2026-10-14 09:18:21 UTC
+# Total domains: 11553
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10457,6 +10457,8 @@ tracklead.online
 trade.com
 tradeassurances.com
 tradertop.top
+tradewebmall.com
+tradewebmall.org
 tradingprice.net
 tradr0ger.cloud
 traf-service.xyz
