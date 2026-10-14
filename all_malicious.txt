@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-14 13:19:02 UTC
-# Total domains: 1118463
+# Generated: 2026-10-14 15:25:47 UTC
+# Total domains: 1118502
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -13295,6 +13295,7 @@
 174.129.216.166
 174.129.49.121
 174.129.51.246
+174.131.143.34.bc.googleusercontent.com
 174.136.12.162
 174.138.106.174
 174.138.107.217
@@ -20817,6 +20818,7 @@
 220v-katalog.ru
 221-clothing.com
 221.120.219.3
+221.149.70.136.bc.googleusercontent.com
 221.150.115.216
 22100993-020993-029983893.10093.repl.co
 22108940.com
@@ -33551,6 +33553,7 @@
 43c07c3c1679cff5fb4a4.yw1api5w-nzqzqk-ybi-f1mbn-lvmg.usrfiles.com
 43c8d5a3.qepfmq.shop
 43creekbankroad.com
+43cycles.com
 43d68fd43453.godaddysites.com
 43d8594a-2f8b-4e53-8904-7b1d91243870.id.repl.co
 43da47e1.u8ehcsjke.cloud
@@ -36159,6 +36162,7 @@
 4n382ytg38268492.cfd
 4n45870.000webhostapp.com
 4n4syv39ict80eno.jimpike.com.au
+4n5kdeb4ss.workers.dev
 4n9w3b3j3q-1324277188.cos.ap-bangkok.myqcloud.com
 4nature.pt
 4nay.abooster-appspage.com
@@ -36821,6 +36825,7 @@
 50.197.69.186
 50.1ntrude7truha.ru
 50.224.124.17
+50.241.254.35.bc.googleusercontent.com
 50.28.1.43
 50.28.104.187
 50.28.59.10
@@ -48118,6 +48123,7 @@
 70zv5n4wj.localto.net
 71-cv1cxvdffdbgb-1bnb-dsbnchgngh.vercel.app
 71.111.46-69.q9.net
+71.18.50.34.bc.googleusercontent.com
 71.86.82.41.11.40.9.63.53.23.krakentxy.com
 71.89.39.66.38.23.krakentxy.com
 71.r46eu.ru
@@ -51345,6 +51351,7 @@
 7z52r.csb.app
 7z72ney.tokenapp.download
 7z8g621neck75.53244ds.xyz
+7z8lxhnj.citaasesoriareyes.com
 7zboxudj9ylzv.qwo231sdx.club
 7zcef54a.eng-usa-goldalign.com
 7zdoazd5oy2qfm22u7xjimz7ui.qwo231sdx.club
@@ -52293,6 +52300,7 @@
 83wi.snap-echo.in.net
 83x6d0ks.compres5text0l.ru
 83yx204b.abooster-appspage.com
+84-105-233-69.cable.dynamic.v4.ziggo.nl
 84-nxptqjlswekdzmu-fydbxomhcnlgrev.vercel.app
 84-nxptqjlswkdzmu-fydbxomhcnlgrev.vercel.app
 84.21.170.113
@@ -55764,6 +55772,7 @@
 92.119.159.3
 92.119.231.66
 92.119.56.6
+92.15.65.34.bc.googleusercontent.com
 92.204.136.122
 92.204.160.253
 92.204.160.50
@@ -100172,6 +100181,9 @@ amanahkita.com
 amanahmall.com
 amanahsukses.uk.com
 amanahsystems.com
+amanahtop.us.com
+amanahtotoceria.us.com
+amanahtotoid.us.com
 amanalpha001-tech.github.io
 amanamecardsdata.f3322.net
 amanankan.wibwit.my.id
@@ -202807,6 +202819,7 @@ blog.derrspecial-onlinedmin.live
 blog.directsupply.com
 blog.discontcomputers.com
 blog.djuraganvoucher.com
+blog.donitesmithy.info
 blog.doxhealth.com
 blog.drall.com.br
 blog.drehmoment-gmbh.de
@@ -215461,6 +215474,7 @@ brise5.kick-5-ubs-4-ance.ru
 briserlink.com
 brisk-forge-willow-caium.life
 brisk-north-cast.pages.dev
+brisk-sail-ridge-dreor.pro
 brisk-with-easy.xyz
 brisk.brightden.ru
 brisk.oceandrop.ru
@@ -243678,6 +243692,7 @@ cdctvukr.taktikkbet.com
 cdcubes.com
 cdcwq.com
 cdd.gqj.mybluehost.me
+cdd.omsules.life
 cdd60a88b40f3bde40337a8f2a2bf35a-dot-gle9392420309493993.rj.r.appspot.com
 cddaattxbyoufbzs-dot-millinium.ey.r.appspot.com
 cddbs.top
@@ -245075,6 +245090,7 @@ cehjzw.day
 cehocihit.com
 cehoirfg.work
 cehopgt.com
+cehuwuzu.workers.dev
 cehv96.com
 cehval.es
 cehwop.com
@@ -368299,6 +368315,7 @@ elitecareup.com
 elitechaininvestment.com
 elitechairlifts.com
 elitecheats.live
+elitecheatsx.live
 elitechemical.com
 elitechems.eu
 elitechforce.com
@@ -398327,6 +398344,7 @@ fairpumps.website
 fairruck.de
 fairs.royalfootprintsafaris.com
 fairservice.id.au
+fairsexsecutor.xyz
 fairshareforartists.org
 fairssure.co.za
 fairth.dev
@@ -423274,6 +423292,7 @@ forg-scann.histor5corching.in.net
 forge-api.dialectraforge.in.net
 forge-de-laguiole.com
 forge-nior-client.surge.sh
+forge-ridge.com
 forge-svc.dialectonforge.in.net
 forge-svc.inferentiaforge.in.net
 forge-sync.hammermathemat.in.net
@@ -426346,6 +426365,7 @@ frankdiekman.com
 franke-rbg.de
 frankeldiabeticfoundation.org
 frankelectric.xyz
+franken-consulting.org
 frankenmod.com
 frankensteincheese.com
 frankenstien47.github.io
@@ -433928,6 +433948,7 @@ fygykjjkmh.weebly.com
 fyh-2.ru
 fyh893eifjkdmch9eoplr.weebly.com
 fyhgadhq.click
+fyhixuge.workers.dev
 fyhnyssvid.duckdns.org
 fyhoqo.workers.dev
 fyhsxoelqo.duckdns.org
@@ -447935,6 +447956,7 @@ ghost-developer.com
 ghost-dp28370oeo5a.edgeone.dev
 ghost-hunter742.github.io
 ghost-loader.com
+ghost-new-live.ink
 ghost-node-0.fiumeveloce.in.net
 ghost-node-x.froidespace.in.net
 ghost-node-z.kaltesystem.in.net
@@ -471430,6 +471452,7 @@ gukolinanyamannoklo.com
 gukvsxqq.dynv6.net
 gukvxahwmmyyhehuuqxxeynoqmvurwnxqxqg-dot-solar-vertex-285913.rj.r.appspot.com
 gukxgn.yasbet90.com
+gukypini.workers.dev
 gul-fa.com
 gul5z4izistkswsw22q5.qwo231sdx.club
 gul8885.github.io
@@ -508468,6 +508491,7 @@ ibericotern.com
 ibermem1.gesemweb.es
 iberochile.com
 iberoluso.com
+ibespai.es
 ibesqaz3ttalentqwforlifeerforinterestingyu6videosmake.besttalentforlifeforinterestingvideosmake.xyz
 ibet777.cc
 ibew0725.org.usrfiles.com
@@ -535020,6 +535044,7 @@ ip-secur-italy-mps.com
 ip-socialmedia.com
 ip-telegram.org
 ip-testcheck.vercel.app
+ip-vm.vercel.app
 ip.333pwk.org
 ip.396zk.net
 ip.5et0qi.cn
@@ -584151,6 +584176,7 @@ kx0tmr.webwave.dev
 kx202410.pages.dev
 kx2nxqxq2bfyvmmaxd2bv.qwo231sdx.club
 kx430z0d.lisapierce-mft.com
+kx4z8st8.escritoriovirtualasesor.com
 kx5m7kaq.square.site
 kx6.rv6324.online
 kx7k4-7ym-h94g-ryvyq-25-09-2026-hh.pages.dev
@@ -585580,6 +585606,7 @@ l9p382o3.debutifyus.com
 l9psnbeotfuxrkzinn0lw9ayhpz.we9ixzz.co
 l9q7.6aiiwi2.ru
 l9r1ci7ff.takceram.co.ir
+l9rm22ww1r.workers.dev
 l9sa.github.io
 l9tynneu.mybookieiran.com
 l9u1u.top
@@ -595718,6 +595745,7 @@ lelxmmyzzi.duckdns.org
 lelxqumaeu.duckdns.org
 lely-cake.oujwe.workers.dev
 lelytips.com
+lelyweby.workers.dev
 lem7ur.c1imby2p.ru
 lemaauto.cz
 lemado.duckdns.org
@@ -597884,6 +597912,7 @@ liat-yang-viral-sekarang.cfd
 liatigroup.com
 liatyaui.hilianthirtewainerla.link
 liautaudinstitute.com.usrfiles.com
+liavruizskioo.pro
 liawr.gay
 liawr.pet
 liaxdlssai.duckdns.org
@@ -619771,6 +619800,7 @@ luzcontroldeplagas.com
 luzdamanha.campinas.br
 luzdearoled.com
 luzeciamt.com.br
+luzekily.workers.dev
 luzer.anix-to.com
 luzerner-transporte.ch
 luzfwlyyhv.duckdns.org
@@ -709200,6 +709230,7 @@ nebu7la.skyf1ame.ru
 nebuh.cn
 nebula-777.github.io
 nebula-business.com
+nebula-client.com
 nebula-client.org
 nebula-cyber-vision.glitch.me
 nebula-deluxe-cosmos.glitch.me
@@ -875818,6 +875849,7 @@ sapphire-thread-cell.glitch.me
 sapphire8825.workers.dev
 sapphireartz.com
 sapphireconsultantss.com
+sapphireilla.workers.dev
 sapphirelinenapparel.com
 sapphiremallory.workers.dev
 sapphirethoughts.com
@@ -907232,6 +907264,7 @@ sipzix.acquisit-batper.in.net
 siq.gr1tmodule.ru
 siqhjdaz.icu
 siqhy.938032.com
+siqifito.workers.dev
 siqmnslxng.github.io
 siqnin-attt-net.weebly.com
 siqowamet.info
@@ -963933,6 +963966,7 @@ tatnawi-s-school.thinkific.com
 tatoassist.com.br
 tatodesign.github.io
 taton.hk
+tatovlog.top
 tatqte.webwave.dev
 tatrabau.com.tr
 tatrafest.sk
@@ -973661,6 +973695,7 @@ tennis-support.com
 tennisblueprint.net
 tennisbob.com
 tennisclubcastelmaurou.fr
+tenniskurs-zollikon.ch
 tennislifemag.com
 tennisman-f79d83.ingress-haven.ewp.live
 tennisrev.com
@@ -1014530,6 +1014565,7 @@ up.mcprotocol.cn
 up.myda4.ru
 up.qenogia7.ru
 up.raha1.ru
+up.sb
 up.shsye.org
 up.sypyguu85.ru
 up.tydubyo66.ru
@@ -1049356,6 +1049392,7 @@ viratkarthik5245.github.io
 viraventos.org
 virazofurniture.in
 vircaio.com
+virealestate.com
 virecharge.000webhostapp.com
 virelaxonix.com
 virement-lnterac-ca-bell.com
@@ -1085806,6 +1085843,7 @@ wunnesanncouve-f5135f.ingress-baronn.ewp.live
 wunschpartner.eu
 wunschprodukteauswahlen33s.ink
 wunswwwlake.buzz
+wuntred.com
 wunulimadrinkes-10041e2.ingress-bonde.ewp.live
 wunztf.qkbpblqxxclp.ru
 wuoaocgyeeocaueu.xyz
@@ -1105984,6 +1106022,7 @@ yimingsoft.com
 yimistasia.co.vu
 yimjtjmsis.duckdns.org
 yimkjsljoo.duckdns.org
+yimmenu.live
 yimmiimicaeeucsc.xyz
 yimmunotek.com
 yimmyssqoeugoeia.xyz

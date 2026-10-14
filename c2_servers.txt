@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-10-14 13:19:02 UTC
-# Total domains: 127086
+# Generated: 2026-10-14 15:25:47 UTC
+# Total domains: 127117
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1728,6 +1728,7 @@
 172-104-53-127.ip.linodeusercontent.com
 172-234-95-30.ip.linodeusercontent.com
 172u1sfd.diero.store
+174.131.143.34.bc.googleusercontent.com
 17575bbb.roseanne.id
 176.65.148.144.ptr.pfcloud.network
 176.65.149.124.ptr.pfcloud.network
@@ -2300,6 +2301,7 @@
 220520122153.no-ip.org
 2208.165-227-83-163.site
 2209sep25.duckdns.org
+221.149.70.136.bc.googleusercontent.com
 2215.08u073852.ru
 2215.c70ye.ru
 222.blue
@@ -3403,6 +3405,7 @@
 435ggtrgbewrtw.duckdns.org
 435z0hbc.chequecholeric.digital
 4378u3hz.melemoeuhane.com
+43cycles.com
 43dqb.top
 43mouvie.co
 43ww5frz.forbiddenpantsshop.com
@@ -3655,6 +3658,7 @@
 4n.jt4o0.ru
 4n.ty9a.ru
 4n.zk-5-e-7.ru
+4n5kdeb4ss.workers.dev
 4netdown.com
 4nhtw4lz.testranandegi.com
 4nj.5hri1luv.ru
@@ -3798,6 +3802,7 @@
 5.tcp.ngrok.io
 5.wugh.ru
 50.1ntrude7truha.ru
+50.241.254.35.bc.googleusercontent.com
 50.aclz-9.ru
 5002201.5h4553.ru
 5002201.60e533569.ru
@@ -4776,6 +4781,7 @@
 70maivietnam.com
 70ywi.emberhoehle.ru
 70zv5n4wj.localto.net
+71.18.50.34.bc.googleusercontent.com
 71.r46eu.ru
 7109hvuj.retinaclier.com
 7112blue.workers.dev
@@ -5245,6 +5251,7 @@
 7yyu6.snowcrest.ru
 7z.l5228.ru
 7z.nightfl0w.ru
+7z8lxhnj.citaasesoriareyes.com
 7zcef54a.eng-usa-goldalign.com
 7zos4.rainb1te.ru
 7zs7j32p.enus-zensulin.com
@@ -5315,6 +5322,7 @@
 83j6hfza.runtime-forge.digital
 83ur68yr.designphotoshop.ir
 83x6d0ks.compres5text0l.ru
+84-105-233-69.cable.dynamic.v4.ziggo.nl
 84.c70ye.ru
 84.d55u5.ru
 84.t1nystar.ru
@@ -5806,6 +5814,7 @@
 91u.ru7x.ru
 91vkuxv1.enf90.net
 91wx.top
+92.15.65.34.bc.googleusercontent.com
 92.dmrdjmejuah.icu
 92.sp1remoss.ru
 923nr8dp.chloroquineser.com
@@ -10680,6 +10689,9 @@ amanahceria.us.com
 amanahkita.com
 amanahsukses.uk.com
 amanahsystems.com
+amanahtop.us.com
+amanahtotoceria.us.com
+amanahtotoid.us.com
 amancayautoescuela.com
 amanda-walker.com
 amandahairglobal.shop
@@ -19652,6 +19664,7 @@ blog.bedots.io
 blog.bibra.eu
 blog.cementah.com
 blog.derrspecial-onlinedmin.live
+blog.donitesmithy.info
 blog.dsisa.co.za
 blog.dv.is
 blog.econauti.it
@@ -21221,6 +21234,7 @@ brise.wlnd5hore.ru
 brise4.wiidharbor.ru
 brise5.kick-5-ubs-4-ance.ru
 brisk-forge-willow-caium.life
+brisk-sail-ridge-dreor.pro
 brisk.brightden.ru
 brisk.oceandrop.ru
 brisk.v0rtatouch.ru
@@ -24380,6 +24394,7 @@ cegwwgkuemwiuqmy.xyz
 cehjzw.day
 cehocihit.com
 cehoirfg.work
+cehuwuzu.workers.dev
 ceiaeyoqysywagkw.xyz
 ceiiggmecieoswog.xyz
 ceimmkygecccckoi.xyz
@@ -44227,6 +44242,7 @@ frank.ge-com.us
 frank1.ddf.al
 frank74148tmweb.ru
 frankasophie-fotografie.de
+franken-consulting.org
 frankgorshin.retirevillage.com
 frankieazure.workers.dev
 frankjoe.uzocoms.eu
@@ -45218,6 +45234,7 @@ fydyvetu.workers.dev
 fyed6.pe7fectp7oc.ru
 fyentuk.zsatom.hu
 fyh-2.ru
+fyhixuge.workers.dev
 fyhoqo.workers.dev
 fyhvewa.wiki
 fyi67.fr0gpulse.ru
@@ -50184,6 +50201,7 @@ guket.press
 gukikuwwwwycqgqo.xyz
 gukolinanyamannoklo.com
 gukxgn.yasbet90.com
+gukypini.workers.dev
 gulabgoodness.com
 gulaypole.info
 gulbahar.com.pk
@@ -54699,6 +54717,7 @@ ibericadedanza.es
 ibericahost.eu
 ibermem1.gesemweb.es
 iberochile.com
+ibespai.es
 ibexexpressint.com
 ibfan.cz
 ibgraciaypaz.org
@@ -56877,6 +56896,7 @@ ip-comp.net
 ip-politicians.gl.at.ply.gg
 ip-regions-check.vercel.app
 ip-testcheck.vercel.app
+ip-vm.vercel.app
 ip.333pwk.org
 ip.396zk.net
 ip.faicai888.cc
@@ -63937,6 +63957,7 @@ kwzone.com
 kx.c7ucifto1nov.ru
 kx.kpyw-8.ru
 kx430z0d.lisapierce-mft.com
+kx4z8st8.escritoriovirtualasesor.com
 kx6.rv6324.online
 kxc.f1relayer.ru
 kxkdfydq.crownconnectpk.com
@@ -64316,6 +64337,7 @@ l9hmkvn2xm.workers.dev
 l9o.knurl-pocket.ru
 l9oi6rwb.bordestan.com
 l9q7.6aiiwi2.ru
+l9rm22ww1r.workers.dev
 l9tynneu.mybookieiran.com
 la-beaute.jp.net
 la-bonneaffaire.fr
@@ -65636,6 +65658,7 @@ lelllnn.com
 lelokyle.workers.dev
 lelsweg.webege.com
 leluzonu.workers.dev
+lelyweby.workers.dev
 lem7ur.c1imby2p.ru
 lemado.duckdns.org
 lemalesaint.fr
@@ -66049,6 +66072,7 @@ lianymedia.com
 liaperoni.at
 liarnliarnglobal.com
 liatigroup.com
+liavruizskioo.pro
 liawr.gay
 liawr.pet
 lib-r.com
@@ -68261,6 +68285,7 @@ luxzzc2servers.my.id
 luy6lvmh.site-takhtenard-sharti-betland.com
 luyzkvh.eng-en-slimsounds.com
 luzazai5.ru
+luzekily.workers.dev
 luzer.anix-to.com
 luzerner-transporte.ch
 luzietticorreaemachado.agencialegalads.com
@@ -96472,6 +96497,7 @@ sapnaacapturesstudio.com
 saporidimaredelsalento.com
 sappec-dz.com
 sapphire8825.workers.dev
+sapphireilla.workers.dev
 sapphirelinenapparel.com
 sapphiremallory.workers.dev
 saprwbu.lavorcollective.com
@@ -99796,6 +99822,7 @@ sippinlean.xyz
 sippinservice.com
 sipsandsightstravel.com
 siq.gr1tmodule.ru
+siqifito.workers.dev
 siradyo1.ru
 sirata.asia
 siren.aeafh.workers.dev
@@ -106581,6 +106608,7 @@ tatetitoys.cl
 tatibudapest.com
 tatiosa.pro
 tatle.net
+tatovlog.top
 tatry-ubytovanie.com
 tattes.ch
 tattonhallhomes.co.uk
@@ -107363,6 +107391,7 @@ tennis-bandol.fr
 tennis-forecast.com
 tennisbob.com
 tennisclubcastelmaurou.fr
+tenniskurs-zollikon.ch
 tennistotal.net
 tennistroubleshoot.com
 tenntechs.com
@@ -116795,6 +116824,7 @@ viralpedia.site
 viraventos.org
 virazofurniture.in
 vircaio.com
+virealestate.com
 virginia-waterproof.gl.at.ply.gg
 virginiacook.com
 virginiaoverheaddoor.com
@@ -121506,6 +121536,7 @@ wumyhfj.livebetkade.com
 wunderwelt.com.br
 wunees.com
 wunit.ru
+wuntred.com
 wuoaocgyeeocaueu.xyz
 wuomeyaiueumywcq.xyz
 wuowqwycqyaaiaww.xyz
