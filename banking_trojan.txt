@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-14 15:25:47 UTC
-# Total domains: 11553
+# Generated: 2026-10-14 21:37:03 UTC
+# Total domains: 11556
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2485,6 +2485,7 @@ centuaryfabindia.com
 centurylinktechnology.com
 cepbaza.com
 cerkery.com
+certa.website
 certifiedmillionairemakers.com
 certysfinancial.com
 cervezas.tips
@@ -3066,6 +3067,7 @@ crackpc4u.com
 craftsjz.com
 craftyorwot.com
 craneps.net
+crasadr.com
 crax.store
 crazystir.com
 crbug.com
@@ -8915,6 +8917,7 @@ rarebeautysafe.shop
 rarecrew.com
 rareon.io
 rasarabian.com
+rasd-state.ws
 rashihospital.com
 rasoiratnammasala.com
 raspisurveillance.com
