@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-10-15 13:24:40 UTC
-# Total domains: 127373
+# Generated: 2026-10-15 15:31:59 UTC
+# Total domains: 127398
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1671,6 +1671,7 @@
 15.frostc0met.ru
 15.nybh.ru
 15.to1j.ru
+150.66.24.34.bc.googleusercontent.com
 15248636.site
 154.60.198.35.bc.googleusercontent.com
 155b3nro.proxy-cascade.digital
@@ -1735,6 +1736,7 @@
 176.65.149.124.ptr.pfcloud.network
 177-200-37-197.linqtelecom.com.br
 1770wrong.workers.dev
+1774colossal.workers.dev
 17752.loan
 1775tt.com
 178-128-196-79.sslip.io
@@ -2361,6 +2363,7 @@
 23568fdq.mosbatsms.ir
 2365222444.com
 238.yq2r.ru
+239.232.231.8.bc.googleusercontent.com
 23bmohelpmanagement.icu
 23dcbt0c.network-horizon.digital
 23euhdso.deryuga-sablist.garden
@@ -3869,6 +3872,7 @@
 51up.com
 52.64.voltexpressdelivery.com
 52.t4mox.ru
+520karla.workers.dev
 521mc6ro.melbettr.co
 522bmwhj.cl0udr1dge.ru
 522jsf6oyx.workers.dev
@@ -4095,6 +4099,7 @@
 5f7kswropg.workers.dev
 5fa4.cobble-yard.ru
 5fa9qm77ih.workers.dev
+5fe48034.roseanne.id
 5fj.st0negate.ru
 5fn542lfohsup239.iloveanimals.shop
 5fp3.sorix1ar.lat
@@ -7179,6 +7184,8 @@ abtdularvoelous.serveblog.net
 abtmultidisciplinar.org.br
 abtoz.store
 abu.edu.pl.geezek.com
+abubra.jo3.org
+abubra.zanity.net
 abucuabuheuahehu.biz
 abucuabuheuahehu.com
 abucuabuheuahehu.info
@@ -17022,6 +17029,7 @@ basi.se
 basic-fan.gl.at.ply.gg
 basic-junior.com
 basicbuffalo.com
+basickantoor1.nl
 basicmatrix.com
 basicwhitegirlforgunrights.com
 basil.shadowm1nt.ru
@@ -17273,6 +17281,7 @@ bbtotoalter.xyz
 bbtti.in
 bbumn.ru
 bbuxtc93.osan.store
+bbv-vkbv1.nl
 bbva-bank.io
 bbvalues.uk
 bbvps.xyz
@@ -18498,6 +18507,7 @@ bgttoil.com
 bgtwfmx.rikashart.com
 bgu.qcet-8.ru
 bguhecd.beshnoinja.ir
+bgw.magn.space
 bgwekjage.icu
 bgwf.page
 bgyqhcmecaarb.zvh4.com
@@ -28759,6 +28769,7 @@ cp.softw1nd.ru
 cp06469.tmweb.ru
 cp109.sn1pcradle.ru
 cp2.0pu.ru
+cp2.7dewaslot.org
 cp30265.tmweb.ru
 cp53072.cloudhosting.lv
 cp53yk6u.unseen-zorenka.digital
@@ -43496,6 +43507,7 @@ fluidsurveys.si
 fluimucil-erkaeltungshusten.ch
 flulaborg.com
 fluminvestments.com
+fluoriterefrectory.info
 fluoxi.com
 flur.constzoo.surf
 flurr6.sn0wtrail.ru
@@ -50982,6 +50994,7 @@ h5gdhbptwz.workers.dev
 h5r.xt7y8.ru
 h5trmznn.ga1axy5ubject.ru
 h5x.w7tx-3t.ru
+h5x6ijt1.kulonprogo.org
 h5xluule.barbashat.com
 h5yx.2h7-o.ru
 h5z.xr7a0.ru
@@ -51237,6 +51250,7 @@ haidisays.com
 haierformazione.it
 haijiangfriut.com
 haikastudios.com
+hail.cocova.co
 hailebang.com
 haileeteal.workers.dev
 hailorachiy.in.net
@@ -56146,6 +56160,7 @@ incomefolios.com
 incomelabai.com
 incoming.rent
 inconzy.cyou
+incop.zenithtrack.cc
 incoprosa.com
 incpress.com
 increase-breath.gl.at.ply.gg
@@ -58749,6 +58764,7 @@ jb-qroups.com
 jb.k25q.ru
 jb.wtan.ru
 jb4i8crw.spikeslavage.ru
+jb6p5nn8.rtplive-miliarbet.online
 jb7207ut.us-tupitea.com
 jb9ff818.azmoondadrasi.xyz
 jbb.cau777.org
@@ -59617,6 +59633,7 @@ johntyler.com
 johnux.com
 johnweldonevans.us
 johnyzo.agilityhoster.com
+johohu.workers.dev
 joi-b.top
 joik.xyz
 join-brevis.network
@@ -67719,6 +67736,7 @@ lornumerique.live
 lorqes.pa5spra8mat.ru
 lorraineconk.us
 lorriedeenacaplan.com
+lorrisnopro.co
 lortodiops.com
 loruhan.com
 lorven.in
@@ -68155,6 +68173,7 @@ luft-vattenvarmepumpar.se
 lufytiqi.workers.dev
 lufyzy.workers.dev
 lugaribeiro.com.br
+lugeka.workers.dev
 luhepyso.workers.dev
 luicer-52197.portmap.host
 luidemorais.com
@@ -92091,6 +92110,7 @@ rbxtools.cc
 rbzsq.sm188login.cfd
 rc-hall.net
 rc-mailserverdata3.com
+rc.7dewaslot.org
 rc.b6ce.com
 rc.clearb1te.ru
 rc.de-zahlung.eu
@@ -118398,6 +118418,7 @@ w1d7ou.c1othwou1d.ru
 w1hb.k9-2g8.ru
 w1i.glacierbruecke.ru
 w1j0v9ni.thequeenofesteem.com
+w1lefe83.cyclingjordan.co
 w1mxn88vzlv.com
 w1n.5lr1v.ru
 w1n.m4d8q9.ru
@@ -122102,6 +122123,7 @@ wywagqywiqsucwea.xyz
 wywcqswuccsaicsw.xyz
 wywggwuyyaomecmi.xyz
 wywmsmugkiqwcyia.xyz
+wywoba.workers.dev
 wywsqiyqqueuiuso.xyz
 wywuemwekwssqaiu.xyz
 wywwoakuisomyuis.xyz
@@ -122538,6 +122560,7 @@ xamanxrpl.com
 xamayojir.com
 xamfop.c1utter0ver.ru
 xamir9on.digital
+xanaze.workers.dev
 xancas.com
 xaodao.app
 xaofax.com
@@ -123343,6 +123366,7 @@ xoilaczzzoz.tv
 xoiowm.eauviveinasia.com
 xojuzutu.workers.dev
 xokosag.gq
+xolelavi.workers.dev
 xols-qojze.com
 xomasaty.workers.dev
 xomsymkut.derbi.football
@@ -127378,6 +127402,7 @@ zzux.birladharamshaala.org
 zzvfyei.dahdahtoys.com
 zzwjboym.bcgame.shop
 zzxryguzfq02042676.cfd
+zzyowym8yb.workers.dev
 zzz.leproxy.blog
 zzzhfo.cam
 zzzmen99.had.su
