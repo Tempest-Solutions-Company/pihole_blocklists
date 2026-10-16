@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-16 03:13:35 UTC
-# Total domains: 1119695
+# Generated: 2026-10-16 09:21:44 UTC
+# Total domains: 1119721
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4001,6 +4001,7 @@
 0jy6i8m7ah.s3.us-south.objectstorage.softlayer.net
 0jy7-uuaz6v-ynq9.anjaan.com.np
 0jya9gg1.top
+0jye42ba.socop.space
 0jz.mcej9.ru
 0k.18yk.ru
 0k.29rs.ru
@@ -21840,6 +21841,7 @@
 2439088-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 243news.net
 243po.app.link
+244.129.238.35.bc.googleusercontent.com
 244.33.109.208.host.secureserver.net
 244.ip-54-38-53.eu
 244005af.hgwrhtr.com.cn
@@ -31983,6 +31985,7 @@
 3pijfp.sbs
 3pimath.org
 3pindia.in
+3pink.workers.dev
 3pixel.agency
 3pj66.com
 3pjx.com
@@ -35051,6 +35054,7 @@
 49.51.163.155
 49.51.43.12
 49.69.53.65.63.38.23.krakentxy.com
+49.74.199.35.bc.googleusercontent.com
 49.lapzd.com
 49.pixelcraft.mom
 490.halfquark.ru
@@ -49671,6 +49675,7 @@
 77mh.xyz
 77moea.top
 77mpwtvdx6w3shs.weeblysite.com
+77nm4x7se1.workers.dev
 77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion
 77p.mobi
 77pano45.xyz
@@ -54530,6 +54535,7 @@
 8hsq61bf6hwh.swipepages.net
 8hsvhjs7yy8uhjwy8wiw8uixi8uwrewjn.pages.dev
 8hup650w.hiwino.app
+8hxp86s4.agpoferroli.nl
 8hxrn38bienep5p.we9ixzz.co
 8hxw.tap3500b6c.cc
 8hxw.tap38269fy.cc
@@ -119420,6 +119426,7 @@ api.ewfiles.net
 api.ezilax.com
 api.f8bet.gr.com
 api.faceb00k.25march.com
+api.failproxy.space
 api.fanataxservices.com
 api.federickcasto.workers.dev
 api.files.link
@@ -216624,6 +216631,7 @@ browse-accessaccount.com
 browse-codes-enter.beer
 browse-d.gl.at.ply.gg
 browse-extension.com
+browse-id-enter.codes
 browse-member-ltd-aeeda7.ingress-florina.ewp.live
 browse-opensea.com
 browse-secure.kesug.com
@@ -260035,6 +260043,7 @@ cit3z3n-1nf0.live
 cit3zenswebauth.com
 cit3zenverrify.info
 cit4-ns.firebaseapp.com
+cita-top.com
 cita.com.my
 cita.zlayvez.name
 citabncr2021.com
@@ -270073,6 +270082,7 @@ cmowlrdveyfqknkt-dot-millinium.ey.r.appspot.com
 cmp.mc
 cmp.rurs.net
 cmp12115.wixsite.com
+cmp4.top
 cmp5itpp9h30577inogg.tsrv1.ws
 cmpaasmetrics-vip-b.serpgold.com
 cmpadvisory.com
@@ -450760,6 +450770,7 @@ gk9ek.aweys.net
 gka55773zw.temp.swtest.ru
 gka806.com
 gkahaf62828.fhkapu.com
+gkalx2i1c9.workers.dev
 gkanimal.com
 gkb-transit.com
 gkbci29u.dongjiakg.com
@@ -550522,6 +550533,7 @@ jiqyli.workers.dev
 jira-online.com
 jira.cashback-freedommobi1737.com
 jiradiagnostics.com
+jiramora.workers.dev
 jiran.fahrylvpn.my.id
 jirb.org.tw
 jirehaccesorios1.com
@@ -551348,6 +551360,7 @@ jksddf.weebly.com
 jksdhjfcurrentlyeyer.weebly.com
 jksdjd83902-1324217172.cos.ap-beijing.myqcloud.com
 jksdjfbdnsdbf.com
+jksdjkjs.cc
 jksdjsjyujdfattnetcurrent.weebly.com
 jksfoodsandflavours.in
 jksggfd-rblx.blogspot.com
@@ -579430,6 +579443,7 @@ krikenslogim.gitbook.io
 krikiemnilogin.webflow.io
 krikon-lognzx.godaddysites.com
 kril-meta-flop-biz.pages.dev
+krilion.io
 krim-meta-zok-biz.pages.dev
 krim-transfer.ru
 krimanisha.github.io
@@ -596019,6 +596033,7 @@ legrrio-logoin-us.webflow.io
 legscreativearts.com
 legss.github.io
 legtredeze-f45e48.ingress-baronn.ewp.live
+legubofa.workers.dev
 leguero.com.br
 leguirek.com
 legumix.fr
@@ -624560,6 +624575,7 @@ m3-ilsroyals5-3e58df8857178-files-cloud-drobox.bilgilerimiguncelle.com
 m3-onlineupdate.com
 m3.10tw.ru
 m3.3r7j7.ru
+m3.888-fw.com
 m3.8h66.ru
 m3.b8c90.ru
 m3.c34uu.ru
@@ -677102,6 +677118,7 @@ missgypsywhitemoon.com.au
 misshabeauty.com
 misshon.com
 misshoustonpageant.com
+missietricky.workers.dev
 missiewatts.com
 missileperformance.hu
 missinaijns.diskstation.eu
@@ -695021,6 +695038,7 @@ mw1.rqa-b.my.id
 mw2pdez4s0.bizmw.com
 mw2se3muz2xfti109.wusps.xyz
 mw3fc.app.link
+mw3hx21fut.workers.dev
 mw3oakcvcvq7w8qqq41p5bwd.wusps.xyz
 mw4lqosc-cg18.vercel.app
 mw6agx4t.hushripple.ru
@@ -722247,6 +722265,7 @@ ninth8838.co.vu
 nintvncm.rayegan.net
 ninuswood.com
 ninvvxmfmoanrtnzuoqhuhxtuetcbvfnkuqy-dot-cryptic-now-290917.ey.r.appspot.com
+ninypy.workers.dev
 nio.byd.mybluehost.me
 nio9j9f8sf.vercel.app
 nioas33l.shop-aquaburn.us
@@ -851778,6 +851797,7 @@ rex.sm188dadu.top
 rex.sm188daftar.mom
 rex3.thevillages.nossosupermercado.com
 rexa.pages.dev
+rexacheat.com
 rexandcarmen.icu
 rexandfriends.com
 rexansteeltubes.com
@@ -851786,6 +851806,7 @@ rexas-financedapp.pages.dev
 rexasclaim.com
 rexasfinancedatafix.pages.dev
 rexasfinancefix.pages.dev
+rexastress.com
 rexaswese.dedyn.io
 rexbd.com
 rexbit-c439fe.ingress-erytho.ewp.live
@@ -865344,6 +865365,7 @@ runecpower.com
 runed-transmitters.000webhostapp.com
 runelegendsloginrewards.com
 runelie.net
+runelite.cc
 runelite.is
 runelite.menu
 runent.xyz
@@ -906570,6 +906592,7 @@ silent-grove.ru
 silent-hall-67beo.clintanthony-b33.workers.dev
 silent-harvest.ru
 silent-invincible-thought.glitch.me
+silent-low.com
 silent-malachite-puma.glitch.me
 silent-meadow-base.silentmeadow.in.net
 silent-mouse-c738.leafpan.workers.dev
@@ -1005944,6 +1005967,7 @@ u-unique6.github.io
 u-uniswap.github.io
 u-upholdlogins.gitbook.io
 u.1i5i.ru
+u.86idn.com
 u.amazoncojp-secure.cf
 u.amazoncojp-secure.ga
 u.amazoncojpsett.gq
@@ -1056753,6 +1056777,7 @@ vtiktok.cc
 vtilebase.technoartha.com
 vtily3to6zm5qop48gns.000webhostapp.com
 vtiqiwzpfnt3kltid0v4.qwo231sdx.club
+vtivision-fi.com
 vtivision.ca
 vtivission.com
 vtixdvi.tokyo
@@ -1118494,6 +1118519,7 @@ zubitours.com
 zubnet.by
 zubora-shufudiet.com
 zubren.top
+zubyretu.workers.dev
 zucchinicru.com
 zuckermannphotography.com
 zuckerwolken-express.de
