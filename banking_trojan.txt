@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-16 15:28:24 UTC
-# Total domains: 12058
+# Generated: 2026-10-16 21:34:59 UTC
+# Total domains: 12061
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1196,6 +1196,7 @@ appmarket.sbs
 appme.store
 appmobile.store
 apposx.com
+apppanda.xyz
 appreciationfinancial.com
 apps-desktop-download.com
 apps-desktop-downloads.com
@@ -7154,6 +7155,8 @@ kstjz.com
 ktczw.com
 ktlyy.click
 ktshop4homes.com
+ktx123.net
+ktxapp.com
 ku6t.top
 kuaisuzhandou.com
 kuaiyin004.com
