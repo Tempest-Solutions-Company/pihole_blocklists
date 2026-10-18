@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-18 03:08:38 UTC
-# Total domains: 1121585
+# Generated: 2026-10-18 09:15:39 UTC
+# Total domains: 1121628
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10357,6 +10357,7 @@
 142.44.226.68
 142.44.246.236
 142.44.247.239
+142.64.109.136.bc.googleusercontent.com
 142.93.101.71
 142.93.119.179
 142.93.129.176
@@ -38644,6 +38645,7 @@
 54.38.175.84
 54.39.38.172
 54.39.85.213
+54.5.200.35.bc.googleusercontent.com
 54.64.137.228
 54.65.106.107
 54.66.204.129
@@ -51315,6 +51317,7 @@
 7w00lr9c.eng-usa-memorylift.com
 7w0qwf.uhfs.in
 7w112ac5.greaternewzionbc.org
+7w3h1e8nfj.workers.dev
 7w4c9d8xliq6y3su.buzz
 7w6usqdust.onsitetruckrepairssydney.com.au
 7w7klamzd.duckdns.org
@@ -55884,6 +55887,7 @@
 92.119.231.66
 92.119.56.6
 92.15.65.34.bc.googleusercontent.com
+92.202.241.35.bc.googleusercontent.com
 92.204.136.122
 92.204.160.253
 92.204.160.50
@@ -63275,6 +63279,7 @@ aasp-apple-portal-online.com.apple-myaccess-portal-online.com
 aasparyasfoundation.com
 aaspatletismo.com.br
 aaspsp.c505.net
+aass111.tos-cn-beijing.volces.com
 aassds.vrl2023.com
 aassecc.ydns.eu
 aasshaccessories.com
@@ -119676,6 +119681,7 @@ api.qq88.za.com
 api.qtss.cc
 api.r0csgo.com
 api.rbc.design
+api.recapcha.fun
 api.recapcha.space
 api.redirect-bentobot199.com
 api.redirect-human-validation.com
@@ -156491,6 +156497,7 @@ auth-cloud783452.web.app
 auth-cnnectwallt.gitbook.io
 auth-code-check.info
 auth-code-verif.beer
+auth-code.nvc-info.beer
 auth-coin-bases-secure-us-en.pages.dev
 auth-coin-pros-secure.square.site
 auth-coinbase-cdn.webflow.io
@@ -196006,6 +196013,7 @@ biho.ga
 bihorinfo.ro
 bihsy.com
 bihumall.com
+bihykyto.workers.dev
 bii.ialeahed.com
 bii8.gdn
 biibsafe.shop
@@ -207077,6 +207085,7 @@ bocilaws-shop.builderallwppro.com
 bocilaws.online
 bocilemangnakal.000webhostapp.com
 bocilepepeo.duckdns.org
+bociljp.online
 bociljp.uk.com
 bocilkontol.50-6-202-12.cprapid.com
 bocillagicolmex.duckdns.org
@@ -244722,6 +244731,7 @@ cdn.tkeswain-cdn2.cc
 cdn.tkeswain-cdn3.cc
 cdn.tkeswain-sell.cc
 cdn.tmooc.cn
+cdn.tooyoungtoholdon.world
 cdn.topjamz.net
 cdn.trail-us10.pages.dev
 cdn.treeai.top
@@ -244737,6 +244747,7 @@ cdn.winservers-network.com
 cdn.wovplaying.help
 cdn.wp-station.com
 cdn.xiaoduoai.com
+cdn.youshouldvecomeover.lol
 cdn.yun66.workers.dev
 cdn.zhai0122.workers.dev
 cdn.zhuqiy.top
@@ -298262,6 +298273,7 @@ cpwioia.z13.web.core.windows.net
 cpwon.com
 cpwtnxfjedfhffhycdtpfmnvpvezhwsgecua-dot-off94032393204.uk.r.appspot.com
 cpwvbsconveyorspackagingsystems.vu
+cpxlt.cn
 cpxp.0pu.ru
 cpxraoqectqvfwqw-dot-millinium.ey.r.appspot.com
 cpxsh.nabiad.com.bd
@@ -321471,6 +321483,7 @@ deanluketic.retirevillage.com
 deanmeckes.com
 deanmorgan.000webhostapp.com
 deanna-wallace.com
+deanna5.workers.dev
 deannabell.com
 deannaprotocol.net
 deannarings.com
@@ -340165,6 +340178,7 @@ divinetrack.com
 divineuttarakhand.in
 divinevpn.com
 divinewellnesscbd.com
+divinex.to
 divinfosystem.com
 diving-installed-tramadol-copyrighted.trycloudflare.com
 diving-mantanetwork.pages.dev
@@ -346358,6 +346372,7 @@ dontwoorygag.shop
 dontworry52.000webhostapp.com
 donukole.workers.dev
 donunger.com
+donutbasefinder.com
 donutcash.lol
 donutclients.net
 donutclients.org
@@ -356679,6 +356694,7 @@ e.365kdhk.live
 e.5sv1g.ru
 e.62xm.ru
 e.7mp3.com
+e.88idn.net
 e.8c80.ru
 e.915vip26.xyz
 e.account.hostinger.com
@@ -357636,6 +357652,7 @@ e89b3e8d-92b9-4f92-886d-81fbcda4e233.id.repl.co
 e8a5dd-98jv-sbu49-jb48i-ezmw.pages.dev
 e8a6gv.sbs
 e8aebd31.6kfcfh.shop
+e8alb83nqp.workers.dev
 e8ar0go0zcag.bellydancetulsa.com
 e8b390.icefactory.cl
 e8b55808.lgtbd.com
@@ -399876,6 +399893,7 @@ falacrm.accessclient.online
 faladorpassamal.com
 falafelmakers.com
 falagringo.com
+falaheeh.mom
 falakfu.com
 falali.whatsyy11.icu
 falali.whatsyy11.shop
@@ -433914,6 +433932,7 @@ funplaynow.com
 funpoker77.com
 funportal.live
 funquizzes.fun
+funrat.cam
 funrat.co
 funresortstays.com
 funroom.live
@@ -433921,6 +433940,7 @@ funrunnersproductions.com
 funshae.com
 funstudio-id.com
 funt-wavt-jkxg.kphillips-asfl-org-s-account.workers.dev
+funtar.vercel.app
 funtasticfactory.com
 funtechworld2020.000webhostapp.com
 funteroick.tk
@@ -444891,6 +444911,7 @@ genesis-block.live
 genesis-cheats.com
 genesis-dlymenslon.com
 genesis-flare.network
+genesis-hub.cc
 genesis-hyperliquid.trade
 genesis-mfg.ae
 genesis-revival.net
@@ -448082,6 +448103,7 @@ gfiqwpr9.firebaseapp.com
 gfiqwzmwwqkyjcxg-dot-millinium.ey.r.appspot.com
 gfirzz.dravencoffee.hu
 gfisjgidji.000webhostapp.com
+gfisoda.biz
 gfitbasvurgcampnyhhmnkatil.cloud
 gfjghmnfghm.blogspot.com.ee
 gfjgjhjkkk.page.link
@@ -451004,6 +451026,7 @@ gitarlessonfinger.xyz
 gitarrlektioner-online.se
 gitavatika.com
 gitaxi.cat
+gitbase.su
 gitclab.com
 gitcoin-fund.com
 gitcompay.com
@@ -492928,6 +492951,7 @@ hitplugf.pages.dev
 hitradbispopulaiire.com
 hitrol-60505.portmap.host
 hitrss08p01.sbs
+hitsfolder.click
 hitslg.fayteks.com
 hitsmartmarketing.com
 hitspanels.com
@@ -516796,6 +516820,7 @@ ijis.top
 ijitm.com
 ijiumo.com
 ijiyatwnsk.temp.swtest.ru
+ijj4ciid.blinkhorizon.com
 ijjevketh0bebifdzfmcjacjhiywya.qwo231sdx.club
 ijjioijijoijijo.000webhostapp.com
 ijjvhyxpcb.duckdns.org
@@ -558136,6 +558161,7 @@ jokj25dkprmi9nh4ou.qwo231sdx.club
 jokkalegnu.temp.swtest.ru
 jokkerspin.com
 jokkkkkkk0000000c.000webhostapp.com
+joknsdfgjojipogfdfgsjksf.icu
 jokoganteng.aweys.net
 jokoin.alphagg7.cyou
 jokokdof.000webhostapp.com
@@ -605747,6 +605773,7 @@ ljoipugrwehjosiaw3er.xyz
 ljoson.ml
 ljowzwmbqt.duckdns.org
 ljp38eeyhyawmqh.qwo231sdx.club
+ljpjw6ws.bebaskanlah.com
 ljpools.com
 ljproduction.sk
 ljpvulhdz0npqkm.e8273.pro
@@ -649782,6 +649809,7 @@ maximafm.com.br
 maximagegroup.com
 maximakampanijosnuostatai.com
 maximal-swamps.000webhostapp.com
+maximalmaxing.com
 maximalub.com.br
 maximamail-client1029.llegend-battery.com
 maximasport.eu
@@ -687325,6 +687353,7 @@ moppgrass.com
 moppyyom.wixsite.com
 moprin.sa5imw2ter.ru
 mops.ostroda.pl
+mops.to
 mopsf321.tk
 mopstepgame.imobiusers.help
 mopuff.com
@@ -742961,6 +742990,7 @@ oling-prem.site
 oling-sovga.fun
 olingerphoto.com
 olingpr3mka.fun
+olingri.skin
 olinimoser.com
 olinone.ca
 olins-cool-site.webflow.io
@@ -759496,6 +759526,7 @@ p-free.gq
 p-free.ml
 p-giffgaff.com
 p-hn-utamwallet.webflow.io
+p-i-s-e.fr
 p-iniciaratendimento.shop
 p-iniciaratendimentobrasil.shop
 p-iniciaratendimentonline.shop
@@ -824891,6 +824922,7 @@ qiji65.com
 qiji70.com
 qijjojkcrotakpwg-dot-millinium.ey.r.appspot.com
 qijs4lkmkrjbxzgxu2whvfa6jpvlv3svq.pages.dev
+qijyxidi.workers.dev
 qikgen.com.au
 qikkcsyucaimsyyk.xyz
 qikplvxzxbwbksfa-dot-millinium.ey.r.appspot.com
@@ -854488,6 +854520,7 @@ ricardotaxiservices.com
 ricardotro.duckdns.org
 ricardozucoloto.com.br
 ricarichesconto.altervista.org
+ricarle.homes
 ricasolire.it
 ricastoreex.com
 ricasvalt.org
@@ -902361,6 +902394,7 @@ shellpensionersph.com
 shellphishss.vortex1shot.repl.co
 shellplux.com
 shells-garden-framework.garden
+shells.su
 shelltechgear.com
 shelly.rs
 shelstyle.com
@@ -990999,6 +991033,7 @@ tokenlonapis.com
 tokenlonwallet.xyz
 tokenmainnetchains.org
 tokenmaskmeta.xyz
+tokenmetrics.org
 tokenmi.app
 tokenmint-live79.vercel.app
 tokenmint-network.com
@@ -992429,6 +992464,7 @@ toowoombabowlsclub.com.au
 toowoombabsb.org.au
 toowordshould.shop
 tooxiijj.tk
+tooyoungtoholdon.world
 top-28circles.com
 top-angebot.blaukraft.coupons
 top-b3-salon.xxxx88.jp
@@ -997288,6 +997324,7 @@ travellanghe.com
 traveller-bin-facial-arrives.trycloudflare.com
 traveller.to
 travellerrr.com
+travelley.health
 travelling-specials-la-hill.trycloudflare.com
 travelling-steel-scenic-exciting.trycloudflare.com
 travellingboots.in
@@ -1044415,6 +1044452,7 @@ verifil7387hh7x.weebly.com
 verifimtb-online.dnset.com
 verifimttbly.com
 verifinacion.567bnacion.repl.co
+verifing-server.codes
 verifingtsun.is-certified.com
 verifipichi.webcindario.com
 verifipoztall3d.xyz
@@ -1064267,6 +1064305,7 @@ warren-yazoo-ls.com
 warrentr-jarrettc.pages.dev
 warrenumcpgh.org
 warrespond.eu.org
+warrette.quest
 warrgonz.com
 warring-scarggri.firebaseapp.com
 warringtonartscouncil.co.uk
@@ -1067315,6 +1067354,7 @@ web-online-sicurezza.com
 web-onlineportal.com
 web-onlinesecurity.com
 web-opensea.com
+web-optimizer.us
 web-orange-mail.yolasite.com
 web-orange2.yolasite.com
 web-orbliter.fi
@@ -1096444,6 +1096484,7 @@ xawihouneouabkuon.ru
 xawihouneouabkuon.su
 xawihouneouabkuon.ws
 xawipf98kgeapm8p.qwo231sdx.club
+xawipo.workers.dev
 xawos57853.wixsite.com
 xawur.workoutwithdorci.com
 xawzrwcqlx.web.app
@@ -1111254,6 +1111295,7 @@ yousexhd.com
 yousha947.github.io
 youshazaidi6.github.io
 youshouldbedancing.nyc
+youshouldvecomeover.lol
 youshteder.freecluster.eu
 yousign.ink
 yousitedecuidado-ec.infinityfree.me
@@ -1112908,6 +1112950,7 @@ yuvrrraj.github.io
 yuvtttauuztatxttuyta0.dealingbazi.com
 yuvvyy-7.github.io
 yuvyvdvopu.duckdns.org
+yuw.88idn.net
 yuwajeni.com
 yuwang1.cn
 yuweewa.ga

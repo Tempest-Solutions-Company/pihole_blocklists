@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-10-18 03:08:38 UTC
-# Total domains: 128122
+# Generated: 2026-10-18 09:15:39 UTC
+# Total domains: 128162
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1650,6 +1650,7 @@
 140votes.net
 1410.165-227-83-163.site
 141oppott.com
+142.64.109.136.bc.googleusercontent.com
 1425733911-caaaf5vnxv.ap-guangzhou.tencentscf.com
 142oppott.com
 143.21.187.35.bc.googleusercontent.com
@@ -3918,6 +3919,7 @@
 53lbzsch.flasburn.us
 53m39h140825oaa.cfd
 54.1r55.ru
+54.5.200.35.bc.googleusercontent.com
 54.jk3y7.ru
 5404.a.hostable.me
 541lindy.workers.dev
@@ -5277,6 +5279,7 @@
 7w.rvox.ru
 7w00lr9c.eng-usa-memorylift.com
 7w112ac5.greaternewzionbc.org
+7w3h1e8nfj.workers.dev
 7wa.cieardrop.ru
 7wa2jt140825ww.cfd
 7wagrm1i.mulip.store
@@ -5882,6 +5885,7 @@
 91vkuxv1.enf90.net
 91wx.top
 92.15.65.34.bc.googleusercontent.com
+92.202.241.35.bc.googleusercontent.com
 92.dmrdjmejuah.icu
 92.sp1remoss.ru
 923nr8dp.chloroquineser.com
@@ -12721,6 +12725,7 @@ api.qjweb.xyz
 api.qq88.za.com
 api.qtss.cc
 api.r0csgo.com
+api.recapcha.fun
 api.rh7.ninja
 api.riklicidufiorai.com
 api.rootvk.messager.my
@@ -15108,6 +15113,7 @@ auth-captcha.click
 auth-clo-id.cc
 auth-code-check.info
 auth-code-verif.beer
+auth-code.nvc-info.beer
 auth-confirm-eight.vercel.app
 auth-confirm-two.vercel.app
 auth-den-tdu.vercel.app
@@ -18867,6 +18873,7 @@ bigwso.playit.love
 bigyahu.fans
 bigzerotechnology.com
 bihaku77.com
+bihykyto.workers.dev
 bii8.gdn
 biifor.com
 biiing.net
@@ -20283,6 +20290,7 @@ bobypony.olympe.in
 bocaacupuncture.org
 bocaleader.com
 bochanghoa247.com
+bociljp.online
 bociljp.uk.com
 bocmf50748.workers.dev
 bocopropertygroup.com.au
@@ -24486,11 +24494,13 @@ cdn.sentihey.dedyn.io
 cdn.soft-update.click
 cdn.sys-update.online
 cdn.textits.pics
+cdn.tooyoungtoholdon.world
 cdn.tulipstone.cc
 cdn.viet69.vg
 cdn.winservers-network.com
 cdn.wovplaying.help
 cdn.wp-station.com
+cdn.youshouldvecomeover.lol
 cdn.zhuqiy.top
 cdn.zrorolite.com
 cdn1-lake.skysriver.com
@@ -31901,6 +31911,7 @@ deane4y5not.ru
 deaneryschools.com
 deanluketic.retirevillage.com
 deanna-wallace.com
+deanna5.workers.dev
 deanshs.com
 deanslandscaping.com.au
 deansneckties.com
@@ -33651,6 +33662,7 @@ divineservicesgroup.co.uk
 divinesoulcamp.com
 divinestresser.info
 divinevpn.com
+divinex.to
 divinni.com.br
 divisible.solutions
 divixupdate.zapto.org
@@ -35902,6 +35914,7 @@ e.0u7y.ru
 e.2f8-2.ru
 e.5sv1g.ru
 e.62xm.ru
+e.88idn.net
 e.8c80.ru
 e.b340.ru
 e.b5k6f4.ru
@@ -36061,6 +36074,7 @@ e8.gleamspan.ru
 e8.plx-5.ru
 e8.qzad-3.ru
 e88-ee88.com
+e8alb83nqp.workers.dev
 e8f5p.x3le.online
 e8gr1jq7.pura--boost.us
 e8jla7wl.u9putvirolo8.ru
@@ -41571,6 +41585,7 @@ fakezoommeeting.site
 fakirpaikarizone.com
 fakssfriday.hc0.me
 falafelmakers.com
+falaheeh.mom
 falaqnurserybd.com
 falatrade.com
 falcoju.shop
@@ -45410,8 +45425,10 @@ funnytubes.info
 funplay-ns.pl
 funpoker77.com
 funportal.live
+funrat.cam
 funrat.co
 funroom.live
+funtar.vercel.app
 funwiz.org
 funwork.io
 fuokex.com
@@ -47160,6 +47177,7 @@ genesio.de
 genesirevival.com
 genesis-cheats.com
 genesis-flare.network
+genesis-hub.cc
 genesis-hyperliquid.trade
 genesis-mfg.ae
 genesis-revival.net
@@ -47638,6 +47656,7 @@ gfhdsjkasd.duckdns.org
 gfhjkb.site40.net
 gfhtxq18.varzeshnow.ir
 gfirzz.dravencoffee.hu
+gfisoda.biz
 gfkpromosystem.com
 gflyifvtyuarn.com
 gfmuomz.pinbahiis.com
@@ -48017,6 +48036,7 @@ gitarlessonfinger.xyz
 gitarrlektioner-online.se
 gitavatika.com
 gitaxi.cat
+gitbase.su
 gitclab.com
 gitcoin-fund.com
 gitcompay.com
@@ -53209,6 +53229,7 @@ hitomi333-oekaki.com
 hitonowa-salon.com
 hitpanels.com
 hitrol-60505.portmap.host
+hitsfolder.click
 hitspanels.com
 hitstp.com
 hitsujiaroma.com
@@ -55933,6 +55954,7 @@ ijepong.com
 iji.5tr.org
 iji.iakmialor.web.id
 ijitm.com
+ijj4ciid.blinkhorizon.com
 ijm1e9p4.chrisbrownstlouis.com
 ijnitra.com
 ijry.1ndu5trinsh.ru
@@ -60021,6 +60043,7 @@ joker123dragon.space
 jokertor.com
 jokesprite.info
 jokiluosto.com
+joknsdfgjojipogfdfgsjksf.icu
 jolfy6yu.ejash.store
 joliegoldeg.com
 joliejaune.tn
@@ -67357,6 +67380,7 @@ ljnnay.synptigen.com
 ljo.cl0udfall.ru
 ljofonx.muveszetiirasok.hu
 ljogytxh.dealzauber.qpon
+ljpjw6ws.bebaskanlah.com
 ljqk.bahigo.casino
 ljqwjle.wisconsinriveroutfitters.com
 ljr.1001gacor.org
@@ -71600,6 +71624,7 @@ maxillobraconi.it
 maxillocopelli.it
 maxilum.com
 maximakampanijosnuostatai.com
+maximalmaxing.com
 maximatelecom.net
 maximesalon.com
 maximtubes.com
@@ -73591,6 +73616,7 @@ minedofpepe.com
 minedonate10.waizerfly.com
 minedrop-au.com
 mineflowads.com
+minefox.lol
 minefunc.ml
 minefunsamp.tk
 minehog.com
@@ -75025,6 +75051,7 @@ mopoj.icu
 moppgrass.com
 moprin.sa5imw2ter.ru
 mops.ostroda.pl
+mops.to
 mopsf321.tk
 mopuff.com
 mopulu.workers.dev
@@ -81747,6 +81774,7 @@ olimaxpecas.com
 olimit4.shop
 olimptds.com
 olinanet.com
+olingri.skin
 olinone.ca
 olivaferreira.eng.br
 olivar-design.net
@@ -90348,6 +90376,7 @@ qifokya5.ru
 qighklwi.b2sil5kirdor.ru
 qigong-zhen-pai.com
 qiig7t2nzog.com
+qijyxidi.workers.dev
 qikkcsyucaimsyyk.xyz
 qikyva.workers.dev
 qilapvvt.ganuneasasi.xyz
@@ -94132,6 +94161,7 @@ ricardonudelman.com
 ricardoponce.com
 ricardotaxiservices.com
 ricardotro.duckdns.org
+ricarle.homes
 ricasolire.it
 riccardson.click
 rice.1a2e6.ru
@@ -99641,6 +99671,7 @@ shellengi.pastor-publicist.lat
 sheller.net
 shellplux.com
 shells-garden-framework.garden
+shells.su
 shelltechgear.com
 shelter19.com
 sheltercirrus.com
@@ -110328,6 +110359,7 @@ tokencheck.site
 tokenclaim-rayls.xyz
 tokenclear-report.com
 tokenjungle.io
+tokenmetrics.org
 tokeno6a.xyz
 tokenpecket.org.cn
 tokenpkcket.org.cn
@@ -110536,6 +110568,7 @@ toorconcrete.com
 toothnir23.xyz
 toothpastesense.xyz
 tootiswe.cfd
+tooyoungtoholdon.world
 top-b3-salon.xxxx88.jp
 top-beds.net
 top-business-blog.com
@@ -111366,6 +111399,7 @@ travelingjudi.com
 travelista.it
 travelistia.com
 traveller.to
+travelley.health
 travelmag.nl
 travelmindedmasters.live
 travelmix.ch
@@ -117092,6 +117126,7 @@ verifiedbmsells.com
 verifiedcarrier.alladinbarry.workers.dev
 verifiedstats.net
 verifier.paymentsoverflow.com
+verifing-server.codes
 verifreport.com
 verify-auth-cloud.com
 verify-four.meme
@@ -119521,6 +119556,7 @@ warpavfun.com
 warpje.xyz
 warrantify.com
 warrenumcpgh.org
+warrette.quest
 warriorinjapan.hostjava.net
 warriorsoftorah.com
 warryotrisjmsolvlmsf.website
@@ -119888,6 +119924,7 @@ web-login-cdn.tonescapesccbnv.live
 web-neuroxen.com
 web-news-blog.com
 web-ocean.com
+web-optimizer.us
 web-phantom.to
 web-protection.beer
 web-s.iqtanee.com
@@ -123283,6 +123320,7 @@ xawihouneouabkuon.org
 xawihouneouabkuon.ru
 xawihouneouabkuon.su
 xawihouneouabkuon.ws
+xawipo.workers.dev
 xawur.workoutwithdorci.com
 xax.cahayasm188.top
 xax.depansm188.top
@@ -125902,6 +125940,7 @@ yourthirdeyeadvisor.com
 yourtriallawyer.com
 yourverifiycation.com
 yourwayoutbailbonds.com
+youshouldvecomeover.lol
 youssefnaitbelaid.com
 youssefragab.com
 yousufdigitalcenter.com
@@ -126148,6 +126187,7 @@ yutpn23730.workers.dev
 yuu-jinsei.com
 yuugzs.erzelmifejlesztes.hu
 yuvrajclub.com
+yuw.88idn.net
 yuwajeni.com
 yuxinproteins.com
 yuye.ru
