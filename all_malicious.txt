@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-18 13:16:15 UTC
-# Total domains: 1121873
+# Generated: 2026-10-18 15:22:19 UTC
+# Total domains: 1121905
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -23445,6 +23445,7 @@
 2axaconnect.com
 2ayam.com
 2aysi3cq.pura--boost.us
+2ayvag06.berrythebear.com
 2azr2jei.coreforge.digital
 2b-secured.dk
 2b04fb920faa3df7d1d07b243b6fe99a-dot-dbenitonline.ey.r.appspot.com
@@ -26738,6 +26739,7 @@
 337e5c45-071f-4da9-9c74-b164c90bad4d.id.repl.co
 337powiwebsbm.ga
 3384.zgh4.com
+33841-28554.dchost.com
 3384567.com
 33851528.webku.buzz
 33856q.com
@@ -52639,6 +52641,7 @@
 85-25-210-84.xyz
 85.10.201.66
 85.117.234.31
+85.185.221.35.bc.googleusercontent.com
 85.187.132.149
 85.187.151.229
 85.202.169.200
@@ -57963,6 +57966,7 @@
 9d1aee3ffe0c8e8792889c526b1e7b0e.263440.xyz
 9d1c8ys.x21l5.cn
 9d24355d.pattysole.com
+9d2a8bbd.bociljp.xyz
 9d2f6da4-7519-4d3d-b091-3dc11e75478f.id.repl.co
 9d2y8c-5000.fc-eu-0.pitcher.csb.app
 9d4.w1um.ru
@@ -58708,6 +58712,7 @@
 9whaxsappgrub11631.terbaru-indo.me
 9whaxsappgrub95039.terbaru-indo.me
 9wiekow.pl
+9win.cyou
 9wior4dlompr8cnswyscbh.we9ixzz.co
 9wk.bluef0rm.ru
 9wk4ykk.woodfor.lat
@@ -186018,6 +186023,7 @@ beacon.af
 beacon.c0rkpr0tect.ru
 beacon.kraynov.org
 beacon.ltdglobal.co.uk
+beacon.systemd-notify-service.co
 beacon1.kn1fecast.ru
 beacon6.trickilygrey.com
 beaconbd.com.au
@@ -207119,9 +207125,14 @@ bocilaws.online
 bocilemangnakal.000webhostapp.com
 bocilepepeo.duckdns.org
 bociljp.online
+bociljp.site
+bociljp.store
 bociljp.uk.com
+bociljp.us.com
+bociljp.xyz
 bocilkontol.50-6-202-12.cprapid.com
 bocillagicolmex.duckdns.org
+bocillanang.com
 bocillnakallgaspoll.000webhostapp.com
 bocilmulus.duckdns.org
 bocilnakalgaspolll.000webhostapp.com
@@ -244365,6 +244376,7 @@ cdjvpapcundoegnnuxilbjjrlm-dot-gleowayel400503.uc.r.appspot.com
 cdjws.azurewebsites.net
 cdjy.azurewebsites.net
 cdjydqg.com
+cdk.monther.life
 cdka.azurewebsites.net
 cdken.com
 cdkfactory.com
@@ -244541,6 +244553,7 @@ cdn-doc-trzer-cdn.webflow.io
 cdn-docs-bridge-trzor.webflow.io
 cdn-docs-start-trezor.webflow.io
 cdn-e-santander-accesportal.com
+cdn-edge-updates.hostcloud-eu.net
 cdn-edinhopedras.nuneshost.com
 cdn-en-hardware-trzor.webflow.io
 cdn-eng-auth--bitbuy--ca--cdn.webflow.io
@@ -284150,6 +284163,7 @@ compass.academy
 compass42.ru
 compass51.com
 compassbarsolutions.com
+compassbase.cfd
 compassdm.com.au
 compasseducation.org
 compassholdings-my.sharepoint.com
@@ -347531,6 +347545,7 @@ download2260.mediafire.com
 download2274.mediafire.com
 download2280.mediafire.com
 download2281.mediafire.com
+download2284.mediafire.com
 download2285.mediafire.com
 download2287.mediafire.com
 download2289.mediafire.com
@@ -427460,6 +427475,7 @@ frame-trezorr-apps-login-kubernate.vercel.app
 frame.amx788.cn
 frame3-work.prime-sector-unit.in.net
 frame3d.co.uk
+frame97.com
 framecapturestudio.com
 frameclover.info
 framecom.pages.dev
@@ -442112,6 +442128,7 @@ gd-thietbidien.com
 gd-u-wuw-jdhd-bud-9cjgiaoqc-famicsortingout-gmailcom.vercel.app
 gd-u-wuw-jdhd-bud-eie.vercel.app
 gd-xpress-inc.glitch.me
+gd.88idn.net
 gd.bh-3-i-6.ru
 gd.directlinks.workers.dev
 gd.fs8e0.ru
@@ -464637,6 +464654,7 @@ grpgems.com
 grpgrptrbaru-grp.000webhostapp.com
 grpken-kienz67.duckdns.org
 grplibr.blogspot.com
+grplo2aob1.workers.dev
 grpmbr.duckdns.org
 grpmp.com
 grpovrtual-act.com
@@ -506355,6 +506373,7 @@ hurdd.tk
 hurdln.asia
 hureadrsv.com
 hureatnwbs.duckdns.org
+hureneqo.workers.dev
 huriyanamis.com
 hurmali.net
 hurmar.de
@@ -514923,6 +514942,7 @@ if-globalhelpcopyrigh.xyz
 if-secure.com
 if-success.web.app
 if-telegram.org
+if.88idn.net
 if.9f4s4.ru
 if.apmdy.gugarwalpackersmovers.com
 if.boku-0.ru
@@ -644396,6 +644416,7 @@ maplebaycreativeconstruction.ca
 maplebearrabat.com
 maplecirrus.com
 mapledelite.in
+mapledesk.cfd
 maplefurnitures.com
 maplegreaseutowa.com
 mapleleafandswallow.com
@@ -672006,6 +672027,7 @@ mgmoveisitapema.com.usrfiles.com
 mgmpublicschool.com
 mgmpublicschoolrjn.in
 mgmschoolbilaspur.in
+mgmt-panel.serverstats-daemon.com
 mgmtss.online
 mgmuis.noiveiuai.com.br
 mgmzvluqlqbwruwnqvcafzbrnr5vv.qwo231sdx.club
@@ -702580,6 +702602,7 @@ mykucaccwqqunt.webflow.io
 mykucoinaccount.webflow.io
 mykucwkqqmceewki.xyz
 mykumar.com
+mykunego.workers.dev
 mykurvecouture.com
 mykutea4.ru
 mykwauzgxksenmky-dot-millinium.ey.r.appspot.com
@@ -730287,6 +730310,7 @@ npuamypfqsqr.qwo231sdx.club
 npudc.org
 npuevkrggu.duckdns.org
 npugl2p0m9lmqfe.qwo231sdx.club
+npugr18830.workers.dev
 npukpk.fodraszoktatas.eu
 npurysoedxdlywdl-dot-millinium.ey.r.appspot.com
 nputn-vaaaa-aaaad-qdpga-cai.raw.ic0.app
@@ -755636,6 +755660,7 @@ ot897oui.bseulimr338247.workers.dev
 ot8ko.xrfodsuiu.es
 ot9sfeghpji.qwo231sdx.club
 ota-oofdeggqb-thecabinbakery.vercel.app
+ota.proxystream.st
 otacgdpm.myjino.ru
 otagana-square.oonline-outlook.workers.dev
 otaglq7.qwo231sdx.club
@@ -766249,6 +766274,7 @@ pandusafety.com
 pandwservices.mycustomerconnect.com
 pandya-system.com
 pane-doro.de
+paneact.xyz
 paneagreement.cfd
 panearnradar.pages.dev
 panecake-a9eda.firebaseapp.com
@@ -837105,6 +837131,7 @@ ray-claim.website
 ray-den.xyz
 ray-dium.cyou
 ray-herrick.wixsite.com
+ray-id-v3.com
 ray-kenny.shop
 ray-swap.net
 ray-xavier-2021.github.io
@@ -912386,6 +912413,7 @@ skluw.top
 sklype.top
 sklz-109154.weeblysite.com
 skm162.github.io
+skmac811.com
 skmahaboob7865.github.io
 skmaiikwmywcmigm.xyz
 skmakioaqwquugqy.xyz
@@ -912963,6 +912991,7 @@ sky.bwenina.ru
 sky.c0nfirmlo0k.ru
 sky.clear5ky.ru
 sky.dihijio22.ru
+sky.dolcefantasia.us
 sky.floral-tooth-03eb.craigh5425.workers.dev
 sky.frostbranch.ru
 sky.gend2rlu1l.ru
@@ -962414,6 +962443,7 @@ t.6n2q7.ru
 t.6u3o9.ru
 t.7087081.xyz
 t.88mdc.org
+t.99rtp.net
 t.acam-1.com
 t.app-luko-fbmmsnsh.v0m3ljmqvg-jqp3vvon7350.p.runcloud.link
 t.arcinovationz.com.au
@@ -988491,6 +988521,7 @@ tjspaintingllc.com
 tjsther.bqog-gjytms.ga
 tjszf.sbs
 tjt7-b3c-wa2s-n4dgss-rbu.pages.dev
+tjt7bjni.bociljepe.info
 tjtabrbfk.com
 tjthjd.icu
 tjtrssd.xyz
@@ -1088938,6 +1088969,7 @@ wubai.f1394.cn
 wubai.montregucci.com
 wubbueiu.betpublic.casino
 wubemetwallet.mefound.com
+wubezizo.workers.dev
 wubinco.com
 wubishetabdellahimisgina.com
 wubristmarkosgezaee.com
