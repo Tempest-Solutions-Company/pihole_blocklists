@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-20 03:15:21 UTC
-# Total domains: 1123410
+# Generated: 2026-10-20 09:29:03 UTC
+# Total domains: 1123473
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -34728,6 +34728,7 @@
 47.108.65.110
 47.172-245-112-195.cprapid.com
 47.180.136.243
+47.225.95.34.bc.googleusercontent.com
 47.236.138.228
 47.236.95.136
 47.237.71.10
@@ -39510,6 +39511,7 @@
 55k365.com
 55kb22.com
 55kf2.wusps.xyz
+55l9bouy.bociljepe.info
 55lavkush555.github.io
 55limpatudoagora2025.github.io
 55n7r46d.bibliosmirk.digital
@@ -47489,6 +47491,7 @@
 6kov.com
 6kqcp.com
 6kqr6pgl.jadoou.lat
+6krhuxhtp0k5.bestminecraftplayer.fun
 6krokow.pl
 6krq3t.fat-fly.com
 6kstakgbjzjdqhnczsxilgqzhrs.richardl.xyz
@@ -54566,6 +54569,7 @@
 8g1re5f21s.vercel.app
 8g3jl6mffzxsd.duckdns.org
 8g3y2cjr.eachway-multiplier.com
+8g4rm1waz7.workers.dev
 8g4x7dz1v3tielgpg.duckdns.org
 8g5034gj-kjf-wkrg9eh-5th-8rihw-jf-wer-fjwr49jf.obs.ap-southeast-2.myhuaweicloud.com
 8g7kgrp5.frisbeeburgerllc.com
@@ -99843,6 +99847,7 @@ am.dgzy1.ru
 am.djyvu.lol
 am.dumx.ru
 am.fgoffw.shop
+am.foundation.forum
 am.fy-7a.ru
 am.g6i2.ru
 am.gckhr.lol
@@ -116052,6 +116057,7 @@ anubhavbaghel-ui.github.io
 anubhavbaghel.github.io
 anubhavbhardwaj2004-sketch.github.io
 anubhutitewari.github.io
+anubisclient.co.uk
 anubisonline.top
 anubixfreedom001.duckdns.org
 anublockcha.diskstation.org
@@ -119605,6 +119611,7 @@ api-beta.com
 api-binance.com
 api-blockrectify.pages.dev
 api-bot.khipu.edu.pe
+api-call.ngrok.io
 api-chain.pages.dev
 api-cloud.gatevvay365.workers.dev
 api-cloud.ru
@@ -119761,6 +119768,7 @@ api.baimless.com
 api.bancaloan.com
 api.bertengo.com
 api.best-im-whatsapp.com.cn
+api.beta-into.space
 api.billingafrica.com
 api.bitcoinusdtusdc.xyz
 api.biversum.com
@@ -120068,6 +120076,7 @@ api.vexxuhq.site
 api.vfibra.com.br
 api.vibrantmindstech.com
 api.vnetech.ai
+api.vooi-app.xyz
 api.vroomlocal.com
 api.vxucqb.dpdns.org
 api.vypidvdstatx.click
@@ -120089,6 +120098,7 @@ api.xm-serv.com
 api.xmlrtb-stats.rtb.me
 api.xn--coudflare-0sb.com
 api.xqjiin.sa.com
+api.xyz-code.biz
 api.ymxsd89.com
 api.yqbjdb.app
 api.yu3.io
@@ -122702,6 +122712,7 @@ app-rhr-whatsappcc.com
 app-rht-whatshktw.com
 app-rice738hagafa.ff2atfcv8b-v1p3z1o8p4ye.p.temp-site.link
 app-ripristino-homebanc.com
+app-river.icu
 app-rjl-whatsappcc.com
 app-roadrunner.com
 app-roasfewe87.vaofmhenxo-95m3290pl6rv.p.temp-site.link
@@ -123304,6 +123315,7 @@ app.anchorappweb.com
 app.anreopmas.com
 app.apexfix.xyz
 app.aplitdf.com
+app.app-river.icu
 app.apple.iforgotcloud.cn
 app.appsmartfixup.com
 app.apptptp888.com
@@ -136150,6 +136162,7 @@ artic.com.sa
 articaonlines.com
 artichaud.brussels
 articho.net
+articio.top
 article-mania.net
 article-swap-87236473.ct.ws
 article-trade-278364735.rf.gd
@@ -191422,6 +191435,7 @@ bestmessage.in
 bestmestweb.com
 bestmetamaskextension.gitbook.io
 bestmindlogistics.com
+bestminecraftplayer.fun
 bestmix.ltd
 bestmjinflorida.com
 bestmomreviews.com
@@ -221490,6 +221504,7 @@ btopenworldwebbbbb.weebly.com
 btopenworldwebmail.weebly.com
 btopenworldwebmailing.square.site
 btopenwrld-104914.weeblysite.com
+btorsercoyt31.cc
 btoula.fr
 btp-negoce.com
 btp.gbh.mybluehost.me
@@ -221539,6 +221554,7 @@ btresport.com
 btresport.in
 btreturn.weeblysite.com
 btrewqfrd.tk
+btrf36.cc
 btrgamingofficial.com
 btrhd.blogspot.com
 btriqmgrjf.duckdns.org
@@ -221772,6 +221788,7 @@ btworldbhand.weebly.com
 btworldupdates.weebly.com
 btworldwider.weebly.com
 btworldxx432.weebly.com
+btwpayme.top
 btwrec34.serveusers.com
 btwrld.weeblysite.com
 btwsumzuo8iqf8n8.qwo231sdx.club
@@ -245273,6 +245290,7 @@ cdn.dayaapp.ir
 cdn.dcsnbrxrsg.workers.dev
 cdn.defenders.workers.dev
 cdn.deltapress.one
+cdn.denisfsr-kemp.workers.dev
 cdn.dicsord.uk
 cdn.discrod.uk
 cdn.dit8zv.us.kg
@@ -248680,6 +248698,7 @@ cezarproducoes.com.br
 cezart.com.pl
 cezasorgulama.info
 cezauzlasmaportali.com
+cezawelu-f3e.workers.dev
 cezefilms.com
 cezelwdwcf.ytyukai.cn
 cezf.dogestocks.com
@@ -255788,6 +255807,7 @@ check.oegebo.icu
 check.office365-update.com
 check.ohuxah.icu
 check.oibupi.icu
+check.okx3.io
 check.opie6.icu
 check.owacq.site
 check.ozotuk.icu
@@ -294930,6 +294950,7 @@ corncon.co.za
 corncooing.co.za
 corndatagroup.com
 cornel.it
+cornelabizarre.workers.dev
 corneliusvantil.org
 cornell-reaction-driven-faculty.trycloudflare.com
 cornemuse.be
@@ -343840,6 +343861,7 @@ do.kemem.ga
 do.lage2.ru
 do.lkci1.ru
 do.my
+do.opinionvip.club
 do.pejy1.ru
 do.pendingshipremoval.com
 do.pykokiu43.ru
@@ -347975,6 +347997,7 @@ down.54nb.com
 down.acting-good.com
 down.amazontaxrebate.com
 down.bybitpro.construction
+down.fins.workers.dev
 down.ftp21.cc
 down.fwqlt.com
 down.im112.app
@@ -348126,6 +348149,7 @@ download.edimakor.net
 download.egestx.ru.com
 download.exodus.build
 download.filewebb.com
+download.foden.site
 download.freeshare.link
 download.gemwin.me
 download.giftingbuddy.in.net
@@ -410466,6 +410490,7 @@ fe37afoluctqmdmlzinudgk8ttuf9lylyqsf25-cg1108s.vercel.app
 fe3c49f2-1e3c-4912-ad18-510f5f1f8536.id.repl.co
 fe479469-04fb-4f20-85aa-dd7842a6b286-00-2q8r4x4pt5jg4.worf.replit.dev
 fe4b6dd6.bwxt5e.shop
+fe5.88kfc.org
 fe54e8d5.9jyji2.shop
 fe6507bb54d.pages.dev
 fe704c48.sjw36sya1739.shop
@@ -410579,6 +410604,7 @@ features-gate.vercel.app
 features-plans.ml
 features.build
 features.ml
+featuresfoundation.com
 featuresfusionnsw.net
 featureusps.com
 featurevbu-contentimage-update.vdf.rglabs.co
@@ -417548,6 +417574,7 @@ find.alerts-info.live
 find.apia1e.com
 find.appidis.net
 find.apple.axnvz.cn
+find.beta-into.space
 find.csmq.workers.dev
 find.device-map.info
 find.gn-vm.com
@@ -420874,6 +420901,7 @@ flamier-sons.000webhostapp.com
 flamingelk.com
 flaminghotsauce.com
 flamingo-accounting.co.uk
+flamingo3dstudio.com
 flamingobarandcafe.com
 flamingodefi.com
 flamingofinance.xyz
@@ -427095,6 +427123,7 @@ foundation-login-ck-12345782498650025423.tk
 foundation-login-ck-12345782498650025425.tk
 foundation-trying.gl.at.ply.gg
 foundation.con-wallet.network
+foundation.forum
 foundational-rating.000webhostapp.com
 foundationasdasd.com
 foundationforever.com
@@ -429407,6 +429436,7 @@ free.event.pubg.pemersatubangsa.club
 free.floppydata.com
 free.floridapowerhousewashing.com
 free.flowrodovias.site
+free.foundation.forum
 free.get-your-reward.gq
 free.giftuc.xyz
 free.homohay31.ru
@@ -440837,6 +440867,7 @@ garonacom.co.za
 garonne-habitat.com
 gaross333.wixsite.com
 garotabolada.com
+garowy.workers.dev
 garp1s.windc0met.ru
 garpit001.github.io
 garpu55.000webhostapp.com
@@ -451930,6 +451961,7 @@ githubmaster3000.github.io
 githubsol.pages.dev
 githubvideosphotos.github.io
 githubwiththatntoskrnl.github.io
+gitihubusercomtent.com
 gitika-lang.github.io
 gitim.xyz
 gitlab-signin.com
@@ -455837,6 +455869,7 @@ go.findpuy.presse.ci
 go.followsales.com
 go.for-it.de
 go.fordtransit.org
+go.foundation.forum
 go.gearslutz.com
 go.getspins13.com
 go.giantitp.com
@@ -482979,6 +483012,7 @@ hdxs5sysk.firebaseapp.com
 hdxs5sysk.web.app
 hdxwvyvbd.litesafe.sa.com
 hdxx1.zzux.com
+hdxxax.shop
 hdxy.somipaa9.ru
 hdxzmall.com
 hdyblezvics8kgzlm.barclayis.co
@@ -545280,6 +545314,7 @@ j1xayyip.bordbett10.com
 j1y4.github.io
 j1yidzep.boombasket.bet
 j1zi6frgos01ljakwwk.qwo231sdx.club
+j1zldc3s.bonecaambalabu.com
 j2-citi.com
 j2.sne-4-p.ru
 j2.st0rmbyte.ru
@@ -622955,6 +622990,7 @@ lxrqbkhvntfjp.link
 lxrrxl.ydns.eu
 lxrtmvmdsz.duckdns.org
 lxruvaupggxzlzhzdh2cvsgcti.qwo231sdx.club
+lxservice.net
 lxskdxwgam.duckdns.org
 lxsoj-bsn.zxo.my.id
 lxsrpxux.ga
@@ -699656,6 +699692,7 @@ my.1passvvord.org
 my.3-60.com.co
 my.7-11.com.basery.top
 my.8786.ru
+my.88kfc.org
 my.account-status.my.id
 my.aeandusdnosude.com
 my.amaz0n2.com
@@ -713455,6 +713492,7 @@ nest.safebl0ck.ru
 nest09.cryptonest.in.net
 nest1.gu5hnatr3mb.ru
 nest5.windfiare.ru
+nest5478.ngrok.app
 nesta-tech.com
 nestaku.biz.id
 nestaku.biz.id.temankuhu.my.id
@@ -727046,6 +727084,7 @@ node-v99.amber9stash.coupons
 node-vault.pages.dev
 node-vml.vidfree.net
 node-weblink.live
+node-worker.denisfsr-kemp.workers.dev
 node-x33-auth.curvaforte.in.net
 node-x91-auth.pontesicuro.in.net
 node-x911-auth.ventonodal.cfd
@@ -727063,6 +727102,7 @@ node.digncbe.top
 node.evergreenfin.ltd
 node.fastworknode.lat
 node.fielddie.pics
+node.foundation.forum
 node.gentleroom.lol
 node.globalnodeviewset.pics
 node.hashmonero.com
@@ -743347,6 +743387,7 @@ oki.si
 oki4.info
 okia.eudkmon.top
 okidoki.care
+okidoki.ngrok.app
 okiemmjdirectory.com
 okifpssylp.duckdns.org
 okigeyqwuwkgqawc.xyz
@@ -784015,6 +784056,7 @@ picturesurprise.info
 picturetautan.b0tnet.com
 picturethink.com
 picturetrus.duckdns.org
+pictureurl.com
 picturez.vercel.app
 picturinghealth.org
 picue.net
@@ -787079,6 +787121,7 @@ play.choimu9.xyz
 play.confirmktk.com
 play.crazymob.cc
 play.crazymobb.cc
+play.foundation.forum
 play.fun-4mob.com
 play.fun4mob.cc
 play.funfourmob.com
@@ -787095,6 +787138,7 @@ play.ptdbsviissay.cc
 play.ptdbsviissaz.icu
 play.pubgrp13.com
 play.tiktok102.com
+play.trynode.info
 play.unpezable.co
 play.unpezable.com
 play.unpezablle.com
@@ -820912,6 +820956,7 @@ pukhto.net
 puki-tembam.duckdns.org
 pukit.com
 pukita2.tumblr.com
+pukivo.workers.dev
 pukkibm.web.app
 pukon.co.id
 pukopiwam.dyndns.ddnss.de
@@ -841468,6 +841513,7 @@ reasonablepaltrydevelopers.elmazoprieto.repl.co
 reasonably-expect.my.id
 reasonachiever.xyz
 reasonbind.xyz
+reasongrove.cfd
 reasonreststop.com
 reasplsjfer.com
 reassessproperty.com
@@ -844450,6 +844496,7 @@ redwire-group.com
 redwolvesfans.shop
 redwombat.com.au
 redwood-consulting.com
+redwoodgallery.photos
 redwx.ga
 redx.club
 redxcvfsdgth.info
@@ -847373,6 +847420,7 @@ remellarek.tk
 remember-autoparts.com
 remember-marks.gl.at.ply.gg
 remember.ncsgo.workers.dev
+remember.nffnj.workers.dev
 remember4life.com
 remembered-sink-slip-correct.trycloudflare.com
 rememberer.digital
@@ -847995,6 +848043,7 @@ remove.fbcom-952579778.feltna.si
 remove.fbcom-956555715.feltna.si
 remove.fbcom-987931949.feltna.si
 remove.fbcom-990698712.feltna.si
+remove.ncsgo.workers.dev
 removeabdulla.info
 removeaccess-mobilelogin.com
 removeaccessalert.com
@@ -881598,6 +881647,7 @@ sbminnovations.co.zw
 sbmintl.com
 sbmk.us
 sbmnonres.com
+sbmods.top
 sbmr5-lyaaa-aaaad-qes4a-cai.raw.ic0.app
 sbmu.orueictrecim.info
 sbn-5fwu.vercel.app
@@ -885181,6 +885231,7 @@ se6325741258965856320145.is-a-anarchist.com
 se68u.qwo231sdx.club
 se74yufedw0mvmcijaw18jmchtypb.qwo231sdx.club
 se75u.com
+se7ahj6q.laparnih.com
 se7c-bofca.info
 se7rnrzazdsw4e.qwo231sdx.club
 se86836-sdo324d.pages.dev
@@ -906215,6 +906266,7 @@ shopvip-alibaba.com
 shopvisp.com
 shopvoucherkhuyenmai.tk
 shopvp.net
+shopvumanhcuong.com
 shopware-112223-0.cloudclusters.net
 shopware-113323-0.cloudclusters.net
 shopwaze.ir
@@ -914520,6 +914572,7 @@ skyupgrade2020.weebly.com
 skyuuuuuuler.weebly.com
 skyvadeli.com
 skyvak1fbreysel.homes
+skyvault.help
 skyveqro.cfd
 skyviewaviation.com
 skyviewconcessions.com
@@ -936402,6 +936455,7 @@ ssoteadyauth.arnot-health.org
 ssotrejorstart.wasmer.app
 ssoupehodin.godaddysites.com
 ssowmiya25.github.io
+ssp-prod.joelbauertraining.com
 ssp-sky.de
 ssp2.pl
 sspecser.weebly.com
@@ -964330,6 +964384,7 @@ t3foo5fe35o4xbjzrx4rap5bt3fnyly62uvuaxgsl2srukclrc3q.akrd.net
 t3gd47e84a6.page.link
 t3geu.agi-architectsblog.com
 t3h1337.se
+t3hix0qv.lihannaowenzaus.fit
 t3jfbzhcj9rvc8nl44xbnukyfdb.qwo231sdx.club
 t3jnsev.5q5e5o.cn
 t3k-dan.pro
@@ -993882,6 +993937,8 @@ tool-usps.com
 tool-uspstrack.com
 tool.maivietland.vn
 tool.mdlrh.workers.dev
+tool.ncsgo.workers.dev
+tool.nffnj.workers.dev
 tool.sinkronia.it
 tool.uspsverify.us
 tool.wiwgf.workers.dev
@@ -1050215,6 +1050272,7 @@ victorn120.github.io
 victorobrador.com
 victororsolin.com
 victorpochat.com.br
+victorregenerativemedicinecenters.com
 victorreisgarcez.myddns.me
 victorrgallas.github.io
 victors357.github.io
@@ -1051117,6 +1051175,7 @@ vidobokepgratis.duckdns.org
 vidoeo.github.io
 vidoexxnx.pro
 vidofilm.com
+vidohebu.workers.dev
 vidokep18new.duckdns.org
 vidonline.hs-sites.com
 vidracariacentervidros.com.br
@@ -1087836,6 +1087895,7 @@ worker-young-wave-a6bd.amastanseyfj-kx-906-8.workers.dev
 worker-young-wind-410e.kupsuzufyi.workers.dev
 worker-yuki.kawen217.workers.dev
 worker.co.kr
+worker.defenders.workers.dev
 worker.dev
 worker.ebi1370.ir
 worker.ivoryboard.lol
@@ -1112837,6 +1112897,7 @@ youredoinggreat.today
 youreenough.net
 youremailonline.com
 youremotejobs.com
+youreonlymassive.com
 yourequitytracer.com
 yourestill998.duckdns.org
 yourestim-1024f8a.ingress-alpha.ewp.live
@@ -1119370,6 +1119431,7 @@ ziewqdsaw.cloud
 zieympwbzf.duckdns.org
 ziezicyjby.web.app
 zif.aay.mybluehost.me
+zif7jqzm.bocillanang.com
 zifcfqf.salesventure.co
 ziffrock.com
 zifg62sw71.ufs.sh
@@ -1122387,6 +1122449,7 @@ zurdirian.info
 zuremas.co.vu
 zures.com.br
 zuretsy.blob.core.windows.net
+zurggoyttjof21.cc
 zuriamor.com
 zurichcantonal.com
 zurichcantonalbank.ch
