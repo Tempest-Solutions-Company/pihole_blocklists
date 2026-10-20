@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-20 13:29:59 UTC
-# Total domains: 12077
+# Generated: 2026-10-20 15:41:07 UTC
+# Total domains: 12079
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3780,6 +3780,7 @@ dateup.online
 datinghb.online
 datinghookup.online
 datingmadesexy.com
+datingparadise.vip
 dattolocal.net
 daumcab.net
 davay-ebash.org
@@ -11614,6 +11615,7 @@ whmjlfs.com
 whois.com.ua
 whokilledsallyheet.com
 wholesalerandy.com
+whtas.me
 whtsapp.online
 why-db-sometimes-fails.md
 widechanges.best
