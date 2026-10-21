@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-21 03:09:53 UTC
-# Total domains: 12093
+# Generated: 2026-10-21 09:21:47 UTC
+# Total domains: 12095
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6702,6 +6702,7 @@ jasaceme.com
 jasminefashionstudio.com
 jasperconsults.com
 jav365.com
+javadevhouse.co.kr
 javier1990.dev
 javstar.net
 jawarnutrition.cl
@@ -9286,6 +9287,7 @@ pymsolutions.com.ar
 pypilibrary.com
 pypistorage.com
 python-guru.online
+pythonapischool.com
 q1evaluationperformance.net
 q33.space
 q74vn.live
