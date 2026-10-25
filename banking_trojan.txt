@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-25 12:14:22 UTC
-# Total domains: 12100
+# Generated: 2026-10-25 15:19:45 UTC
+# Total domains: 12105
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -3640,6 +3640,7 @@ ctccourses.online
 ctgfwsxx.com
 cthulhu.net
 ctsgksb.com
+cubedesign.co.kr
 cuchablya.com
 cuellar-martinez.com
 cuenta-ntflx.com
@@ -5177,6 +5178,7 @@ foxplugin.co
 foxplugin.net
 foxtrem.com
 foxxology.com
+fp-news.co.kr
 fp5login.com
 fplenergy.com
 fr-mondialrelay-pro.com
@@ -6942,6 +6944,7 @@ jyyzj.com
 jzdrsy.com
 jzict.com
 k-storage.com
+k-wbc.co.kr
 k.gq
 k1rg2oz4zpzw91pdx90.live
 kaansdesigns.com
@@ -8076,6 +8079,7 @@ mrcrizquna.com
 mroindustrialequipments.com
 mrpenterprise.in
 ms32-download.pro
+msadc.inc
 msbenefit.com
 mscsoftware.com.br
 msdeliverycontent.com
@@ -9461,6 +9465,7 @@ rblangconsult.com
 rcarecordslabel.com
 rchobby.pk
 rcmguttersystems.com
+rcsh.co.kr
 rcuselynac.com
 rdhrse.qpon
 rdnsdomain1.co.in
