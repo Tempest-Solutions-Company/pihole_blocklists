@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-27 12:18:53 UTC
-# Total domains: 1127023
+# Generated: 2026-10-27 15:28:26 UTC
+# Total domains: 1127027
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -20316,6 +20316,7 @@
 20b6.asybc.live
 20b988b3-3698-4edd-8774-b69179613407-www.pages.dev
 20baxov-school.ru
+20bet-casino20.com
 20bet.life
 20brooks.github.io
 20brp.com
@@ -424093,6 +424094,7 @@ flylend.xyz
 flylngtulip.com
 flymapia.com
 flymasters.com.ar
+flymetoyou.app
 flymingotech.in
 flymypixel.com
 flymyshortner.herokuapp.com
@@ -715260,6 +715262,7 @@ nessenger.xyz
 nessfit.fr
 nessia.net
 nesssa.com
+nest-52.com
 nest-ped.firebaseapp.com
 nest-ped.web.app
 nest-v4.cryptonest.in.net
@@ -853045,6 +853048,7 @@ resolvebillingerror.com
 resolvebooking.pages.dev
 resolvebugsnow.netlify.app
 resolvebusiness.vercel.app
+resolvecenprot.com
 resolvecl-idinformation-check.firebaseapp.com
 resolvecl-idinformation-check.web.app
 resolvecr-issuesfound.firebaseapp.com
