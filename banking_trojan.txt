@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-28 15:25:59 UTC
-# Total domains: 12114
+# Generated: 2026-10-28 21:34:05 UTC
+# Total domains: 12116
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -4064,6 +4064,7 @@ djpcareloop.top
 djyclothing.com
 dkcmall.com
 dkdyf.com
+dkfootwearstore.shop
 dkhth.com
 dkii.top
 dkkjs3.top
@@ -5201,6 +5202,7 @@ frasquetcabedo.com
 frbengyw.shop
 frbnp3.com
 frecodecamp.org
+free-secure.com
 freeadultchat.com
 freebasic.cn
 freecasinogames.online
