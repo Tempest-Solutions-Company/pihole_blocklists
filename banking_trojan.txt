@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-29 00:34:47 UTC
-# Total domains: 12116
+# Generated: 2026-10-29 03:13:29 UTC
+# Total domains: 12179
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -472,6 +472,8 @@
 7zlp2024.top
 808s.shop
 809cakesny.com
+81service.icu
+81service.in
 82d35f9b891c987a.fun
 8318188vip.com
 87-899.help
@@ -1170,6 +1172,7 @@ app-tronscan.org
 app-tt-eighteenplus.pro
 app-windows.com
 app.name
+app2-update2.site
 appapi.store
 appconnectips.ph
 appconnectips.ws
@@ -1194,6 +1197,7 @@ applevisionpro.shop
 applicability.security
 application-document.com
 application-review.org
+applypointguides.in
 applywithgreer.com
 applyyourself.com
 appmacosx.com
@@ -2366,6 +2370,10 @@ canadianuniform.com
 canadianvisaexpert.store
 canasisoit.org
 canature.su
+cancelcardprotection.online
+cancelcpservice.in
+cancelmyservice.in
+cancelservice.in
 canghaugiang.vn
 canhovincity-daimo.com
 canli.biz
@@ -2399,8 +2407,13 @@ caraniman.uk
 carboledger.com
 carbonfit.online
 cardcpp.online
+cardforex.icu
 cardhelp.live
+cardplan.online
+cardprotections.in
 cardsearchesnow.com
+cardsprotection.in
+cardsprotection.online
 care-ind.cc
 careallsafe.shop
 careconnectis495.com
@@ -2410,6 +2423,8 @@ careerhit.info
 careerlaunch.ai
 carefortherestofus.com
 caregiverservices-nwvrtx-bc7-mks-us-3.shop
+careidf.online
+carep.online
 carerer.com
 cargo-news.online
 caribeidms.com
@@ -3563,6 +3578,8 @@ cpay.locker
 cpc-ads.com
 cpgek.com
 cpiz.top
+cpmanaged.in
+cppmanage.in
 cprlme.com
 cpvn-eta.cc
 cq1tw.icu
@@ -3831,6 +3848,8 @@ ddpolyplast.com
 ddramdisk.store
 ddvmall.com
 de-update.xyz
+deactivatecpplan.in
+deactivatecpservice.in
 deadandco.store
 deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion
 deadline.space
@@ -5890,6 +5909,7 @@ hdehomem.com
 hdfc-netbanking.secure
 hdgjgw.com
 hdjwmall.com
+hdmanage.online
 hdxzmall.com
 hdzfmelf.com
 headlinepost.net
@@ -6306,9 +6326,13 @@ icmannaws.com
 icon-structures.com
 icongenerator.net
 iconitservices.co.uk
+icppuser.in
+icppuser.online
 icrossingappxyz.com
+icservice.online
 icstoreapp.co.in
 icted.online
+icuser.online
 iczones.com
 id-centraldispatch.life
 id-djp-dl.com
@@ -6321,14 +6345,17 @@ idaculipa.com
 idahohousing.finance
 idaimall.com
 idayasac.com
+idcare.in
 ideagm.com
 ideakhmer.com
 idealthreads.shop
 idealuv.com
 ideeo.site
 ideish.com
+idfcare.in
 idfconsortium.info
 idfs.com
+idmanagecp.online
 idmpajak.com
 idn-digital.com
 idn-dirjenpajak-caring.cc
@@ -6342,6 +6369,7 @@ idokta.com
 idolajp85.net
 idox.io
 idphil.net
+idservice.in
 idt911consulting.com
 idtechonline.com
 iebam1.buzz
@@ -6407,6 +6435,9 @@ immadeinhisimage.com
 immigration-kr.net
 immocom.de
 immunehealth.org
+imobile.services
+imobilelite.in
+imobileservices.online
 imobiliariaricardoparanhos.com
 impart.online
 importenptoc.com
@@ -6432,6 +6463,8 @@ ind-ikddps.online
 ind-ikddpzs.online
 ind-ikddpzz.online
 indebt-faturas.com
+indeemanage.in
+indemanage.in
 independent-transport.com
 indevteam.com
 indexmusic.online
@@ -6443,7 +6476,9 @@ indianapolishomes.org
 indiaprimeservices.com
 indiemusicacademi.com
 inditedexplanatory.webcam
+indiuser.com
 indobit.io
+inducare.online
 industriasfritz.com
 industryengagements.com
 indytosee.com
@@ -6499,6 +6534,7 @@ insinght.site
 insmediamalls.com
 insplredthinking.group
 instagram-verify.com
+install-update.xyz
 installationmultipose.ca
 installationsoftware1.com
 installationupgrade6.com
@@ -7696,6 +7732,16 @@ mamonol.cyou
 mamotsemall.co.za
 mamzouka.net
 man-ex.com
+managebworld.com
+managecare.in
+managecare.online
+managecp.co.in
+managecp.com
+manageici.com
+manageinsurances.online
+manageprotection.in
+manageprotectionplan.in
+manageprotections.com
 manaraest.com
 manazerixa.uk
 manflle.com
@@ -8173,6 +8219,7 @@ mygrammerlab.com
 myhealthybodynow.net
 myhomeservice.pro
 myhypnosishealing.com
+myicuser.in
 myiinps.com
 myinpsi.com
 myinpsia.com
@@ -8180,6 +8227,7 @@ myinpsic.com
 myinpsit.com
 myinsights.online
 myinsourcing.com
+myinsuranceservice.in
 mykeytakeaway.com
 mylingocoin.com
 mymidlandmortgaga.com
@@ -8189,6 +8237,8 @@ myoktasso.com
 myolton.com
 mypasskeyid.com
 mypasskeysso.com
+mypnhelp.online
+mypolicyservice.in
 myprizes.site
 myr7.top
 myrideshares.com
@@ -9054,8 +9104,10 @@ plusscroll.com
 plwskoret.top
 plyhnf.com
 pm-staging.com
+pmanage.online
 pmchurch.net
 pmcior.com
+pncare.online
 pneuservisbartos.cz
 pneuvm.cz
 pngtoico.io
@@ -9069,6 +9121,7 @@ polen-chat.de
 policiacivil.pe.gov.br
 policiacivilmg.com
 policy.video
+policydeactivate.in
 politsei.one
 politsei.shop
 politseii-ee.cyou
@@ -9214,6 +9267,7 @@ prosperpuls.online
 protect.in
 protectcc.online
 protectedcheckoutroute.com
+protectionmanage.online
 protenza-eg.com
 protestobh.com
 protestocampinas.com
@@ -9937,6 +9991,7 @@ secure-passkey.com
 securease.org
 secureauthpasskey.com
 securedocumentsmicrocloudsdrivestorage.com
+secureici.online
 securely-setup.com
 securewindows.xyz
 securitatem.biz
@@ -10000,6 +10055,13 @@ servgate.me
 service-activity-checkup.site
 service-help.top
 service-nowinc.com
+servicecpp.in
+serviceic.in
+serviceici.in
+serviceidf.in
+serviceidf.online
+servicescard.online
+serviceshelp.online
 serviceupdateaccountinfo.com
 servict.cyou
 serviredes.com.co
@@ -11240,6 +11302,7 @@ upd5.pro
 upd7.com
 upd7a.com
 upd9.com
+update-app.online
 update-chronne.com
 update-teams.live
 update.bruss.org.ru
