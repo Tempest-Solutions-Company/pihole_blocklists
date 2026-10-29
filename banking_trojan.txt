@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-10-29 03:13:29 UTC
-# Total domains: 12179
+# Generated: 2026-10-29 09:20:33 UTC
+# Total domains: 12180
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6423,6 +6423,7 @@ imagesfox.com
 imaginativeintellect.store
 imaginestudiocr.com
 imaginit.com
+imanagec.online
 imcmall.com
 imdj5584pankou.com
 imdj5674pankou.com

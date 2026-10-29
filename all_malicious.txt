@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-10-29 03:13:29 UTC
-# Total domains: 1127626
+# Generated: 2026-10-29 09:20:33 UTC
+# Total domains: 1127627
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -520906,6 +520906,7 @@ iman70.com
 iman751.com
 iman755.com
 iman88.com
+imanagec.online
 imananthakrishnan.github.io
 imand.info
 imanewsafelease.com
