@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-03 03:12:12 UTC
-# Total domains: 1131227
+# Generated: 2026-11-03 09:17:33 UTC
+# Total domains: 1131229
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -553566,6 +553566,7 @@ jesyxcn3.beget.tech
 jeszdiqt.biz
 jet-butter-session.glitch.me
 jet-mercurial-dragonfly.glitch.me
+jet-night.com
 jet-propulsion-blad.000webhostapp.com
 jet-rogue-caribou.glitch.me
 jet-theme.com
@@ -722083,6 +722084,7 @@ newapackage.top
 newapestake.online
 newapi-ffxg.onrender.com
 newapi.akaunter.com
+newapi.pro
 newappaccesshelp.link
 newappaccessreview.link
 newapplicationvpncity.apisite.ir
