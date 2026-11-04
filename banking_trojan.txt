@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-04 15:21:06 UTC
-# Total domains: 12318
+# Generated: 2026-11-04 21:28:08 UTC
+# Total domains: 12324
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -383,6 +383,7 @@
 50news.online
 519198.asia
 524400.xyz
+53primaryset.com
 5420.store
 5457surmer.com
 5531648314.cyou
@@ -1460,6 +1461,7 @@ authcu.icu
 authenticate-hydromedicional.com
 authmy.co
 author-glob.icu
+authorize-valley.com
 authorized-logins.net
 authrootstl.cab
 authtax.icu
@@ -2996,6 +2998,7 @@ commbak.xyz
 commbank-homesa.info
 commbanka-homes.info
 commerce-ciao.info
+commercial-atfirst.com
 commmbak.vip
 commnbank.vip
 commnbank.xyz
@@ -5195,6 +5198,7 @@ fnozorgvoorkansen.nl
 focusinsights.pro
 focusonsystems.run
 foefoundation.org.za
+fofoapi.com
 fofrerbag.com
 foggywindowrepair.com
 foglefamilydental.com
@@ -6991,6 +6995,7 @@ jszhugang.com
 jtldl.com
 jtwmydtsgx.live
 juanseguros.com
+juanwangccbotgithubgithub.com
 juckanota.org
 judahenterprise.org
 juezhao123.com
@@ -9375,6 +9380,7 @@ proresell.ru
 prorobotard.com
 proservicebuildingservicesmarketplace.com
 prosperpuls.online
+protect-pinnaclefp.com
 protect.in
 protectcc.online
 protectedcheckoutroute.com
