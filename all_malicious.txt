@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-04 03:06:14 UTC
-# Total domains: 1132368
+# Generated: 2026-11-04 09:13:53 UTC
+# Total domains: 1132370
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -150421,6 +150421,7 @@ attachmentsdrops.site
 attack6835.pages.net.br
 attacked-heater-administered-watched.trycloudflare.com
 attacked-wright-ski-concluded.trycloudflare.com
+attacker-collector.com
 attacker1234567.000webhostapp.com
 attackmosquito.com
 attaclmin.weebly.com
@@ -891888,6 +891889,7 @@ secretloginnfacebook.blogspot.ae
 secretloginnfacebook.blogspot.com
 secretlovecharms.com
 secretmindcontrol.com
+secretonow.site
 secretopanel2.site
 secretosbp.es
 secretovalencia.com

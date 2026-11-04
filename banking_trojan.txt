@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-04 03:06:14 UTC
-# Total domains: 12311
+# Generated: 2026-11-04 09:13:53 UTC
+# Total domains: 12313
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1414,6 +1414,7 @@ atp2.top
 atportal-das-financas.com
 atsgen.com
 atsheisdomestic.org
+attacker-collector.com
 attcdn.com
 attendrvaschools.com
 attorneys-au-q.click
@@ -10091,6 +10092,7 @@ secialtato.uk
 secondshop.online
 secondshop.store
 secretcave.co
+secretonow.site
 sectioncompil.com
 sectorlink.com
 sectorlink.net
