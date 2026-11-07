@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-07 12:41:34 UTC
-# Total domains: 1134052
+# Generated: 2026-11-07 15:49:10 UTC
+# Total domains: 1134053
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1032315,6 +1032315,7 @@ urgentappealneeded.firebaseapp.com
 urgentappealneeded.web.app
 urgentattentionstd.lon1.digitaloceanspaces.com
 urgentbeetrootr.com
+urgentblue.com
 urgentclaim.pages.dev
 urgente.eu
 urgentel.fr
