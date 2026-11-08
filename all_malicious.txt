@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-08 15:38:05 UTC
-# Total domains: 1134340
+# Generated: 2026-11-08 21:44:27 UTC
+# Total domains: 1134341
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -208298,6 +208298,7 @@ bnmcvhjkdfsds.org
 bnmcvhjkdfsdse.com
 bnmcvhjkdfsdse.net
 bnmfr.com
+bnmgov.my.id
 bnmij.z6.web.core.windows.net
 bnmjz.com
 bnmkjloiuytdcvdfdffdfgfg.weeblysite.com

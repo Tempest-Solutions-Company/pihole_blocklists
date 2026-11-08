@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-08 15:38:05 UTC
-# Total domains: 12326
+# Generated: 2026-11-08 21:44:27 UTC
+# Total domains: 12327
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -2020,6 +2020,7 @@ bmxrmyy.com
 bn-ki.ru
 bnbnhura.top
 bncllevel.com
+bnmgov.my.id
 bnwu.lol
 boaosafe.shop
 boards-descriptions.com
