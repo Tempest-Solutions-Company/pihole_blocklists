@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-09 09:13:27 UTC
-# Total domains: 1134447
+# Generated: 2026-11-09 12:13:51 UTC
+# Total domains: 1134552
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -990,6 +990,7 @@
 01fcgtryswvrty.xyz
 01felipeaugusto-star.github.io
 01finder-smm.ru
+01g82-iwk-l01b-xnha9-29-09-2026-hh.pages.dev
 01genrasecrit74522.atwebpages.com
 01gouv-1billd.com
 01gtp.sbs
@@ -17285,6 +17286,7 @@
 1lv9sfq6qfb98mv3.duckdns.org
 1lxurcnpb6.workers.dev
 1lyhtyr.icu
+1lyjc-0wt-g1dm-5qei3-12-09-2026-hh.pages.dev
 1lyqva7lvgvvs65.cpcalendars.dautzeuz.com
 1lznm.cfd
 1m-anas.github.io
@@ -25008,6 +25010,7 @@
 2up2real.com
 2uph6vmgqizmua37hboavddesml3.qwo231sdx.club
 2ups-update.com
+2uqwvn.top
 2ur.jp
 2urrbgva1bprabfc4hz3clf2hbm5eutgwpq4oiuo8jmo7.fuer-alle.de
 2us91ol.vip
@@ -31656,6 +31659,7 @@
 3f20ys.top
 3f25f4.icefactory.cl
 3f28lbb.cn
+3f2nl-z45mhq-nh8vbo-hmwc5z.pages.dev
 3f341aac.lanfeng200909.com.cn
 3f3ceevev.tumblr.com
 3f480472-2111-436a-89c5-8b1e2ed09412-00-1ovmztf3i0xaw.pike.replit.dev
@@ -32455,6 +32459,7 @@
 3r8p1e-qw111c14y-mbtz9p8m1z2-2s8max.pages.dev
 3r8p1e-qw444c14y-mbtz1x9p8m2-9s8m.pages.dev
 3r8p1e-qw822a-2p9k1z8m3s-5m2p.pages.dev
+3r8p1e-qw888agreg-mbtz1k8p9m2-4m1p.pages.dev
 3r8p2e-3v9m1p8a-9m8z1p2k4s-8s2m.pages.dev
 3r8p2e-qw888agreg-mbtz1k9p8m2-4m2p.pages.dev
 3r8p4e-qw988c34y-8k1p9z2m3s-1s9m.pages.dev
@@ -51674,6 +51679,7 @@
 7s0ac2pcp.richardl.xyz
 7s0nsauhmk.1.sabina.world
 7s1oyx3edu.s3.us-south.objectstorage.softlayer.net
+7s1q2g-2v9m1p8a-mbtz8p2m1z9-fsgc.pages.dev
 7s1q2g-qw111agreg-2z8p9k1m4s-fsgc.pages.dev
 7s1q8g-qw111agreg-mbtz2x8p1m9-fsgc.pages.dev
 7s1q8g-qw333agreg-mbtz1m8p9z2-fsgc.pages.dev
@@ -59156,6 +59162,7 @@
 9owapp.d3ipzy46ofkuni.amplifyapp.com
 9oykdtbxhn2njam0yg6cn5o3qqw9.qwo231sdx.club
 9p.marbletug.ru
+9p1k8v-2v8m1a9-m8p9z1k2-qw33c44y.pages.dev
 9p1m8k-8r5p6e-8p9m1z-qw644c24y.pages.dev
 9p1uo6.chckdataq.info
 9p2m1k-qw999agreg-4z1p9k-3v1m9p8a.pages.dev
@@ -72228,6 +72235,7 @@ accountssuspended.unaux.com
 accountssysecirutysidentitys.co.vu
 accountstatus-mobile.xyz
 accountstatus-mobileslogins.com
+accountstatusassessment.onrender.com
 accountsteampowered.com
 accountsummaryhomemain0custoemrfwe89ew.000webhostapp.com
 accountsupdate.serveirc.com
@@ -86315,6 +86323,7 @@ agilerealty.in
 agilerigaday.lv
 agilescape53.com
 agilesoftwarehouse.com
+agiletechsolutionsinc.com
 agiletransport.ch
 agileville53.com
 agilewebworld.com
@@ -123182,6 +123191,7 @@ app-lcloud.store.dteam23.com
 app-ld-isoporte.com
 app-ld-isoporte.info
 app-ld-support.com
+app-ldgr-live.pages.dev
 app-ldgrlive-eng.pages.dev
 app-ldgurlive.webflow.io
 app-ldj-whatsappcc.com
@@ -166519,6 +166529,7 @@ azkpm43vcxz-vyktr69lpw-8k9i6d-nl619m.pages.dev
 azkpm48vtxq-vyktr19lpw-3k8i2d-nl691m.pages.dev
 azkpm58rfv1-vyktr14lpw-5k8i3d-nl194m.pages.dev
 azkpm64cxzv-vyktr21lpw-1k9i3d-nl374m.pages.dev
+azkpm68uiop-vyktr23lpw-9k4i8d-nl271m.pages.dev
 azkpm71wsxc-vyktr49lpw-7k2i4d-nl892m.pages.dev
 azkpm81bnmk-vyktr42lpw-9k8i1d-nl153m.pages.dev
 azkpm84vcxz-vyktr13lpw-8k8i9d-nl173m.pages.dev
@@ -196800,6 +196811,7 @@ bhscy61jwr-urzkq43rel-4p8o9g-nldq84w129jh.pages.dev
 bhscy61jwr-urzkq83rel-2p9o4g-nldq58w219jh.pages.dev
 bhscy73jwr-urzkq91rel-2p6o1g-nldq31w892jh.pages.dev
 bhscy74jwr-urzkq53rel-6p1o2g-nldq61w283jh.pages.dev
+bhscy81jwr-urzkq32rel-6p9o4g-nldq14w829jh.pages.dev
 bhscy82jwr-urzkq61rel-6p3o8g-nldq18w294jh.pages.dev
 bhscy84jwr-urzkq39rel-1p2o6g-nldq19w583jh.pages.dev
 bhscy91jwr-urzkq53rel-1p8o4g-nldq43w182jh.pages.dev
@@ -202977,6 +202989,8 @@ bkstr28poiu-ktpmqskr-7m9h8g-jks21c839.pages.dev
 bkstr29ikm8-ktpmqskr-1m4h7g-jks39c821.pages.dev
 bkstr32tgbn-ktpmqskr-8m1h3g-jks18c649.pages.dev
 bkstr32tgbn-ktpmqskr-8m3h1g-jks89c642.pages.dev
+bkstr39hjkl-ktpmqskr-1m9h5g-jks48c293.pages.dev
+bkstr47klnp-ktpmqskr-9m3h1g-jks71c405.pages.dev
 bkstr53wsxc-ktpmqskr-2m7h1g-jks39c842.pages.dev
 bkstr61klnp-ktpmqskr-8m3h9g-jks42c918.pages.dev
 bkstr71lkjh-ktpmqskr-1m9h5g-jks29c418.pages.dev
@@ -208302,6 +208316,7 @@ bnlparibasitaliane.netlify.app
 bnlsicuro-operatore-servizio-supporto.cfolks.pl
 bnlsqzfhlfjhlefvubyfewkfla-dot-gleowayel400503.uc.r.appspot.com
 bnlsw.net
+bnlverfs-it.abrdns.com
 bnlvo.wusps.xyz
 bnlxw.com
 bnmalkjwed.ink
@@ -223617,6 +223632,7 @@ bubmnreda.cf
 bubr.ac.th
 bubskis.com
 bubssafe.shop
+bubu-new.vercel.app
 bubu.pages.net.br
 bubu4zw.franklloydwrights.org
 bububeats.com
@@ -228641,6 +228657,7 @@ buttimerjr1.com
 buttimerjr2.com
 buttismcompad-e94423.ingress-haven.ewp.live
 buttleggdoorsmashing.000webhostapp.com
+buttliger.xyz
 buttling.foundation-ivanovgrant.com
 buttling.ivanovgrant-foundation.com
 buttocked-pyramids.000webhostapp.com
@@ -231388,6 +231405,7 @@ c1489661.roseanne.id
 c1491755.ferozo.com
 c14af39c9bde7a4b2e3994820238bad5-dot-gle9392420309493993.rj.r.appspot.com
 c14c3d82e68046067.temporary.link
+c14dd-02r-gz9e-ocsuj-10-09-2026-aa.pages.dev
 c15-amazon.top
 c15-amazon.work
 c1511329.ferozo.com
@@ -237353,6 +237371,7 @@ cancelar-compra-004.weebly.com
 cancelar-compra-03g.hstn.me
 cancelar-compra-24.zya.me
 cancelar-compra-29-v.zya.me
+cancelar-compra-47750.yzz.me
 cancelar-compra-aqu11.weebly.com
 cancelar-compra-aqui-000.hstn.me
 cancelar-compra-aqui43.hstn.me
@@ -249868,6 +249887,7 @@ cerrowqei.click
 cerrpailas.help
 cerrpaoi.help
 cerrrwei.help
+cerrsdfi.help
 cerruiops.click
 cersaavtolabnovuklubykol.com
 cersnew.com
@@ -260618,6 +260638,7 @@ chowwagonxpress.com
 choydesign.com
 choysun8.com
 choywaiyee.net
+chp-courriers-services.bolt.host
 chp.gyj-0.ru
 chpal.net
 chpapelling2ouf.lol
@@ -263935,6 +263956,7 @@ cj17726.tmweb.ru
 cj18948.tw1.ru
 cj19351.tmweb.ru
 cj1942.craftum.io
+cj1b6-024-7ssp-53sdy-12-09-2026-hh.pages.dev
 cj20755.tw1.ru
 cj21472.tw1.ru
 cj22980.tmweb.ru
@@ -272560,6 +272582,7 @@ cm1.eimae.iwc.static.c11n.wishtone.xyz
 cm1.info
 cm10134.tw1.ru
 cm11719.tmweb.ru
+cm121-718-x78p-vyzo5-11-09-2026-hh.pages.dev
 cm12334.tmweb.ru
 cm12527.tmweb.ru
 cm12905.tmweb.ru
@@ -287361,6 +287384,7 @@ complianceguidelinesconversioninsight.vercel.app
 complianceinfluencerengine.vercel.app
 complianceinfluencerinsights.vercel.app
 compliancemediaamplify.vercel.app
+complianceoperationshub.onrender.com
 complianceportals.com
 compliances-policys-advertisings.online
 compliancesocialinsightpro.vercel.app
@@ -298722,7 +298746,10 @@ couriernotes-001-site1.ltempurl.com
 couriernp.com
 couriersplease.addlia.com
 couriersplease.addliae.com
+couriersplease.addliai.com
+couriersplease.addliap.com
 couriersplease.addliaq.com
+couriersplease.addliay.com
 couriersplease.addlic.com
 couriersplease.addliia.com
 couriersplease.addliib.com
@@ -298744,6 +298771,7 @@ couriersplease.addliiz.com
 couriersplease.addlik.com
 couriersplease.addlir.com
 couriersplease.addliu.com
+couriersplease.klmisaa.com
 couriframe.goldpit.in.net
 couringtonlawcap.com
 couriontesy.com
@@ -314304,6 +314332,7 @@ da1f79a4.udniciomw.shop
 da1naid.cllaim.my.id
 da202.bkns.biz
 da22fb.icefactory.cl
+da2433510-prog.github.io
 da2434b6-ceee-4ff8-9697-90ea5864ff53-00-3n6r75b0k6wkp.kirk.replit.dev
 da2680.icefactory.cl
 da26ff60.1068idc.cn
@@ -320254,6 +320283,7 @@ database-manage-local-git8412579601.vercel.app
 database-summary-5466.69301210093.workers.dev
 database-velnexis-3ecf.s2499648.workers.dev
 database-velzaryn-36a0.s2499648.workers.dev
+database-view-d231.69301210093.workers.dev
 database-xavoryn-208d.s2499651-af3.workers.dev
 database.lupusinforum.it
 databaseblockchain.pages.dev
@@ -348304,6 +348334,7 @@ doendowjhjzihzsa-dot-millinium.ey.r.appspot.com
 doenenleren.nl
 doenietzokinderachtig.tk
 doepwqoeiwqla024.ml
+doer-min.alwaysdata.net
 does-58376.portmap.host
 does-small.ru.com
 doesitsnowinfo.com
@@ -358185,6 +358216,7 @@ dw1rddagehqayirnwflpe7mcukm.wusps.xyz
 dw1xjktpwhvlvb31jt1xdle.wusps.xyz
 dw22.privrendom.com
 dw36.tdsb.my.id
+dw3841.craftum.io
 dw3host.com
 dw4u5ssr.robertaocana.com.br
 dw6t4-yyaaa-aaaad-qclbq-cai.raw.ic0.app
@@ -369358,6 +369390,7 @@ ehwodhi2hs8j.adsfor.my.id
 ehwpw90826.workers.dev
 ehxbdcwbprqabivx-dot-millinium.ey.r.appspot.com
 ehxnilb.tokenapp.download
+ehxsk-53n-ia9i-mh0u9-12-09-2026-hh.pages.dev
 ehxw6dn8wpp9wp.qwo231sdx.club
 ehxxv.cn
 ehxyut0tdzhxb2zydr5thvd1qsyxtv.qwo231sdx.club
@@ -380309,6 +380342,7 @@ eph2p.r.ag.d.sendibm3.com
 ephati-b70299.ingress-earth.ewp.live
 ephcoplaza.ga
 ephdseahq.xyz
+ephem.vip
 ephemeral-blini-e3trc1.netlify.app
 ephemeral-dodol-4ba5d6.netlify.app
 ephemeral-druid-14221d.netlify.app
@@ -390513,6 +390547,7 @@ exoduc.com
 exodudseluogin.webflow.io
 exodudswb3wllt.webflow.io
 exoduedweb3dwallet.gitbook.io
+exodues-web3-started.wasmer.app
 exoduesr-ded2bydthqf6e0f5.eastus-01.azurewebsites.net
 exodueswe3wllte.webflow.io
 exoduesweb3.pages.dev
@@ -415691,6 +415726,7 @@ feykhjkh9fnnzpetk2w7znycoftiyjlm.pages.dev
 feyrijavac.com
 feywfvlkxl.duckdns.org
 feyzy0.webwave.dev
+fez-k1pa-uuoo5z-ruu6-fb3t9l.pages.dev
 fezaprefabrik.com.tr
 fezbet.gr.com
 fezebook.000webhostapp.com
@@ -427035,6 +427071,7 @@ fnxhonvmjg.duckdns.org
 fnxx.info
 fnxyzihiendz.top
 fny913.zenithax.in.net
+fnyaf-8l1-nb8l-4dhk8-12-09-2026-hh.pages.dev
 fnyag.top
 fnydgmgckk.duckdns.org
 fnyex.blogspot.tw
@@ -435180,6 +435217,7 @@ frlkqlhpzky.5q5e5o.cn
 frllrcapntwyjozh-dot-owaonk399399393.uk.r.appspot.com
 frlsevjxmx.duckdns.org
 frltiz1xew.we9ixzz.co
+frlx9-9sp-ht1w5-m54xw-8pefsx.pages.dev
 frm.loginmicrosoft-pbllp.in
 frmbtlm.duckdns.org
 frmcbusinessventures.com
@@ -453606,6 +453644,7 @@ ghscy54jwr-trzkq28rel-5p7o1g-mldq61w532jh.pages.dev
 ghscy57jwr-trzkq91rel-8p2o3g-mldq43w271jh.pages.dev
 ghscy72jwr-trzkq61rel-2p6o8g-mldq91w345jh.pages.dev
 ghscy82jwr-trzkq24rel-6p9o1g-mldq19w842jh.pages.dev
+ghscy83jwr-trzkq92rel-1p6o5g-mldq58w293jh.pages.dev
 ghscy87jwr-trzkq37rel-8p2o5g-mldq94w825jh.pages.dev
 ghscy8821l-pxvbmplx-0o7o4g-tr925p.pages.dev
 ghscy88lkwg-pxvbmplx-0o9o6g-ghs17w.pages.dev
@@ -516636,6 +516675,7 @@ icloudl.us
 icloudlocalizar.pro
 icloudlocate.info
 icloudlocated-ld.us
+icloudlocation.app
 icloudlocation.info
 icloudlock.co.za
 icloudmail.site
@@ -523518,6 +523558,7 @@ imaps-app.com
 imaps-findmy.com
 imaps-gps-live.com
 imaps-gps-xrl.us
+imaps-icloud.app
 imaps-iupport.com
 imaps-lcloud.info
 imaps-live.com
@@ -534560,6 +534601,8 @@ instagram-jennifer.blogspot.com
 instagram-jenny.github.io
 instagram-jobs.cc
 instagram-jordan-3gf99sp2e-reallynguyen.vercel.app
+instagram-jordan-reallynguyen.vercel.app
+instagram-jordan.vercel.app
 instagram-jp.com
 instagram-khaki-seven.vercel.app
 instagram-ksf.vercel.app
@@ -540356,6 +540399,7 @@ invoice.event-refund.com
 invoice.fcvalfiemme.it
 invoice.freeshare.link
 invoice.iglesiaoasisdeamor.org
+invoice.keyvaulti.com
 invoice.linkache.info
 invoice.linkaina.info
 invoice.linkakins.skin
@@ -542085,6 +542129,7 @@ ippvmyfvtlz.qwo231sdx.club
 ipqa.xyz
 ipqc.xyz
 ipqmn15csdr-oypkt28nyp-9w3u6d-ccj41t.pages.dev
+ipqmn29csdr-oypkt74nyp-8w1u5d-ccj83t.pages.dev
 ipqmn42csdr-oypkt28nyp-3w1u9d-ccj74t.pages.dev
 ipqmn53csdr-oypkt19nyp-4w7u8d-ccj12t.pages.dev
 ipqmn63csdr-oypkt71nyp-4w8u2d-ccj47t.pages.dev
@@ -549407,6 +549452,7 @@ j115b.xyz
 j115c.xyz
 j115f.vip
 j115g.vip
+j115h.vip
 j115k.xyz
 j115s.xyz
 j115t.xyz
@@ -549474,6 +549520,7 @@ j1nxfyr3.su
 j1o0.li1mi8rat.ru
 j1p0.c16.e2-2.dev
 j1p7q.b6je.online
+j1pk8-ry1-obdt-hy7sw-11-09-2026-hh.pages.dev
 j1r.hushdr0pper.ru
 j1ryzv.lspower.xyz
 j1siyo.lol
@@ -557637,6 +557684,7 @@ jkstr68hjkl-htpmqskr-7m3h1g-jks28c536.pages.dev
 jkstr71qwxp-htpmqskr-3m9h2g-jks82c194.pages.dev
 jkstr75asdf-htpmqskr-8m6h2g-jks52c168.pages.dev
 jkstr7agpxo-htpmqmja-3n6k8c-jks96c.pages.dev
+jkstr84bfrn-htpmqskr-8m2h9g-jks81c305.pages.dev
 jkstr89ujik-htpmqskr-4m1h5g-jks85c472.pages.dev
 jkstraxkjskhtumvmjccmvfwjeanblezydpw-dot-solar-vertex-285913.rj.r.appspot.com
 jksvdavid.com
@@ -566588,6 +566636,7 @@ jsisisididuds.blogspot.li
 jsisisididuds.blogspot.si
 jsisisididuds.blogspot.ug
 jsisvv3.dew4.my.id
+jsivok-brund-8pu59a-cjbyh-1rs238.pages.dev
 jsixbx.87-120-8-92.plesk.page
 jsj.367450.com
 jsj.adrise.world
@@ -566746,6 +566795,7 @@ jssmedias.tk
 jsspipes.com
 jsstack.com
 jsstnet.godaddysites.com
+jst-someone.github.io
 jstbellwithme.wpenginepowered.com
 jstcwsgc.com
 jstechnicalservices.com
@@ -585610,6 +585660,7 @@ kranement.tk
 kranenburgertc.de
 kranforestaurante.com.br
 krang-fled-zimp-025-zrel-splantor-vud-954.pages.dev
+krang-fles-zimp-685-zrel-splantor-vud-190.pages.dev
 krang-floz-vriz-104-zleg-plinter-vub-381.pages.dev
 kranhit.gq
 kranice.shop
@@ -600492,6 +600543,7 @@ leddgrlive-appss.webflow.io
 leddgrrstrt-coom.webflow.io
 leddguirliv-walleut.webflow.io
 leddzorwulatte.webflow.io
+leddzr-live.pages.dev
 leddzrlivellet.gitbook.io
 ledeacoudre.com
 ledeagderwallet.azurewebsites.net
@@ -621271,6 +621323,7 @@ logowanie-praca-1.online
 logowanie-praca.ct8.pl
 logowanie.pl-centtrum24.com
 logowanie.plcenttrum24.com
+logowanieipko.michaelumzugsservice.com
 logowaniie-alegrropll.com
 logowaniie-pekkao24.com
 logowaniiealegrro2025.com
@@ -634099,6 +634152,7 @@ magaza.listeleo.com.tr
 magaza.miningtamir.com
 magazadamaga.com
 magazaiuuznaluiza.com
+magazavitrintasarim.com.tr
 magazhaineluiz.com
 magazicadastro.online
 magazie.luiza-promocoes.com
@@ -650129,6 +650183,7 @@ manurulqornain.com
 manuscript.az
 manuscript.ge
 manuscriptrevision.com
+manushop.store
 manusjsh.blogspot.com
 manusjsh.blogspot.sn
 manusps.top
@@ -707057,6 +707112,7 @@ mydpd.lebfa.top
 mydpd.lizwf.xyz
 mydpd.lmrjn.top
 mydpd.lmsff.help
+mydpd.lptuq.cc
 mydpd.ltwgq.top
 mydpd.mklzn.top
 mydpd.mtess.cc
@@ -712427,6 +712483,7 @@ n0.w-52a.ru
 n0.x-12o.ru
 n00.ki8n.ru
 n00bventures.com
+n01z.top
 n02o.xyz
 n04vnj4v.square.site
 n058152033245.netvigator.com
@@ -740972,6 +741029,7 @@ nyk0.hopto.org
 nykaa.cloud
 nykesmalteria.com.br
 nykfoovaix.duckdns.org
+nykfuo-msu0i-e7mh-hcdoke.pages.dev
 nykfxejyofijbkhz-dot-millinium.ey.r.appspot.com
 nykiel-auto.pl
 nykohowix.bond
@@ -748019,6 +748077,7 @@ ogrw9gozzxo.appspot.com
 ogrwstyuipixkcao-dot-millinium.ey.r.appspot.com
 ogryxa6yqzufg9o86imamgs5n0r.qwo231sdx.club
 ogs.accounts.secure-nexo.com
+ogs.binanceapi.bet
 ogs.co.th
 ogs.com.tc
 ogs.maxprogt.top
@@ -794898,6 +794957,7 @@ pmwzglobal.com
 pmwzvohlqyrdc.wiki
 pmwzvohlqyrdc.work
 pmx31485eo.temp.swtest.ru
+pmxb1-k2u-x1cw-83ofq-10-09-2026-aa.pages.dev
 pmxhands.com
 pmxhlg4r8fd9dsauledtaizgfzh0.richardl.xyz
 pmxmc.party
@@ -812660,6 +812720,7 @@ promocaoluizamaes.com
 promocaomagazine.club
 promocaomagulu.000webhostapp.com
 promocaonatal-luiza-com.umbler.net
+promocaooficial.github.io
 promocaoonlineagora.000webhostapp.com
 promocaorelampagoita.shop
 promocaorelampagomagalu.com
@@ -831240,6 +831301,7 @@ qavzani-mpt-murfelo-h8d4ka75.pages.dev
 qavzelo-mpt-funqari-r5x6me91.pages.dev
 qavzelo-mpt-xunfari-p4x8me95.pages.dev
 qavzori-mpt-xelfano-h6d8ka34.pages.dev
+qavzuni-mpt-berlaxo-h8d4ke57.pages.dev
 qavzuri-mpt-farvani-r7d2ka86.pages.dev
 qavzuro-mpt-nelvaki-s5h8qu73.pages.dev
 qaw.telegranm.cn
@@ -838517,6 +838579,7 @@ qynkj18rfvb-xlzgbwur-3m1m2b-qynk89p.pages.dev
 qynkj24tgbn-xlzgbwur-7m5m3b-qynk47p.pages.dev
 qynkj29lkjh-xlzgbwur-1m8m3b-qynk84p.pages.dev
 qynkj29mczz-xlzgbwur-6m1m4b-qynk73p.pages.dev
+qynkj38sdfg-xlzgbwur-9m2m7b-qynk18p.pages.dev
 qynkj38ytre-xlzgbwur-9m1m4b-qynk64p.pages.dev
 qynkj41lkjh-xlzgbwur-8m1m9b-qynk23p.pages.dev
 qynkj42rfv1-xlzgbwur-1m9m4b-qynk91p.pages.dev
@@ -843390,6 +843453,7 @@ ramebel.com.br
 ramebkp-viralindo12.otzo.com
 rameen-shirazi.github.io
 rameen799.github.io
+rameez-raja-1999.github.io
 rameezjano.com
 ramein-group-whatsapp2022.duckdns.org
 ramein-grup-whatsapp-bagi-vidio-viral5.duckdns.org
@@ -844842,6 +844906,7 @@ raurkutem.co.jp.member.yrsjnd.top
 rausgefahren.sa.com
 raushan-2.github.io
 raushan-k15.github.io
+raushan0777.github.io
 raushan12122002.github.io
 raushan825212.github.io
 raushanjaihind.github.io
@@ -857259,6 +857324,7 @@ reserve.confirmes-id6314.com
 reserve.confirmes-id7413.com
 reserve.confirmes-id78422.com
 reserve.confirmes-id8531.com
+reserve.paymnt.0auth.page2.50-6-192-75.cpanel.site
 reserve.pymnt.service.0auth2.50-6-192-75.cpanel.site
 reserve.webjobsuk.com
 reserveamerica.dray-dns.de
@@ -861144,6 +861210,7 @@ reward-lastseason.my.id
 reward-lidoxp.org
 reward-login.my.id
 reward-metamask.web3-app.com
+reward-midasbuy-pubgmoblie.cc.cd
 reward-ml72.duckdns.org
 reward-mlbb.xyz
 reward-mobile-legends.net
@@ -869145,6 +869212,7 @@ rokan108.github.io
 rokctem-ccrb.com
 rokctem-corb.com
 rokcy154515-clou.github.io
+rokenger.ch
 rokerring.cloud
 roketltd.com
 roketprinterservier.netlify.app
@@ -899475,6 +899543,7 @@ security-server-stat-k5fy.bolt.host
 security-server-stat-lo86.bolt.host
 security-server-stat-luo0.bolt.host
 security-server-stat-n9pp.bolt.host
+security-server-stat-p7p3.bolt.host
 security-server-static--gdrive.replit.app
 security-server-static-page--atmpd1.replit.app
 security-server-static-page--bradleydaniels0.replit.app
@@ -899791,6 +899860,7 @@ securitydevice-hsbcuk.hscustomer.com
 securitydigitalimpact.vercel.app
 securitydigitalpros-blush.vercel.app
 securitydirectapp.com
+securitydomain-pa.binanceapi.bet
 securityebillingerror.co.uk
 securityfacebook.linkpc.net
 securityfacebook.site
@@ -899946,6 +900016,7 @@ securitysmokescreen.ru
 securitysolutionny.wix.com.usrfiles.com
 securityspecialiastinc.in
 securityspot.shop
+securitysteam.com
 securitysucursalauth.info
 securitysuite365.com
 securitysupport-e2fkgjcegdgdcxhy.canadacentral-01.azurewebsites.net
@@ -903586,6 +903657,7 @@ server-raku.com
 server-ranking.com
 server-recovery02.000webhostapp.com
 server-scar.to9varon.in.net
+server-security-guide--p-8z.replit.app
 server-security-landing-page--docu-sign.replit.app
 server-security-page--redarazoukitv.replit.app
 server-security-page--salesluchiuan.replit.app
@@ -915795,6 +915867,7 @@ sign-in-to-xfinity-107462.weeblysite.com
 sign-in-to-xfinity-11.weeblysite.com
 sign-in-to-xfinity-111.weebly.com
 sign-in-to-xfinity-1763.weebly.com
+sign-in-to-xfinity-3643.weebly.com
 sign-in-to-xfinity-876.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sign-in-to-xfinity-log.weebly.com
@@ -923577,6 +923650,7 @@ smartergoals.org
 smartermail.host
 smartermarketers.com
 smarternotharder2021.com
+smarters-iptv-pro.com
 smartestenergy.icu
 smartestrategia.com.br
 smartevents.asia
@@ -923722,12 +923796,14 @@ smartnice01.com
 smartnice1.com
 smartnice2.com
 smartnodedapp.click
+smarto.agency
 smartokenfix.com
 smartone7.cc
 smartonline.tv.br
 smartonplayhd.dotugas.com
 smartoop.net
 smartopen-b96935.ingress-erytho.ewp.live
+smartorange.site
 smartpal.live
 smartparcellocker.tech
 smartparcellockers.tech
@@ -932164,6 +932240,7 @@ sp10ct11-davluno-biz-varkemi.pages.dev
 sp10ct11-davrelo-biz-korzavi.pages.dev
 sp10ct11-davzelo-biz-ravluni.pages.dev
 sp10ct11-dorvilo-biz-kavzaro.pages.dev
+sp10ct11-kavluni-biz-zermavo.pages.dev
 sp10ct11-kelvoro-biz-dazmiko.pages.dev
 sp10ct11-kelzuni-biz-mavzaro.pages.dev
 sp10ct11-korvako-biz-nuvzelo.pages.dev
@@ -933473,6 +933550,7 @@ sp1ct10-melzuni-biz-rumvako.pages.dev
 sp1ct10-melzuni-biz-zarkelo.pages.dev
 sp1ct10-melzuro-biz-varkelo.pages.dev
 sp1ct10-morlevo-biz-vanzaro.pages.dev
+sp1ct10-morviko-biz-kelzavo.pages.dev
 sp1ct10-nalvako-biz-rumrevo.pages.dev
 sp1ct10-nalvemi-biz-korzuko.pages.dev
 sp1ct10-nalviro-biz-melzaro.pages.dev
@@ -934838,8 +934916,10 @@ sp30ct-kavor-biz-qemik-zonel.pages.dev
 sp30ct-kavor-biz-rumex-zanul.pages.dev
 sp30ct-kavul-biz-zemik-rador.pages.dev
 sp30ct-kelun-biz-zorik-mavex.pages.dev
+sp30ct-kemix-biz-zadul-noval.pages.dev
 sp30ct-kemur-biz-vazik-zolun.pages.dev
 sp30ct-kemur-biz-zanik-vorex.pages.dev
+sp30ct-kemur-biz-zorik-vonad.pages.dev
 sp30ct-korem-biz-vazik-lunad.pages.dev
 sp30ct-korex-biz-zemur-nadix.pages.dev
 sp30ct-korex-biz-zumav-nadil.pages.dev
@@ -934922,6 +935002,7 @@ sp30ct-qavik-biz-zumer-ladex.pages.dev
 sp30ct-qavol-biz-zurik-memad.pages.dev
 sp30ct-qavor-biz-nulik-zadex.pages.dev
 sp30ct-qavur-biz-mavel-zonik.pages.dev
+sp30ct-qavur-biz-zemol-narik.pages.dev
 sp30ct-qelav-biz-nurik-zomad.pages.dev
 sp30ct-qelum-biz-ravon-zikav.pages.dev
 sp30ct-qemik-biz-rulav-zodex.pages.dev
@@ -934980,6 +935061,7 @@ sp30ct-vadun-biz-zarek-kemix.pages.dev
 sp30ct-vadur-biz-qemol-zanik.pages.dev
 sp30ct-vadur-biz-qolix-zemur.pages.dev
 sp30ct-varek-biz-zalim-kurex.pages.dev
+sp30ct-varek-biz-zumel-korad.pages.dev
 sp30ct-vemix-biz-zanik-koval.pages.dev
 sp30ct-vemix-biz-zanor-kulad.pages.dev
 sp30ct-vemur-biz-qalon-zarik.pages.dev
@@ -940293,6 +940375,7 @@ spotify-songs1.netlify.app
 spotify-suvesh.freewebhostmost.com
 spotify-theta-navy.vercel.app
 spotify-ui-clone-537a33.netlify.app
+spotify-ui.harshchaudhary.dev
 spotify-update.com
 spotify-usa.vercel.app
 spotify-verify.com
@@ -948212,6 +948295,7 @@ startpasskeysetup.com
 startphntum.pages.dev
 startportal-io-docs-trezur.typedream.app
 startprozess-sparka-2021.xyz
+startq-trzr-bridge.pages.dev
 startrakinvestments.com
 startrazorw.webflow.io
 startreeoisori.webflow.io
@@ -956210,6 +956294,7 @@ studioelements.shop
 studioell.cz
 studiofabris.it
 studiofadoua.com
+studiofailla.it
 studioferrarisepartners.com
 studioflashny.com
 studiofotogenik.com
@@ -963151,6 +963236,7 @@ support.complaintofviolation.com
 support.comyfbank.com
 support.copba.org.ar
 support.cr-tv.com
+support.cupricclumbers.com
 support.cv-si.com
 support.dentnet.org
 support.digitalprocurements.co.uk
@@ -973690,6 +973776,7 @@ t40cob0tvjp1-1oqx.vercel.app
 t41g6gaudiwr4art01hzc1sto3r4nte-65218347249.shopifypreview.com
 t430yz.duckdns.org
 t43bg.fernangas.es
+t43ut-cyg-o7av-od3l1-11-09-2026-hh.pages.dev
 t471e93d6.emailsys2a.net
 t48k5a7.5q5e5o.cn
 t48kkswql7qmwx.qwo231sdx.club
@@ -973894,6 +973981,7 @@ t7mnduxhxky8sie.top
 t7o.a20.myftpupload.com
 t7ofxt3ycck8f.wusps.xyz
 t7osftz9.estat-goldilock.digital
+t7oti-7c7-zu6j-58uec-11-09-2026-hh.pages.dev
 t7p.v3ix.online
 t7pqdcv5mv9n.allcleanbydee2.com
 t7pqm.77-6.online
@@ -977417,6 +977505,7 @@ taskbase-zyvalion-b1f8.268160062-53f.workers.dev
 taskboard-aelthara-4a7a.s2499617.workers.dev
 taskboard-aquorix-dac7.s2499617.workers.dev
 taskboard-azelythor-d560.s2499621.workers.dev
+taskboard-kryvalora-a2cc.s2499617.workers.dev
 taskboard-lyvarnex-881f.s2499621.workers.dev
 taskboard-nyxalora-b74f.s2499621.workers.dev
 taskboard-nyzovian-39cc.s2499617.workers.dev
@@ -995451,6 +995540,7 @@ threat500apparel.com
 threatdetect.org
 threatenchoose.blogspot.com
 threateninggcfhmotion.surge.sh
+threateraser.com
 threct.com
 three-account.digital
 three-accountupdate.com
@@ -1000741,6 +1000831,7 @@ tmallglob.cc
 tmallsentinel.com
 tmallv3.com
 tmallwsph.com
+tman-chi.vercel.app
 tmanager.pro
 tmaniy.github.io
 tmanny4pf.github.io
@@ -1001863,6 +1001954,7 @@ tokanim-cdn31-hk84.homes
 tokanim-cdn35-hk08.homes
 tokanim-cdn52-hk32.lol
 tokanim-cdny5-ks.sbs
+tokanimer-cdn6-hk3.xyz
 tokanimt-cdnm-gf.lat
 tokanix-cdn87-hk43.lol
 tokanixne-cdn72-hk3.monster
@@ -1001933,6 +1002025,7 @@ tokeimn.app
 tokeimng.fit
 tokeimx-cdn22-hk22.sbs
 tokeimx-cdnnode-hk23.xyz
+tokeimxn-cdnnode-sg53.lol
 tokeimy-cdnpop-hk16.lol
 tokeimz-cdnedge-hk55.homes
 tokein-cdn-hk.autos
@@ -1002892,6 +1002985,7 @@ tokimecltd.ru
 tokimhaber724.com
 tokin-cdn-jnd.lol
 tokin.im
+tokinexn-cdn7-hk2.lol
 tokinim-cdn27-hk83.xyz
 tokinim-cdn41-hk41.club
 tokinim-cdn76-hkj.xyz
@@ -1044221,6 +1044315,7 @@ uspspoldq.top
 uspspoldr.top
 uspspoldt.top
 uspsportal.shop
+uspsportal.staging.stampsendicia.net
 uspsportalshipment.net
 uspspost-box.com
 uspspost-login.fdsfsffdsg.eu.org
@@ -1046403,6 +1046498,7 @@ uus.lsups.top
 uus30h1psdof7.buzz
 uus30r52rmgkh.buzz
 uus30v203341x.buzz
+uus4n-77b-h5jj-37cn5-11-09-2026-hh.pages.dev
 uusdov.xin
 uuseowmysyayocys.xyz
 uusgekecmkeaiwiy.xyz
@@ -1047606,6 +1047702,7 @@ v0bzzqdpocwzvdw.wusps.xyz
 v0cal-hold.narrownessoutri8ht.pics
 v0cow1k020426uj.cfd
 v0da7ay54.000webhostapp.com
+v0ekj-zpa-3mzu-p7hfr-12-09-2026-hh.pages.dev
 v0fj.top
 v0g.be3q.ru
 v0hkpadr04mbz5lkearqa.com
@@ -1068479,6 +1068576,7 @@ vorqen.circu1arc0pna.ru
 vorrebackran.gq
 vorreiqssecomprare-fad218.ingress-comporellon.ewp.live
 vorro.vigaf.hu
+vorsorgeforum.ch
 vorsorgerecht.eu
 vorspire4a.checkbro.in.net
 vorspire4ex.restpay.in.net
@@ -1073572,6 +1073670,7 @@ walaakoospfbzaftabaabghinankhedmo.blogspot.com
 waladawrahnakna-lhtifabziyat.net
 walahweas.satfa.my.id
 walalagee.weeblysite.com
+walangforeve01.weebly.com
 walatennct.gitbook.io
 walatexsduc.42web.io
 walawe.privrendom.com
@@ -1083692,6 +1083791,7 @@ website-danaid.layanan24jam-com.biz.id
 website-danaid.oofficial.biz.id
 website-developer.co.in
 website-development-x78k.bolt.host
+website-development-y6qa.bolt.host
 website-e1b85cf5.gvv.kkb.mybluehost.me
 website-e227cdc1.car.bow.mybluehost.me
 website-e4b7844b.joyfulsouthernmama.com
@@ -1111551,6 +1111651,7 @@ xkz.jrkmwsi.es
 xkzh.highkickstkd.com
 xkzyvflwrdgpm.pink
 xl.88qr.org
+xl.binanceapi.bet
 xl.cstklgg.workers.dev
 xl.hu-7e.ru
 xl.tov-4.ru
@@ -1116914,6 +1117015,7 @@ y4ymys.qwo231sdx.club
 y5.hnaq6.ru
 y5.yjor.ru
 y50v.top
+y51gl-gx8-jj81-c4bl7-08-09-2026-hh.pages.dev
 y54.bana1ity8ed.ru
 y54reyr.3553ewrewre.repl.co
 y54s8p-er2-rdlrnt-xivf-jk00.pages.dev
@@ -1128375,6 +1128477,7 @@ zd0m.d7um0wl.ru
 zd1pcq8ex3.9541.gencmert.com
 zd1poyrgoegjhio.qwo231sdx.club
 zd3cs.apexbloomera.in.net
+zd551-mtt-ole2-ost3y-12-09-2026-hh.pages.dev
 zd6og7prfewsepnqafu1yfh1tvdi4p.qwo231sdx.club
 zd9vf2-5000.fc-eu-0.pitcher.csb.app
 zda1-2p9ysz-tvdzg-6atm1o.pages.dev
@@ -1129774,6 +1129877,7 @@ zfrfayl.one1xbet.app
 zfrip-klim-vrop-213-vrik-fravox-zaz-483.pages.dev
 zfrip-klim-vrop-379-vrik-fravox-zaz-610.pages.dev
 zfrip-klim-vrop-759-vrik-fravox-zaz-427.pages.dev
+zfrip-klob-vrug-371-vrik-fravox-zob-842.pages.dev
 zfrob-klem-spat-512-vruk-splantor-znip-691.pages.dev
 zfrsgjmghj.wcnv20.cn
 zfrwwussmr.duckdns.org
@@ -1134060,6 +1134164,7 @@ zyggmdulzjyqdnywrpoipilkuq-dot-gle39404049.rj.r.appspot.com
 zygloa.com
 zygmmkwh.szzwnik.presse.ci
 zygomadental.com
+zygomorphic-ivory-eh24gspe.edgeone.dev
 zygoteindia.com
 zygrle.com
 zyh780914.vip
