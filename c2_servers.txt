@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-11-09 00:44:52 UTC
-# Total domains: 130048
+# Generated: 2026-11-09 03:08:53 UTC
+# Total domains: 130049
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -119944,6 +119944,7 @@ vlumber.com
 vlupfbsuppipkrvbsdy.com
 vlxvn.biz
 vlxvn.vip
+vlxx.moi
 vlxx.ms
 vm-list.4dorexal.surf
 vm-list.8dorexin.surf

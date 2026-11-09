@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-09 00:44:52 UTC
-# Total domains: 1134445
+# Generated: 2026-11-09 03:08:53 UTC
+# Total domains: 1134447
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -929161,6 +929161,7 @@ solroll.cfd
 solrug.net
 solsbackyard.com
 solscan.life
+solscan.one
 solscan.online
 solscan.store
 solscanner.io
@@ -1066553,6 +1066554,7 @@ vlxoqil.cn
 vlxvn.biz
 vlxvn.vip
 vlxx.bz
+vlxx.moi
 vlxx.ms
 vlxxtop.sbs
 vlxzw.top
