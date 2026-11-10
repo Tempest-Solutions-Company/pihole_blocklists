@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-10 12:16:40 UTC
-# Total domains: 1134936
+# Generated: 2026-11-10 15:22:23 UTC
+# Total domains: 1134937
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1129755,6 +1129755,7 @@ zenzero.cl
 zeocckd.rikashart.com
 zeodth.click
 zeoekp.webwave.dev
+zeofast.cn
 zeofmor.cn
 zeohztla01.workers.dev
 zeoiuhocve.duckdns.org

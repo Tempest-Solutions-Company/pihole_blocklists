@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-10 12:16:40 UTC
-# Total domains: 12419
+# Generated: 2026-11-10 15:22:23 UTC
+# Total domains: 12420
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -12338,6 +12338,7 @@ zeddgfd.ru
 zellainformation.com
 zenolite.com
 zenrichyourlife.tech
+zeofast.cn
 zerontwoposh.live
 zerowait-state.com
 zeuslearning.com
