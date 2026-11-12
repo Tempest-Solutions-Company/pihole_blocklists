@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - C2 Servers
-# Generated: 2026-11-12 00:27:36 UTC
-# Total domains: 130050
+# Generated: 2026-11-12 03:07:59 UTC
+# Total domains: 130051
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -119814,6 +119814,7 @@ vivmart.com
 vivoclubvillas.com
 vivovojo.com
 vivyqyxi.workers.dev
+viwap.blog
 vixen.ambercoil.ru
 vixen.bracketloam.ru
 vixmedical.net

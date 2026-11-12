@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-12 00:27:36 UTC
-# Total domains: 1135417
+# Generated: 2026-11-12 03:07:59 UTC
+# Total domains: 1135419
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -10316,6 +10316,7 @@
 140teakwood.com
 140votes.net
 141-105-65-72.cprapid.com
+141-94-142-218.xyz
 141-95-100-178.cprapid.com
 141-95-126-179.xyz
 141-95-156-101.xyz
@@ -1066600,6 +1066601,7 @@ vivvssevi-vseoasn.qxhzwxl.museum.mw
 vivyqyxi.workers.dev
 vivzcsbglo.duckdns.org
 viwanita.bbn.my
+viwap.blog
 viwsabl4zen.barclayis.co
 viwuobkudgtzefuotzhogvidkq-dot-gl909989876787.uk.r.appspot.com
 viwvideo900.blogspot.com
