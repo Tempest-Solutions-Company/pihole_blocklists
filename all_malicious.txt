@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-14 00:28:39 UTC
-# Total domains: 1136215
+# Generated: 2026-11-14 03:07:07 UTC
+# Total domains: 1136217
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -271860,6 +271860,7 @@ cloudbox-fileshare.web.app
 cloudbox-storage.com
 cloudbreachdetection.com
 cloudbridge.us-iad-10.linodeobjects.com
+cloudbrokerapi.xyz
 cloudburstanalytical.com
 cloudbusinessinnit.com
 cloudbyt.cc
@@ -1010392,6 +1010393,7 @@ travulog.com
 travysky.com
 trawe.letro.workers.dev
 trawlcontrol.dk
+trawsica.com
 traxanhc2.duckdns.org
 traxcas.com
 traxelix.vercel.app
