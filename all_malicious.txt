@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-16 00:24:26 UTC
-# Total domains: 1136902
+# Generated: 2026-11-16 03:05:18 UTC
+# Total domains: 1136903
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1006796,6 +1006796,7 @@ torpa68821.workers.dev
 torpdidebar.com
 torpedine.it
 torpedototo1.store
+torpedototob.xyz
 torpedoungudankuning.000webhostapp.com
 torpeduck.live
 torpid-goldenrod-meeting.glitch.me
