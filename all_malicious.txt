@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-19 00:27:23 UTC
-# Total domains: 1138315
+# Generated: 2026-11-19 03:08:52 UTC
+# Total domains: 1138317
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -344464,6 +344464,7 @@ divyanshydv.github.io
 divyanth-16.github.io
 divyanth-netflix-clone.freewebhostmost.com
 divyanth-penki.github.io
+divyaplasticindustries.com
 divyarajsingh342.github.io
 divyaravi.com
 divyaroadlines.com
@@ -1021677,6 +1021678,7 @@ twyviztxhvyhexemqhjnwybpnkjtenvodyxkzzbbozikkhzyyu.shibaiatoken.com
 twyylktm.com
 twzcbwhznm.firebaseapp.com
 twzcbwhznm.web.app
+tx-devmetrics.net
 tx-dnaindo.vocalxxsite.web.id
 tx-hoverboard.com
 tx-monton52.cf
