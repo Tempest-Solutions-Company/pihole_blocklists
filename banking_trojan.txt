@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-19 03:08:52 UTC
-# Total domains: 12445
+# Generated: 2026-11-19 09:21:27 UTC
+# Total domains: 12471
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -219,6 +219,7 @@
 1st.net
 1st.technology
 1stcompany.company
+1stggbinc.cc
 1stnotice.com
 1stoprealestateteam.org
 1to1.consulting
@@ -959,6 +960,7 @@ allfreshmall.com
 alliance-bois-tricastine.fr
 alliance-s.ru
 allianceboistricastine.com
+alliancetrustcu.pro
 alliedautoinsupdate.com
 allmodel-pro.com
 allnightfm.com
@@ -968,6 +970,7 @@ alltransparts.com
 allvuesystems-okta.com
 allyinsu.com
 allyouneedis0051.online
+allyunitybn.com
 almacendecoches.com
 almacenes.net
 almacensantangel.com
@@ -1154,6 +1157,7 @@ apexinvestmentsltd.net
 apexrecord.top
 apexsummits.info
 apexswap.top
+apextrustfinbank.com
 aphroditeelite.com
 api-goo-drivehosting.com
 apicoypala.info
@@ -1271,6 +1275,7 @@ archimedescapitalltd.com
 archive1887.com
 archivebate.cc
 arctic.travel
+ardenovabank.com
 ardorauto.ca
 areal.rj.gov.br
 arethafranklin.net
@@ -2934,6 +2939,7 @@ clwzjb.com
 clxmall.com
 clyde1.com
 clyde2.com
+clyntelitecapital.com
 cmailer.pro
 cmconstructioninc.net
 cmgovernadorluizrocha.ma.gov.br
@@ -3562,6 +3568,7 @@ corebassg1.live
 coreevent.co
 coremailtech.com
 coremention.icu
+corepayfinance.com
 corestone.online
 coretax-pajak.online
 coretax-pajakonline.com
@@ -5616,6 +5623,7 @@ glac.ge
 glamouraffair.com
 glanz-gmbh.de
 glapoton.com
+glariontrust.com
 glassesrus.com
 glaviso.top
 glbridge.auto
@@ -5631,6 +5639,7 @@ global.net
 globalazure.gr
 globalcart.page
 globalcrossing.com
+globalheritagestandards.com
 globalmoby.xyz
 globalreach.online
 globalsolutionunlimitedltd.com
@@ -5894,6 +5903,7 @@ guide-financial.com
 guidezmoi.com
 guitarcalculate.com
 gulasage.com
+gulfcoastcu.org
 gulsun.com
 gulvguo.com
 gummyband.com
@@ -6074,6 +6084,7 @@ hentaicenter1741.click
 herbalmc.com
 herbergers.com
 herikrc.com
+heritageprivate.cc
 hermanstreet.com
 herosbargrill.com
 herowner.com
@@ -6387,6 +6398,7 @@ hymyqt.com
 hyp-365.com
 hyper-info.to
 hyper-trades.pro
+hyperionglobalholdings.com
 hypertechcenter.com
 hypothequeswestisland.com
 hyprlquid.com
@@ -7245,6 +7257,7 @@ kings-alliance.com
 kingstonect.com.au
 kino-wsem.site
 kinonew.online
+kinoxcapital.com
 kipfinn.com
 kipkshsa.top
 kirjokas.com
@@ -8600,9 +8613,12 @@ nord-tex.shop
 nordfynskommune.dk
 nordstromstores.shop
 noreset.xyz
+norexgo.com
 noriado.uk
 norsibank.de
 northbramptondental.com
+northfieldreserve.com
+northgatebnk.com
 northportwellnesscenter.com
 northridgefitness.net
 norulless.com
@@ -8691,6 +8707,7 @@ o365microsoftsecurecloud.com
 o365securecloudfilesdrive.com
 o76s3m7l5ogig4u5.onion
 oaey.win
+oakmontfb.com
 oakwusya.love
 oamcc.com
 oandb.store
@@ -9389,6 +9406,7 @@ preds.co
 predxmarket.xyz
 prejoinbuzzy.store
 premarriageverification.in
+premiummaya.com
 premiumpet.si
 premiumplustv.xyz
 premrkt.cc
@@ -9596,6 +9614,7 @@ qrvk.top
 qszvcd.com
 qt-proxy.org
 qt-team.com
+qtbnk.com
 qtcyber.com
 qtproxy.com
 qtproxy.tk
@@ -10198,6 +10217,7 @@ secure-imrworldwide.com
 secure-passkey.com
 securease.org
 secureauthpasskey.com
+securecapitalcorporationlimited.com
 securedocumentsmicrocloudsdrivestorage.com
 secureici.online
 securely-setup.com
@@ -10672,6 +10692,7 @@ steprtex.click
 stericsson.com
 sterlingandroyce.com
 sterlingcityisdbenefits.com
+sterlingtrusts.pro
 stgeorge-homesd.info
 stickmangames.click
 stickmanhook.homes
@@ -10763,6 +10784,7 @@ suncorprewardsn-homes.info
 suncorprewardsq-home.info
 sunnynet.site
 sunnysideupbakerysale.shop
+sunraytrustbn.sbs
 sunsetbeachplace.com
 sunshinedwellings.com
 sunstreet.solar
@@ -10815,6 +10837,7 @@ swedishproducts.online
 sweethomequilting.com
 sweets-of-hair-iizuka.com
 swift-fast.com
+swiftpremiumcapital.com
 swiftui.us
 swiss-contribution.cz
 swissborg.blog
@@ -11649,6 +11672,7 @@ vat1d6g0s9.christmas
 vaulota.org
 vaultally.com
 vaultandco.shop
+vaultroyalb.com
 vaylockie.uk
 vb.to
 vconteiner.ru
@@ -11919,8 +11943,10 @@ werexo.com
 wesq.me
 westerndigitalsafe.shop
 westernfundinginc.com
+westernfuturebnk.com
 westgadsdenhistory.org
 westlaw.top
+westlinedigital.info
 westpac-homesa.info
 westpac-homesb.info
 westpac-homesc.info
