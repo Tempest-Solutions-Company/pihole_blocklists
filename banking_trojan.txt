@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-20 12:19:33 UTC
-# Total domains: 12488
+# Generated: 2026-11-20 15:27:24 UTC
+# Total domains: 12496
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6724,6 +6724,7 @@ inwi.chat
 io-suite-web.com
 iolpoker.com
 ionoslaba.com
+ios-hack.icu
 iowagtsb.org
 iowahumanitiescouncil.com
 iowahumanitiescouncil.org
@@ -8434,6 +8435,7 @@ n.map
 n.name
 n.next
 n.site
+n0n-cases.net
 n30sk.top
 n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion
 n3d8.top
@@ -8612,6 +8614,7 @@ nokleen.com
 nolaunifo.cc
 nomiagrouplimited.com
 nonebeen.net
+nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 noonteam.store
 nooralmuroojdoc.com
 noorulain.me
@@ -9250,6 +9253,7 @@ pkaj.top
 pkshoes.store
 pl43758.cfd
 pl82.ru
+plainraw.com
 planoeprime.com.br
 planostore.com
 plataforma5.la
@@ -9587,6 +9591,7 @@ pypistorage.com
 python-guru.online
 pythonapischool.com
 q1evaluationperformance.net
+q1ls1ho9x7wsxlu.icu
 q33.space
 q74vn.live
 qaksdiuw.xin
@@ -10103,6 +10108,7 @@ samospolymers.com.au
 samsunghugesale.shop
 samsungmediahub.net
 samsungsafe.shop
+sanaminfotech.online
 sanatdhir.com
 sanauer.com
 sanctusvir.com
@@ -10271,6 +10277,7 @@ semquedagotas.com.br
 senaildebe.xyz
 sendcurve.space
 sendinc.net
+sendit.sh
 sendle.pro
 sendmail.cf
 sendora.live
@@ -11510,6 +11517,7 @@ ub66.net
 ub900.org
 uba-america.com
 ubagroupp-us.com
+uberip.com
 ubertama.com
 ucaargo.com
 ucairtz.com
