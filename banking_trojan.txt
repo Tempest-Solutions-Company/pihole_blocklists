@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-21 03:13:11 UTC
-# Total domains: 12496
+# Generated: 2026-11-21 09:22:02 UTC
+# Total domains: 12542
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -705,6 +705,7 @@ adaptlf.com
 adatum.com
 adblock2024.shop
 adc30vmjttx.com
+add-mfa.com
 add-passkey.com
 addmypasskey.com
 addoktapasskey.com
@@ -1215,6 +1216,7 @@ applicability.security
 application-document.com
 application-review.org
 applicationsamz.com
+apply-passkey.com
 applyamazonsp.com
 applypointguides.in
 applywithgreer.com
@@ -1470,9 +1472,11 @@ australiawebsitesolution.com.au
 australiawebsitestudios.com.au
 auth-connectips.ph
 auth-connectips.ws
+auth-sso.com
 authconnectips.ph
 authconnectips.ws
 authcu.icu
+authenroll.com
 authenticate-hydromedicional.com
 authmy.co
 author-glob.icu
@@ -3101,6 +3105,8 @@ conenctips.ph
 conenctips.ws
 confidentfiles.com
 config.data
+configkeys.com
+configurekey.com
 configuresoft.com
 confirm-connectips.ph
 confirm-connectips.ws
@@ -4582,6 +4588,7 @@ edexmall.com
 edi8.top
 edikamin.com
 edisajalsjfdfh.shop
+editmysso.com
 edmgr.com
 edu-great.com
 eduardosport.com
@@ -4720,7 +4727,10 @@ enigmaprotector.com
 enjoytahoe.com
 enmicrosoft.com
 enrichk.com
+enrollmfa.com
+enrollmfamethods.com
 enrollpasskey.com
+enrollssopasskey.com
 enruta.eu
 ensrl.com
 entcu.icu
@@ -4969,6 +4979,7 @@ fastcapitaladvance.com
 fastfacts.co
 fastgames-bog-itl.com
 fastnext.com
+fastpasskeys.com
 fastpayy-denizbank.com
 fastpool.xyz
 fastqdating.xyz
@@ -6675,6 +6686,7 @@ install-update.xyz
 installationmultipose.ca
 installationsoftware1.com
 installationupgrade6.com
+installpasskey.com
 installscenter.com
 instant-update.online
 instantmessagehub.tech
@@ -6808,6 +6820,8 @@ itemcobra.net
 itinfolibrary.com
 itinteractivemedia.com
 itiwang.com
+itkeyenroll.com
+itkeyportal.com
 itpublishingreviews.com
 itrexmssl.com
 itrmall.com
@@ -7225,9 +7239,11 @@ kerangaja.site
 ketchupgiri.shop
 ketquaplus.top
 ketsvpn.com
+keyenrollos.com
 keyjotech.com
 keymedla.com
 keyokta.com
+keyosregister.com
 keysyncos.com
 keywealthltd.net
 keyword-salesforce.com
@@ -7683,6 +7699,7 @@ lockbit.black
 locketflock.info
 lodash.com
 loetoe.com
+login-options.com
 logisticasmata.com
 logmeinresue.com
 logocloud.com.au
@@ -8097,7 +8114,14 @@ metrolla.com
 mettcoint.com
 meupix.pro
 mezrkc.com
+mfa-options.com
+mfa-passkey.com
+mfa-registry.com
+mfaoptions.com
+mfapasskeysetup.com
+mfaregister.com
 mfaregistrationservice.com
+mfasettings.com
 mfiny.com
 mfleader.com.ar
 mg1a.top
@@ -8358,13 +8382,17 @@ mxprodesign.com
 mxtestacionamentos.com
 my-businesses.in
 my-kiosk.online
+my-passkey.com
 my-sharepoint-inc.com
 my-summer-car.com
 my-uniswap.org
 my1cloudlive.com
 my2cloudlive.com
+myaccountapps.com
+myaccountoptions.com
 myaccountsecurity.com
 myainps.com
+myapps2fa.com
 mybinps.com
 myboeingexpress.com
 mybusinessconnect.com.au
@@ -8398,6 +8426,7 @@ mynewbee.net
 mynewpasskey.com
 myoktasso.com
 myolton.com
+mypasskeyapp.com
 mypasskeyid.com
 mypasskeysso.com
 mypnhelp.online
@@ -8411,7 +8440,10 @@ mysimerp.net
 mysking.info
 mysmartbird.in
 mysp.shop
+myssoapps.com
+myssoauth.com
 myssopasskey.com
+myssosettings.com
 mysterykamchatka.ru
 mysterylink.xyz
 mystiwlf.xyz
@@ -8512,6 +8544,7 @@ nevanadesigns.com
 nevm.de
 new-app-haixing.com
 new-offer.store
+new-passkey.com
 newapi.pro
 newcloudhub.site
 newholland-2026nama.com
@@ -8650,6 +8683,7 @@ novodocument.com
 novone.top
 novoservidor2026.com
 novytech.com
+nowsso.com
 nowyou.biz
 noxeario.cc
 npcglobally.shop
@@ -8803,6 +8837,7 @@ omrodee.uk
 omronsafe.shop
 omuckean.uk
 omutarit.uk
+onboardpasskey.com
 oncehub.co
 onebet.co.ug
 oneboardcloud.com
@@ -8904,6 +8939,7 @@ oscarlopez.com.py
 oscofneuid.com
 osetrkolomna.ru
 oskeyconnect.com
+oskeysetup.com
 oskeysync.com
 osogransd.online
 osuperrobo.online
@@ -8919,6 +8955,7 @@ oubaovip158.net
 oultimojogo.com
 ourbusinessloans.com
 ourkekwiciver.com
+oursso.com
 ouryclarkint.com
 ousia.kitchen
 outdooutcome.com
@@ -9062,11 +9099,13 @@ pasaaportes-citas-srre-gob.com
 passkey-check.com
 passkey-connect.com
 passkey-enable.com
+passkey-mfa.com
 passkey-portal.com
 passkey-setup.com
 passkeyactivation.com
 passkeyadd.com
 passkeycenter.com
+passkeyconnect.com
 passkeycreate.com
 passkeycreator.com
 passkeydeploy.com
@@ -9836,8 +9875,11 @@ reganter.com
 regen-time.com
 regexper.com
 register-buzzy.store
+register-mfa.com
+register-passkeys.com
 registerktp.com
 registerktp.online
+registermymfa.com
 registerpasskey.com
 registrasi-coretax.com
 rehab.shop
@@ -10320,6 +10362,7 @@ sesu.org.uk
 sethkniep.com
 setpasskey.com
 settingfir.com
+settingsportal.com
 setupoldnavy.space
 setupp.es
 setupserver.biz
@@ -10404,6 +10447,7 @@ sig-sport.com
 signalnfc.com
 signauxun.com
 signin-okta.com
+signinoptions.com
 signoflife.com
 signsafe.site
 signsafe.xyz
@@ -10671,6 +10715,7 @@ sso-company.com
 sso-tha.com
 sso-tha.net
 ssopasskey.com
+ssosettings.com
 sss-cgov.com
 sss-gov.com
 sss-negov.com
@@ -10694,6 +10739,7 @@ starpointtrading.com
 starspangle200.org
 startcode.co.il
 startmarketinglab.site
+startmypasskey.com
 startpasskey.com
 startpasskeysetup.com
 startupbizaud.net

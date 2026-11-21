@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-21 03:13:11 UTC
-# Total domains: 1139207
+# Generated: 2026-11-21 09:22:02 UTC
+# Total domains: 1139253
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -77441,6 +77441,7 @@ add-apps.monsinvestglobal.com
 add-client.com
 add-groups.online
 add-lac.vercel.app
+add-mfa.com
 add-new-payee-confirmation.com
 add-new-payee.com
 add-new-up.constr-square.com
@@ -131140,6 +131141,7 @@ apply-online-badge.netlify.app
 apply-page-profile-1.replit.app
 apply-page-profile-request.vercel.app
 apply-page-request.vercel.app
+apply-passkey.com
 apply-program-hypesquad.com
 apply-rebate-govuk.com
 apply-rebate.com
@@ -159523,6 +159525,7 @@ auth-sso-terzzar-start.webflow.io
 auth-sso-upheld-com-cdn.pages.dev
 auth-sso-uphold-cdn.webflow.io
 auth-sso-w--trustcapital---com-auths.webflow.io
+auth-sso.com
 auth-sstart-trezor-s.webflow.io
 auth-sstart-trezorr.webflow.io
 auth-sstarttrezor.webflow.io
@@ -160368,6 +160371,7 @@ authendigital.io
 authennick.temp.swtest.ru
 authenonlineaccess.com
 authenrectify.live
+authenroll.com
 authenser.info
 authent-orange.weebly.com
 authent-secure-e-virement-pay.000webhostapp.com
@@ -289990,6 +289994,7 @@ configfixnet.pages.dev
 configgaccount.wixsite.com
 configidmanage101222.co.vu
 configidmanage665535.co.vu
+configkeys.com
 configkycaccont650573.co.vu
 configlayer.pages.dev
 configmsnpanelcontrol-mx.iceiy.com
@@ -290066,6 +290071,7 @@ configuredattachedfilecomwerq.000webhostapp.com
 configuredfileweb425.ga
 configuredglobnet215.ga
 configuredissuenet925.ga
+configurekey.com
 configuremyserver.com
 configureprofiles.com
 configuresoft.com
@@ -367673,6 +367679,7 @@ editionss.ironbrldgenyc.com
 editionstombouctou.com
 editmax.eu
 editmutablev.com
+editmysso.com
 editmyusps.online
 editmyuspstrackcode.com
 editmyuspstrackid.com
@@ -380054,8 +380061,11 @@ enrollment.eu-central-1.linodeobjects.com
 enrollmentmetm.dedyn.io
 enrollments360.com
 enrollments360.net
+enrollmfa.com
+enrollmfamethods.com
 enrollmoreclientsbootcamp.com
 enrollpasskey.com
+enrollssopasskey.com
 enroporra.es
 enrty-atkwlpvb.shop
 enruovenv79.isasecret.com
@@ -406969,6 +406979,7 @@ fastorder.amobile-studio.ru
 fastorpyte.com
 fastotrzymalcost.shop
 fastpack.ship48mint.coupons
+fastpasskeys.com
 fastpasstijuana.com
 fastpayline.com
 fastpayy-denizbank.com
@@ -538544,6 +538555,7 @@ installment-payu-ios.maklifedairy.in
 installment-payu.maklifedairy.in
 installodoo.com
 installofficesetup.com
+installpasskey.com
 installppi.cfd
 installscenter.com
 installwebapp.info
@@ -548677,6 +548689,8 @@ itjeert-id3924923.eu
 itjno5ohgq.4276.gencmert.com
 itk-che.ru
 itke1599.liusanjie.cc
+itkeyenroll.com
+itkeyportal.com
 itkeyregister.com
 itkfm1ujgmeckxdiobgsu26awrryyrcxvrwd9jp.examination.awkum.web.pk
 itkith.com
@@ -578376,6 +578390,7 @@ keydddpendiingholdnoticelogin.dynvpn.de
 keydesignatacado.com.br
 keydisloyalcode.lizcambage.repl.co
 keydrope.ru
+keyenrollos.com
 keyenterprisesnc.com
 keyera.xyz
 keyes-pirbhai.com
@@ -578429,6 +578444,7 @@ keyokta.com
 keyolineverfiyupdated.diskstation.eu
 keyolineverfiyupdated2022.my-wan.de
 keyomastelineverfiyupdated.diskstation.eu
+keyosregister.com
 keypainting.net
 keypharmacy.uk
 keyprolocksmiths.co.uk
@@ -619803,6 +619819,7 @@ login-opensea.neat-url.com
 login-opensea.servebbs.net
 login-openseaitems.ddnss.eu
 login-openseateam.ddnss.eu
+login-options.com
 login-orang.hubside.fr
 login-orange-336.yolasite.com
 login-orange-6985353730.goflexcompany.com
@@ -679772,6 +679789,9 @@ mfa-gocbil.org
 mfa-gov-il.cloud
 mfa-gov-tr.cloud
 mfa-gov.cloud
+mfa-options.com
+mfa-passkey.com
+mfa-registry.com
 mfa-submitauthfiles.com
 mfa.mtexco.com
 mfa.safelinksprotection.com
@@ -679887,7 +679907,11 @@ mfahdkhan.github.io
 mfaic.gov.sl
 mfakeysetup.com
 mfakuwait.org
+mfaoptions.com
+mfapasskeysetup.com
+mfaregister.com
 mfaregistrationservice.com
+mfasettings.com
 mfashqqv4.wusps.xyz
 mfasupportportai.azurewebsites.net
 mfaxsharedocs1-secondary.z13.web.core.windows.net
@@ -706877,6 +706901,7 @@ my-partnerportal.credit-swiss-support.com
 my-partnerportal.support-creditswiss.com
 my-partnerportal.wallet-bankers.com
 my-pass-info.com
+my-passkey.com
 my-pathss.ru
 my-pay-pal-mobile-restore-online-pay-pal.000webhostapp.com
 my-pay-pal.ml
@@ -708203,6 +708228,7 @@ myaccount98716xxxxxxxhelp-center.11126897531859228.web.id
 myaccount98716xxxxxxxhelp-center.cf
 myaccount98716xxxxxxxhelp-center.gq
 myaccount98716xxxxxxxhelp-center.ml
+myaccountapps.com
 myaccountbilling-ee.com
 myaccountbillingee.com
 myaccountdatasloveboutique.com
@@ -708217,6 +708243,7 @@ myaccountmaintenance-107206.weeblysite.com
 myaccountmanagz.com
 myaccounto.temp.swtest.ru
 myaccountongoogle.com
+myaccountoptions.com
 myaccounts-bills-expired.ml
 myaccounts-myshop-authorize.com
 myaccounts-settings-inc-fix.ml
@@ -708387,6 +708414,7 @@ myappresolutioncom.com
 myapps-itrustcapital--auth-us.webflow.io
 myapps-signintlstrsa.mwoen2.com
 myapps.arundelschool.net
+myapps2fa.com
 myappsignin-coinbase.srvics.com
 myappstore.org
 myapptrade.shop
@@ -712431,6 +712459,7 @@ myparceltrack-uk.com
 myparceluk.co.uk
 myparentsbasementonline.com
 mypass.1.vg
+mypasskeyapp.com
 mypasskeyid.com
 mypasskeysso.com
 mypay-antifraud.co.uk
@@ -713111,7 +713140,10 @@ mysremovethurs.com
 myssa.comunicazioni-sicure.it
 myssm.in
 mysso---uphold-login.typedream.app
+myssoapps.com
+myssoauth.com
 myssopasskey.com
+myssosettings.com
 myssrevert.com
 mysssafiles.xyz
 mysssccch1.cfd
@@ -725985,6 +726017,7 @@ new-page6.ra4xilen.in.net
 new-page6.to1varin.in.net
 new-paired-devicesupport.com
 new-paired-payee.com
+new-passkey.com
 new-payee-add.com
 new-payee-addedonline.com
 new-payee-alert-cancellation.com
@@ -739516,6 +739549,7 @@ nowsantaempresas-bc7376.ingress-comporellon.ewp.live
 nowsanteriomlbb.wikaba.com
 nowserver.eu-gb.cf.appdomain.cloud
 nowskins.com
+nowsso.com
 nowstart-ledgr-en.pages.dev
 nowsupport-3ece3.firebaseapp.com
 nowsupport-3ece3.web.app
@@ -754562,6 +754596,7 @@ onboarding.1inch-dex.net
 onboarding.radiantfluxstudio.com
 onboarding365.mitarbeiter.onl
 onboardjobways.com
+onboardpasskey.com
 onboardverifiedseriesbox.skin
 onbotzrectifyerz.xyz
 onbuged.ga
@@ -765158,6 +765193,7 @@ oskcbsttdl.duckdns.org
 oskdel.pl
 oskeko.cba.pl
 oskeyconnect.com
+oskeysetup.com
 oskeysync.com
 oskijdnbwbdm4knmaiwtxp.qwo231sdx.club
 oskostransfer.com
@@ -766306,6 +766342,7 @@ ourserviceatpayandpalagentus.000webhostapp.com
 ourservices.ydns.eu
 oursmt.com
 ourspareroom.com
+oursso.com
 ourstaf.com
 ourstarryrecursion.gastpolerimmer.repl.co
 ourstodays.blogspot.ch
@@ -779092,11 +779129,13 @@ passkby.courses
 passkey-check.com
 passkey-connect.com
 passkey-enable.com
+passkey-mfa.com
 passkey-portal.com
 passkey-setup.com
 passkeyactivation.com
 passkeyadd.com
 passkeycenter.com
+passkeyconnect.com
 passkeycreate.com
 passkeycreator.com
 passkeydeploy.com
@@ -855640,6 +855679,7 @@ register-mantagalaxy.com
 register-mantagalaxy.net
 register-mantanetwork.com
 register-metasmask.com
+register-mfa.com
 register-mobile-device.co.uk
 register-modacademy.com
 register-moderator-join.com
@@ -855676,6 +855716,7 @@ register-page-certificated-000447.my.id
 register-page-certificated-00047.my.id
 register-page-certificated-00070.my.id
 register-page-certificated-0080.my.id
+register-passkeys.com
 register-payee.cc
 register-paylater.cdxx.my.id
 register-payment.co.uk
@@ -855781,6 +855822,7 @@ registerktp.online
 registermoderatoracademy.com
 registermygst.com
 registermykenan.com
+registermymfa.com
 registernet-newdevi.me
 registernewcpanel.com
 registernutrient.cn
@@ -910215,6 +910257,7 @@ settingsbusinieess.000webhostapp.com
 settingsemail.weebly.com
 settingsnacionalcr.c1.biz
 settingspanamageneral.atwebpages.com
+settingsportal.com
 settingsproblem.24info.cfd
 settingss.pages.dev
 settingssecuritycomunity.co.vu
@@ -919864,6 +919907,7 @@ signinncoinbsee.webflow.io
 signinneflixpayment-reminders.vercel.app
 signinnotificationatt.weebly.com
 signinonlinesky.weebly.com
+signinoptions.com
 signinportal1.wixsite.com
 signinprocess.weebly.com
 signinprotect.fr-par-1.linodeobjects.com
@@ -949450,6 +949494,7 @@ ssopasskey.com
 ssopayments-irs.x24hr.com
 ssoportais.caixaresidencial.com.br
 ssos-en-trezer-cdn-us.typedream.app
+ssosettings.com
 ssosgujiadnzwnkj-dot-owaonk399399393.uk.r.appspot.com
 ssosigninattcomilogin0khepr.spfdomainservertmz.workers.dev
 ssosigninattcomilogin0vfa7s.spfdomainservertmz.workers.dev
@@ -952240,6 +952285,7 @@ startmenuexperiencehostw.ydns.eu
 startmoney.beget.tech
 startmonkey.cfd
 startmsgvoices.azurewebsites.net
+startmypasskey.com
 startmyshop.in
 startne.works
 startned-trezoir.webflow.io
