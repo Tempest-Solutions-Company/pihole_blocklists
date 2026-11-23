@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-23 15:48:29 UTC
-# Total domains: 12554
+# Generated: 2026-11-23 21:58:38 UTC
+# Total domains: 12555
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -6729,6 +6729,7 @@ inthooz.com
 intlspring.com
 intocool.com
 intoo.com
+intotheunkownhub.co
 intrepidinc.net
 investdirectinsurance.com
 investinkof.online

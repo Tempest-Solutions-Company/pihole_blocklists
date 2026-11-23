@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-23 15:48:29 UTC
-# Total domains: 1140345
+# Generated: 2026-11-23 21:58:38 UTC
+# Total domains: 1140346
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -541715,6 +541715,7 @@ intotheallow.hopto.org
 intothekingdom.com
 intothelightproduction.com
 intothepixels.top
+intotheunkownhub.co
 intothewild.shop
 intothewildpicnics.com
 intotw-global-mydhl.azurewebsites.net
