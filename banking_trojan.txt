@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-23 00:38:01 UTC
-# Total domains: 12542
+# Generated: 2026-11-23 03:21:33 UTC
+# Total domains: 12552
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1055,6 +1055,7 @@ americaparty.shop
 amerigoglobal.com
 amerra-medical.com
 amgen.fr
+amhib.com
 amjcgroup.com
 amormc.com
 amosbarrios.shop
@@ -3108,6 +3109,7 @@ config.data
 configkeys.com
 configurekey.com
 configuresoft.com
+configuresso.com
 confirm-connectips.ph
 confirm-connectips.ws
 confirmation-id1174.com
@@ -4703,6 +4705,7 @@ emtg.top
 emtmall.com
 emulatorgames.online
 en-polymarket.com
+enableoskey.com
 enablepasskey.com
 enablepasskey2fa.com
 enago.co.kr
@@ -6275,6 +6278,7 @@ hostbynet.ru
 hostelevator.net
 hostingdepago.com
 hostmaster.net.ua
+hostsso.com
 hoststak.com
 hostvista.digital
 hot-offer.site
@@ -6688,6 +6692,7 @@ installationsoftware1.com
 installationupgrade6.com
 installpasskey.com
 installscenter.com
+installsso.com
 instant-update.online
 instantmessagehub.tech
 instimatch.ch
@@ -6822,6 +6827,7 @@ itinteractivemedia.com
 itiwang.com
 itkeyenroll.com
 itkeyportal.com
+itkeyupdate.com
 itpublishingreviews.com
 itrexmssl.com
 itrmall.com
@@ -7239,6 +7245,7 @@ kerangaja.site
 ketchupgiri.shop
 ketquaplus.top
 ketsvpn.com
+keyconfiguration.com
 keyenrollos.com
 keyjotech.com
 keymedla.com
@@ -8383,6 +8390,7 @@ mxtestacionamentos.com
 my-businesses.in
 my-kiosk.online
 my-passkey.com
+my-passkeys.com
 my-sharepoint-inc.com
 my-summer-car.com
 my-uniswap.org
@@ -9881,6 +9889,7 @@ registerktp.com
 registerktp.online
 registermymfa.com
 registerpasskey.com
+registersso.com
 registrasi-coretax.com
 rehab.shop
 rehlatalkhaleej.com
@@ -10714,6 +10723,7 @@ sskimresources.com
 sso-company.com
 sso-tha.com
 sso-tha.net
+ssokeyportal.com
 ssopasskey.com
 ssosettings.com
 sss-cgov.com
