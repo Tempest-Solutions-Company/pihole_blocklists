@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-23 03:21:33 UTC
-# Total domains: 1140116
+# Generated: 2026-11-23 09:35:36 UTC
+# Total domains: 1140118
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -765701,6 +765701,7 @@ oskcbsttdl.duckdns.org
 oskdel.pl
 oskeko.cba.pl
 oskeyconnect.com
+oskeyregister.com
 oskeysetup.com
 oskeysync.com
 oskijdnbwbdm4knmaiwtxp.qwo231sdx.club
@@ -859990,6 +859991,7 @@ report.cddental.com.au
 report.chemyale.lab.ukable.ml
 report.chlc3.com
 report.clearlens.click
+report.com
 report.datasurge.vip
 report.demo.eips.com.au
 report.dev.jimpike.com.au

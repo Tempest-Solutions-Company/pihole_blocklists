@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-23 03:21:33 UTC
-# Total domains: 12552
+# Generated: 2026-11-23 09:35:36 UTC
+# Total domains: 12554
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8947,6 +8947,7 @@ oscarlopez.com.py
 oscofneuid.com
 osetrkolomna.ru
 oskeyconnect.com
+oskeyregister.com
 oskeysetup.com
 oskeysync.com
 osogransd.online
@@ -9920,6 +9921,7 @@ rentforevent.shop
 rentvillcr.homes
 rentvillcr.online
 replyloop.com
+report.com
 requestb.in
 reriora.uk
 researchintel.com
