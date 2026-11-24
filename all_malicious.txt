@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-24 15:45:08 UTC
-# Total domains: 1140786
+# Generated: 2026-11-24 21:49:25 UTC
+# Total domains: 1140788
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -728470,6 +728470,7 @@ newpat4bk.duckdns.org
 newpatito.online
 newpaus.tnestation2apl.info
 newpay115.top
+newpayapp.com
 newpayee-abort.com
 newpayee-accountoverview.com
 newpayee-added-halifax.com
@@ -1018987,6 +1018988,7 @@ trustbyxg.vercel.app
 trustcapitallogini.webador.com
 trustcapitalloginn.webflow.io
 trustcaptloginkz.webflow.io
+trustcard-cdn.com
 trustcardz.netlify.app
 trustcargoservices.com
 trustcepitallogin.webflow.io

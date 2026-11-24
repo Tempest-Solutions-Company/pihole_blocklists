@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-24 15:45:08 UTC
-# Total domains: 12556
+# Generated: 2026-11-24 21:49:25 UTC
+# Total domains: 12558
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -8561,6 +8561,7 @@ newholland-2026nama.com
 newics.top
 newmexicoiada.store
 newpasskey.com
+newpayapp.com
 newphonecare.lk
 newrelic.se
 news-cnn.net
@@ -11484,6 +11485,7 @@ trust-review.org
 trust-text.com
 trust-walles.com
 trust-wallet.com.mx
+trustcard-cdn.com
 trustedc2c.co
 trustedcompany.co
 trustedetf.co
