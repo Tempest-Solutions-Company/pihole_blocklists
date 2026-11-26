@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-26 01:04:39 UTC
-# Total domains: 12611
+# Generated: 2026-11-26 03:05:53 UTC
+# Total domains: 12612
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -5658,6 +5658,7 @@ gk-express.com
 gk-stst.ru
 gkjdepok.org
 gkmts.com
+gl-inet.top
 gl-meet2024.com
 glac.ge
 glamouraffair.com

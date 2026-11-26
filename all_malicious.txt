@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-26 01:04:39 UTC
-# Total domains: 1141198
+# Generated: 2026-11-26 03:05:53 UTC
+# Total domains: 1141199
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -458320,6 +458320,7 @@ gkyykzqzhxoxilbuyljuajsrtp-dot-gl9393jan.uk.r.appspot.com
 gkzhokfntp.duckdns.org
 gkznvxbnhoghmknm-dot-millinium.ey.r.appspot.com
 gl-havnbjerg.dk
+gl-inet.top
 gl-meet2024.com
 gl-pubgmobile.com
 gl-rizx.wasmer.app
