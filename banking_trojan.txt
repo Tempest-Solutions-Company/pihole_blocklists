@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - Banking Trojan
-# Generated: 2026-11-27 15:25:13 UTC
-# Total domains: 12616
+# Generated: 2026-11-27 21:34:08 UTC
+# Total domains: 12617
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -1826,6 +1826,7 @@ betimi.org
 betiv.fun
 betofficegirisleri.com
 betokay.com
+betonhumans.com
 betooo.vip
 betpipo765.com
 betsatt1834.com
