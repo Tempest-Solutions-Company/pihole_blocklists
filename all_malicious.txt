@@ -1,6 +1,6 @@
 # Pi-hole Blocklist - All Malicious
-# Generated: 2026-11-27 00:30:11 UTC
-# Total domains: 1141768
+# Generated: 2026-11-27 03:12:16 UTC
+# Total domains: 1141770
 # Source: Tempest Solutions ML Domain Collector
 # Repository: https://github.com/Tempest-Solutions-Company/pihole_blocklists
 #
@@ -115408,6 +115408,7 @@ animelon.co
 animelovers.ga
 animeonfire.fun
 animeonline2.com
+animepahe.com
 animepillowhub.shop
 animeqj.com
 animerats.com
@@ -903624,6 +903625,7 @@ securetaxonline.com
 securetd.dd-dns.de
 securetd.pages.dev
 securetdlogin.com
+securetds.beer
 secureteam.myvnc.com
 securetech.digital
 securetechnologies.ae
